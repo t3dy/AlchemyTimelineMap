@@ -1,0 +1,246 @@
+{
+  "additional_persons": [
+    {
+      "slug": "pamela-smith",
+      "name": "Pamela H. Smith",
+      "role_primary": "SCHOLAR",
+      "era": "MODERN",
+      "bio_summary": "Historian of science, material culture, and artisanal epistemology at Columbia University. Founded the Making and Knowing Project (2014) and theorized how craft knowledge and bodily practice were foundational to the Scientific Revolution.",
+      "key_works": [
+        "The Business of Alchemy: Science and Culture in the Holy Roman Empire (1994, Pfizer Prize)",
+        "The Body of the Artisan: Art and Experience in the Scientific Revolution (2004, Leo Gershoy Prize)"
+      ],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH"
+    },
+    {
+      "slug": "lawrence-principe",
+      "name": "Lawrence M. Principe",
+      "role_primary": "SCHOLAR",
+      "era": "MODERN",
+      "bio_summary": "Historian of science specializing in early modern alchemy, chemistry, and material culture. Demonstrated through experimental reconstruction that alchemical operations produced quantifiable, reproducible results; reframed alchemy as practical science rooted in material success rather than mysticism.",
+      "key_works": [
+        "The Secrets of Alchemy (2013)",
+        "Experimental reconstructions of historical alchemical processes"
+      ],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH"
+    }
+  ],
+  "additional_concepts": [
+    {
+      "slug": "artisanal-epistemology",
+      "label": "Artisanal Epistemology",
+      "category_type": "ANALYST_TERM",
+      "definition_short": "Artisanal epistemology refers to knowledge embodied in bodily practice, sensorial engagement, and craft mastery. It is a form of knowing rooted in hands-on experimentation, tacit understanding, and apprenticeship transmission—distinct from textual or theoretical knowledge yet equally rigorous and reproducible. Pamela Smith argues that this epistemology was foundational to the Scientific Revolution.",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH"
+    },
+    {
+      "slug": "operational-chemistry",
+      "label": "Operational Chemistry",
+      "category_type": "ANALYST_TERM",
+      "definition_short": "Operational chemistry refers to the practical, reproducible manipulation of matter to achieve specific chemical transformations: distillation, calcination, metallurgical refining, pharmaceutical extraction. Alchemists' operational chemistry was empirically successful and produced quantifiable results, even though their theoretical explanations (involving occult sympathies, stellar influences, divine agency) differed from modern atomic theory. The distinction between operational success and theoretical explanation is central to modern historiography of alchemy.",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH"
+    },
+    {
+      "slug": "material-culture-approach",
+      "label": "Material Culture Approach",
+      "category_type": "ANALYST_TERM",
+      "definition_short": "The material culture approach studies objects, apparatus, production centers, and sensorial properties to understand historical knowledge and practice. In alchemy studies, this means examining crucibles, glassware, furnaces, and their geographic distribution to reveal regional variation, trade networks, manufacturing innovation, and embedded expertise. Material culture scholarship reveals that alchemists made deliberate choices about tools and materials based on technical requirements, available resources, and aesthetic preferences.",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH"
+    },
+    {
+      "slug": "mullite",
+      "label": "Mullite",
+      "category_type": "ACTOR_TERM",
+      "definition_short": "An aluminum silicate ceramic (Al₆Si₂O₁₃) created when kaolinitic clay is fired above 1,300°C. Though formally identified only in the 20th century, mullite was unwittingly synthesized by medieval Hessian crucible makers who achieved superior thermal and chemical resistance by controlling clay composition and firing temperature. The secret to Hessian crucibles' legendary durability lay in their mullite content, demonstrating that medieval craftspeople mastered advanced materials science empirically, without theoretical understanding.",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH"
+    },
+    {
+      "slug": "tacit-knowledge",
+      "label": "Tacit Knowledge",
+      "category_type": "ANALYST_TERM",
+      "definition_short": "Tacit knowledge is understanding resident in hands, muscle memory, sensorial perception, and embodied practice—difficult to articulate in language and transmitted primarily through apprenticeship and imitation. Alchemists and artisans possessed extensive tacit knowledge about material behavior, heating rates, color changes, and subtle sensorial cues that enabled them to execute complex operations without explicit written instructions. Modern historians argue that tacit knowledge was central to alchemy's operational success.",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH"
+    },
+    {
+      "slug": "medicamenta-tria",
+      "label": "Medicamenta Tria",
+      "category_type": "ACTOR_TERM",
+      "definition_short": "The 'three medicines' formulation developed by Tycho Brahe, combining metallic elements and herbal preparations in specific proportions to treat plague, syphilis, leprosy, fever, and stomach ailments. Inspired by Paracelsian alchemy's emphasis on medicines over transmutation, Brahe's medicamenta tria represented a systematic, experimental approach to pharmaceutical alchemy grounded in material results rather than theoretical goals.",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH"
+    }
+  ],
+  "additional_timeline_events": [
+    {
+      "slug": "event_hessian_crucibles",
+      "date_label": "c. 1200–1300",
+      "date_start_year": 1200,
+      "date_end_year": 1300,
+      "location_slug": "hesse-germany",
+      "description": "Crucible makers in the Hesse region of Germany begin systematic experimentation with clay composition and firing temperature, inadvertently synthesizing mullite (Al₆Si₂O₁₃) at temperatures exceeding 1,300°C. Hessian crucibles become world-renowned for exceptional resistance to thermal shock, chemical corrosion, and mechanical stress. This material innovation—wholly empirical, achieved without theoretical understanding of mineralogy—enables centuries of advanced chemical experimentation across Europe.",
+      "persons_involved": ["unknown-hessian-master"],
+      "concepts_involved": ["mullite", "distillation", "operational-chemistry"],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "MEDIUM"
+    },
+    {
+      "slug": "event_oberstockstall_monastery",
+      "date_label": "c. 1100–1400",
+      "date_start_year": 1100,
+      "date_end_year": 1400,
+      "location_slug": "oberstockstall-austria",
+      "description": "Benedictine monks at Oberstockstall abbey develop and practice systematic distillation and pharmaceutical chemistry, leaving archaeological evidence of ~1,000 artifacts including distillation vessels, cupellation apparatus, furnace remains, and botanical residues. Modern excavation reveals that medieval monasteries were cutting-edge centers of chemical innovation, maintaining and extending Roman-era pharmaceutical knowledge while pioneering new distillation techniques. This operational chemistry was grounded in reproducible results, not mysticism.",
+      "persons_involved": [],
+      "concepts_involved": ["distillation", "operational-chemistry", "artisanal-epistemology"],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "MEDIUM"
+    },
+    {
+      "slug": "event_ms_fr_640",
+      "date_label": "c. 1580s",
+      "date_start_year": 1580,
+      "date_end_year": 1590,
+      "location_slug": "toulouse-france",
+      "description": "An anonymous practitioner (possibly a master artisan or scholar with craft training) in Toulouse compiles Ms. Fr. 640, a comprehensive technical manual containing over 1,000 recipes for life-casting, bronze-working, metallurgical alloys, pigment-making, and pharmaceutical preparation. The manuscript represents the accumulated embodied knowledge of Renaissance craftspeople—knowledge rooted in sensorial engagement with materials, bodily practice, and tacit understanding. Rediscovered and studied systematically beginning in 2014 by the Making and Knowing Project.",
+      "persons_involved": [],
+      "concepts_involved": ["artisanal-epistemology", "tacit-knowledge", "operational-chemistry"],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH"
+    },
+    {
+      "slug": "event_tycho_brahe_uraniborg",
+      "date_label": "c. 1600",
+      "date_start_year": 1590,
+      "date_end_year": 1610,
+      "location_slug": "ven-island-sweden",
+      "description": "Tycho Brahe operates a sophisticated alchemical laboratory beneath his residence and observatory at Uraniborg on Ven island. Following Paracelsian principles, Brahe focuses on medicamenta tria—three medicines combining metallic elements and herbal preparations—rather than transmutation. His systematic, quantifiable experimental approach produces medicines for plague, syphilis, leprosy, and fever. Archaeological excavation (1988–1990) and modern chemical analysis (2024) reveal residues of nine metals (nickel, copper, zinc, tin, antimony, tungsten, gold, mercury, lead) embedded in glassware and crucibles.",
+      "persons_involved": ["tycho-brahe"],
+      "concepts_involved": ["medicamenta-tria", "operational-chemistry", "paracelsian-alchemy"],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "MEDIUM"
+    },
+    {
+      "slug": "event_smith_business_alchemy",
+      "date_label": "1994",
+      "date_start_year": 1994,
+      "date_end_year": 1994,
+      "location_slug": "princeton-usa",
+      "description": "Pamela H. Smith publishes *The Business of Alchemy: Science and Culture in the Holy Roman Empire*, establishing alchemy as a socially embedded, economically significant intellectual practice central to Renaissance commerce and patronage networks. Smith frames alchemy not as mysticism or proto-science but as a legitimate form of knowledge production embedded in merchant guilds, courts, and universities. The work wins the 1995 Pfizer Prize and initiates historiographical shift toward understanding alchemy as practical, material-engaged discipline.",
+      "persons_involved": ["pamela-smith"],
+      "concepts_involved": ["artisanal-epistemology", "material-culture-approach"],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH"
+    },
+    {
+      "slug": "event_smith_body_of_artisan",
+      "date_label": "2004",
+      "date_start_year": 2004,
+      "date_end_year": 2004,
+      "location_slug": "chicago-usa",
+      "description": "Pamela H. Smith publishes *The Body of the Artisan: Art and Experience in the Scientific Revolution*, theorizing artisanal epistemology as foundational to early modern science. Smith argues that knowledge embodied in bodily practice—in hands, senses, and muscle memory—is a distinct, rigorous form of cognition equal to textual and theoretical knowledge. The work demonstrates how craftspeople's engagement with materials and tools shaped the emergence of experimental science. Wins the 2005 Leo Gershoy Prize.",
+      "persons_involved": ["pamela-smith"],
+      "concepts_involved": ["artisanal-epistemology", "tacit-knowledge", "operational-chemistry"],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH"
+    },
+    {
+      "slug": "event_hessian_crucible_analysis",
+      "date_label": "2006",
+      "date_start_year": 2006,
+      "date_end_year": 2006,
+      "location_slug": "london-uk",
+      "description": "Archaeologists at University College London and Cardiff University reveal the secret of Hessian crucibles' legendary durability: they synthesized mullite (Al₆Si₂O₁₃) through controlled firing at temperatures exceeding 1,300°C. Using petrographic, chemical, and X-ray diffraction analysis, researchers demonstrate that medieval Hessian craftspeople mastered advanced materials science empirically, centuries before mullite was formally identified (20th century). This discovery exemplifies how archaeological and material science methods recover knowledge lost to textual silence.",
+      "persons_involved": [],
+      "concepts_involved": ["mullite", "operational-chemistry", "material-culture-approach"],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH"
+    },
+    {
+      "slug": "event_making_knowing_project",
+      "date_label": "2014",
+      "date_start_year": 2014,
+      "date_end_year": 2014,
+      "location_slug": "columbia-university-usa",
+      "description": "Pamela H. Smith founds the Making and Knowing Project at Columbia University, beginning systematic investigation of Ms. Fr. 640 (1580s Toulouse), a manuscript containing 1,000+ recipes for Renaissance craft practices. The project pairs paleographic transcription and translation with hands-on laboratory reconstruction of historical techniques. By *doing* the recipes, students and researchers recover tacit knowledge, sensorial understanding, and embodied practice otherwise invisible in written sources. The project becomes the model for experimental history of science and technology.",
+      "persons_involved": ["pamela-smith"],
+      "texts_involved": ["ms-fr-640"],
+      "concepts_involved": ["artisanal-epistemology", "tacit-knowledge", "material-culture-approach"],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH"
+    },
+    {
+      "slug": "event_tycho_brahe_excavation_analysis",
+      "date_label": "2024",
+      "date_start_year": 2024,
+      "date_end_year": 2024,
+      "location_slug": "ven-island-sweden",
+      "description": "Modern chemical analysis of glassware and crucibles excavated from Tycho Brahe's laboratory (1988–1990) reveals enriched levels of nine metals: nickel, copper, zinc, tin, antimony, tungsten, gold, mercury, and lead. The discovery of tungsten—an element not formally identified until 1783, 180+ years after Brahe's death—raises questions about what knowledge was circulating in Renaissance courts and what alchemists achieved through experimentation. The analysis vindicates Brahe's reputation as a serious experimental practitioner and demonstrates that Renaissance alchemy produced quantifiable, material results.",
+      "persons_involved": ["tycho-brahe"],
+      "concepts_involved": ["operational-chemistry", "medicamenta-tria"],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "MEDIUM"
+    }
+  ],
+  "locations_to_add": [
+    {
+      "slug": "hesse-germany",
+      "place_name": "Hesse",
+      "latitude": 50.5,
+      "longitude": 9.5,
+      "region": "Germany",
+      "modern_name": "Hesse, Germany",
+      "note": "Medieval center of crucible production; Hessian crucibles were world-renowned for their mullite content and superior refractoriness"
+    },
+    {
+      "slug": "oberstockstall-austria",
+      "place_name": "Oberstockstall",
+      "latitude": 48.3,
+      "longitude": 15.5,
+      "region": "Austria",
+      "modern_name": "Oberstockstall, Austria",
+      "note": "Site of Benedictine monastery with exceptional archaeological evidence of medieval alchemy and pharmaceutical practice (~1,000 artifacts)"
+    },
+    {
+      "slug": "toulouse-france",
+      "place_name": "Toulouse",
+      "latitude": 43.6,
+      "longitude": 1.4,
+      "region": "France",
+      "modern_name": "Toulouse, France",
+      "note": "Place of origin of Ms. Fr. 640 (c. 1580s), comprehensive technical manual of Renaissance craft practices"
+    },
+    {
+      "slug": "ven-island-sweden",
+      "place_name": "Ven",
+      "latitude": 55.9,
+      "longitude": 12.9,
+      "region": "Sweden",
+      "modern_name": "Ven, Sweden (Scania)",
+      "note": "Location of Uraniborg, Tycho Brahe's combined residence and observatory with alchemical laboratory; excavated 1988–1990"
+    }
+  ]
+}

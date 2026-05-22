@@ -1,0 +1,663 @@
+{
+  "persons": [
+    {
+      "slug": "jabir-ibn-hayyan",
+      "name": "Jabir ibn Hayyan",
+      "role_primary": "ALCHEMIST",
+      "era": "MEDIEVAL",
+      "bio_summary": "Arab polymath and alchemist of the 8th-9th century whose corpus of works shaped practical chemistry for over a millennium. Known to Western alchemists as Geber.",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH"
+    },
+    {
+      "slug": "al-kindi",
+      "name": "Al-Kindi (al-Kindy)",
+      "role_primary": "PHILOSOPHER",
+      "era": "MEDIEVAL",
+      "bio_summary": "9th-century Arab philosopher and polymath active in Baghdad. Engaged with alchemical texts and contributed to the Islamic intellectual tradition of alchemy.",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "MEDIUM"
+    },
+    {
+      "slug": "al-razi",
+      "name": "Al-Razi (Rhazes)",
+      "role_primary": "ALCHEMIST",
+      "era": "MEDIEVAL",
+      "bio_summary": "9th-10th century Persian alchemist, physician, and natural philosopher. Advanced practical alchemy through systematic distillation and metallurgical work.",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH"
+    },
+    {
+      "slug": "zosimos-of-panopolis",
+      "name": "Zosimos of Panopolis",
+      "role_primary": "ALCHEMIST",
+      "era": "LATE_ANTIQUE",
+      "bio_summary": "3rd-century Greek alchemist whose writings represent the earliest systematic treatises on alchemy. His emphasis on operational knowledge grounded alchemy in material practice.",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH"
+    },
+    {
+      "slug": "roger-bacon",
+      "name": "Roger Bacon",
+      "role_primary": "PHILOSOPHER",
+      "era": "MEDIEVAL",
+      "bio_summary": "13th-century English Franciscan friar and natural philosopher. Engaged with alchemical texts and advocated for experimentation as a path to knowledge.",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH"
+    },
+    {
+      "slug": "gerard-of-cremona",
+      "name": "Gerard of Cremona",
+      "role_primary": "TRANSLATOR",
+      "era": "MEDIEVAL",
+      "bio_summary": "12th-century Italic translator who worked in Toledo, translating Arabic scientific and alchemical texts into Latin, including Jabir's works.",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH"
+    },
+    {
+      "slug": "tycho-brahe",
+      "name": "Tycho Brahe",
+      "role_primary": "ALCHEMIST",
+      "era": "EARLY_MODERN",
+      "bio_summary": "1546–1601, Danish astronomer and alchemist. Operated sophisticated laboratory at Uraniborg on Ven island, conducting systematic experimental work on metallic compounds and pharmaceutical preparations following Paracelsian principles. Recent excavation and chemical analysis (2024) reveal tungsten and eight other enriched metals in laboratory residues.",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH"
+    },
+    {
+      "slug": "paracelsus",
+      "name": "Paracelsus (Theophrastus Bombastus von Hohenheim)",
+      "role_primary": "PHYSICIAN",
+      "era": "EARLY_MODERN",
+      "bio_summary": "1493–1541, Swiss physician and alchemist. Pioneered medical alchemy focused on pharmaceutical preparation and healing rather than transmutation. His framework influenced Renaissance and early modern alchemical practice.",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH"
+    },
+    {
+      "slug": "marsilio-ficino",
+      "name": "Marsilio Ficino",
+      "role_primary": "PHILOSOPHER",
+      "era": "RENAISSANCE",
+      "bio_summary": "1433–1499, Florentine philosopher and translator. Initiated the translation of the Corpus Hermeticum (1463), establishing Hermetic philosophical foundations for Renaissance alchemy.",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH"
+    },
+    {
+      "slug": "pico-della-mirandola",
+      "name": "Pico della Mirandola",
+      "role_primary": "PHILOSOPHER",
+      "era": "RENAISSANCE",
+      "bio_summary": "1463–1494, Italian Renaissance philosopher. Engaged with Hermetic texts and integrated alchemical philosophy with Neoplatonism and Kabbalism.",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH"
+    },
+    {
+      "slug": "henry-cornelius-agrippa",
+      "name": "Henry Cornelius Agrippa",
+      "role_primary": "PHILOSOPHER",
+      "era": "EARLY_MODERN",
+      "bio_summary": "1486–1535, German polymath and occultist. Authored *De Occulta Philosophia*, synthesizing Hermetic, Kabbalistic, and alchemical traditions into systematic philosophy of natural magic.",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH"
+    },
+    {
+      "slug": "giordano-bruno",
+      "name": "Giordano Bruno",
+      "role_primary": "PHILOSOPHER",
+      "era": "EARLY_MODERN",
+      "bio_summary": "1548–1600, Italian philosopher and alchemist. Integrated Hermetic and alchemical philosophy with cosmological innovation; executed for heresy in 1600.",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH"
+    },
+    {
+      "slug": "michael-maier",
+      "name": "Michael Maier",
+      "role_primary": "ALCHEMIST",
+      "era": "EARLY_MODERN",
+      "bio_summary": "1568–1622, German alchemist and court physician. Author of *Atalanta Fugiens* (1618), the most illustrated alchemical work of the early modern period.",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH"
+    },
+    {
+      "slug": "pamela-smith",
+      "name": "Pamela H. Smith",
+      "role_primary": "SCHOLAR",
+      "era": "MODERN",
+      "bio_summary": "Seth Low Professor of History at Columbia University. Founding Director of the Center for Science and Society. Pioneer of artisanal epistemology framework and founder of the Making and Knowing Project (2014). Theorizes how craft knowledge and embodied practice were foundational to the Scientific Revolution.",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH"
+    },
+    {
+      "slug": "lawrence-principe",
+      "name": "Lawrence M. Principe",
+      "role_primary": "SCHOLAR",
+      "era": "MODERN",
+      "bio_summary": "Historian of early modern science, chemistry, and material culture. Specialist in experimental reconstruction of historical alchemy. Demonstrated through hands-on work that alchemical operations produced quantifiable, reproducible results.",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH"
+    },
+    {
+      "slug": "william-newman",
+      "name": "William R. Newman",
+      "role_primary": "SCHOLAR",
+      "era": "MODERN",
+      "bio_summary": "Historian at Yale University. Master of alchemical texts and editor of critical editions. Author of *Atoms and Alchemy* (Yale, 2006), establishing distinction between operational chemistry and transmutational theory.",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH"
+    },
+    {
+      "slug": "michela-pereira",
+      "name": "Michela Pereira",
+      "role_primary": "SCHOLAR",
+      "era": "MODERN",
+      "bio_summary": "Historian specializing in medieval and Renaissance alchemy, especially the Catalan tradition and the Lullian corpus.",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "MEDIUM"
+    },
+    {
+      "slug": "garth-fowden",
+      "name": "Garth Fowden",
+      "role_primary": "SCHOLAR",
+      "era": "MODERN",
+      "bio_summary": "Author of *The Egyptian Hermes* (1986), foundational work on Late Antique Hermetic tradition and the roots of alchemy in Egypt and the Graeco-Roman world.",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH"
+    },
+    {
+      "slug": "wouter-hanegraaff",
+      "name": "Wouter J. Hanegraaff",
+      "role_primary": "SCHOLAR",
+      "era": "MODERN",
+      "bio_summary": "Editor of the *Dictionary of Gnosis and Western Esotericism* (Brill, 2006). Methodological framework for this portal. Pioneer of historiographical rigor in esotericism studies.",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH"
+    },
+    {
+      "slug": "brian-copenhaver",
+      "name": "Brian P. Copenhaver",
+      "role_primary": "SCHOLAR",
+      "era": "MODERN",
+      "bio_summary": "Editor and translator of *Hermetica* (Cambridge, 1992), standard English edition of the Corpus Hermeticum and Asclepius. Specialist in Renaissance Hermetic philosophy.",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH"
+    }
+  ],
+  "texts": [
+    {
+      "slug": "corpus-hermeticum",
+      "title": "Corpus Hermeticum",
+      "text_type": "PRIMARY_SOURCE",
+      "original_language": "Greek",
+      "composition_date": "c. 1st-3rd century CE",
+      "composition_year_start": 1,
+      "composition_year_end": 300,
+      "analysis_summary": "Collection of Hellenistic philosophical and theological texts attributed to Hermes Trismegistus. Foundational to alchemy and Renaissance Hermeticism.",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH"
+    },
+    {
+      "slug": "emerald-tablet",
+      "title": "Emerald Tablet (Tabula Smaragdina)",
+      "text_type": "PRIMARY_SOURCE",
+      "original_language": "Arabic (Greek origin)",
+      "composition_date": "c. 6th-8th century (Arab compilation)",
+      "composition_year_start": 600,
+      "composition_year_end": 800,
+      "analysis_summary": "Cryptic alchemical text attributed to Hermes Trismegistus. Contains foundational principles of alchemy and natural philosophy. Transmitted through Arabic, Persian, and Latin traditions.",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH"
+    },
+    {
+      "slug": "summa-perfectionis",
+      "title": "Summa Perfectionis (Sum of Perfection)",
+      "text_type": "PRIMARY_SOURCE",
+      "original_language": "Arabic (Latin translation 13th century)",
+      "composition_date": "c. 8th-9th century (attributed to Jabir ibn Hayyan)",
+      "composition_year_start": 800,
+      "composition_year_end": 900,
+      "analysis_summary": "Foundational Latin medieval alchemical treatise. Systematizes distillation, sublimation, and other chemical operations. Attributed to Jabir but likely compilation.",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "MEDIUM"
+    },
+    {
+      "slug": "kitab-al-hasib",
+      "title": "Kitāb al-Ḥāsib",
+      "text_type": "PRIMARY_SOURCE",
+      "original_language": "Arabic",
+      "composition_date": "c. 8th-9th century (attributed to Jabir ibn Hayyan)",
+      "composition_year_start": 800,
+      "composition_year_end": 900,
+      "analysis_summary": "Arabic alchemical treatise detailing distillation and acid production. Transmitted to Latin West through translation (Gerard of Cremona, 12th century).",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "MEDIUM"
+    },
+    {
+      "slug": "picatrix",
+      "title": "Picatrix (Ghāyat al-Hakīm)",
+      "text_type": "PRIMARY_SOURCE",
+      "original_language": "Arabic (Latin translation 12th century)",
+      "composition_date": "c. 10th-11th century",
+      "composition_year_start": 1000,
+      "composition_year_end": 1100,
+      "analysis_summary": "Arabic magical and astrological compendium. Contains alchemical operations and natural magic. Foundational to medieval European alchemy.",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH"
+    },
+    {
+      "slug": "liber-xxiv-philosophorum",
+      "title": "Liber XXIV Philosophorum (Book of Twenty-Four Philosophers)",
+      "text_type": "PRIMARY_SOURCE",
+      "original_language": "Latin",
+      "composition_date": "c. 12th century",
+      "composition_year_start": 1100,
+      "composition_year_end": 1200,
+      "analysis_summary": "Medieval Latin philosophical and alchemical text. Bridges ancient thought with medieval and Renaissance alchemy.",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "MEDIUM"
+    },
+    {
+      "slug": "de-sex-rerum-principiis",
+      "title": "De Sex Rerum Principiis (On the Six Principles of Things)",
+      "text_type": "PRIMARY_SOURCE",
+      "original_language": "Latin",
+      "composition_date": "c. 12th century",
+      "composition_year_start": 1100,
+      "composition_year_end": 1200,
+      "analysis_summary": "Medieval Latin alchemical treatise. Foundational to medieval European alchemy; demonstrates continuity from Islamic to Latin tradition.",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "MEDIUM"
+    },
+    {
+      "slug": "ms-fr-640",
+      "title": "Ms. Fr. 640 (Anonymous Technical Manuscript)",
+      "text_type": "PRIMARY_SOURCE",
+      "original_language": "Middle French",
+      "composition_date": "c. 1580s",
+      "composition_year_start": 1580,
+      "composition_year_end": 1590,
+      "analysis_summary": "Manuscript from Toulouse containing 1,000+ recipes for life-casting, metalworking, pigment-making, and pharmaceutical preparation. Now subject of systematic hands-on reconstruction by the Making and Knowing Project.",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH"
+    },
+    {
+      "slug": "de-occulta-philosophia",
+      "title": "De Occulta Philosophia (Three Books of Occult Philosophy)",
+      "text_type": "TREATISE",
+      "original_language": "Latin",
+      "composition_date": "1531",
+      "composition_year_start": 1531,
+      "composition_year_end": 1531,
+      "analysis_summary": "Henry Cornelius Agrippa's systematic synthesis of Hermetic, Kabbalistic, and alchemical philosophy. Foundational to Renaissance natural magic.",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH"
+    },
+    {
+      "slug": "atalanta-fugiens",
+      "title": "Atalanta Fugiens",
+      "text_type": "TREATISE",
+      "original_language": "Latin",
+      "composition_date": "1618",
+      "composition_year_start": 1618,
+      "composition_year_end": 1618,
+      "analysis_summary": "Michael Maier's illustrated alchemical treatise. Most elaborately illustrated alchemical work of early modern period. Combines emblemata, fugues, and philosophical commentary.",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH"
+    },
+    {
+      "slug": "the-business-of-alchemy",
+      "title": "The Business of Alchemy: Science and Culture in the Holy Roman Empire",
+      "text_type": "SCHOLARSHIP",
+      "original_language": "English",
+      "composition_date": "1994",
+      "composition_year_start": 1994,
+      "composition_year_end": 1994,
+      "analysis_summary": "Pamela H. Smith's foundational study of alchemy as economically significant, socially embedded intellectual practice. Pfizer Prize 1995.",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH"
+    },
+    {
+      "slug": "the-body-of-the-artisan",
+      "title": "The Body of the Artisan: Art and Experience in the Scientific Revolution",
+      "text_type": "SCHOLARSHIP",
+      "original_language": "English",
+      "composition_date": "2004",
+      "composition_year_start": 2004,
+      "composition_year_end": 2004,
+      "analysis_summary": "Pamela H. Smith's theoretical work on artisanal epistemology. Argues that craft knowledge and bodily practice were foundational to the Scientific Revolution. Leo Gershoy Prize 2005.",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH"
+    },
+    {
+      "slug": "atoms-and-alchemy",
+      "title": "Atoms and Alchemy: Chymistry and the Transformation of Matter in the Early Modern Period",
+      "text_type": "SCHOLARSHIP",
+      "original_language": "English",
+      "composition_date": "2006",
+      "composition_year_start": 2006,
+      "composition_year_end": 2006,
+      "analysis_summary": "William R. Newman's synthesis of alchemical texts and chemical operations. Establishes distinction between operational chemistry and transmutational theory.",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH"
+    },
+    {
+      "slug": "the-egyptian-hermes",
+      "title": "The Egyptian Hermes: A Historical Approach to the Late Pagan Mind",
+      "text_type": "SCHOLARSHIP",
+      "original_language": "English",
+      "composition_date": "1986",
+      "composition_year_start": 1986,
+      "composition_year_end": 1986,
+      "analysis_summary": "Garth Fowden's foundational study of Late Antique Hermetic tradition and alchemy's roots in Egyptian priestly circles.",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH"
+    }
+  ],
+  "concepts": [
+    {
+      "slug": "distillation",
+      "label": "Distillation",
+      "category_type": "ACTOR_TERM",
+      "definition_short": "The process of separating volatile from non-volatile substances through heating and condensation using apparatus such as the alembic and cucurbit. Central to alchemical and pharmaceutical practice across medieval, Renaissance, and early modern periods.",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH"
+    },
+    {
+      "slug": "sublimation",
+      "label": "Sublimation",
+      "category_type": "ACTOR_TERM",
+      "definition_short": "The alchemical operation of transforming a solid substance into vapor and then back into solid form without passing through a liquid state. Used for purification and concentration of mineral and plant materials.",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH"
+    },
+    {
+      "slug": "calcination",
+      "label": "Calcination",
+      "category_type": "ACTOR_TERM",
+      "definition_short": "The alchemical operation of burning or heating a substance to ash or powder form. Considered one of the primary operations for transformation and purification of matter.",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH"
+    },
+    {
+      "slug": "fermentation",
+      "label": "Fermentation",
+      "category_type": "ACTOR_TERM",
+      "definition_short": "The biological and chemical process of decomposition and transformation of organic matter, particularly in pharmaceutical and alchemical production of medicines and elixirs.",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH"
+    },
+    {
+      "slug": "transmutation",
+      "label": "Transmutation",
+      "category_type": "ACTOR_TERM",
+      "definition_short": "The theoretical goal of alchemy: the transformation of base metals into gold or the creation of an elixir of immortality. While transmutation in the literal sense was not achieved, alchemists successfully performed many real chemical transformations.",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH"
+    },
+    {
+      "slug": "quintessence",
+      "label": "Quintessence",
+      "category_type": "ACTOR_TERM",
+      "definition_short": "The fifth essence or pure, most refined form of a substance. In alchemy, obtained through repeated distillation and separation. Believed to be the most powerful and universal substance.",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH"
+    },
+    {
+      "slug": "hermeticism",
+      "label": "Hermeticism",
+      "category_type": "ANALYST_TERM",
+      "definition_short": "Modern scholarly category denoting the tradition of texts and ideas attributed to Hermes Trismegistus, spanning from Late Antique Egypt through Renaissance and modernity. Systematized as scholarly field by Frances Yates (1964); redefined by Hanegraaff to emphasize historiographical rigor.",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH"
+    },
+    {
+      "slug": "prisca-theologia",
+      "label": "Prisca Theologia (Ancient Theology)",
+      "category_type": "ACTOR_TERM",
+      "definition_short": "Renaissance belief that a single primordial divine wisdom underlay all ancient philosophical and religious traditions—from Zoroaster and Hermes through Plato and Hebrew prophets. Canonical formulation by Marsilio Ficino (1460s).",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH"
+    },
+    {
+      "slug": "magia-naturalis",
+      "label": "Magia Naturalis (Natural Magic)",
+      "category_type": "ACTOR_TERM",
+      "definition_short": "Renaissance and early modern philosophical framework treating magic as arising from natural causes (sympathies, hidden properties, celestial influences) rather than demonic pact. Distinguished from demonic magic (*goetia*).",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH"
+    },
+    {
+      "slug": "nous",
+      "label": "Nous (Divine Intellect)",
+      "category_type": "ACTOR_TERM",
+      "definition_short": "In Hermetic and Neoplatonic philosophy, the divine intellect or supreme mind. In the Hermetic cosmology, *nous* mediates between the transcendent and the material; knowledge of God is always mediated through the divine intellect.",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH"
+    },
+    {
+      "slug": "artisanal-epistemology",
+      "label": "Artisanal Epistemology",
+      "category_type": "ANALYST_TERM",
+      "definition_short": "Knowledge embodied in bodily practice, sensorial engagement, and craft mastery. Rooted in hands-on experimentation, tacit understanding, and apprenticeship transmission. Pamela Smith argues this epistemology was foundational to the Scientific Revolution.",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH"
+    },
+    {
+      "slug": "operational-chemistry",
+      "label": "Operational Chemistry",
+      "category_type": "ANALYST_TERM",
+      "definition_short": "The practical, reproducible manipulation of matter to achieve specific chemical transformations: distillation, calcination, metallurgical refining, pharmaceutical extraction. Alchemists' operations were empirically successful; only theoretical explanation changed over time.",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH"
+    },
+    {
+      "slug": "material-culture-approach",
+      "label": "Material Culture Approach",
+      "category_type": "ANALYST_TERM",
+      "definition_short": "Study of objects, apparatus, production centers, and sensorial properties to understand historical knowledge and practice. Reveals regional variation, trade networks, manufacturing innovation, and embedded expertise. Recovers knowledge lost to textual silence.",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH"
+    },
+    {
+      "slug": "mullite",
+      "label": "Mullite",
+      "category_type": "ACTOR_TERM",
+      "definition_short": "An aluminum silicate ceramic (Al₆Si₂O₁₃) created when kaolinitic clay is fired above 1,300°C. Medieval Hessian crucible makers unwittingly synthesized mullite, achieving superior thermal and chemical resistance. Formally identified in 20th century; medieval mastery was empirical.",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH"
+    },
+    {
+      "slug": "medicamenta-tria",
+      "label": "Medicamenta Tria (Three Medicines)",
+      "category_type": "ACTOR_TERM",
+      "definition_short": "Tycho Brahe's formulation: three medicinal compounds combining metallic elements and herbal preparations. Inspired by Paracelsian alchemy; focused on medicines not transmutation. Represented systematic, experimental pharmaceutical approach.",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH"
+    },
+    {
+      "slug": "tacit-knowledge",
+      "label": "Tacit Knowledge",
+      "category_type": "ANALYST_TERM",
+      "definition_short": "Understanding resident in hands, muscle memory, sensorial perception, and embodied practice. Difficult to articulate in language; transmitted through apprenticeship and imitation. Central to alchemists' operational success. Recoverable through experimental reconstruction.",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH"
+    },
+    {
+      "slug": "paracelsian-alchemy",
+      "label": "Paracelsian Alchemy",
+      "category_type": "ANALYST_TERM",
+      "definition_short": "The school of alchemical thought founded by Paracelsus (1493–1541), emphasizing pharmaceutical preparation and healing through chemical remedies rather than transmutation. Shaped Renaissance and early modern alchemy.",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH"
+    },
+    {
+      "slug": "yates-paradigm",
+      "label": "Yates Paradigm",
+      "category_type": "ANALYST_TERM",
+      "definition_short": "Frances Yates's thesis (1964) that Renaissance Hermeticism was a catalyst for the Scientific Revolution. Enormously influential but substantially revised by Hanegraaff, Copenhaver, and others who demonstrated Yates overstated the causal link.",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH"
+    }
+  ],
+  "locations": [
+    {
+      "slug": "baghdad",
+      "place_name": "Baghdad",
+      "latitude": 33.3128,
+      "longitude": 44.3615,
+      "region": "Iraq",
+      "modern_name": "Baghdad, Iraq",
+      "note": "Center of Islamic science and alchemy in 8th-10th centuries; House of Wisdom"
+    },
+    {
+      "slug": "cairo",
+      "place_name": "Cairo",
+      "latitude": 30.0444,
+      "longitude": 31.2357,
+      "region": "Egypt",
+      "modern_name": "Cairo, Egypt",
+      "note": "Center of alchemy and natural philosophy"
+    },
+    {
+      "slug": "toledo",
+      "place_name": "Toledo",
+      "latitude": 39.8562,
+      "longitude": -4.0263,
+      "region": "Spain",
+      "modern_name": "Toledo, Spain",
+      "note": "Center of translation from Arabic; Gerard of Cremona and other translators worked here"
+    },
+    {
+      "slug": "florence",
+      "place_name": "Florence",
+      "latitude": 43.7696,
+      "longitude": 11.2558,
+      "region": "Italy",
+      "modern_name": "Florence, Italy",
+      "note": "Center of Renaissance Hermeticism; Ficino's translation of Corpus Hermeticum; Medici patronage"
+    },
+    {
+      "slug": "bologna",
+      "place_name": "Bologna",
+      "latitude": 44.4949,
+      "longitude": 11.3426,
+      "region": "Italy",
+      "modern_name": "Bologna, Italy",
+      "note": "University center where Arabic alchemical texts were studied and transmitted"
+    },
+    {
+      "slug": "hesse-germany",
+      "place_name": "Hesse",
+      "latitude": 50.5,
+      "longitude": 9.5,
+      "region": "Germany",
+      "modern_name": "Hesse, Germany",
+      "note": "Medieval center of crucible production; Hessian crucibles synthesized mullite; world-renowned quality"
+    },
+    {
+      "slug": "oberstockstall-austria",
+      "place_name": "Oberstockstall",
+      "latitude": 48.3,
+      "longitude": 15.5,
+      "region": "Austria",
+      "modern_name": "Oberstockstall, Austria",
+      "note": "Benedictine monastery; ~1,000 artifacts of medieval alchemy and pharmaceutical practice"
+    },
+    {
+      "slug": "toulouse-france",
+      "place_name": "Toulouse",
+      "latitude": 43.6047,
+      "longitude": 1.4442,
+      "region": "France",
+      "modern_name": "Toulouse, France",
+      "note": "Origin of Ms. Fr. 640 (c. 1580s); site of renaissance craft knowledge compilation"
+    },
+    {
+      "slug": "ven-island-sweden",
+      "place_name": "Ven",
+      "latitude": 55.9,
+      "longitude": 12.9,
+      "region": "Sweden",
+      "modern_name": "Ven, Sweden (Scania)",
+      "note": "Location of Uraniborg; Tycho Brahe's observatory and alchemical laboratory"
+    },
+    {
+      "slug": "antwerp",
+      "place_name": "Antwerp",
+      "latitude": 51.2195,
+      "longitude": 4.4012,
+      "region": "Belgium",
+      "modern_name": "Antwerp, Belgium",
+      "note": "Early modern center of alchemical activity and artisanal craft"
+    },
+    {
+      "slug": "prague",
+      "place_name": "Prague",
+      "latitude": 50.0755,
+      "longitude": 14.4378,
+      "region": "Czech Republic",
+      "modern_name": "Prague, Czech Republic",
+      "note": "Center of Rudolfine alchemy under Emperor Rudolf II"
+    }
+  ],
+  "timeline_events": [],
+  "metadata": {
+    "version": "1.0",
+    "created": "2026-05-22",
+    "total_persons": 20,
+    "total_texts": 15,
+    "total_concepts": 19,
+    "total_locations": 11,
+    "status": "Seed data consolidated; timeline events to be generated in Phase B"
+  }
+}

@@ -1,0 +1,286 @@
+{
+  "events": [
+    {
+      "slug": "event_zosimos_001",
+      "date_label": "c. 300 CE",
+      "date_start_year": 290,
+      "date_end_year": 310,
+      "location_slug": "cairo",
+      "description": "STUB",
+      "persons_involved": ["zosimos-of-panopolis"],
+      "texts_involved": [],
+      "concepts_involved": ["distillation", "operational-chemistry"]
+    },
+    {
+      "slug": "event_jabir_baghdad_001",
+      "date_label": "c. 750",
+      "date_start_year": 740,
+      "date_end_year": 760,
+      "location_slug": "baghdad",
+      "description": "STUB",
+      "persons_involved": ["jabir-ibn-hayyan"],
+      "texts_involved": ["kitab-al-hasib"],
+      "concepts_involved": ["distillation", "operational-chemistry"]
+    },
+    {
+      "slug": "event_jabir_baghdad_002",
+      "date_label": "c. 780",
+      "date_start_year": 770,
+      "date_end_year": 790,
+      "location_slug": "baghdad",
+      "description": "STUB",
+      "persons_involved": ["jabir-ibn-hayyan"],
+      "texts_involved": [],
+      "concepts_involved": ["sublimation", "calcination"]
+    },
+    {
+      "slug": "event_al_kindi_baghdad_001",
+      "date_label": "c. 850",
+      "date_start_year": 840,
+      "date_end_year": 860,
+      "location_slug": "baghdad",
+      "description": "STUB",
+      "persons_involved": ["al-kindi", "jabir-ibn-hayyan"],
+      "texts_involved": ["kitab-al-hasib"],
+      "concepts_involved": ["distillation", "operational-chemistry"]
+    },
+    {
+      "slug": "event_al_razi_persia_001",
+      "date_label": "c. 900",
+      "date_start_year": 890,
+      "date_end_year": 910,
+      "location_slug": "cairo",
+      "description": "STUB",
+      "persons_involved": ["al-razi"],
+      "texts_involved": [],
+      "concepts_involved": ["distillation", "calcination", "metallurgy"]
+    },
+    {
+      "slug": "event_picatrix_arab_001",
+      "date_label": "c. 1000",
+      "date_start_year": 990,
+      "date_end_year": 1010,
+      "location_slug": "baghdad",
+      "description": "STUB",
+      "persons_involved": [],
+      "texts_involved": ["picatrix"],
+      "concepts_involved": ["magia-naturalis", "operational-chemistry"]
+    },
+    {
+      "slug": "event_hessian_crucibles_001",
+      "date_label": "c. 1200",
+      "date_start_year": 1190,
+      "date_end_year": 1210,
+      "location_slug": "hesse-germany",
+      "description": "STUB",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": ["mullite", "distillation", "operational-chemistry"]
+    },
+    {
+      "slug": "event_gerard_toledo_001",
+      "date_label": "c. 1250",
+      "date_start_year": 1240,
+      "date_end_year": 1260,
+      "location_slug": "toledo",
+      "description": "STUB",
+      "persons_involved": ["gerard-of-cremona"],
+      "texts_involved": ["kitab-al-hasib"],
+      "concepts_involved": ["distillation", "operational-chemistry"]
+    },
+    {
+      "slug": "event_bologna_university_001",
+      "date_label": "c. 1280",
+      "date_start_year": 1270,
+      "date_end_year": 1290,
+      "location_slug": "bologna",
+      "description": "STUB",
+      "persons_involved": ["roger-bacon"],
+      "texts_involved": ["summa-perfectionis"],
+      "concepts_involved": ["operational-chemistry", "distillation"]
+    },
+    {
+      "slug": "event_oberstockstall_monastery_001",
+      "date_label": "c. 1300",
+      "date_start_year": 1290,
+      "date_end_year": 1310,
+      "location_slug": "oberstockstall-austria",
+      "description": "STUB",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": ["distillation", "fermentation", "operational-chemistry"]
+    },
+    {
+      "slug": "event_de_sex_rerum_001",
+      "date_label": "c. 1310",
+      "date_start_year": 1300,
+      "date_end_year": 1320,
+      "location_slug": "bologna",
+      "description": "STUB",
+      "persons_involved": [],
+      "texts_involved": ["de-sex-rerum-principiis"],
+      "concepts_involved": ["operational-chemistry"]
+    },
+    {
+      "slug": "event_ficino_florence_001",
+      "date_label": "c. 1460",
+      "date_start_year": 1450,
+      "date_end_year": 1470,
+      "location_slug": "florence",
+      "description": "STUB",
+      "persons_involved": ["marsilio-ficino"],
+      "texts_involved": ["corpus-hermeticum"],
+      "concepts_involved": ["hermeticism", "prisca-theologia"]
+    },
+    {
+      "slug": "event_ficino_pimander_001",
+      "date_label": "c. 1463",
+      "date_start_year": 1460,
+      "date_end_year": 1465,
+      "location_slug": "florence",
+      "description": "STUB",
+      "persons_involved": ["marsilio-ficino"],
+      "texts_involved": ["corpus-hermeticum"],
+      "concepts_involved": ["hermeticism", "operational-chemistry"]
+    },
+    {
+      "slug": "event_pico_florence_001",
+      "date_label": "c. 1480",
+      "date_start_year": 1470,
+      "date_end_year": 1490,
+      "location_slug": "florence",
+      "description": "STUB",
+      "persons_involved": ["pico-della-mirandola"],
+      "texts_involved": ["corpus-hermeticum"],
+      "concepts_involved": ["hermeticism", "magia-naturalis"]
+    },
+    {
+      "slug": "event_agrippa_cologne_001",
+      "date_label": "c. 1520",
+      "date_start_year": 1510,
+      "date_end_year": 1530,
+      "location_slug": "cologne",
+      "description": "STUB",
+      "persons_involved": ["henry-cornelius-agrippa"],
+      "texts_involved": ["de-occulta-philosophia"],
+      "concepts_involved": ["magia-naturalis", "hermeticism"]
+    },
+    {
+      "slug": "event_paracelsus_basel_001",
+      "date_label": "c. 1530",
+      "date_start_year": 1520,
+      "date_end_year": 1540,
+      "location_slug": "basel",
+      "description": "STUB",
+      "persons_involved": ["paracelsus"],
+      "texts_involved": [],
+      "concepts_involved": ["paracelsian-alchemy", "medicamenta-tria"]
+    },
+    {
+      "slug": "event_bruno_london_001",
+      "date_label": "c. 1583",
+      "date_start_year": 1580,
+      "date_end_year": 1586,
+      "location_slug": "london",
+      "description": "STUB",
+      "persons_involved": ["giordano-bruno"],
+      "texts_involved": [],
+      "concepts_involved": ["hermeticism", "magia-naturalis"]
+    },
+    {
+      "slug": "event_ms_fr_640_toulouse_001",
+      "date_label": "c. 1580",
+      "date_start_year": 1575,
+      "date_end_year": 1590,
+      "location_slug": "toulouse-france",
+      "description": "STUB",
+      "persons_involved": [],
+      "texts_involved": ["ms-fr-640"],
+      "concepts_involved": ["artisanal-epistemology", "tacit-knowledge", "operational-chemistry"]
+    },
+    {
+      "slug": "event_tycho_brahe_ven_001",
+      "date_label": "c. 1600",
+      "date_start_year": 1590,
+      "date_end_year": 1610,
+      "location_slug": "ven-island-sweden",
+      "description": "STUB",
+      "persons_involved": ["tycho-brahe"],
+      "texts_involved": [],
+      "concepts_involved": ["paracelsian-alchemy", "medicamenta-tria", "operational-chemistry"]
+    },
+    {
+      "slug": "event_maier_atalanta_001",
+      "date_label": "c. 1618",
+      "date_start_year": 1615,
+      "date_end_year": 1620,
+      "location_slug": "frankfurt",
+      "description": "STUB",
+      "persons_involved": ["michael-maier"],
+      "texts_involved": ["atalanta-fugiens"],
+      "concepts_involved": ["hermeticism", "operational-chemistry"]
+    },
+    {
+      "slug": "event_smith_business_alchemy_001",
+      "date_label": "1994",
+      "date_start_year": 1994,
+      "date_end_year": 1994,
+      "location_slug": "princeton",
+      "description": "STUB",
+      "persons_involved": ["pamela-smith"],
+      "texts_involved": ["the-business-of-alchemy"],
+      "concepts_involved": ["artisanal-epistemology", "operational-chemistry"]
+    },
+    {
+      "slug": "event_smith_body_artisan_001",
+      "date_label": "2004",
+      "date_start_year": 2004,
+      "date_end_year": 2004,
+      "location_slug": "chicago",
+      "description": "STUB",
+      "persons_involved": ["pamela-smith"],
+      "texts_involved": ["the-body-of-the-artisan"],
+      "concepts_involved": ["artisanal-epistemology", "tacit-knowledge"]
+    },
+    {
+      "slug": "event_hessian_crucible_analysis_001",
+      "date_label": "2006",
+      "date_start_year": 2006,
+      "date_end_year": 2006,
+      "location_slug": "london",
+      "description": "STUB",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": ["mullite", "material-culture-approach", "operational-chemistry"]
+    },
+    {
+      "slug": "event_making_knowing_project_001",
+      "date_label": "2014",
+      "date_start_year": 2014,
+      "date_end_year": 2014,
+      "location_slug": "columbia-university",
+      "description": "STUB",
+      "persons_involved": ["pamela-smith"],
+      "texts_involved": ["ms-fr-640"],
+      "concepts_involved": ["artisanal-epistemology", "tacit-knowledge", "operational-chemistry"]
+    },
+    {
+      "slug": "event_tycho_brahe_analysis_001",
+      "date_label": "2024",
+      "date_start_year": 2024,
+      "date_end_year": 2024,
+      "location_slug": "ven-island-sweden",
+      "description": "STUB",
+      "persons_involved": ["tycho-brahe"],
+      "texts_involved": [],
+      "concepts_involved": ["operational-chemistry", "material-culture-approach", "medicamenta-tria"]
+    }
+  ],
+  "metadata": {
+    "version": "1.0",
+    "created": "2026-05-22",
+    "total_events_skeleton": 26,
+    "note": "26 core events created; remaining 474 events to be generated in batches following this pattern. Each event requires: date_label, location_slug, persons_involved (JSON array), texts_involved (JSON array), concepts_involved (JSON array). Descriptions to be enriched via agent swarm in Phase 1 following CONTEXT_ENGINEERING.md batch pattern.",
+    "coverage": "Late Antique through 2024; Middle East, Europe; medieval Islamic through modern scholarship"
+  }
+}
