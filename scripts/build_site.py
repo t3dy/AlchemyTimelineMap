@@ -277,7 +277,7 @@ def generate_map_html():
 
 
 def generate_persons_pages(entity_map):
-    """Generate persons/[slug].html biography pages."""
+    """Generate persons/[slug].html biography pages with relationship sections."""
     print("\nGenerating persons/ pages...")
     conn = sqlite3.connect(DB_PATH)
     conn.row_factory = sqlite3.Row
@@ -317,11 +317,18 @@ def generate_persons_pages(entity_map):
                 {bio_html}
             </div>
         </article>
+
+        <div id="related-concepts"></div>
+        <div id="related-texts"></div>
+        <div id="related-events"></div>
     </main>
 
     <footer>
         <p><a href="../">Back to home</a></p>
     </footer>
+
+    <script src="../assets/relationships.js"></script>
+    <script src="../assets/entity-page-relationships.js"></script>
 </body>
 </html>"""
         write_html_page(SITE_PATH / "persons" / f"{slug}.html", html)
@@ -331,7 +338,7 @@ def generate_persons_pages(entity_map):
 
 
 def generate_texts_pages(entity_map):
-    """Generate texts/[slug].html text analysis pages."""
+    """Generate texts/[slug].html text analysis pages with relationship sections."""
     print("\nGenerating texts/ pages...")
     conn = sqlite3.connect(DB_PATH)
     conn.row_factory = sqlite3.Row
@@ -371,11 +378,17 @@ def generate_texts_pages(entity_map):
                 {analysis_html}
             </div>
         </article>
+
+        <div id="related-concepts"></div>
+        <div id="related-persons"></div>
     </main>
 
     <footer>
         <p><a href="../">Back to home</a></p>
     </footer>
+
+    <script src="../assets/relationships.js"></script>
+    <script src="../assets/entity-page-relationships.js"></script>
 </body>
 </html>"""
         write_html_page(SITE_PATH / "texts" / f"{slug}.html", html)
@@ -385,7 +398,7 @@ def generate_texts_pages(entity_map):
 
 
 def generate_concepts_pages(entity_map):
-    """Generate concepts/[slug].html concept definition pages."""
+    """Generate concepts/[slug].html concept definition pages with relationship sections."""
     print("\nGenerating concepts/ pages...")
     conn = sqlite3.connect(DB_PATH)
     conn.row_factory = sqlite3.Row
@@ -425,11 +438,18 @@ def generate_concepts_pages(entity_map):
                 {definition_html}
             </div>
         </article>
+
+        <div id="related-persons"></div>
+        <div id="related-texts"></div>
+        <div id="related-events"></div>
     </main>
 
     <footer>
         <p><a href="../">Back to home</a></p>
     </footer>
+
+    <script src="../assets/relationships.js"></script>
+    <script src="../assets/entity-page-relationships.js"></script>
 </body>
 </html>"""
         write_html_page(SITE_PATH / "concepts" / f"{slug}.html", html)
