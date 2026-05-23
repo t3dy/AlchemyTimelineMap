@@ -117,8 +117,8 @@ def load_seed_data():
         cursor.execute(
             """
             INSERT OR IGNORE INTO locations
-            (slug, place_name, latitude, longitude, region, modern_name)
-            VALUES (?, ?, ?, ?, ?, ?)
+            (slug, place_name, latitude, longitude, region, modern_name, alchemical_significance, key_periods)
+            VALUES (?, ?, ?, ?, ?, ?, ?, ?)
             """,
             (
                 location["slug"],
@@ -127,6 +127,9 @@ def load_seed_data():
                 location["longitude"],
                 location["region"],
                 location.get("modern_name", ""),
+                location.get("alchemical_significance", ""),
+                location.get("key_periods", "") if isinstance(location.get("key_periods"), str) else
+                  ",".join(location.get("key_periods", [])) if location.get("key_periods") else "",
             ),
         )
     print(f"  [OK] {len(seed_data['locations'])} locations loaded")

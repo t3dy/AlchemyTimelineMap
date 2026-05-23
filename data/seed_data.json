@@ -551,40 +551,150 @@
   ],
   "locations": [
     {
+      "slug": "cairo",
+      "place_name": "Cairo (Heliopolis/Babylon)",
+      "latitude": 30.0444,
+      "longitude": 31.2357,
+      "region": "Egypt",
+      "modern_name": "Cairo, Egypt",
+      "alchemical_significance": "Late Antique center of Hermetic philosophy and alchemy. Home of Zosimos of Panopolis (c. 300 CE), whose writings represent the earliest systematic alchemical treatises. The city maintained its reputation as a center of craft knowledge and material transformation throughout the medieval period.",
+      "key_figures": [
+        "zosimos-of-panopolis"
+      ],
+      "key_periods": [
+        "LATE_ANTIQUE",
+        "MEDIEVAL"
+      ]
+    },
+    {
+      "slug": "alexandria",
+      "place_name": "Alexandria",
+      "latitude": 31.2001,
+      "longitude": 29.9187,
+      "region": "Egypt",
+      "modern_name": "Alexandria, Egypt",
+      "alchemical_significance": "Hellenistic intellectual capital where Greek, Egyptian, and Mesopotamian knowledge traditions converged. Major center for alchemy, Hermeticism, and natural philosophy. Home to the Library of Alexandria and numerous schools of natural magic. Remained important for transmission of alchemical knowledge into the Islamic period.",
+      "key_figures": [
+        "zosimos-of-panopolis"
+      ],
+      "key_periods": [
+        "ANTIQUITY",
+        "LATE_ANTIQUE"
+      ]
+    },
+    {
       "slug": "baghdad",
       "place_name": "Baghdad",
       "latitude": 33.3128,
       "longitude": 44.3615,
       "region": "Iraq",
       "modern_name": "Baghdad, Iraq",
-      "note": "Center of Islamic science and alchemy in 8th-10th centuries; House of Wisdom"
+      "alchemical_significance": "The premier center of Islamic alchemy from the 8th century onward. Founded 762 CE, Baghdad became the intellectual capital of the Islamic world under the Abbasid Caliphate. Jabir ibn Hayyan (d. 813) conducted his most important alchemical work here. The House of Wisdom (Bayt al-Hikma) preserved and transmitted Greek and Persian scientific traditions. Central to the transmission of alchemy from Greek and Egyptian sources through Islamic science to the medieval Latin West.",
+      "key_figures": [
+        "jabir-ibn-hayyan",
+        "al-kindi",
+        "al-razi"
+      ],
+      "key_periods": [
+        "MEDIEVAL"
+      ]
     },
     {
-      "slug": "cairo",
-      "place_name": "Cairo",
-      "latitude": 30.0444,
-      "longitude": 31.2357,
-      "region": "Egypt",
-      "modern_name": "Cairo, Egypt",
-      "note": "Center of alchemy and natural philosophy"
+      "slug": "ray",
+      "place_name": "Ray (Rhages)",
+      "latitude": 35.6568,
+      "longitude": 51.4168,
+      "region": "Persia",
+      "modern_name": "Ray, Iran",
+      "alchemical_significance": "Persian city where al-Razi (Rhazes, d. 925) conducted his most important alchemical and pharmaceutical work. A major center of practical alchemy focused on distillation, metallurgy, and pharmaceutical preparation. The city's tradition of craft knowledge and experimental practice influenced medieval European alchemy.",
+      "key_figures": [
+        "al-razi"
+      ],
+      "key_periods": [
+        "MEDIEVAL"
+      ]
+    },
+    {
+      "slug": "damascus",
+      "place_name": "Damascus",
+      "latitude": 33.5138,
+      "longitude": 36.2765,
+      "region": "Syria",
+      "modern_name": "Damascus, Syria",
+      "alchemical_significance": "Major Islamic city with strong alchemical traditions. Center for transmission of alchemical knowledge between Baghdad and the western Islamic world. Sustained tradition of practical alchemy, distillation, and pharmaceutical preparation from the 9th century onward.",
+      "key_figures": [],
+      "key_periods": [
+        "MEDIEVAL"
+      ]
+    },
+    {
+      "slug": "cordoba",
+      "place_name": "Córdoba",
+      "latitude": 37.8882,
+      "longitude": -4.7794,
+      "region": "Spain",
+      "modern_name": "Córdoba, Spain",
+      "alchemical_significance": "Capital of the Umayyad Caliphate in al-Andalus (Spain), 10th-11th centuries. Major center for transmission of Islamic alchemy to Christian Europe. The Picatrix circulated widely from here. Served as a crucial bridge for alchemical knowledge passing from Islamic Spain into medieval European scholarship.",
+      "key_figures": [],
+      "key_periods": [
+        "MEDIEVAL"
+      ]
     },
     {
       "slug": "toledo",
       "place_name": "Toledo",
-      "latitude": 39.8562,
-      "longitude": -4.0263,
+      "latitude": 39.8581,
+      "longitude": -4.0201,
       "region": "Spain",
       "modern_name": "Toledo, Spain",
-      "note": "Center of translation from Arabic; Gerard of Cremona and other translators worked here"
+      "alchemical_significance": "Premier translation center in medieval Europe. In the 12th-13th centuries, Gerard of Cremona and other translators produced Latin versions of Arabic alchemical texts here, including Jabir's works and the Picatrix. The city was a crucial conduit for transmission of Islamic alchemy to the Latin West. Toledo became symbolic of the 'translation movement' that made Arab scientific knowledge available to Christian Europe.",
+      "key_figures": [
+        "gerard-of-cremona"
+      ],
+      "key_periods": [
+        "MEDIEVAL"
+      ]
     },
     {
-      "slug": "florence",
-      "place_name": "Florence",
-      "latitude": 43.7696,
-      "longitude": 11.2558,
-      "region": "Italy",
-      "modern_name": "Florence, Italy",
-      "note": "Center of Renaissance Hermeticism; Ficino's translation of Corpus Hermeticum; Medici patronage"
+      "slug": "palermo",
+      "place_name": "Palermo",
+      "latitude": 38.1157,
+      "longitude": 13.3615,
+      "region": "Sicily",
+      "modern_name": "Palermo, Sicily",
+      "alchemical_significance": "Medieval Sicily under Norman rule became a major center for translation and synthesis of Greek, Arabic, and Latin scientific traditions. Alchemical texts were translated and compiled here, contributing to the transmission pipeline that brought Islamic alchemy into medieval European scholarship.",
+      "key_figures": [],
+      "key_periods": [
+        "MEDIEVAL"
+      ]
+    },
+    {
+      "slug": "hesse-germany",
+      "place_name": "Hesse",
+      "latitude": 50.4501,
+      "longitude": 9.5501,
+      "region": "Germany",
+      "modern_name": "Hesse, Germany",
+      "alchemical_significance": "Archaeological site of medieval crucible production and alchemical work. Excavated crucibles (Hessian crucibles) show sophisticated heat-resistant mullite synthesis, achieving temperatures over 1,300°C. Evidence of systematic experimental work on metallurgical and ceramic materials. Demonstrates that medieval European alchemy was grounded in serious technical practice and material knowledge.",
+      "key_figures": [],
+      "key_periods": [
+        "MEDIEVAL"
+      ]
+    },
+    {
+      "slug": "oxford",
+      "place_name": "Oxford",
+      "latitude": 51.752,
+      "longitude": -1.2577,
+      "region": "England",
+      "modern_name": "Oxford, England",
+      "alchemical_significance": "Major medieval university where Roger Bacon (d. 1294) taught and advocated for experimental methods in natural philosophy. Oxford became a center for engagement with alchemical texts and the practical philosophy underlying alchemy.",
+      "key_figures": [
+        "roger-bacon"
+      ],
+      "key_periods": [
+        "MEDIEVAL"
+      ]
     },
     {
       "slug": "bologna",
@@ -593,61 +703,218 @@
       "longitude": 11.3426,
       "region": "Italy",
       "modern_name": "Bologna, Italy",
-      "note": "University center where Arabic alchemical texts were studied and transmitted"
+      "alchemical_significance": "Major medieval university and center for natural philosophy. Site of scholarly engagement with alchemical texts including the Summa Perfectionis. Bologna maintained continuity of alchemical scholarship from the 13th century onward.",
+      "key_figures": [],
+      "key_periods": [
+        "MEDIEVAL"
+      ]
     },
     {
-      "slug": "hesse-germany",
-      "place_name": "Hesse",
-      "latitude": 50.5,
-      "longitude": 9.5,
-      "region": "Germany",
-      "modern_name": "Hesse, Germany",
-      "note": "Medieval center of crucible production; Hessian crucibles synthesized mullite; world-renowned quality"
-    },
-    {
-      "slug": "oberstockstall-austria",
-      "place_name": "Oberstockstall",
-      "latitude": 48.3,
-      "longitude": 15.5,
-      "region": "Austria",
-      "modern_name": "Oberstockstall, Austria",
-      "note": "Benedictine monastery; ~1,000 artifacts of medieval alchemy and pharmaceutical practice"
-    },
-    {
-      "slug": "toulouse-france",
-      "place_name": "Toulouse",
-      "latitude": 43.6047,
-      "longitude": 1.4442,
+      "slug": "montpellier",
+      "place_name": "Montpellier",
+      "latitude": 43.6108,
+      "longitude": 3.8767,
       "region": "France",
-      "modern_name": "Toulouse, France",
-      "note": "Origin of Ms. Fr. 640 (c. 1580s); site of renaissance craft knowledge compilation"
+      "modern_name": "Montpellier, France",
+      "alchemical_significance": "Medieval university known for medical alchemy and pharmaceutical preparation. The integration of alchemical knowledge with medical training made Montpellier a center for practical alchemy focused on healing and pharmaceutical arts.",
+      "key_figures": [],
+      "key_periods": [
+        "MEDIEVAL"
+      ]
     },
     {
-      "slug": "ven-island-sweden",
-      "place_name": "Ven",
-      "latitude": 55.9,
-      "longitude": 12.9,
-      "region": "Sweden",
-      "modern_name": "Ven, Sweden (Scania)",
-      "note": "Location of Uraniborg; Tycho Brahe's observatory and alchemical laboratory"
+      "slug": "vienna",
+      "place_name": "Vienna",
+      "latitude": 48.2082,
+      "longitude": 16.3738,
+      "region": "Austria",
+      "modern_name": "Vienna, Austria",
+      "alchemical_significance": "Medieval and Renaissance center for monastic alchemy and pharmaceutical preparation. Evidence from Oberstockstall and nearby sites shows sophisticated alchemical work focused on distillation and medicinal compound preparation in monastic contexts.",
+      "key_figures": [],
+      "key_periods": [
+        "MEDIEVAL",
+        "EARLY_MODERN"
+      ]
     },
     {
-      "slug": "antwerp",
-      "place_name": "Antwerp",
-      "latitude": 51.2195,
-      "longitude": 4.4012,
-      "region": "Belgium",
-      "modern_name": "Antwerp, Belgium",
-      "note": "Early modern center of alchemical activity and artisanal craft"
+      "slug": "florence",
+      "place_name": "Florence",
+      "latitude": 43.7696,
+      "longitude": 11.2558,
+      "region": "Italy",
+      "modern_name": "Florence, Italy",
+      "alchemical_significance": "Renaissance capital where Marsilio Ficino (1433-1499) initiated the translation of the Corpus Hermeticum (1463), establishing Hermetic philosophy as foundation for Renaissance alchemy. Pico della Mirandola (1463-1494) synthesized Hermetic, Kabbalistic, and alchemical philosophy here. Florence became the intellectual epicenter of Renaissance Hermeticism.",
+      "key_figures": [
+        "marsilio-ficino",
+        "pico-della-mirandola"
+      ],
+      "key_periods": [
+        "RENAISSANCE"
+      ]
+    },
+    {
+      "slug": "basle",
+      "place_name": "Basle (Basel)",
+      "latitude": 47.5596,
+      "longitude": 7.5886,
+      "region": "Switzerland",
+      "modern_name": "Basel, Switzerland",
+      "alchemical_significance": "Major printing center during the Renaissance and Reformation. Site of publication of numerous alchemical texts including printed editions of the Corpus Hermeticum and other key works. Basle printers made alchemical knowledge widely available to European scholars.",
+      "key_figures": [
+        "paracelsus"
+      ],
+      "key_periods": [
+        "RENAISSANCE",
+        "EARLY_MODERN"
+      ]
+    },
+    {
+      "slug": "salzburg",
+      "place_name": "Salzburg",
+      "latitude": 47.8095,
+      "longitude": 13.055,
+      "region": "Austria",
+      "modern_name": "Salzburg, Austria",
+      "alchemical_significance": "Birthplace of Paracelsus (1493-1541). City in the Alpine region with traditions of mining and metallurgy that influenced Paracelsus's understanding of practical alchemy and material transformation.",
+      "key_figures": [
+        "paracelsus"
+      ],
+      "key_periods": [
+        "EARLY_MODERN"
+      ]
+    },
+    {
+      "slug": "strasbourg",
+      "place_name": "Strasbourg",
+      "latitude": 48.5734,
+      "longitude": 7.7521,
+      "region": "France/Alsace",
+      "modern_name": "Strasbourg, France",
+      "alchemical_significance": "City where Paracelsus taught and practiced medicine, integrating alchemical pharmaceutical preparation into his medical philosophy. Major center for medical alchemy during the Reformation.",
+      "key_figures": [
+        "paracelsus"
+      ],
+      "key_periods": [
+        "EARLY_MODERN"
+      ]
+    },
+    {
+      "slug": "cologne",
+      "place_name": "Cologne",
+      "latitude": 50.9365,
+      "longitude": 6.9589,
+      "region": "Germany",
+      "modern_name": "Cologne, Germany",
+      "alchemical_significance": "City where Henry Cornelius Agrippa (1486-1535) was active. Major center for natural magic and occult philosophy in the Renaissance. Agrippa's synthesis of Hermetic, Kabbalistic, and alchemical traditions was developed here.",
+      "key_figures": [
+        "henry-cornelius-agrippa"
+      ],
+      "key_periods": [
+        "EARLY_MODERN"
+      ]
+    },
+    {
+      "slug": "paris",
+      "place_name": "Paris",
+      "latitude": 48.8566,
+      "longitude": 2.3522,
+      "region": "France",
+      "modern_name": "Paris, France",
+      "alchemical_significance": "Major university center with strong alchemical traditions. Giordano Bruno taught here in the 1580s, integrating Hermetic philosophy with Renaissance Neoplatonism. Paris remained a center for alchemical and Hermetic scholarship.",
+      "key_figures": [
+        "giordano-bruno"
+      ],
+      "key_periods": [
+        "EARLY_MODERN"
+      ]
+    },
+    {
+      "slug": "london",
+      "place_name": "London",
+      "latitude": 51.5074,
+      "longitude": -0.1278,
+      "region": "England",
+      "modern_name": "London, England",
+      "alchemical_significance": "City where Giordano Bruno stayed in the 1580s, engaging with English alchemical and Hermetic scholars. London became a center for circulation of Hermetic and alchemical ideas in the late Renaissance.",
+      "key_figures": [
+        "giordano-bruno"
+      ],
+      "key_periods": [
+        "EARLY_MODERN"
+      ]
+    },
+    {
+      "slug": "rome",
+      "place_name": "Rome",
+      "latitude": 41.9028,
+      "longitude": 12.4964,
+      "region": "Italy",
+      "modern_name": "Rome, Italy",
+      "alchemical_significance": "Papal capital where Giordano Bruno was tried and executed (1600) for heresy, partly for his Hermetic and alchemical philosophy. Rome represents the tension between alchemical inquiry and religious orthodoxy in the early modern period.",
+      "key_figures": [
+        "giordano-bruno"
+      ],
+      "key_periods": [
+        "EARLY_MODERN"
+      ]
+    },
+    {
+      "slug": "ven-island",
+      "place_name": "Ven Island (Hven)",
+      "latitude": 55.9125,
+      "longitude": 12.7211,
+      "region": "Denmark/Sweden",
+      "modern_name": "Ven, Denmark-Sweden",
+      "alchemical_significance": "Island in the Øresund Strait where Tycho Brahe (1546-1601) built Uraniborg, one of the most sophisticated astronomical and alchemical laboratories of the Renaissance. Excavation and chemical analysis (2024) revealed evidence of extensive metallurgical and pharmaceutical work including enriched tungsten and eight other metals. Tycho's laboratory combined astronomical observation with alchemical and pharmaceutical practice, exemplifying the synthesis of natural knowledge in the early modern period.",
+      "key_figures": [
+        "tycho-brahe"
+      ],
+      "key_periods": [
+        "EARLY_MODERN"
+      ]
     },
     {
       "slug": "prague",
       "place_name": "Prague",
       "latitude": 50.0755,
       "longitude": 14.4378,
-      "region": "Czech Republic",
+      "region": "Bohemia",
       "modern_name": "Prague, Czech Republic",
-      "note": "Center of Rudolfine alchemy under Emperor Rudolf II"
+      "alchemical_significance": "Capital of Bohemia and court of Rudolf II (1576-1612), who was obsessed with alchemy and created one of Europe's finest alchemical courts. Michael Maier served as court alchemist here. Prague became legendary as a center of hermetic alchemy and court-sponsored alchemical research in the late 16th and early 17th centuries.",
+      "key_figures": [
+        "michael-maier"
+      ],
+      "key_periods": [
+        "EARLY_MODERN"
+      ]
+    },
+    {
+      "slug": "frankfurt",
+      "place_name": "Frankfurt",
+      "latitude": 50.1109,
+      "longitude": 8.6821,
+      "region": "Germany",
+      "modern_name": "Frankfurt, Germany",
+      "alchemical_significance": "Major printing center where Michael Maier's *Atalanta Fugiens* (1618) was published—the most illustrated alchemical work of the Renaissance, combining emblematic art with alchemical philosophy. Frankfurt became a crucial hub for dissemination of printed alchemical literature.",
+      "key_figures": [
+        "michael-maier"
+      ],
+      "key_periods": [
+        "EARLY_MODERN"
+      ]
+    },
+    {
+      "slug": "toulouse",
+      "place_name": "Toulouse",
+      "latitude": 43.6047,
+      "longitude": 1.4442,
+      "region": "France",
+      "modern_name": "Toulouse, France",
+      "alchemical_significance": "City where Ms. Fr. 640 (Anonymous Technical Manuscript, c. 1580) was produced, documenting detailed recipes for alchemical, dye-making, and craft work. The manuscript represents the tacit knowledge of artisans working in practical crafts, demonstrating the embodied and transmitted character of alchemical knowledge.",
+      "key_figures": [],
+      "key_periods": [
+        "EARLY_MODERN"
+      ]
     }
   ],
   "timeline_events": [],

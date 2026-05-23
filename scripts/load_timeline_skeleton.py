@@ -25,7 +25,10 @@ from pathlib import Path
 
 # Database path
 DB_PATH = Path(__file__).parent.parent / "db" / "alchemy_timeline.db"
-SKELETON_PATH = Path(__file__).parent.parent / "data" / "timeline_events_skeleton.json"
+# Use expanded skeleton if available, otherwise fall back to original
+EXPANDED_SKELETON = Path(__file__).parent.parent / "data" / "timeline_events_skeleton_expanded.json"
+ORIGINAL_SKELETON = Path(__file__).parent.parent / "data" / "timeline_events_skeleton.json"
+SKELETON_PATH = EXPANDED_SKELETON if EXPANDED_SKELETON.exists() else ORIGINAL_SKELETON
 
 
 def load_timeline_skeleton():

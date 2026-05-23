@@ -154,6 +154,8 @@ def create_schema():
             longitude REAL NOT NULL,
             region TEXT NOT NULL,
             modern_name TEXT,
+            alchemical_significance TEXT,
+            key_periods TEXT,
             created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
 
             UNIQUE(place_name, latitude, longitude)

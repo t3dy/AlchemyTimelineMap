@@ -370,7 +370,11 @@ def export_json_data():
     cursor.execute("SELECT * FROM concepts")
     concepts = [dict(row) for row in cursor.fetchall()]
 
-    cursor.execute("SELECT * FROM locations")
+    cursor.execute("""
+        SELECT slug, place_name, latitude, longitude, region, modern_name,
+               alchemical_significance, key_periods
+        FROM locations
+    """)
     locations = [dict(row) for row in cursor.fetchall()]
 
     cursor.execute("SELECT * FROM timeline_events")
