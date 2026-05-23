@@ -78,6 +78,10 @@ CREATE TABLE persons (
     -- e.g. "Authorship of corpus disputed between Principle and Newman; see bio section"
     scholarly_disagreement TEXT,
     
+    -- Material grounding (OPTIONAL): plain text on practical context, teaching lineages, or real-world influence
+    -- e.g. "Active as court physician and laboratory director; trained apprentices in distillation"
+    material_grounding TEXT,
+    
     -- Provenance
     source_method TEXT NOT NULL CHECK(source_method IN ('MANUAL', 'AI_ASSISTED', 'SCHOLARSHIP_BASED')),
     review_status TEXT NOT NULL CHECK(review_status IN ('DRAFT', 'REVIEWED', 'VERIFIED')),
@@ -130,6 +134,10 @@ CREATE TABLE texts (
     -- e.g. "Authorship disputed; date uncertain; multiple recensions exist"
     scholarly_disagreement TEXT,
     
+    -- Material grounding (OPTIONAL): plain text on manuscript tradition, material culture, or practical context
+    -- e.g. "Copied 47 times in 13th century; evidence suggests laboratory use (annotations in margins)"
+    material_grounding TEXT,
+    
     -- Provenance
     source_method TEXT NOT NULL CHECK(source_method IN ('MANUAL', 'AI_ASSISTED', 'SCHOLARSHIP_BASED')),
     review_status TEXT NOT NULL CHECK(review_status IN ('DRAFT', 'REVIEWED', 'VERIFIED')),
@@ -178,6 +186,11 @@ CREATE TABLE concepts (
     -- Full encyclopedia page (1,500–2,500 words)
     definition_long TEXT NOT NULL,
     
+    -- Multi-register interpretation (OPTIONAL): JSON object mapping registers to descriptions
+    -- Structure: {"alchemical": "...", "medical": "...", "spiritual": "...", "cosmological": "..."}
+    -- Allows concepts like "calcination" to express simultaneous meanings across multiple knowledge registers
+    registers JSON,
+    
     -- Chemical operation type (if applicable)
     operation_type TEXT CHECK(operation_type IN (
         'DISTILLATION', 'SUBLIMATION', 'CALCINATION', 'FERMENTATION', 'CRYSTALLIZATION',
@@ -192,6 +205,10 @@ CREATE TABLE concepts (
     -- e.g. for "distillation": ["ancient-distillation-zosimos", "arabic-dhiqa", "latin-distillatio"]
     transmission_chain TEXT,
     
+    -- Material grounding (OPTIONAL): plain text note on apparatus, substances, or techniques
+    -- e.g. "Apparatus: alembic with long neck; common to distill wine, rose water, mineral waters"
+    material_grounding TEXT,
+    
     -- Provenance
     source_method TEXT NOT NULL CHECK(source_method IN ('MANUAL', 'AI_ASSISTED', 'SCHOLARSHIP_BASED')),
     review_status TEXT NOT NULL CHECK(review_status IN ('DRAFT', 'REVIEWED', 'VERIFIED')),
@@ -205,11 +222,15 @@ CREATE TABLE concepts (
 **Fields:**
 - `slug`: unique identifier (e.g., "calcination")
 - `label`: term name (e.g., "Calcination")
-- `category_type`: ACTOR_TERM (used by historical actors) or ANALYST_TERM (retrospective scholarly category)
+- `category_type`: ACTOR_TERM (used by historical actors), ANALYST_TERM (retrospective scholarly category), DISPUTED_ACTOR_TERM (usage inconsistent), or RETROSPECTIVE_MISREADING (scholars invented)
 - `definition_short`: 60–120 word index card
 - `definition_long`: 1,500–2,500 word encyclopedia page (HTML with sections and citations)
+- `registers`: JSON object mapping knowledge registers to descriptions. Structure: `{"alchemical": "operational account", "medical": "therapeutic application", "spiritual": "inner transformation", "cosmological": "universal principle"}`. Allows single term to express simultaneous meanings across registers. See `MULTIREGISTER_EXAMPLES.md` for examples.
 - `operation_type`: if this concept is a chemical operation, which one?
-- Provenance metadata
+- `scholarly_disagreement`: note on historiographical disputes or contested interpretations
+- `transmission_chain`: JSON array showing genealogy of the term (e.g., `["distillatio-zosimos", "dhiqa-arabic", "distillatio-latin"]`)
+- `material_grounding`: plain text note on apparatus, substances, or real-world techniques (e.g., "alembic with long neck; used for spirits, oils, mineral waters")
+- Provenance metadata (source_method, review_status, confidence)
 
 **Indexing:**
 - `CREATE INDEX idx_concepts_category ON concepts(category_type);`
@@ -375,9 +396,9 @@ role_primary: ALCHEMIST | CHEMIST | SCHOLAR | PHILOSOPHER | PHYSICIAN | TRANSLAT
 
 text_type: PRIMARY_SOURCE | COMMENTARY | COMPILATION | TREATISE | SCHOLARSHIP | ENCYCLOPEDIA
 
-category_type: ACTOR_TERM | ANALYST_TERM
+category_type: ACTOR_TERM | ANALYST_TERM | DISPUTED_ACTOR_TERM | RETROSPECTIVE_MISREADING
 
-operation_type: DISTILLATION | SUBLIMATION | CALCINATION | FERMENTATION | CRYSTALLIZATION | DISSOLUTION | COAGULATION | PUTREFACTION | CIRCULATION
+operation_type: DISTILLATION | SUBLIMATION | CALCINATION | FERMENTATION | CRYSTALLIZATION | DISSOLUTION | COAGULATION | PUTREFACTION | CIRCULATION | MATERIAL_TRANSFORMATION
 
 confidence: HIGH | MEDIUM | LOW
 

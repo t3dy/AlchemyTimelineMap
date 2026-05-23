@@ -13,7 +13,10 @@
       "Rosarium Philosophorum & Adam McLean (8 PDFs, 41 entities)"
     ],
     "total_pdfs_processed": 57,
-    "deduplication_applied": true
+    "deduplication_applied": true,
+    "total_persons": 50,
+    "total_scholars": 17,
+    "total_texts": 33
   },
   "entities": {
     "persons": [
@@ -630,6 +633,87 @@
         ],
         "scholarly_focus": "Medieval science, optics, Roger Bacon",
         "historiographical_position": "Contextualizes medieval alchemy within broader history of science"
+      },
+      {
+        "name": "Karen Hunger Parshall",
+        "era_active": "1990–present",
+        "primary_affiliation": "University of Virginia",
+        "key_works": [
+          "Bridging Traditions: Alchemy, Chemistry and Paracelsian Practices"
+        ],
+        "scholarly_focus": "History of chemistry, mathematics, Paracelsian traditions, early modern experimental practice",
+        "historiographical_position": "Examines connections between mathematical traditions and alchemical/chemical practice; bridges formal knowledge and craft"
+      },
+      {
+        "name": "Michael T. Walton",
+        "era_active": "2000–present",
+        "primary_affiliation": "Graduate Center, CUNY",
+        "key_works": [
+          "Bridging Traditions: Alchemy, Chemistry and Paracelsian Practices"
+        ],
+        "scholarly_focus": "Early modern alchemy, experimental culture, institutional contexts",
+        "historiographical_position": "Contextualizes alchemical practice within academic and courtly institutions"
+      },
+      {
+        "name": "Leah DeVun",
+        "era_active": "2000–present",
+        "primary_affiliation": "University of Chicago",
+        "key_works": [
+          "Prophecy, Alchemy, and the End of Time: John of Rupescissa in the Late Middle Ages"
+        ],
+        "scholarly_focus": "Medieval apocalyptic thought, alchemy, John of Rupescissa, fifth essence",
+        "historiographical_position": "Integrates alchemy with eschatological thought; examines religious dimensions of alchemical research"
+      },
+      {
+        "name": "Tara Nummedal",
+        "era_active": "2000–present",
+        "primary_affiliation": "University of Denver",
+        "key_works": [
+          "Alchemy and Authority in the Holy Roman Empire"
+        ],
+        "scholarly_focus": "Early modern alchemy, courtly contexts, legitimacy and authority of alchemy",
+        "historiographical_position": "Examines how alchemists gained credibility and patronage; social history of alchemy"
+      },
+      {
+        "name": "Allen Debus",
+        "era_active": "1957–2002",
+        "primary_affiliation": "University of Chicago",
+        "key_works": [
+          "The Chemical Philosophy: Paracelsian Science and Medicine in the Sixteenth and Seventeenth Centuries"
+        ],
+        "scholarly_focus": "History of chemistry, Paracelsian tradition, early modern natural philosophy",
+        "historiographical_position": "Pioneer in establishing alchemy as serious historical subject; contextualized Paracelsus within broader intellectual history"
+      },
+      {
+        "name": "Didier Kahn",
+        "era_active": "1990–present",
+        "primary_affiliation": "CNRS (Centre National de la Recherche Scientifique), France",
+        "key_works": [
+          "Pseudo-Paracelsus: Forgery and Early Modern Alchemy, Medicine and Natural Philosophy",
+          "Le monde secret des alchimistes"
+        ],
+        "scholarly_focus": "Early modern alchemy, forgeries and pseudepigraphic texts, Paracelsian tradition, intellectual history",
+        "historiographical_position": "Emphasizes textual criticism and genealogy of alchemical knowledge; examines role of fraud and false attribution"
+      },
+      {
+        "name": "Helena Maria Elisabeth Jong",
+        "era_active": "1960–present",
+        "primary_affiliation": "Unknown",
+        "key_works": [
+          "Michael Maier's Atalanta Fugiens: Sources of an Alchemical Book of Emblems"
+        ],
+        "scholarly_focus": "Michael Maier, emblem literature, sources and intellectual networks",
+        "historiographical_position": "Detailed source analysis; established textual and artistic foundations of Maier's work"
+      },
+      {
+        "name": "Hereward Tilton",
+        "era_active": "1990–present",
+        "primary_affiliation": "University of Mainz",
+        "key_works": [
+          "The Quest for the Phoenix: Spiritual Alchemy and Rosicrucianism in the Work of Count Michael Maier"
+        ],
+        "scholarly_focus": "Michael Maier, spiritual alchemy, Rosicrucianism, music and alchemy",
+        "historiographical_position": "Integrates alchemy with Rosicrucian and mystical traditions; examines music-alchemy connections"
       }
     ],
     "texts": [
@@ -983,6 +1067,17 @@
         "date_or_period": "Medieval",
         "text_type": "PRIMARY_SOURCE",
         "significance": "Alchemical secrets attributed to Roger Bacon; widely circulated in medieval Europe"
+      },
+      {
+        "title": "Bridging Traditions: Alchemy, Chemistry and Paracelsian Practices in the Early Modern World",
+        "alternate_titles": [
+          "Bridging Traditions"
+        ],
+        "author_or_tradition": "Edited by Karen Hunger Parshall, Michael T. Walton, Bruce T. Moran",
+        "original_language": "English",
+        "date_or_period": "2014",
+        "text_type": "SCHOLARSHIP",
+        "significance": "Major edited volume examining connections between medieval alchemy, Paracelsian medicine, and early modern chemistry. Essays by leading historians (Newman, Principe, Kahn, Smith, Moran, others) establishing alchemy as continuous tradition bridging medieval and early modern natural philosophy. Essential resource for understanding historiographical frameworks of 'new alchemy studies.'"
       }
     ]
   }
