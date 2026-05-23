@@ -1,0 +1,820 @@
+{
+  "batch_id": "Early_Modern_Spain_Portugal",
+  "event_count": 40,
+  "instructions": "For each event stub, write a 100–250 word description following STYLEGUIDE.md. Wrap entity mentions in [LINK:slug] markup. End with historiographical significance.",
+  "events": [
+    {
+      "slug": "event_early_modern_spain_portugal_000",
+      "date_label": "c. 1500 CE",
+      "date_start_year": 1497,
+      "date_end_year": 1503,
+      "location_slug": "madrid",
+      "persons_involved": [
+        "tycho-brahe"
+      ],
+      "texts_involved": [
+        "corpus-hermeticum"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_001",
+      "date_label": "c. 1506 CE",
+      "date_start_year": 1503,
+      "date_end_year": 1509,
+      "location_slug": "lisbon",
+      "persons_involved": [
+        "michael-maier"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_002",
+      "date_label": "c. 1512 CE",
+      "date_start_year": 1509,
+      "date_end_year": 1515,
+      "location_slug": "madrid",
+      "persons_involved": [
+        "henry-cornelius-agrippa"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_003",
+      "date_label": "c. 1518 CE",
+      "date_start_year": 1515,
+      "date_end_year": 1521,
+      "location_slug": "lisbon",
+      "persons_involved": [
+        "giordano-bruno"
+      ],
+      "texts_involved": [
+        "kitab-al-hasib"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_004",
+      "date_label": "c. 1524 CE",
+      "date_start_year": 1521,
+      "date_end_year": 1527,
+      "location_slug": "madrid",
+      "persons_involved": [
+        "paracelsus"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_005",
+      "date_label": "c. 1530 CE",
+      "date_start_year": 1527,
+      "date_end_year": 1533,
+      "location_slug": "lisbon",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_006",
+      "date_label": "c. 1536 CE",
+      "date_start_year": 1533,
+      "date_end_year": 1539,
+      "location_slug": "madrid",
+      "persons_involved": [],
+      "texts_involved": [
+        "de-sex-rerum-principiis"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_007",
+      "date_label": "c. 1542 CE",
+      "date_start_year": 1539,
+      "date_end_year": 1545,
+      "location_slug": "lisbon",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_008",
+      "date_label": "c. 1548 CE",
+      "date_start_year": 1545,
+      "date_end_year": 1551,
+      "location_slug": "madrid",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_009",
+      "date_label": "c. 1554 CE",
+      "date_start_year": 1551,
+      "date_end_year": 1557,
+      "location_slug": "lisbon",
+      "persons_involved": [],
+      "texts_involved": [
+        "emerald-tablet"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_010",
+      "date_label": "c. 1560 CE",
+      "date_start_year": 1557,
+      "date_end_year": 1563,
+      "location_slug": "madrid",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_011",
+      "date_label": "c. 1566 CE",
+      "date_start_year": 1563,
+      "date_end_year": 1569,
+      "location_slug": "lisbon",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_012",
+      "date_label": "c. 1572 CE",
+      "date_start_year": 1569,
+      "date_end_year": 1575,
+      "location_slug": "madrid",
+      "persons_involved": [],
+      "texts_involved": [
+        "picatrix"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_013",
+      "date_label": "c. 1578 CE",
+      "date_start_year": 1575,
+      "date_end_year": 1581,
+      "location_slug": "lisbon",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_014",
+      "date_label": "c. 1584 CE",
+      "date_start_year": 1581,
+      "date_end_year": 1587,
+      "location_slug": "madrid",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_015",
+      "date_label": "c. 1590 CE",
+      "date_start_year": 1587,
+      "date_end_year": 1593,
+      "location_slug": "lisbon",
+      "persons_involved": [],
+      "texts_involved": [
+        "ms-fr-640"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_016",
+      "date_label": "c. 1596 CE",
+      "date_start_year": 1593,
+      "date_end_year": 1599,
+      "location_slug": "madrid",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_017",
+      "date_label": "c. 1602 CE",
+      "date_start_year": 1599,
+      "date_end_year": 1605,
+      "location_slug": "lisbon",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_018",
+      "date_label": "c. 1608 CE",
+      "date_start_year": 1605,
+      "date_end_year": 1611,
+      "location_slug": "madrid",
+      "persons_involved": [],
+      "texts_involved": [
+        "summa-perfectionis"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_019",
+      "date_label": "c. 1614 CE",
+      "date_start_year": 1611,
+      "date_end_year": 1617,
+      "location_slug": "lisbon",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_020",
+      "date_label": "c. 1620 CE",
+      "date_start_year": 1617,
+      "date_end_year": 1623,
+      "location_slug": "madrid",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_021",
+      "date_label": "c. 1626 CE",
+      "date_start_year": 1623,
+      "date_end_year": 1629,
+      "location_slug": "lisbon",
+      "persons_involved": [],
+      "texts_involved": [
+        "liber-xxiv-philosophorum"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_022",
+      "date_label": "c. 1632 CE",
+      "date_start_year": 1629,
+      "date_end_year": 1635,
+      "location_slug": "madrid",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_023",
+      "date_label": "c. 1638 CE",
+      "date_start_year": 1635,
+      "date_end_year": 1641,
+      "location_slug": "lisbon",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_024",
+      "date_label": "c. 1644 CE",
+      "date_start_year": 1641,
+      "date_end_year": 1647,
+      "location_slug": "madrid",
+      "persons_involved": [],
+      "texts_involved": [
+        "corpus-hermeticum"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_025",
+      "date_label": "c. 1650 CE",
+      "date_start_year": 1647,
+      "date_end_year": 1653,
+      "location_slug": "lisbon",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_026",
+      "date_label": "c. 1656 CE",
+      "date_start_year": 1653,
+      "date_end_year": 1659,
+      "location_slug": "madrid",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_027",
+      "date_label": "c. 1662 CE",
+      "date_start_year": 1659,
+      "date_end_year": 1665,
+      "location_slug": "lisbon",
+      "persons_involved": [],
+      "texts_involved": [
+        "kitab-al-hasib"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_028",
+      "date_label": "c. 1668 CE",
+      "date_start_year": 1665,
+      "date_end_year": 1671,
+      "location_slug": "madrid",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_029",
+      "date_label": "c. 1674 CE",
+      "date_start_year": 1671,
+      "date_end_year": 1677,
+      "location_slug": "lisbon",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_030",
+      "date_label": "c. 1680 CE",
+      "date_start_year": 1677,
+      "date_end_year": 1683,
+      "location_slug": "madrid",
+      "persons_involved": [],
+      "texts_involved": [
+        "de-sex-rerum-principiis"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_031",
+      "date_label": "c. 1686 CE",
+      "date_start_year": 1683,
+      "date_end_year": 1689,
+      "location_slug": "lisbon",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_032",
+      "date_label": "c. 1692 CE",
+      "date_start_year": 1689,
+      "date_end_year": 1695,
+      "location_slug": "madrid",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_033",
+      "date_label": "c. 1698 CE",
+      "date_start_year": 1695,
+      "date_end_year": 1701,
+      "location_slug": "lisbon",
+      "persons_involved": [],
+      "texts_involved": [
+        "emerald-tablet"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_034",
+      "date_label": "c. 1704 CE",
+      "date_start_year": 1701,
+      "date_end_year": 1707,
+      "location_slug": "madrid",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_035",
+      "date_label": "c. 1710 CE",
+      "date_start_year": 1707,
+      "date_end_year": 1713,
+      "location_slug": "lisbon",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_036",
+      "date_label": "c. 1716 CE",
+      "date_start_year": 1713,
+      "date_end_year": 1719,
+      "location_slug": "madrid",
+      "persons_involved": [],
+      "texts_involved": [
+        "picatrix"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_037",
+      "date_label": "c. 1722 CE",
+      "date_start_year": 1719,
+      "date_end_year": 1725,
+      "location_slug": "lisbon",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_038",
+      "date_label": "c. 1728 CE",
+      "date_start_year": 1725,
+      "date_end_year": 1731,
+      "location_slug": "madrid",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_039",
+      "date_label": "c. 1734 CE",
+      "date_start_year": 1731,
+      "date_end_year": 1737,
+      "location_slug": "lisbon",
+      "persons_involved": [],
+      "texts_involved": [
+        "ms-fr-640"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    }
+  ],
+  "entities": {
+    "persons": [
+      {
+        "slug": "giordano-bruno",
+        "name": "Giordano Bruno",
+        "role_primary": "PHILOSOPHER",
+        "era": "EARLY_MODERN"
+      },
+      {
+        "slug": "henry-cornelius-agrippa",
+        "name": "Henry Cornelius Agrippa",
+        "role_primary": "PHILOSOPHER",
+        "era": "EARLY_MODERN"
+      },
+      {
+        "slug": "michael-maier",
+        "name": "Michael Maier",
+        "role_primary": "ALCHEMIST",
+        "era": "EARLY_MODERN"
+      },
+      {
+        "slug": "paracelsus",
+        "name": "Paracelsus (Theophrastus Bombastus von Hohenheim)",
+        "role_primary": "PHYSICIAN",
+        "era": "EARLY_MODERN"
+      },
+      {
+        "slug": "tycho-brahe",
+        "name": "Tycho Brahe",
+        "role_primary": "ALCHEMIST",
+        "era": "EARLY_MODERN"
+      }
+    ],
+    "texts": [
+      {
+        "slug": "corpus-hermeticum",
+        "title": "Corpus Hermeticum",
+        "text_type": "PRIMARY_SOURCE",
+        "composition_date": "c. 1st-3rd century CE"
+      },
+      {
+        "slug": "de-sex-rerum-principiis",
+        "title": "De Sex Rerum Principiis (On the Six Principles of Things)",
+        "text_type": "PRIMARY_SOURCE",
+        "composition_date": "c. 12th century"
+      },
+      {
+        "slug": "emerald-tablet",
+        "title": "Emerald Tablet (Tabula Smaragdina)",
+        "text_type": "PRIMARY_SOURCE",
+        "composition_date": "c. 6th-8th century (Arab compilation)"
+      },
+      {
+        "slug": "kitab-al-hasib",
+        "title": "Kitāb al-Ḥāsib",
+        "text_type": "PRIMARY_SOURCE",
+        "composition_date": "c. 8th-9th century (attributed to Jabir ibn Hayyan)"
+      },
+      {
+        "slug": "liber-xxiv-philosophorum",
+        "title": "Liber XXIV Philosophorum (Book of Twenty-Four Philosophers)",
+        "text_type": "PRIMARY_SOURCE",
+        "composition_date": "c. 12th century"
+      },
+      {
+        "slug": "ms-fr-640",
+        "title": "Ms. Fr. 640 (Anonymous Technical Manuscript)",
+        "text_type": "PRIMARY_SOURCE",
+        "composition_date": "c. 1580s"
+      },
+      {
+        "slug": "picatrix",
+        "title": "Picatrix (Ghāyat al-Hakīm)",
+        "text_type": "PRIMARY_SOURCE",
+        "composition_date": "c. 10th-11th century"
+      },
+      {
+        "slug": "summa-perfectionis",
+        "title": "Summa Perfectionis (Sum of Perfection)",
+        "text_type": "PRIMARY_SOURCE",
+        "composition_date": "c. 8th-9th century (attributed to Jabir ibn Hayyan)"
+      }
+    ],
+    "concepts": [
+      {
+        "slug": "operational-chemistry",
+        "label": "Operational Chemistry",
+        "category_type": "ANALYST_TERM"
+      },
+      {
+        "slug": "transmutation",
+        "label": "Transmutation",
+        "category_type": "ACTOR_TERM"
+      }
+    ],
+    "locations": [
+      {
+        "slug": "cairo",
+        "place_name": "Cairo (Heliopolis/Babylon)",
+        "latitude": 30.0444,
+        "longitude": 31.2357
+      },
+      {
+        "slug": "alexandria",
+        "place_name": "Alexandria",
+        "latitude": 31.2001,
+        "longitude": 29.9187
+      },
+      {
+        "slug": "baghdad",
+        "place_name": "Baghdad",
+        "latitude": 33.3128,
+        "longitude": 44.3615
+      },
+      {
+        "slug": "ray",
+        "place_name": "Ray (Rhages)",
+        "latitude": 35.6568,
+        "longitude": 51.4168
+      },
+      {
+        "slug": "damascus",
+        "place_name": "Damascus",
+        "latitude": 33.5138,
+        "longitude": 36.2765
+      },
+      {
+        "slug": "cordoba",
+        "place_name": "Córdoba",
+        "latitude": 37.8882,
+        "longitude": -4.7794
+      },
+      {
+        "slug": "toledo",
+        "place_name": "Toledo",
+        "latitude": 39.8581,
+        "longitude": -4.0201
+      },
+      {
+        "slug": "palermo",
+        "place_name": "Palermo",
+        "latitude": 38.1157,
+        "longitude": 13.3615
+      },
+      {
+        "slug": "hesse-germany",
+        "place_name": "Hesse",
+        "latitude": 50.4501,
+        "longitude": 9.5501
+      },
+      {
+        "slug": "oxford",
+        "place_name": "Oxford",
+        "latitude": 51.752,
+        "longitude": -1.2577
+      },
+      {
+        "slug": "bologna",
+        "place_name": "Bologna",
+        "latitude": 44.4949,
+        "longitude": 11.3426
+      },
+      {
+        "slug": "montpellier",
+        "place_name": "Montpellier",
+        "latitude": 43.6108,
+        "longitude": 3.8767
+      },
+      {
+        "slug": "vienna",
+        "place_name": "Vienna",
+        "latitude": 48.2082,
+        "longitude": 16.3738
+      },
+      {
+        "slug": "florence",
+        "place_name": "Florence",
+        "latitude": 43.7696,
+        "longitude": 11.2558
+      },
+      {
+        "slug": "basle",
+        "place_name": "Basle (Basel)",
+        "latitude": 47.5596,
+        "longitude": 7.5886
+      },
+      {
+        "slug": "salzburg",
+        "place_name": "Salzburg",
+        "latitude": 47.8095,
+        "longitude": 13.055
+      },
+      {
+        "slug": "strasbourg",
+        "place_name": "Strasbourg",
+        "latitude": 48.5734,
+        "longitude": 7.7521
+      },
+      {
+        "slug": "cologne",
+        "place_name": "Cologne",
+        "latitude": 50.9365,
+        "longitude": 6.9589
+      },
+      {
+        "slug": "paris",
+        "place_name": "Paris",
+        "latitude": 48.8566,
+        "longitude": 2.3522
+      },
+      {
+        "slug": "london",
+        "place_name": "London",
+        "latitude": 51.5074,
+        "longitude": -0.1278
+      },
+      {
+        "slug": "rome",
+        "place_name": "Rome",
+        "latitude": 41.9028,
+        "longitude": 12.4964
+      },
+      {
+        "slug": "ven-island",
+        "place_name": "Ven Island (Hven)",
+        "latitude": 55.9125,
+        "longitude": 12.7211
+      },
+      {
+        "slug": "prague",
+        "place_name": "Prague",
+        "latitude": 50.0755,
+        "longitude": 14.4378
+      },
+      {
+        "slug": "frankfurt",
+        "place_name": "Frankfurt",
+        "latitude": 50.1109,
+        "longitude": 8.6821
+      },
+      {
+        "slug": "toulouse",
+        "place_name": "Toulouse",
+        "latitude": 43.6047,
+        "longitude": 1.4442
+      }
+    ]
+  },
+  "metadata": {
+    "batch_name": "Early_Modern_Spain_Portugal",
+    "total_events": 40,
+    "unique_persons": 5,
+    "unique_texts": 8,
+    "unique_concepts": 2
+  }
+}

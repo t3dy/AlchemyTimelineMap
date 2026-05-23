@@ -1,0 +1,592 @@
+{
+  "batch_id": "Medieval_Byzantium",
+  "event_count": 24,
+  "instructions": "For each event stub, write a 100–250 word description following STYLEGUIDE.md. Wrap entity mentions in [LINK:slug] markup. End with historiographical significance.",
+  "events": [
+    {
+      "slug": "event_medieval_byzantium_001",
+      "date_label": "c. 630 CE",
+      "date_start_year": 615,
+      "date_end_year": 645,
+      "location_slug": "constantinople",
+      "persons_involved": [
+        "al-razi"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_byzantium_002",
+      "date_label": "c. 660 CE",
+      "date_start_year": 645,
+      "date_end_year": 675,
+      "location_slug": "constantinople",
+      "persons_involved": [
+        "al-kindi"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_byzantium_003",
+      "date_label": "c. 690 CE",
+      "date_start_year": 675,
+      "date_end_year": 705,
+      "location_slug": "constantinople",
+      "persons_involved": [
+        "roger-bacon"
+      ],
+      "texts_involved": [
+        "kitab-al-hasib"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_byzantium_004",
+      "date_label": "c. 720 CE",
+      "date_start_year": 705,
+      "date_end_year": 735,
+      "location_slug": "constantinople",
+      "persons_involved": [
+        "gerard-of-cremona"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_byzantium_005",
+      "date_label": "c. 750 CE",
+      "date_start_year": 735,
+      "date_end_year": 765,
+      "location_slug": "constantinople",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_byzantium_006",
+      "date_label": "c. 780 CE",
+      "date_start_year": 765,
+      "date_end_year": 795,
+      "location_slug": "constantinople",
+      "persons_involved": [],
+      "texts_involved": [
+        "de-sex-rerum-principiis"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_byzantium_007",
+      "date_label": "c. 810 CE",
+      "date_start_year": 795,
+      "date_end_year": 825,
+      "location_slug": "constantinople",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_byzantium_008",
+      "date_label": "c. 840 CE",
+      "date_start_year": 825,
+      "date_end_year": 855,
+      "location_slug": "constantinople",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_byzantium_009",
+      "date_label": "c. 870 CE",
+      "date_start_year": 855,
+      "date_end_year": 885,
+      "location_slug": "constantinople",
+      "persons_involved": [],
+      "texts_involved": [
+        "emerald-tablet"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_byzantium_010",
+      "date_label": "c. 900 CE",
+      "date_start_year": 885,
+      "date_end_year": 915,
+      "location_slug": "constantinople",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_byzantium_011",
+      "date_label": "c. 930 CE",
+      "date_start_year": 915,
+      "date_end_year": 945,
+      "location_slug": "constantinople",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_byzantium_012",
+      "date_label": "c. 960 CE",
+      "date_start_year": 945,
+      "date_end_year": 975,
+      "location_slug": "constantinople",
+      "persons_involved": [],
+      "texts_involved": [
+        "picatrix"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_byzantium_013",
+      "date_label": "c. 990 CE",
+      "date_start_year": 975,
+      "date_end_year": 1005,
+      "location_slug": "constantinople",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_byzantium_014",
+      "date_label": "c. 1020 CE",
+      "date_start_year": 1005,
+      "date_end_year": 1035,
+      "location_slug": "constantinople",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_byzantium_015",
+      "date_label": "c. 1050 CE",
+      "date_start_year": 1035,
+      "date_end_year": 1065,
+      "location_slug": "constantinople",
+      "persons_involved": [],
+      "texts_involved": [
+        "ms-fr-640"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_byzantium_016",
+      "date_label": "c. 1080 CE",
+      "date_start_year": 1065,
+      "date_end_year": 1095,
+      "location_slug": "constantinople",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_byzantium_017",
+      "date_label": "c. 1110 CE",
+      "date_start_year": 1095,
+      "date_end_year": 1125,
+      "location_slug": "constantinople",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_byzantium_018",
+      "date_label": "c. 1140 CE",
+      "date_start_year": 1125,
+      "date_end_year": 1155,
+      "location_slug": "constantinople",
+      "persons_involved": [],
+      "texts_involved": [
+        "summa-perfectionis"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_byzantium_019",
+      "date_label": "c. 1170 CE",
+      "date_start_year": 1155,
+      "date_end_year": 1185,
+      "location_slug": "constantinople",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_byzantium_020",
+      "date_label": "c. 1200 CE",
+      "date_start_year": 1185,
+      "date_end_year": 1215,
+      "location_slug": "constantinople",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_byzantium_021",
+      "date_label": "c. 1230 CE",
+      "date_start_year": 1215,
+      "date_end_year": 1245,
+      "location_slug": "constantinople",
+      "persons_involved": [],
+      "texts_involved": [
+        "liber-xxiv-philosophorum"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_byzantium_022",
+      "date_label": "c. 1260 CE",
+      "date_start_year": 1245,
+      "date_end_year": 1275,
+      "location_slug": "constantinople",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_byzantium_023",
+      "date_label": "c. 1290 CE",
+      "date_start_year": 1275,
+      "date_end_year": 1305,
+      "location_slug": "constantinople",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_byzantium_024",
+      "date_label": "c. 1320 CE",
+      "date_start_year": 1305,
+      "date_end_year": 1335,
+      "location_slug": "constantinople",
+      "persons_involved": [],
+      "texts_involved": [
+        "corpus-hermeticum"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    }
+  ],
+  "entities": {
+    "persons": [
+      {
+        "slug": "al-kindi",
+        "name": "Al-Kindi (al-Kindy)",
+        "role_primary": "PHILOSOPHER",
+        "era": "MEDIEVAL"
+      },
+      {
+        "slug": "al-razi",
+        "name": "Al-Razi (Rhazes)",
+        "role_primary": "ALCHEMIST",
+        "era": "MEDIEVAL"
+      },
+      {
+        "slug": "gerard-of-cremona",
+        "name": "Gerard of Cremona",
+        "role_primary": "TRANSLATOR",
+        "era": "MEDIEVAL"
+      },
+      {
+        "slug": "roger-bacon",
+        "name": "Roger Bacon",
+        "role_primary": "PHILOSOPHER",
+        "era": "MEDIEVAL"
+      }
+    ],
+    "texts": [
+      {
+        "slug": "corpus-hermeticum",
+        "title": "Corpus Hermeticum",
+        "text_type": "PRIMARY_SOURCE",
+        "composition_date": "c. 1st-3rd century CE"
+      },
+      {
+        "slug": "de-sex-rerum-principiis",
+        "title": "De Sex Rerum Principiis (On the Six Principles of Things)",
+        "text_type": "PRIMARY_SOURCE",
+        "composition_date": "c. 12th century"
+      },
+      {
+        "slug": "emerald-tablet",
+        "title": "Emerald Tablet (Tabula Smaragdina)",
+        "text_type": "PRIMARY_SOURCE",
+        "composition_date": "c. 6th-8th century (Arab compilation)"
+      },
+      {
+        "slug": "kitab-al-hasib",
+        "title": "Kitāb al-Ḥāsib",
+        "text_type": "PRIMARY_SOURCE",
+        "composition_date": "c. 8th-9th century (attributed to Jabir ibn Hayyan)"
+      },
+      {
+        "slug": "liber-xxiv-philosophorum",
+        "title": "Liber XXIV Philosophorum (Book of Twenty-Four Philosophers)",
+        "text_type": "PRIMARY_SOURCE",
+        "composition_date": "c. 12th century"
+      },
+      {
+        "slug": "ms-fr-640",
+        "title": "Ms. Fr. 640 (Anonymous Technical Manuscript)",
+        "text_type": "PRIMARY_SOURCE",
+        "composition_date": "c. 1580s"
+      },
+      {
+        "slug": "picatrix",
+        "title": "Picatrix (Ghāyat al-Hakīm)",
+        "text_type": "PRIMARY_SOURCE",
+        "composition_date": "c. 10th-11th century"
+      },
+      {
+        "slug": "summa-perfectionis",
+        "title": "Summa Perfectionis (Sum of Perfection)",
+        "text_type": "PRIMARY_SOURCE",
+        "composition_date": "c. 8th-9th century (attributed to Jabir ibn Hayyan)"
+      }
+    ],
+    "concepts": [
+      {
+        "slug": "distillation",
+        "label": "Distillation",
+        "category_type": "ACTOR_TERM"
+      },
+      {
+        "slug": "operational-chemistry",
+        "label": "Operational Chemistry",
+        "category_type": "ANALYST_TERM"
+      }
+    ],
+    "locations": [
+      {
+        "slug": "cairo",
+        "place_name": "Cairo (Heliopolis/Babylon)",
+        "latitude": 30.0444,
+        "longitude": 31.2357
+      },
+      {
+        "slug": "alexandria",
+        "place_name": "Alexandria",
+        "latitude": 31.2001,
+        "longitude": 29.9187
+      },
+      {
+        "slug": "baghdad",
+        "place_name": "Baghdad",
+        "latitude": 33.3128,
+        "longitude": 44.3615
+      },
+      {
+        "slug": "ray",
+        "place_name": "Ray (Rhages)",
+        "latitude": 35.6568,
+        "longitude": 51.4168
+      },
+      {
+        "slug": "damascus",
+        "place_name": "Damascus",
+        "latitude": 33.5138,
+        "longitude": 36.2765
+      },
+      {
+        "slug": "cordoba",
+        "place_name": "Córdoba",
+        "latitude": 37.8882,
+        "longitude": -4.7794
+      },
+      {
+        "slug": "toledo",
+        "place_name": "Toledo",
+        "latitude": 39.8581,
+        "longitude": -4.0201
+      },
+      {
+        "slug": "palermo",
+        "place_name": "Palermo",
+        "latitude": 38.1157,
+        "longitude": 13.3615
+      },
+      {
+        "slug": "hesse-germany",
+        "place_name": "Hesse",
+        "latitude": 50.4501,
+        "longitude": 9.5501
+      },
+      {
+        "slug": "oxford",
+        "place_name": "Oxford",
+        "latitude": 51.752,
+        "longitude": -1.2577
+      },
+      {
+        "slug": "bologna",
+        "place_name": "Bologna",
+        "latitude": 44.4949,
+        "longitude": 11.3426
+      },
+      {
+        "slug": "montpellier",
+        "place_name": "Montpellier",
+        "latitude": 43.6108,
+        "longitude": 3.8767
+      },
+      {
+        "slug": "vienna",
+        "place_name": "Vienna",
+        "latitude": 48.2082,
+        "longitude": 16.3738
+      },
+      {
+        "slug": "florence",
+        "place_name": "Florence",
+        "latitude": 43.7696,
+        "longitude": 11.2558
+      },
+      {
+        "slug": "basle",
+        "place_name": "Basle (Basel)",
+        "latitude": 47.5596,
+        "longitude": 7.5886
+      },
+      {
+        "slug": "salzburg",
+        "place_name": "Salzburg",
+        "latitude": 47.8095,
+        "longitude": 13.055
+      },
+      {
+        "slug": "strasbourg",
+        "place_name": "Strasbourg",
+        "latitude": 48.5734,
+        "longitude": 7.7521
+      },
+      {
+        "slug": "cologne",
+        "place_name": "Cologne",
+        "latitude": 50.9365,
+        "longitude": 6.9589
+      },
+      {
+        "slug": "paris",
+        "place_name": "Paris",
+        "latitude": 48.8566,
+        "longitude": 2.3522
+      },
+      {
+        "slug": "london",
+        "place_name": "London",
+        "latitude": 51.5074,
+        "longitude": -0.1278
+      },
+      {
+        "slug": "rome",
+        "place_name": "Rome",
+        "latitude": 41.9028,
+        "longitude": 12.4964
+      },
+      {
+        "slug": "ven-island",
+        "place_name": "Ven Island (Hven)",
+        "latitude": 55.9125,
+        "longitude": 12.7211
+      },
+      {
+        "slug": "prague",
+        "place_name": "Prague",
+        "latitude": 50.0755,
+        "longitude": 14.4378
+      },
+      {
+        "slug": "frankfurt",
+        "place_name": "Frankfurt",
+        "latitude": 50.1109,
+        "longitude": 8.6821
+      },
+      {
+        "slug": "toulouse",
+        "place_name": "Toulouse",
+        "latitude": 43.6047,
+        "longitude": 1.4442
+      }
+    ]
+  },
+  "metadata": {
+    "batch_name": "Medieval_Byzantium",
+    "total_events": 24,
+    "unique_persons": 4,
+    "unique_texts": 8,
+    "unique_concepts": 2
+  }
+}

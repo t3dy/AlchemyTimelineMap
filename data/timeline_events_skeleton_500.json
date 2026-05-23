@@ -1,0 +1,6314 @@
+{
+  "metadata": {
+    "description": "500-event skeleton for ALCHEMYTIMELINEMAP",
+    "generated": "2026-05-23T02:10:57.398808Z",
+    "batches": 12,
+    "total_events": 440,
+    "batch_structure": [
+      "Late_Antique_Egypt_Syria",
+      "Medieval_Islam_Baghdad_Persia",
+      "Medieval_Islam_Iberia_AlAndalus",
+      "Medieval_Latin_Europe_Monasteries",
+      "Medieval_Latin_Europe_Universities",
+      "Medieval_Byzantium",
+      "Renaissance_Italy_Florence_Venice",
+      "Renaissance_Low_Countries",
+      "Early_Modern_Central_Europe",
+      "Early_Modern_England",
+      "Early_Modern_France",
+      "Early_Modern_Spain_Portugal"
+    ]
+  },
+  "events": [
+    {
+      "slug": "event_late_antique_egypt_syria_000",
+      "date_label": "c. 200 CE",
+      "date_start_year": 190,
+      "date_end_year": 210,
+      "location_slug": "alexandria",
+      "persons_involved": [
+        "zosimos-of-panopolis"
+      ],
+      "texts_involved": [
+        "corpus-hermeticum"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_late_antique_egypt_syria_001",
+      "date_label": "c. 215 CE",
+      "date_start_year": 205,
+      "date_end_year": 225,
+      "location_slug": "cairo",
+      "persons_involved": [
+        "zosimos-of-panopolis"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_late_antique_egypt_syria_002",
+      "date_label": "c. 230 CE",
+      "date_start_year": 220,
+      "date_end_year": 240,
+      "location_slug": "alexandria",
+      "persons_involved": [
+        "zosimos-of-panopolis"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_late_antique_egypt_syria_003",
+      "date_label": "c. 245 CE",
+      "date_start_year": 235,
+      "date_end_year": 255,
+      "location_slug": "cairo",
+      "persons_involved": [
+        "zosimos-of-panopolis"
+      ],
+      "texts_involved": [
+        "kitab-al-hasib"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_late_antique_egypt_syria_004",
+      "date_label": "c. 260 CE",
+      "date_start_year": 250,
+      "date_end_year": 270,
+      "location_slug": "alexandria",
+      "persons_involved": [
+        "zosimos-of-panopolis"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_late_antique_egypt_syria_005",
+      "date_label": "c. 275 CE",
+      "date_start_year": 265,
+      "date_end_year": 285,
+      "location_slug": "cairo",
+      "persons_involved": [
+        "zosimos-of-panopolis"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_late_antique_egypt_syria_006",
+      "date_label": "c. 290 CE",
+      "date_start_year": 280,
+      "date_end_year": 300,
+      "location_slug": "alexandria",
+      "persons_involved": [
+        "zosimos-of-panopolis"
+      ],
+      "texts_involved": [
+        "de-sex-rerum-principiis"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_late_antique_egypt_syria_007",
+      "date_label": "c. 305 CE",
+      "date_start_year": 295,
+      "date_end_year": 315,
+      "location_slug": "cairo",
+      "persons_involved": [
+        "zosimos-of-panopolis"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_late_antique_egypt_syria_008",
+      "date_label": "c. 320 CE",
+      "date_start_year": 310,
+      "date_end_year": 330,
+      "location_slug": "alexandria",
+      "persons_involved": [
+        "zosimos-of-panopolis"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_late_antique_egypt_syria_009",
+      "date_label": "c. 335 CE",
+      "date_start_year": 325,
+      "date_end_year": 345,
+      "location_slug": "cairo",
+      "persons_involved": [
+        "zosimos-of-panopolis"
+      ],
+      "texts_involved": [
+        "emerald-tablet"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_late_antique_egypt_syria_010",
+      "date_label": "c. 350 CE",
+      "date_start_year": 340,
+      "date_end_year": 360,
+      "location_slug": "alexandria",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_late_antique_egypt_syria_011",
+      "date_label": "c. 365 CE",
+      "date_start_year": 355,
+      "date_end_year": 375,
+      "location_slug": "cairo",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_late_antique_egypt_syria_012",
+      "date_label": "c. 380 CE",
+      "date_start_year": 370,
+      "date_end_year": 390,
+      "location_slug": "alexandria",
+      "persons_involved": [],
+      "texts_involved": [
+        "picatrix"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_late_antique_egypt_syria_013",
+      "date_label": "c. 395 CE",
+      "date_start_year": 385,
+      "date_end_year": 405,
+      "location_slug": "cairo",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_late_antique_egypt_syria_014",
+      "date_label": "c. 410 CE",
+      "date_start_year": 400,
+      "date_end_year": 420,
+      "location_slug": "alexandria",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_late_antique_egypt_syria_015",
+      "date_label": "c. 425 CE",
+      "date_start_year": 415,
+      "date_end_year": 435,
+      "location_slug": "cairo",
+      "persons_involved": [],
+      "texts_involved": [
+        "ms-fr-640"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_late_antique_egypt_syria_016",
+      "date_label": "c. 440 CE",
+      "date_start_year": 430,
+      "date_end_year": 450,
+      "location_slug": "alexandria",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_late_antique_egypt_syria_017",
+      "date_label": "c. 455 CE",
+      "date_start_year": 445,
+      "date_end_year": 465,
+      "location_slug": "cairo",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_late_antique_egypt_syria_018",
+      "date_label": "c. 470 CE",
+      "date_start_year": 460,
+      "date_end_year": 480,
+      "location_slug": "alexandria",
+      "persons_involved": [],
+      "texts_involved": [
+        "summa-perfectionis"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_late_antique_egypt_syria_019",
+      "date_label": "c. 485 CE",
+      "date_start_year": 475,
+      "date_end_year": 495,
+      "location_slug": "cairo",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_late_antique_egypt_syria_020",
+      "date_label": "c. 500 CE",
+      "date_start_year": 490,
+      "date_end_year": 510,
+      "location_slug": "alexandria",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_late_antique_egypt_syria_021",
+      "date_label": "c. 515 CE",
+      "date_start_year": 505,
+      "date_end_year": 525,
+      "location_slug": "cairo",
+      "persons_involved": [],
+      "texts_involved": [
+        "liber-xxiv-philosophorum"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_late_antique_egypt_syria_022",
+      "date_label": "c. 530 CE",
+      "date_start_year": 520,
+      "date_end_year": 540,
+      "location_slug": "alexandria",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_late_antique_egypt_syria_023",
+      "date_label": "c. 545 CE",
+      "date_start_year": 535,
+      "date_end_year": 555,
+      "location_slug": "cairo",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_late_antique_egypt_syria_024",
+      "date_label": "c. 560 CE",
+      "date_start_year": 550,
+      "date_end_year": 570,
+      "location_slug": "alexandria",
+      "persons_involved": [],
+      "texts_involved": [
+        "corpus-hermeticum"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_late_antique_egypt_syria_025",
+      "date_label": "c. 575 CE",
+      "date_start_year": 565,
+      "date_end_year": 585,
+      "location_slug": "cairo",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_late_antique_egypt_syria_026",
+      "date_label": "c. 590 CE",
+      "date_start_year": 580,
+      "date_end_year": 600,
+      "location_slug": "alexandria",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_late_antique_egypt_syria_027",
+      "date_label": "c. 605 CE",
+      "date_start_year": 595,
+      "date_end_year": 615,
+      "location_slug": "cairo",
+      "persons_involved": [],
+      "texts_involved": [
+        "kitab-al-hasib"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_late_antique_egypt_syria_028",
+      "date_label": "c. 620 CE",
+      "date_start_year": 610,
+      "date_end_year": 630,
+      "location_slug": "alexandria",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_late_antique_egypt_syria_029",
+      "date_label": "c. 635 CE",
+      "date_start_year": 625,
+      "date_end_year": 645,
+      "location_slug": "cairo",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_000",
+      "date_label": "c. 700 CE",
+      "date_start_year": 690,
+      "date_end_year": 710,
+      "location_slug": "baghdad",
+      "persons_involved": [
+        "jabir-ibn-hayyan"
+      ],
+      "texts_involved": [
+        "corpus-hermeticum"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_001",
+      "date_label": "c. 712 CE",
+      "date_start_year": 702,
+      "date_end_year": 722,
+      "location_slug": "rayy",
+      "persons_involved": [
+        "al-razi"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_002",
+      "date_label": "c. 724 CE",
+      "date_start_year": 714,
+      "date_end_year": 734,
+      "location_slug": "baghdad",
+      "persons_involved": [
+        "al-kindi"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_003",
+      "date_label": "c. 736 CE",
+      "date_start_year": 726,
+      "date_end_year": 746,
+      "location_slug": "rayy",
+      "persons_involved": [
+        "roger-bacon"
+      ],
+      "texts_involved": [
+        "kitab-al-hasib"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_004",
+      "date_label": "c. 748 CE",
+      "date_start_year": 738,
+      "date_end_year": 758,
+      "location_slug": "baghdad",
+      "persons_involved": [
+        "gerard-of-cremona"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_005",
+      "date_label": "c. 760 CE",
+      "date_start_year": 750,
+      "date_end_year": 770,
+      "location_slug": "rayy",
+      "persons_involved": [
+        "jabir-ibn-hayyan"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_006",
+      "date_label": "c. 772 CE",
+      "date_start_year": 762,
+      "date_end_year": 782,
+      "location_slug": "baghdad",
+      "persons_involved": [
+        "al-razi"
+      ],
+      "texts_involved": [
+        "de-sex-rerum-principiis"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_007",
+      "date_label": "c. 784 CE",
+      "date_start_year": 774,
+      "date_end_year": 794,
+      "location_slug": "rayy",
+      "persons_involved": [
+        "al-kindi"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_008",
+      "date_label": "c. 796 CE",
+      "date_start_year": 786,
+      "date_end_year": 806,
+      "location_slug": "baghdad",
+      "persons_involved": [
+        "roger-bacon"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_009",
+      "date_label": "c. 808 CE",
+      "date_start_year": 798,
+      "date_end_year": 818,
+      "location_slug": "rayy",
+      "persons_involved": [
+        "gerard-of-cremona"
+      ],
+      "texts_involved": [
+        "emerald-tablet"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_010",
+      "date_label": "c. 820 CE",
+      "date_start_year": 810,
+      "date_end_year": 830,
+      "location_slug": "baghdad",
+      "persons_involved": [
+        "jabir-ibn-hayyan"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_011",
+      "date_label": "c. 832 CE",
+      "date_start_year": 822,
+      "date_end_year": 842,
+      "location_slug": "rayy",
+      "persons_involved": [
+        "al-razi"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_012",
+      "date_label": "c. 844 CE",
+      "date_start_year": 834,
+      "date_end_year": 854,
+      "location_slug": "baghdad",
+      "persons_involved": [
+        "al-kindi"
+      ],
+      "texts_involved": [
+        "picatrix"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_013",
+      "date_label": "c. 856 CE",
+      "date_start_year": 846,
+      "date_end_year": 866,
+      "location_slug": "rayy",
+      "persons_involved": [
+        "roger-bacon"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_014",
+      "date_label": "c. 868 CE",
+      "date_start_year": 858,
+      "date_end_year": 878,
+      "location_slug": "baghdad",
+      "persons_involved": [
+        "gerard-of-cremona"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_015",
+      "date_label": "c. 880 CE",
+      "date_start_year": 870,
+      "date_end_year": 890,
+      "location_slug": "rayy",
+      "persons_involved": [
+        "jabir-ibn-hayyan"
+      ],
+      "texts_involved": [
+        "ms-fr-640"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_016",
+      "date_label": "c. 892 CE",
+      "date_start_year": 882,
+      "date_end_year": 902,
+      "location_slug": "baghdad",
+      "persons_involved": [
+        "al-razi"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_017",
+      "date_label": "c. 904 CE",
+      "date_start_year": 894,
+      "date_end_year": 914,
+      "location_slug": "rayy",
+      "persons_involved": [
+        "al-kindi"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_018",
+      "date_label": "c. 916 CE",
+      "date_start_year": 906,
+      "date_end_year": 926,
+      "location_slug": "baghdad",
+      "persons_involved": [
+        "roger-bacon"
+      ],
+      "texts_involved": [
+        "summa-perfectionis"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_019",
+      "date_label": "c. 928 CE",
+      "date_start_year": 918,
+      "date_end_year": 938,
+      "location_slug": "rayy",
+      "persons_involved": [
+        "gerard-of-cremona"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_020",
+      "date_label": "c. 940 CE",
+      "date_start_year": 930,
+      "date_end_year": 950,
+      "location_slug": "baghdad",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_021",
+      "date_label": "c. 952 CE",
+      "date_start_year": 942,
+      "date_end_year": 962,
+      "location_slug": "rayy",
+      "persons_involved": [],
+      "texts_involved": [
+        "liber-xxiv-philosophorum"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_022",
+      "date_label": "c. 964 CE",
+      "date_start_year": 954,
+      "date_end_year": 974,
+      "location_slug": "baghdad",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_023",
+      "date_label": "c. 976 CE",
+      "date_start_year": 966,
+      "date_end_year": 986,
+      "location_slug": "rayy",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_024",
+      "date_label": "c. 988 CE",
+      "date_start_year": 978,
+      "date_end_year": 998,
+      "location_slug": "baghdad",
+      "persons_involved": [],
+      "texts_involved": [
+        "corpus-hermeticum"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_025",
+      "date_label": "c. 1000 CE",
+      "date_start_year": 990,
+      "date_end_year": 1010,
+      "location_slug": "rayy",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_026",
+      "date_label": "c. 1012 CE",
+      "date_start_year": 1002,
+      "date_end_year": 1022,
+      "location_slug": "baghdad",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_027",
+      "date_label": "c. 1024 CE",
+      "date_start_year": 1014,
+      "date_end_year": 1034,
+      "location_slug": "rayy",
+      "persons_involved": [],
+      "texts_involved": [
+        "kitab-al-hasib"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_028",
+      "date_label": "c. 1036 CE",
+      "date_start_year": 1026,
+      "date_end_year": 1046,
+      "location_slug": "baghdad",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_029",
+      "date_label": "c. 1048 CE",
+      "date_start_year": 1038,
+      "date_end_year": 1058,
+      "location_slug": "rayy",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_030",
+      "date_label": "c. 1060 CE",
+      "date_start_year": 1050,
+      "date_end_year": 1070,
+      "location_slug": "baghdad",
+      "persons_involved": [],
+      "texts_involved": [
+        "de-sex-rerum-principiis"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_031",
+      "date_label": "c. 1072 CE",
+      "date_start_year": 1062,
+      "date_end_year": 1082,
+      "location_slug": "rayy",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_032",
+      "date_label": "c. 1084 CE",
+      "date_start_year": 1074,
+      "date_end_year": 1094,
+      "location_slug": "baghdad",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_033",
+      "date_label": "c. 1096 CE",
+      "date_start_year": 1086,
+      "date_end_year": 1106,
+      "location_slug": "rayy",
+      "persons_involved": [],
+      "texts_involved": [
+        "emerald-tablet"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_034",
+      "date_label": "c. 1108 CE",
+      "date_start_year": 1098,
+      "date_end_year": 1118,
+      "location_slug": "baghdad",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_035",
+      "date_label": "c. 1120 CE",
+      "date_start_year": 1110,
+      "date_end_year": 1130,
+      "location_slug": "rayy",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_036",
+      "date_label": "c. 1132 CE",
+      "date_start_year": 1122,
+      "date_end_year": 1142,
+      "location_slug": "baghdad",
+      "persons_involved": [],
+      "texts_involved": [
+        "picatrix"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_037",
+      "date_label": "c. 1144 CE",
+      "date_start_year": 1134,
+      "date_end_year": 1154,
+      "location_slug": "rayy",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_038",
+      "date_label": "c. 1156 CE",
+      "date_start_year": 1146,
+      "date_end_year": 1166,
+      "location_slug": "baghdad",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_039",
+      "date_label": "c. 1168 CE",
+      "date_start_year": 1158,
+      "date_end_year": 1178,
+      "location_slug": "rayy",
+      "persons_involved": [],
+      "texts_involved": [
+        "ms-fr-640"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_iberia_000",
+      "date_label": "c. 800 CE",
+      "date_start_year": 790,
+      "date_end_year": 810,
+      "location_slug": "cordoba",
+      "persons_involved": [
+        "jabir-ibn-hayyan"
+      ],
+      "texts_involved": [
+        "corpus-hermeticum"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "fermentation",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_iberia_001",
+      "date_label": "c. 812 CE",
+      "date_start_year": 802,
+      "date_end_year": 822,
+      "location_slug": "toledo",
+      "persons_involved": [
+        "al-razi"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "fermentation",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_iberia_002",
+      "date_label": "c. 824 CE",
+      "date_start_year": 814,
+      "date_end_year": 834,
+      "location_slug": "cordoba",
+      "persons_involved": [
+        "al-kindi"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "fermentation",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_iberia_003",
+      "date_label": "c. 836 CE",
+      "date_start_year": 826,
+      "date_end_year": 846,
+      "location_slug": "toledo",
+      "persons_involved": [
+        "roger-bacon"
+      ],
+      "texts_involved": [
+        "kitab-al-hasib"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "fermentation",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_iberia_004",
+      "date_label": "c. 848 CE",
+      "date_start_year": 838,
+      "date_end_year": 858,
+      "location_slug": "cordoba",
+      "persons_involved": [
+        "gerard-of-cremona"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "fermentation",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_iberia_005",
+      "date_label": "c. 860 CE",
+      "date_start_year": 850,
+      "date_end_year": 870,
+      "location_slug": "toledo",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "fermentation",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_iberia_006",
+      "date_label": "c. 872 CE",
+      "date_start_year": 862,
+      "date_end_year": 882,
+      "location_slug": "cordoba",
+      "persons_involved": [],
+      "texts_involved": [
+        "de-sex-rerum-principiis"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "fermentation",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_iberia_007",
+      "date_label": "c. 884 CE",
+      "date_start_year": 874,
+      "date_end_year": 894,
+      "location_slug": "toledo",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "fermentation",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_iberia_008",
+      "date_label": "c. 896 CE",
+      "date_start_year": 886,
+      "date_end_year": 906,
+      "location_slug": "cordoba",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "fermentation",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_iberia_009",
+      "date_label": "c. 908 CE",
+      "date_start_year": 898,
+      "date_end_year": 918,
+      "location_slug": "toledo",
+      "persons_involved": [],
+      "texts_involved": [
+        "emerald-tablet"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "fermentation",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_iberia_010",
+      "date_label": "c. 920 CE",
+      "date_start_year": 910,
+      "date_end_year": 930,
+      "location_slug": "cordoba",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "fermentation",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_iberia_011",
+      "date_label": "c. 932 CE",
+      "date_start_year": 922,
+      "date_end_year": 942,
+      "location_slug": "toledo",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "fermentation",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_iberia_012",
+      "date_label": "c. 944 CE",
+      "date_start_year": 934,
+      "date_end_year": 954,
+      "location_slug": "cordoba",
+      "persons_involved": [],
+      "texts_involved": [
+        "picatrix"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "fermentation",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_iberia_013",
+      "date_label": "c. 956 CE",
+      "date_start_year": 946,
+      "date_end_year": 966,
+      "location_slug": "toledo",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "fermentation",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_iberia_014",
+      "date_label": "c. 968 CE",
+      "date_start_year": 958,
+      "date_end_year": 978,
+      "location_slug": "cordoba",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "fermentation",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_iberia_015",
+      "date_label": "c. 980 CE",
+      "date_start_year": 970,
+      "date_end_year": 990,
+      "location_slug": "toledo",
+      "persons_involved": [],
+      "texts_involved": [
+        "ms-fr-640"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "fermentation",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_iberia_016",
+      "date_label": "c. 992 CE",
+      "date_start_year": 982,
+      "date_end_year": 1002,
+      "location_slug": "cordoba",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "fermentation",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_iberia_017",
+      "date_label": "c. 1004 CE",
+      "date_start_year": 994,
+      "date_end_year": 1014,
+      "location_slug": "toledo",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "fermentation",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_iberia_018",
+      "date_label": "c. 1016 CE",
+      "date_start_year": 1006,
+      "date_end_year": 1026,
+      "location_slug": "cordoba",
+      "persons_involved": [],
+      "texts_involved": [
+        "summa-perfectionis"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "fermentation",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_iberia_019",
+      "date_label": "c. 1028 CE",
+      "date_start_year": 1018,
+      "date_end_year": 1038,
+      "location_slug": "toledo",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "fermentation",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_iberia_020",
+      "date_label": "c. 1040 CE",
+      "date_start_year": 1030,
+      "date_end_year": 1050,
+      "location_slug": "cordoba",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "fermentation",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_iberia_021",
+      "date_label": "c. 1052 CE",
+      "date_start_year": 1042,
+      "date_end_year": 1062,
+      "location_slug": "toledo",
+      "persons_involved": [],
+      "texts_involved": [
+        "liber-xxiv-philosophorum"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "fermentation",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_iberia_022",
+      "date_label": "c. 1064 CE",
+      "date_start_year": 1054,
+      "date_end_year": 1074,
+      "location_slug": "cordoba",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "fermentation",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_iberia_023",
+      "date_label": "c. 1076 CE",
+      "date_start_year": 1066,
+      "date_end_year": 1086,
+      "location_slug": "toledo",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "fermentation",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_iberia_024",
+      "date_label": "c. 1088 CE",
+      "date_start_year": 1078,
+      "date_end_year": 1098,
+      "location_slug": "cordoba",
+      "persons_involved": [],
+      "texts_involved": [
+        "corpus-hermeticum"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "fermentation",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_iberia_025",
+      "date_label": "c. 1100 CE",
+      "date_start_year": 1090,
+      "date_end_year": 1110,
+      "location_slug": "toledo",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "fermentation",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_iberia_026",
+      "date_label": "c. 1112 CE",
+      "date_start_year": 1102,
+      "date_end_year": 1122,
+      "location_slug": "cordoba",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "fermentation",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_iberia_027",
+      "date_label": "c. 1124 CE",
+      "date_start_year": 1114,
+      "date_end_year": 1134,
+      "location_slug": "toledo",
+      "persons_involved": [],
+      "texts_involved": [
+        "kitab-al-hasib"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "fermentation",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_iberia_028",
+      "date_label": "c. 1136 CE",
+      "date_start_year": 1126,
+      "date_end_year": 1146,
+      "location_slug": "cordoba",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "fermentation",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_iberia_029",
+      "date_label": "c. 1148 CE",
+      "date_start_year": 1138,
+      "date_end_year": 1158,
+      "location_slug": "toledo",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "fermentation",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_iberia_030",
+      "date_label": "c. 1160 CE",
+      "date_start_year": 1150,
+      "date_end_year": 1170,
+      "location_slug": "cordoba",
+      "persons_involved": [],
+      "texts_involved": [
+        "de-sex-rerum-principiis"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "fermentation",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_iberia_031",
+      "date_label": "c. 1172 CE",
+      "date_start_year": 1162,
+      "date_end_year": 1182,
+      "location_slug": "toledo",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "fermentation",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_iberia_032",
+      "date_label": "c. 1184 CE",
+      "date_start_year": 1174,
+      "date_end_year": 1194,
+      "location_slug": "cordoba",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "fermentation",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_iberia_033",
+      "date_label": "c. 1196 CE",
+      "date_start_year": 1186,
+      "date_end_year": 1206,
+      "location_slug": "toledo",
+      "persons_involved": [],
+      "texts_involved": [
+        "emerald-tablet"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "fermentation",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_iberia_034",
+      "date_label": "c. 1208 CE",
+      "date_start_year": 1198,
+      "date_end_year": 1218,
+      "location_slug": "cordoba",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "fermentation",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_medieval_latin_monasteries_000",
+      "date_label": "c. 800 CE",
+      "date_start_year": 790,
+      "date_end_year": 810,
+      "location_slug": "monte-cassino",
+      "persons_involved": [
+        "jabir-ibn-hayyan"
+      ],
+      "texts_involved": [
+        "corpus-hermeticum"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_latin_monasteries_001",
+      "date_label": "c. 815 CE",
+      "date_start_year": 805,
+      "date_end_year": 825,
+      "location_slug": "cluny",
+      "persons_involved": [
+        "al-razi"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_latin_monasteries_002",
+      "date_label": "c. 830 CE",
+      "date_start_year": 820,
+      "date_end_year": 840,
+      "location_slug": "fulda",
+      "persons_involved": [
+        "al-kindi"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_latin_monasteries_003",
+      "date_label": "c. 845 CE",
+      "date_start_year": 835,
+      "date_end_year": 855,
+      "location_slug": "canterbury",
+      "persons_involved": [
+        "roger-bacon"
+      ],
+      "texts_involved": [
+        "kitab-al-hasib"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_latin_monasteries_004",
+      "date_label": "c. 860 CE",
+      "date_start_year": 850,
+      "date_end_year": 870,
+      "location_slug": "monte-cassino",
+      "persons_involved": [
+        "gerard-of-cremona"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_latin_monasteries_005",
+      "date_label": "c. 875 CE",
+      "date_start_year": 865,
+      "date_end_year": 885,
+      "location_slug": "cluny",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_latin_monasteries_006",
+      "date_label": "c. 890 CE",
+      "date_start_year": 880,
+      "date_end_year": 900,
+      "location_slug": "fulda",
+      "persons_involved": [],
+      "texts_involved": [
+        "de-sex-rerum-principiis"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_latin_monasteries_007",
+      "date_label": "c. 905 CE",
+      "date_start_year": 895,
+      "date_end_year": 915,
+      "location_slug": "canterbury",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_latin_monasteries_008",
+      "date_label": "c. 920 CE",
+      "date_start_year": 910,
+      "date_end_year": 930,
+      "location_slug": "monte-cassino",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_latin_monasteries_009",
+      "date_label": "c. 935 CE",
+      "date_start_year": 925,
+      "date_end_year": 945,
+      "location_slug": "cluny",
+      "persons_involved": [],
+      "texts_involved": [
+        "emerald-tablet"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_latin_monasteries_010",
+      "date_label": "c. 950 CE",
+      "date_start_year": 940,
+      "date_end_year": 960,
+      "location_slug": "fulda",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_latin_monasteries_011",
+      "date_label": "c. 965 CE",
+      "date_start_year": 955,
+      "date_end_year": 975,
+      "location_slug": "canterbury",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_latin_monasteries_012",
+      "date_label": "c. 980 CE",
+      "date_start_year": 970,
+      "date_end_year": 990,
+      "location_slug": "monte-cassino",
+      "persons_involved": [],
+      "texts_involved": [
+        "picatrix"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_latin_monasteries_013",
+      "date_label": "c. 995 CE",
+      "date_start_year": 985,
+      "date_end_year": 1005,
+      "location_slug": "cluny",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_latin_monasteries_014",
+      "date_label": "c. 1010 CE",
+      "date_start_year": 1000,
+      "date_end_year": 1020,
+      "location_slug": "fulda",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_latin_monasteries_015",
+      "date_label": "c. 1025 CE",
+      "date_start_year": 1015,
+      "date_end_year": 1035,
+      "location_slug": "canterbury",
+      "persons_involved": [],
+      "texts_involved": [
+        "ms-fr-640"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_latin_monasteries_016",
+      "date_label": "c. 1040 CE",
+      "date_start_year": 1030,
+      "date_end_year": 1050,
+      "location_slug": "monte-cassino",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_latin_monasteries_017",
+      "date_label": "c. 1055 CE",
+      "date_start_year": 1045,
+      "date_end_year": 1065,
+      "location_slug": "cluny",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_latin_monasteries_018",
+      "date_label": "c. 1070 CE",
+      "date_start_year": 1060,
+      "date_end_year": 1080,
+      "location_slug": "fulda",
+      "persons_involved": [],
+      "texts_involved": [
+        "summa-perfectionis"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_latin_monasteries_019",
+      "date_label": "c. 1085 CE",
+      "date_start_year": 1075,
+      "date_end_year": 1095,
+      "location_slug": "canterbury",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_latin_monasteries_020",
+      "date_label": "c. 1100 CE",
+      "date_start_year": 1090,
+      "date_end_year": 1110,
+      "location_slug": "monte-cassino",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_latin_monasteries_021",
+      "date_label": "c. 1115 CE",
+      "date_start_year": 1105,
+      "date_end_year": 1125,
+      "location_slug": "cluny",
+      "persons_involved": [],
+      "texts_involved": [
+        "liber-xxiv-philosophorum"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_latin_monasteries_022",
+      "date_label": "c. 1130 CE",
+      "date_start_year": 1120,
+      "date_end_year": 1140,
+      "location_slug": "fulda",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_latin_monasteries_023",
+      "date_label": "c. 1145 CE",
+      "date_start_year": 1135,
+      "date_end_year": 1155,
+      "location_slug": "canterbury",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_latin_monasteries_024",
+      "date_label": "c. 1160 CE",
+      "date_start_year": 1150,
+      "date_end_year": 1170,
+      "location_slug": "monte-cassino",
+      "persons_involved": [],
+      "texts_involved": [
+        "corpus-hermeticum"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_latin_monasteries_025",
+      "date_label": "c. 1175 CE",
+      "date_start_year": 1165,
+      "date_end_year": 1185,
+      "location_slug": "cluny",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_latin_monasteries_026",
+      "date_label": "c. 1190 CE",
+      "date_start_year": 1180,
+      "date_end_year": 1200,
+      "location_slug": "fulda",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_latin_monasteries_027",
+      "date_label": "c. 1205 CE",
+      "date_start_year": 1195,
+      "date_end_year": 1215,
+      "location_slug": "canterbury",
+      "persons_involved": [],
+      "texts_involved": [
+        "kitab-al-hasib"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_latin_monasteries_028",
+      "date_label": "c. 1220 CE",
+      "date_start_year": 1210,
+      "date_end_year": 1230,
+      "location_slug": "monte-cassino",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_latin_monasteries_029",
+      "date_label": "c. 1235 CE",
+      "date_start_year": 1225,
+      "date_end_year": 1245,
+      "location_slug": "cluny",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_latin_monasteries_030",
+      "date_label": "c. 1250 CE",
+      "date_start_year": 1240,
+      "date_end_year": 1260,
+      "location_slug": "fulda",
+      "persons_involved": [],
+      "texts_involved": [
+        "de-sex-rerum-principiis"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_latin_monasteries_031",
+      "date_label": "c. 1265 CE",
+      "date_start_year": 1255,
+      "date_end_year": 1275,
+      "location_slug": "canterbury",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_latin_monasteries_032",
+      "date_label": "c. 1280 CE",
+      "date_start_year": 1270,
+      "date_end_year": 1290,
+      "location_slug": "monte-cassino",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_latin_monasteries_033",
+      "date_label": "c. 1295 CE",
+      "date_start_year": 1285,
+      "date_end_year": 1305,
+      "location_slug": "cluny",
+      "persons_involved": [],
+      "texts_involved": [
+        "emerald-tablet"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_latin_monasteries_034",
+      "date_label": "c. 1310 CE",
+      "date_start_year": 1300,
+      "date_end_year": 1320,
+      "location_slug": "fulda",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_latin_monasteries_035",
+      "date_label": "c. 1325 CE",
+      "date_start_year": 1315,
+      "date_end_year": 1335,
+      "location_slug": "canterbury",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_latin_monasteries_036",
+      "date_label": "c. 1340 CE",
+      "date_start_year": 1330,
+      "date_end_year": 1350,
+      "location_slug": "monte-cassino",
+      "persons_involved": [],
+      "texts_involved": [
+        "picatrix"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_latin_monasteries_037",
+      "date_label": "c. 1355 CE",
+      "date_start_year": 1345,
+      "date_end_year": 1365,
+      "location_slug": "cluny",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_latin_monasteries_038",
+      "date_label": "c. 1370 CE",
+      "date_start_year": 1360,
+      "date_end_year": 1380,
+      "location_slug": "fulda",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_latin_monasteries_039",
+      "date_label": "c. 1385 CE",
+      "date_start_year": 1375,
+      "date_end_year": 1395,
+      "location_slug": "canterbury",
+      "persons_involved": [],
+      "texts_involved": [
+        "ms-fr-640"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_universities_000",
+      "date_label": "c. 1200 CE",
+      "date_start_year": 1190,
+      "date_end_year": 1210,
+      "location_slug": "bologna",
+      "persons_involved": [
+        "jabir-ibn-hayyan"
+      ],
+      "texts_involved": [
+        "corpus-hermeticum"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "natural-philosophy"
+      ]
+    },
+    {
+      "slug": "event_medieval_universities_001",
+      "date_label": "c. 1212 CE",
+      "date_start_year": 1202,
+      "date_end_year": 1222,
+      "location_slug": "paris",
+      "persons_involved": [
+        "al-razi"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "natural-philosophy"
+      ]
+    },
+    {
+      "slug": "event_medieval_universities_002",
+      "date_label": "c. 1224 CE",
+      "date_start_year": 1214,
+      "date_end_year": 1234,
+      "location_slug": "oxford",
+      "persons_involved": [
+        "al-kindi"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "natural-philosophy"
+      ]
+    },
+    {
+      "slug": "event_medieval_universities_003",
+      "date_label": "c. 1236 CE",
+      "date_start_year": 1226,
+      "date_end_year": 1246,
+      "location_slug": "prague",
+      "persons_involved": [
+        "roger-bacon"
+      ],
+      "texts_involved": [
+        "kitab-al-hasib"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "natural-philosophy"
+      ]
+    },
+    {
+      "slug": "event_medieval_universities_004",
+      "date_label": "c. 1248 CE",
+      "date_start_year": 1238,
+      "date_end_year": 1258,
+      "location_slug": "bologna",
+      "persons_involved": [
+        "gerard-of-cremona"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "natural-philosophy"
+      ]
+    },
+    {
+      "slug": "event_medieval_universities_005",
+      "date_label": "c. 1260 CE",
+      "date_start_year": 1250,
+      "date_end_year": 1270,
+      "location_slug": "paris",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "natural-philosophy"
+      ]
+    },
+    {
+      "slug": "event_medieval_universities_006",
+      "date_label": "c. 1272 CE",
+      "date_start_year": 1262,
+      "date_end_year": 1282,
+      "location_slug": "oxford",
+      "persons_involved": [],
+      "texts_involved": [
+        "de-sex-rerum-principiis"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "natural-philosophy"
+      ]
+    },
+    {
+      "slug": "event_medieval_universities_007",
+      "date_label": "c. 1284 CE",
+      "date_start_year": 1274,
+      "date_end_year": 1294,
+      "location_slug": "prague",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "natural-philosophy"
+      ]
+    },
+    {
+      "slug": "event_medieval_universities_008",
+      "date_label": "c. 1296 CE",
+      "date_start_year": 1286,
+      "date_end_year": 1306,
+      "location_slug": "bologna",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "natural-philosophy"
+      ]
+    },
+    {
+      "slug": "event_medieval_universities_009",
+      "date_label": "c. 1308 CE",
+      "date_start_year": 1298,
+      "date_end_year": 1318,
+      "location_slug": "paris",
+      "persons_involved": [],
+      "texts_involved": [
+        "emerald-tablet"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "natural-philosophy"
+      ]
+    },
+    {
+      "slug": "event_medieval_universities_010",
+      "date_label": "c. 1320 CE",
+      "date_start_year": 1310,
+      "date_end_year": 1330,
+      "location_slug": "oxford",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "natural-philosophy"
+      ]
+    },
+    {
+      "slug": "event_medieval_universities_011",
+      "date_label": "c. 1332 CE",
+      "date_start_year": 1322,
+      "date_end_year": 1342,
+      "location_slug": "prague",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "natural-philosophy"
+      ]
+    },
+    {
+      "slug": "event_medieval_universities_012",
+      "date_label": "c. 1344 CE",
+      "date_start_year": 1334,
+      "date_end_year": 1354,
+      "location_slug": "bologna",
+      "persons_involved": [],
+      "texts_involved": [
+        "picatrix"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "natural-philosophy"
+      ]
+    },
+    {
+      "slug": "event_medieval_universities_013",
+      "date_label": "c. 1356 CE",
+      "date_start_year": 1346,
+      "date_end_year": 1366,
+      "location_slug": "paris",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "natural-philosophy"
+      ]
+    },
+    {
+      "slug": "event_medieval_universities_014",
+      "date_label": "c. 1368 CE",
+      "date_start_year": 1358,
+      "date_end_year": 1378,
+      "location_slug": "oxford",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "natural-philosophy"
+      ]
+    },
+    {
+      "slug": "event_medieval_universities_015",
+      "date_label": "c. 1380 CE",
+      "date_start_year": 1370,
+      "date_end_year": 1390,
+      "location_slug": "prague",
+      "persons_involved": [],
+      "texts_involved": [
+        "ms-fr-640"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "natural-philosophy"
+      ]
+    },
+    {
+      "slug": "event_medieval_universities_016",
+      "date_label": "c. 1392 CE",
+      "date_start_year": 1382,
+      "date_end_year": 1402,
+      "location_slug": "bologna",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "natural-philosophy"
+      ]
+    },
+    {
+      "slug": "event_medieval_universities_017",
+      "date_label": "c. 1404 CE",
+      "date_start_year": 1394,
+      "date_end_year": 1414,
+      "location_slug": "paris",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "natural-philosophy"
+      ]
+    },
+    {
+      "slug": "event_medieval_universities_018",
+      "date_label": "c. 1416 CE",
+      "date_start_year": 1406,
+      "date_end_year": 1426,
+      "location_slug": "oxford",
+      "persons_involved": [],
+      "texts_involved": [
+        "summa-perfectionis"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "natural-philosophy"
+      ]
+    },
+    {
+      "slug": "event_medieval_universities_019",
+      "date_label": "c. 1428 CE",
+      "date_start_year": 1418,
+      "date_end_year": 1438,
+      "location_slug": "prague",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "natural-philosophy"
+      ]
+    },
+    {
+      "slug": "event_medieval_universities_020",
+      "date_label": "c. 1440 CE",
+      "date_start_year": 1430,
+      "date_end_year": 1450,
+      "location_slug": "bologna",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "natural-philosophy"
+      ]
+    },
+    {
+      "slug": "event_medieval_universities_021",
+      "date_label": "c. 1452 CE",
+      "date_start_year": 1442,
+      "date_end_year": 1462,
+      "location_slug": "paris",
+      "persons_involved": [],
+      "texts_involved": [
+        "liber-xxiv-philosophorum"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "natural-philosophy"
+      ]
+    },
+    {
+      "slug": "event_medieval_universities_022",
+      "date_label": "c. 1464 CE",
+      "date_start_year": 1454,
+      "date_end_year": 1474,
+      "location_slug": "oxford",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "natural-philosophy"
+      ]
+    },
+    {
+      "slug": "event_medieval_universities_023",
+      "date_label": "c. 1476 CE",
+      "date_start_year": 1466,
+      "date_end_year": 1486,
+      "location_slug": "prague",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "natural-philosophy"
+      ]
+    },
+    {
+      "slug": "event_medieval_universities_024",
+      "date_label": "c. 1488 CE",
+      "date_start_year": 1478,
+      "date_end_year": 1498,
+      "location_slug": "bologna",
+      "persons_involved": [],
+      "texts_involved": [
+        "corpus-hermeticum"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "natural-philosophy"
+      ]
+    },
+    {
+      "slug": "event_medieval_universities_025",
+      "date_label": "c. 1500 CE",
+      "date_start_year": 1490,
+      "date_end_year": 1510,
+      "location_slug": "paris",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "natural-philosophy"
+      ]
+    },
+    {
+      "slug": "event_medieval_universities_026",
+      "date_label": "c. 1512 CE",
+      "date_start_year": 1502,
+      "date_end_year": 1522,
+      "location_slug": "oxford",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "natural-philosophy"
+      ]
+    },
+    {
+      "slug": "event_medieval_universities_027",
+      "date_label": "c. 1524 CE",
+      "date_start_year": 1514,
+      "date_end_year": 1534,
+      "location_slug": "prague",
+      "persons_involved": [],
+      "texts_involved": [
+        "kitab-al-hasib"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "natural-philosophy"
+      ]
+    },
+    {
+      "slug": "event_medieval_universities_028",
+      "date_label": "c. 1536 CE",
+      "date_start_year": 1526,
+      "date_end_year": 1546,
+      "location_slug": "bologna",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "natural-philosophy"
+      ]
+    },
+    {
+      "slug": "event_medieval_universities_029",
+      "date_label": "c. 1548 CE",
+      "date_start_year": 1538,
+      "date_end_year": 1558,
+      "location_slug": "paris",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "natural-philosophy"
+      ]
+    },
+    {
+      "slug": "event_medieval_universities_030",
+      "date_label": "c. 1560 CE",
+      "date_start_year": 1550,
+      "date_end_year": 1570,
+      "location_slug": "oxford",
+      "persons_involved": [],
+      "texts_involved": [
+        "de-sex-rerum-principiis"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "natural-philosophy"
+      ]
+    },
+    {
+      "slug": "event_medieval_universities_031",
+      "date_label": "c. 1572 CE",
+      "date_start_year": 1562,
+      "date_end_year": 1582,
+      "location_slug": "prague",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "natural-philosophy"
+      ]
+    },
+    {
+      "slug": "event_medieval_universities_032",
+      "date_label": "c. 1584 CE",
+      "date_start_year": 1574,
+      "date_end_year": 1594,
+      "location_slug": "bologna",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "natural-philosophy"
+      ]
+    },
+    {
+      "slug": "event_medieval_universities_033",
+      "date_label": "c. 1596 CE",
+      "date_start_year": 1586,
+      "date_end_year": 1606,
+      "location_slug": "paris",
+      "persons_involved": [],
+      "texts_involved": [
+        "emerald-tablet"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "natural-philosophy"
+      ]
+    },
+    {
+      "slug": "event_medieval_universities_034",
+      "date_label": "c. 1608 CE",
+      "date_start_year": 1598,
+      "date_end_year": 1618,
+      "location_slug": "oxford",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "natural-philosophy"
+      ]
+    },
+    {
+      "slug": "event_medieval_byzantium_000",
+      "date_label": "c. 600 CE",
+      "date_start_year": 585,
+      "date_end_year": 615,
+      "location_slug": "constantinople",
+      "persons_involved": [
+        "jabir-ibn-hayyan"
+      ],
+      "texts_involved": [
+        "corpus-hermeticum"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_byzantium_001",
+      "date_label": "c. 630 CE",
+      "date_start_year": 615,
+      "date_end_year": 645,
+      "location_slug": "constantinople",
+      "persons_involved": [
+        "al-razi"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_byzantium_002",
+      "date_label": "c. 660 CE",
+      "date_start_year": 645,
+      "date_end_year": 675,
+      "location_slug": "constantinople",
+      "persons_involved": [
+        "al-kindi"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_byzantium_003",
+      "date_label": "c. 690 CE",
+      "date_start_year": 675,
+      "date_end_year": 705,
+      "location_slug": "constantinople",
+      "persons_involved": [
+        "roger-bacon"
+      ],
+      "texts_involved": [
+        "kitab-al-hasib"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_byzantium_004",
+      "date_label": "c. 720 CE",
+      "date_start_year": 705,
+      "date_end_year": 735,
+      "location_slug": "constantinople",
+      "persons_involved": [
+        "gerard-of-cremona"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_byzantium_005",
+      "date_label": "c. 750 CE",
+      "date_start_year": 735,
+      "date_end_year": 765,
+      "location_slug": "constantinople",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_byzantium_006",
+      "date_label": "c. 780 CE",
+      "date_start_year": 765,
+      "date_end_year": 795,
+      "location_slug": "constantinople",
+      "persons_involved": [],
+      "texts_involved": [
+        "de-sex-rerum-principiis"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_byzantium_007",
+      "date_label": "c. 810 CE",
+      "date_start_year": 795,
+      "date_end_year": 825,
+      "location_slug": "constantinople",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_byzantium_008",
+      "date_label": "c. 840 CE",
+      "date_start_year": 825,
+      "date_end_year": 855,
+      "location_slug": "constantinople",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_byzantium_009",
+      "date_label": "c. 870 CE",
+      "date_start_year": 855,
+      "date_end_year": 885,
+      "location_slug": "constantinople",
+      "persons_involved": [],
+      "texts_involved": [
+        "emerald-tablet"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_byzantium_010",
+      "date_label": "c. 900 CE",
+      "date_start_year": 885,
+      "date_end_year": 915,
+      "location_slug": "constantinople",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_byzantium_011",
+      "date_label": "c. 930 CE",
+      "date_start_year": 915,
+      "date_end_year": 945,
+      "location_slug": "constantinople",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_byzantium_012",
+      "date_label": "c. 960 CE",
+      "date_start_year": 945,
+      "date_end_year": 975,
+      "location_slug": "constantinople",
+      "persons_involved": [],
+      "texts_involved": [
+        "picatrix"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_byzantium_013",
+      "date_label": "c. 990 CE",
+      "date_start_year": 975,
+      "date_end_year": 1005,
+      "location_slug": "constantinople",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_byzantium_014",
+      "date_label": "c. 1020 CE",
+      "date_start_year": 1005,
+      "date_end_year": 1035,
+      "location_slug": "constantinople",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_byzantium_015",
+      "date_label": "c. 1050 CE",
+      "date_start_year": 1035,
+      "date_end_year": 1065,
+      "location_slug": "constantinople",
+      "persons_involved": [],
+      "texts_involved": [
+        "ms-fr-640"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_byzantium_016",
+      "date_label": "c. 1080 CE",
+      "date_start_year": 1065,
+      "date_end_year": 1095,
+      "location_slug": "constantinople",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_byzantium_017",
+      "date_label": "c. 1110 CE",
+      "date_start_year": 1095,
+      "date_end_year": 1125,
+      "location_slug": "constantinople",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_byzantium_018",
+      "date_label": "c. 1140 CE",
+      "date_start_year": 1125,
+      "date_end_year": 1155,
+      "location_slug": "constantinople",
+      "persons_involved": [],
+      "texts_involved": [
+        "summa-perfectionis"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_byzantium_019",
+      "date_label": "c. 1170 CE",
+      "date_start_year": 1155,
+      "date_end_year": 1185,
+      "location_slug": "constantinople",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_byzantium_020",
+      "date_label": "c. 1200 CE",
+      "date_start_year": 1185,
+      "date_end_year": 1215,
+      "location_slug": "constantinople",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_byzantium_021",
+      "date_label": "c. 1230 CE",
+      "date_start_year": 1215,
+      "date_end_year": 1245,
+      "location_slug": "constantinople",
+      "persons_involved": [],
+      "texts_involved": [
+        "liber-xxiv-philosophorum"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_byzantium_022",
+      "date_label": "c. 1260 CE",
+      "date_start_year": 1245,
+      "date_end_year": 1275,
+      "location_slug": "constantinople",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_byzantium_023",
+      "date_label": "c. 1290 CE",
+      "date_start_year": 1275,
+      "date_end_year": 1305,
+      "location_slug": "constantinople",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_medieval_byzantium_024",
+      "date_label": "c. 1320 CE",
+      "date_start_year": 1305,
+      "date_end_year": 1335,
+      "location_slug": "constantinople",
+      "persons_involved": [],
+      "texts_involved": [
+        "corpus-hermeticum"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_000",
+      "date_label": "c. 1300 CE",
+      "date_start_year": 1295,
+      "date_end_year": 1305,
+      "location_slug": "florence",
+      "persons_involved": [
+        "marsilio-ficino"
+      ],
+      "texts_involved": [
+        "corpus-hermeticum"
+      ],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_001",
+      "date_label": "c. 1308 CE",
+      "date_start_year": 1303,
+      "date_end_year": 1313,
+      "location_slug": "venice",
+      "persons_involved": [
+        "pico-della-mirandola"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_002",
+      "date_label": "c. 1316 CE",
+      "date_start_year": 1311,
+      "date_end_year": 1321,
+      "location_slug": "florence",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_003",
+      "date_label": "c. 1324 CE",
+      "date_start_year": 1319,
+      "date_end_year": 1329,
+      "location_slug": "venice",
+      "persons_involved": [],
+      "texts_involved": [
+        "kitab-al-hasib"
+      ],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_004",
+      "date_label": "c. 1332 CE",
+      "date_start_year": 1327,
+      "date_end_year": 1337,
+      "location_slug": "florence",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_005",
+      "date_label": "c. 1340 CE",
+      "date_start_year": 1335,
+      "date_end_year": 1345,
+      "location_slug": "venice",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_006",
+      "date_label": "c. 1348 CE",
+      "date_start_year": 1343,
+      "date_end_year": 1353,
+      "location_slug": "florence",
+      "persons_involved": [],
+      "texts_involved": [
+        "de-sex-rerum-principiis"
+      ],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_007",
+      "date_label": "c. 1356 CE",
+      "date_start_year": 1351,
+      "date_end_year": 1361,
+      "location_slug": "venice",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_008",
+      "date_label": "c. 1364 CE",
+      "date_start_year": 1359,
+      "date_end_year": 1369,
+      "location_slug": "florence",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_009",
+      "date_label": "c. 1372 CE",
+      "date_start_year": 1367,
+      "date_end_year": 1377,
+      "location_slug": "venice",
+      "persons_involved": [],
+      "texts_involved": [
+        "emerald-tablet"
+      ],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_010",
+      "date_label": "c. 1380 CE",
+      "date_start_year": 1375,
+      "date_end_year": 1385,
+      "location_slug": "florence",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_011",
+      "date_label": "c. 1388 CE",
+      "date_start_year": 1383,
+      "date_end_year": 1393,
+      "location_slug": "venice",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_012",
+      "date_label": "c. 1396 CE",
+      "date_start_year": 1391,
+      "date_end_year": 1401,
+      "location_slug": "florence",
+      "persons_involved": [],
+      "texts_involved": [
+        "picatrix"
+      ],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_013",
+      "date_label": "c. 1404 CE",
+      "date_start_year": 1399,
+      "date_end_year": 1409,
+      "location_slug": "venice",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_014",
+      "date_label": "c. 1412 CE",
+      "date_start_year": 1407,
+      "date_end_year": 1417,
+      "location_slug": "florence",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_015",
+      "date_label": "c. 1420 CE",
+      "date_start_year": 1415,
+      "date_end_year": 1425,
+      "location_slug": "venice",
+      "persons_involved": [],
+      "texts_involved": [
+        "ms-fr-640"
+      ],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_016",
+      "date_label": "c. 1428 CE",
+      "date_start_year": 1423,
+      "date_end_year": 1433,
+      "location_slug": "florence",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_017",
+      "date_label": "c. 1436 CE",
+      "date_start_year": 1431,
+      "date_end_year": 1441,
+      "location_slug": "venice",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_018",
+      "date_label": "c. 1444 CE",
+      "date_start_year": 1439,
+      "date_end_year": 1449,
+      "location_slug": "florence",
+      "persons_involved": [],
+      "texts_involved": [
+        "summa-perfectionis"
+      ],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_019",
+      "date_label": "c. 1452 CE",
+      "date_start_year": 1447,
+      "date_end_year": 1457,
+      "location_slug": "venice",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_020",
+      "date_label": "c. 1460 CE",
+      "date_start_year": 1455,
+      "date_end_year": 1465,
+      "location_slug": "florence",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_021",
+      "date_label": "c. 1468 CE",
+      "date_start_year": 1463,
+      "date_end_year": 1473,
+      "location_slug": "venice",
+      "persons_involved": [],
+      "texts_involved": [
+        "liber-xxiv-philosophorum"
+      ],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_022",
+      "date_label": "c. 1476 CE",
+      "date_start_year": 1471,
+      "date_end_year": 1481,
+      "location_slug": "florence",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_023",
+      "date_label": "c. 1484 CE",
+      "date_start_year": 1479,
+      "date_end_year": 1489,
+      "location_slug": "venice",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_024",
+      "date_label": "c. 1492 CE",
+      "date_start_year": 1487,
+      "date_end_year": 1497,
+      "location_slug": "florence",
+      "persons_involved": [],
+      "texts_involved": [
+        "corpus-hermeticum"
+      ],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_025",
+      "date_label": "c. 1500 CE",
+      "date_start_year": 1495,
+      "date_end_year": 1505,
+      "location_slug": "venice",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_026",
+      "date_label": "c. 1508 CE",
+      "date_start_year": 1503,
+      "date_end_year": 1513,
+      "location_slug": "florence",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_027",
+      "date_label": "c. 1516 CE",
+      "date_start_year": 1511,
+      "date_end_year": 1521,
+      "location_slug": "venice",
+      "persons_involved": [],
+      "texts_involved": [
+        "kitab-al-hasib"
+      ],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_028",
+      "date_label": "c. 1524 CE",
+      "date_start_year": 1519,
+      "date_end_year": 1529,
+      "location_slug": "florence",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_029",
+      "date_label": "c. 1532 CE",
+      "date_start_year": 1527,
+      "date_end_year": 1537,
+      "location_slug": "venice",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_030",
+      "date_label": "c. 1540 CE",
+      "date_start_year": 1535,
+      "date_end_year": 1545,
+      "location_slug": "florence",
+      "persons_involved": [],
+      "texts_involved": [
+        "de-sex-rerum-principiis"
+      ],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_031",
+      "date_label": "c. 1548 CE",
+      "date_start_year": 1543,
+      "date_end_year": 1553,
+      "location_slug": "venice",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_032",
+      "date_label": "c. 1556 CE",
+      "date_start_year": 1551,
+      "date_end_year": 1561,
+      "location_slug": "florence",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_033",
+      "date_label": "c. 1564 CE",
+      "date_start_year": 1559,
+      "date_end_year": 1569,
+      "location_slug": "venice",
+      "persons_involved": [],
+      "texts_involved": [
+        "emerald-tablet"
+      ],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_034",
+      "date_label": "c. 1572 CE",
+      "date_start_year": 1567,
+      "date_end_year": 1577,
+      "location_slug": "florence",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_035",
+      "date_label": "c. 1580 CE",
+      "date_start_year": 1575,
+      "date_end_year": 1585,
+      "location_slug": "venice",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_036",
+      "date_label": "c. 1588 CE",
+      "date_start_year": 1583,
+      "date_end_year": 1593,
+      "location_slug": "florence",
+      "persons_involved": [],
+      "texts_involved": [
+        "picatrix"
+      ],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_037",
+      "date_label": "c. 1596 CE",
+      "date_start_year": 1591,
+      "date_end_year": 1601,
+      "location_slug": "venice",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_038",
+      "date_label": "c. 1604 CE",
+      "date_start_year": 1599,
+      "date_end_year": 1609,
+      "location_slug": "florence",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_039",
+      "date_label": "c. 1612 CE",
+      "date_start_year": 1607,
+      "date_end_year": 1617,
+      "location_slug": "venice",
+      "persons_involved": [],
+      "texts_involved": [
+        "ms-fr-640"
+      ],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_040",
+      "date_label": "c. 1620 CE",
+      "date_start_year": 1615,
+      "date_end_year": 1625,
+      "location_slug": "florence",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_041",
+      "date_label": "c. 1628 CE",
+      "date_start_year": 1623,
+      "date_end_year": 1633,
+      "location_slug": "venice",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_042",
+      "date_label": "c. 1636 CE",
+      "date_start_year": 1631,
+      "date_end_year": 1641,
+      "location_slug": "florence",
+      "persons_involved": [],
+      "texts_involved": [
+        "summa-perfectionis"
+      ],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_043",
+      "date_label": "c. 1644 CE",
+      "date_start_year": 1639,
+      "date_end_year": 1649,
+      "location_slug": "venice",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_044",
+      "date_label": "c. 1652 CE",
+      "date_start_year": 1647,
+      "date_end_year": 1657,
+      "location_slug": "florence",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_low_countries_000",
+      "date_label": "c. 1400 CE",
+      "date_start_year": 1395,
+      "date_end_year": 1405,
+      "location_slug": "antwerp",
+      "persons_involved": [
+        "marsilio-ficino"
+      ],
+      "texts_involved": [
+        "corpus-hermeticum"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "chemical-experimentation"
+      ]
+    },
+    {
+      "slug": "event_renaissance_low_countries_001",
+      "date_label": "c. 1408 CE",
+      "date_start_year": 1403,
+      "date_end_year": 1413,
+      "location_slug": "bruges",
+      "persons_involved": [
+        "pico-della-mirandola"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "chemical-experimentation"
+      ]
+    },
+    {
+      "slug": "event_renaissance_low_countries_002",
+      "date_label": "c. 1416 CE",
+      "date_start_year": 1411,
+      "date_end_year": 1421,
+      "location_slug": "antwerp",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "chemical-experimentation"
+      ]
+    },
+    {
+      "slug": "event_renaissance_low_countries_003",
+      "date_label": "c. 1424 CE",
+      "date_start_year": 1419,
+      "date_end_year": 1429,
+      "location_slug": "bruges",
+      "persons_involved": [],
+      "texts_involved": [
+        "kitab-al-hasib"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "chemical-experimentation"
+      ]
+    },
+    {
+      "slug": "event_renaissance_low_countries_004",
+      "date_label": "c. 1432 CE",
+      "date_start_year": 1427,
+      "date_end_year": 1437,
+      "location_slug": "antwerp",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "chemical-experimentation"
+      ]
+    },
+    {
+      "slug": "event_renaissance_low_countries_005",
+      "date_label": "c. 1440 CE",
+      "date_start_year": 1435,
+      "date_end_year": 1445,
+      "location_slug": "bruges",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "chemical-experimentation"
+      ]
+    },
+    {
+      "slug": "event_renaissance_low_countries_006",
+      "date_label": "c. 1448 CE",
+      "date_start_year": 1443,
+      "date_end_year": 1453,
+      "location_slug": "antwerp",
+      "persons_involved": [],
+      "texts_involved": [
+        "de-sex-rerum-principiis"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "chemical-experimentation"
+      ]
+    },
+    {
+      "slug": "event_renaissance_low_countries_007",
+      "date_label": "c. 1456 CE",
+      "date_start_year": 1451,
+      "date_end_year": 1461,
+      "location_slug": "bruges",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "chemical-experimentation"
+      ]
+    },
+    {
+      "slug": "event_renaissance_low_countries_008",
+      "date_label": "c. 1464 CE",
+      "date_start_year": 1459,
+      "date_end_year": 1469,
+      "location_slug": "antwerp",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "chemical-experimentation"
+      ]
+    },
+    {
+      "slug": "event_renaissance_low_countries_009",
+      "date_label": "c. 1472 CE",
+      "date_start_year": 1467,
+      "date_end_year": 1477,
+      "location_slug": "bruges",
+      "persons_involved": [],
+      "texts_involved": [
+        "emerald-tablet"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "chemical-experimentation"
+      ]
+    },
+    {
+      "slug": "event_renaissance_low_countries_010",
+      "date_label": "c. 1480 CE",
+      "date_start_year": 1475,
+      "date_end_year": 1485,
+      "location_slug": "antwerp",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "chemical-experimentation"
+      ]
+    },
+    {
+      "slug": "event_renaissance_low_countries_011",
+      "date_label": "c. 1488 CE",
+      "date_start_year": 1483,
+      "date_end_year": 1493,
+      "location_slug": "bruges",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "chemical-experimentation"
+      ]
+    },
+    {
+      "slug": "event_renaissance_low_countries_012",
+      "date_label": "c. 1496 CE",
+      "date_start_year": 1491,
+      "date_end_year": 1501,
+      "location_slug": "antwerp",
+      "persons_involved": [],
+      "texts_involved": [
+        "picatrix"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "chemical-experimentation"
+      ]
+    },
+    {
+      "slug": "event_renaissance_low_countries_013",
+      "date_label": "c. 1504 CE",
+      "date_start_year": 1499,
+      "date_end_year": 1509,
+      "location_slug": "bruges",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "chemical-experimentation"
+      ]
+    },
+    {
+      "slug": "event_renaissance_low_countries_014",
+      "date_label": "c. 1512 CE",
+      "date_start_year": 1507,
+      "date_end_year": 1517,
+      "location_slug": "antwerp",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "chemical-experimentation"
+      ]
+    },
+    {
+      "slug": "event_renaissance_low_countries_015",
+      "date_label": "c. 1520 CE",
+      "date_start_year": 1515,
+      "date_end_year": 1525,
+      "location_slug": "bruges",
+      "persons_involved": [],
+      "texts_involved": [
+        "ms-fr-640"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "chemical-experimentation"
+      ]
+    },
+    {
+      "slug": "event_renaissance_low_countries_016",
+      "date_label": "c. 1528 CE",
+      "date_start_year": 1523,
+      "date_end_year": 1533,
+      "location_slug": "antwerp",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "chemical-experimentation"
+      ]
+    },
+    {
+      "slug": "event_renaissance_low_countries_017",
+      "date_label": "c. 1536 CE",
+      "date_start_year": 1531,
+      "date_end_year": 1541,
+      "location_slug": "bruges",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "chemical-experimentation"
+      ]
+    },
+    {
+      "slug": "event_renaissance_low_countries_018",
+      "date_label": "c. 1544 CE",
+      "date_start_year": 1539,
+      "date_end_year": 1549,
+      "location_slug": "antwerp",
+      "persons_involved": [],
+      "texts_involved": [
+        "summa-perfectionis"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "chemical-experimentation"
+      ]
+    },
+    {
+      "slug": "event_renaissance_low_countries_019",
+      "date_label": "c. 1552 CE",
+      "date_start_year": 1547,
+      "date_end_year": 1557,
+      "location_slug": "bruges",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "chemical-experimentation"
+      ]
+    },
+    {
+      "slug": "event_renaissance_low_countries_020",
+      "date_label": "c. 1560 CE",
+      "date_start_year": 1555,
+      "date_end_year": 1565,
+      "location_slug": "antwerp",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "chemical-experimentation"
+      ]
+    },
+    {
+      "slug": "event_renaissance_low_countries_021",
+      "date_label": "c. 1568 CE",
+      "date_start_year": 1563,
+      "date_end_year": 1573,
+      "location_slug": "bruges",
+      "persons_involved": [],
+      "texts_involved": [
+        "liber-xxiv-philosophorum"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "chemical-experimentation"
+      ]
+    },
+    {
+      "slug": "event_renaissance_low_countries_022",
+      "date_label": "c. 1576 CE",
+      "date_start_year": 1571,
+      "date_end_year": 1581,
+      "location_slug": "antwerp",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "chemical-experimentation"
+      ]
+    },
+    {
+      "slug": "event_renaissance_low_countries_023",
+      "date_label": "c. 1584 CE",
+      "date_start_year": 1579,
+      "date_end_year": 1589,
+      "location_slug": "bruges",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "chemical-experimentation"
+      ]
+    },
+    {
+      "slug": "event_renaissance_low_countries_024",
+      "date_label": "c. 1592 CE",
+      "date_start_year": 1587,
+      "date_end_year": 1597,
+      "location_slug": "antwerp",
+      "persons_involved": [],
+      "texts_involved": [
+        "corpus-hermeticum"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "chemical-experimentation"
+      ]
+    },
+    {
+      "slug": "event_renaissance_low_countries_025",
+      "date_label": "c. 1600 CE",
+      "date_start_year": 1595,
+      "date_end_year": 1605,
+      "location_slug": "bruges",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "chemical-experimentation"
+      ]
+    },
+    {
+      "slug": "event_renaissance_low_countries_026",
+      "date_label": "c. 1608 CE",
+      "date_start_year": 1603,
+      "date_end_year": 1613,
+      "location_slug": "antwerp",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "chemical-experimentation"
+      ]
+    },
+    {
+      "slug": "event_renaissance_low_countries_027",
+      "date_label": "c. 1616 CE",
+      "date_start_year": 1611,
+      "date_end_year": 1621,
+      "location_slug": "bruges",
+      "persons_involved": [],
+      "texts_involved": [
+        "kitab-al-hasib"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "chemical-experimentation"
+      ]
+    },
+    {
+      "slug": "event_renaissance_low_countries_028",
+      "date_label": "c. 1624 CE",
+      "date_start_year": 1619,
+      "date_end_year": 1629,
+      "location_slug": "antwerp",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "chemical-experimentation"
+      ]
+    },
+    {
+      "slug": "event_renaissance_low_countries_029",
+      "date_label": "c. 1632 CE",
+      "date_start_year": 1627,
+      "date_end_year": 1637,
+      "location_slug": "bruges",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "chemical-experimentation"
+      ]
+    },
+    {
+      "slug": "event_renaissance_low_countries_030",
+      "date_label": "c. 1640 CE",
+      "date_start_year": 1635,
+      "date_end_year": 1645,
+      "location_slug": "antwerp",
+      "persons_involved": [],
+      "texts_involved": [
+        "de-sex-rerum-principiis"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "chemical-experimentation"
+      ]
+    },
+    {
+      "slug": "event_renaissance_low_countries_031",
+      "date_label": "c. 1648 CE",
+      "date_start_year": 1643,
+      "date_end_year": 1653,
+      "location_slug": "bruges",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "chemical-experimentation"
+      ]
+    },
+    {
+      "slug": "event_renaissance_low_countries_032",
+      "date_label": "c. 1656 CE",
+      "date_start_year": 1651,
+      "date_end_year": 1661,
+      "location_slug": "antwerp",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "chemical-experimentation"
+      ]
+    },
+    {
+      "slug": "event_renaissance_low_countries_033",
+      "date_label": "c. 1664 CE",
+      "date_start_year": 1659,
+      "date_end_year": 1669,
+      "location_slug": "bruges",
+      "persons_involved": [],
+      "texts_involved": [
+        "emerald-tablet"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "chemical-experimentation"
+      ]
+    },
+    {
+      "slug": "event_renaissance_low_countries_034",
+      "date_label": "c. 1672 CE",
+      "date_start_year": 1667,
+      "date_end_year": 1677,
+      "location_slug": "antwerp",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "chemical-experimentation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_central_europe_000",
+      "date_label": "c. 1500 CE",
+      "date_start_year": 1497,
+      "date_end_year": 1503,
+      "location_slug": "prague",
+      "persons_involved": [
+        "tycho-brahe"
+      ],
+      "texts_involved": [
+        "corpus-hermeticum"
+      ],
+      "concepts_involved": [
+        "transmutation",
+        "laboratory-practice"
+      ]
+    },
+    {
+      "slug": "event_early_modern_central_europe_001",
+      "date_label": "c. 1506 CE",
+      "date_start_year": 1503,
+      "date_end_year": 1509,
+      "location_slug": "vienna",
+      "persons_involved": [
+        "michael-maier"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "laboratory-practice"
+      ]
+    },
+    {
+      "slug": "event_early_modern_central_europe_002",
+      "date_label": "c. 1512 CE",
+      "date_start_year": 1509,
+      "date_end_year": 1515,
+      "location_slug": "prague",
+      "persons_involved": [
+        "henry-cornelius-agrippa"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "laboratory-practice"
+      ]
+    },
+    {
+      "slug": "event_early_modern_central_europe_003",
+      "date_label": "c. 1518 CE",
+      "date_start_year": 1515,
+      "date_end_year": 1521,
+      "location_slug": "vienna",
+      "persons_involved": [
+        "giordano-bruno"
+      ],
+      "texts_involved": [
+        "kitab-al-hasib"
+      ],
+      "concepts_involved": [
+        "transmutation",
+        "laboratory-practice"
+      ]
+    },
+    {
+      "slug": "event_early_modern_central_europe_004",
+      "date_label": "c. 1524 CE",
+      "date_start_year": 1521,
+      "date_end_year": 1527,
+      "location_slug": "prague",
+      "persons_involved": [
+        "paracelsus"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "laboratory-practice"
+      ]
+    },
+    {
+      "slug": "event_early_modern_central_europe_005",
+      "date_label": "c. 1530 CE",
+      "date_start_year": 1527,
+      "date_end_year": 1533,
+      "location_slug": "vienna",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "laboratory-practice"
+      ]
+    },
+    {
+      "slug": "event_early_modern_central_europe_006",
+      "date_label": "c. 1536 CE",
+      "date_start_year": 1533,
+      "date_end_year": 1539,
+      "location_slug": "prague",
+      "persons_involved": [],
+      "texts_involved": [
+        "de-sex-rerum-principiis"
+      ],
+      "concepts_involved": [
+        "transmutation",
+        "laboratory-practice"
+      ]
+    },
+    {
+      "slug": "event_early_modern_central_europe_007",
+      "date_label": "c. 1542 CE",
+      "date_start_year": 1539,
+      "date_end_year": 1545,
+      "location_slug": "vienna",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "laboratory-practice"
+      ]
+    },
+    {
+      "slug": "event_early_modern_central_europe_008",
+      "date_label": "c. 1548 CE",
+      "date_start_year": 1545,
+      "date_end_year": 1551,
+      "location_slug": "prague",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "laboratory-practice"
+      ]
+    },
+    {
+      "slug": "event_early_modern_central_europe_009",
+      "date_label": "c. 1554 CE",
+      "date_start_year": 1551,
+      "date_end_year": 1557,
+      "location_slug": "vienna",
+      "persons_involved": [],
+      "texts_involved": [
+        "emerald-tablet"
+      ],
+      "concepts_involved": [
+        "transmutation",
+        "laboratory-practice"
+      ]
+    },
+    {
+      "slug": "event_early_modern_central_europe_010",
+      "date_label": "c. 1560 CE",
+      "date_start_year": 1557,
+      "date_end_year": 1563,
+      "location_slug": "prague",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "laboratory-practice"
+      ]
+    },
+    {
+      "slug": "event_early_modern_central_europe_011",
+      "date_label": "c. 1566 CE",
+      "date_start_year": 1563,
+      "date_end_year": 1569,
+      "location_slug": "vienna",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "laboratory-practice"
+      ]
+    },
+    {
+      "slug": "event_early_modern_central_europe_012",
+      "date_label": "c. 1572 CE",
+      "date_start_year": 1569,
+      "date_end_year": 1575,
+      "location_slug": "prague",
+      "persons_involved": [],
+      "texts_involved": [
+        "picatrix"
+      ],
+      "concepts_involved": [
+        "transmutation",
+        "laboratory-practice"
+      ]
+    },
+    {
+      "slug": "event_early_modern_central_europe_013",
+      "date_label": "c. 1578 CE",
+      "date_start_year": 1575,
+      "date_end_year": 1581,
+      "location_slug": "vienna",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "laboratory-practice"
+      ]
+    },
+    {
+      "slug": "event_early_modern_central_europe_014",
+      "date_label": "c. 1584 CE",
+      "date_start_year": 1581,
+      "date_end_year": 1587,
+      "location_slug": "prague",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "laboratory-practice"
+      ]
+    },
+    {
+      "slug": "event_early_modern_central_europe_015",
+      "date_label": "c. 1590 CE",
+      "date_start_year": 1587,
+      "date_end_year": 1593,
+      "location_slug": "vienna",
+      "persons_involved": [],
+      "texts_involved": [
+        "ms-fr-640"
+      ],
+      "concepts_involved": [
+        "transmutation",
+        "laboratory-practice"
+      ]
+    },
+    {
+      "slug": "event_early_modern_central_europe_016",
+      "date_label": "c. 1596 CE",
+      "date_start_year": 1593,
+      "date_end_year": 1599,
+      "location_slug": "prague",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "laboratory-practice"
+      ]
+    },
+    {
+      "slug": "event_early_modern_central_europe_017",
+      "date_label": "c. 1602 CE",
+      "date_start_year": 1599,
+      "date_end_year": 1605,
+      "location_slug": "vienna",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "laboratory-practice"
+      ]
+    },
+    {
+      "slug": "event_early_modern_central_europe_018",
+      "date_label": "c. 1608 CE",
+      "date_start_year": 1605,
+      "date_end_year": 1611,
+      "location_slug": "prague",
+      "persons_involved": [],
+      "texts_involved": [
+        "summa-perfectionis"
+      ],
+      "concepts_involved": [
+        "transmutation",
+        "laboratory-practice"
+      ]
+    },
+    {
+      "slug": "event_early_modern_central_europe_019",
+      "date_label": "c. 1614 CE",
+      "date_start_year": 1611,
+      "date_end_year": 1617,
+      "location_slug": "vienna",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "laboratory-practice"
+      ]
+    },
+    {
+      "slug": "event_early_modern_central_europe_020",
+      "date_label": "c. 1620 CE",
+      "date_start_year": 1617,
+      "date_end_year": 1623,
+      "location_slug": "prague",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "laboratory-practice"
+      ]
+    },
+    {
+      "slug": "event_early_modern_central_europe_021",
+      "date_label": "c. 1626 CE",
+      "date_start_year": 1623,
+      "date_end_year": 1629,
+      "location_slug": "vienna",
+      "persons_involved": [],
+      "texts_involved": [
+        "liber-xxiv-philosophorum"
+      ],
+      "concepts_involved": [
+        "transmutation",
+        "laboratory-practice"
+      ]
+    },
+    {
+      "slug": "event_early_modern_central_europe_022",
+      "date_label": "c. 1632 CE",
+      "date_start_year": 1629,
+      "date_end_year": 1635,
+      "location_slug": "prague",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "laboratory-practice"
+      ]
+    },
+    {
+      "slug": "event_early_modern_central_europe_023",
+      "date_label": "c. 1638 CE",
+      "date_start_year": 1635,
+      "date_end_year": 1641,
+      "location_slug": "vienna",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "laboratory-practice"
+      ]
+    },
+    {
+      "slug": "event_early_modern_central_europe_024",
+      "date_label": "c. 1644 CE",
+      "date_start_year": 1641,
+      "date_end_year": 1647,
+      "location_slug": "prague",
+      "persons_involved": [],
+      "texts_involved": [
+        "corpus-hermeticum"
+      ],
+      "concepts_involved": [
+        "transmutation",
+        "laboratory-practice"
+      ]
+    },
+    {
+      "slug": "event_early_modern_central_europe_025",
+      "date_label": "c. 1650 CE",
+      "date_start_year": 1647,
+      "date_end_year": 1653,
+      "location_slug": "vienna",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "laboratory-practice"
+      ]
+    },
+    {
+      "slug": "event_early_modern_central_europe_026",
+      "date_label": "c. 1656 CE",
+      "date_start_year": 1653,
+      "date_end_year": 1659,
+      "location_slug": "prague",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "laboratory-practice"
+      ]
+    },
+    {
+      "slug": "event_early_modern_central_europe_027",
+      "date_label": "c. 1662 CE",
+      "date_start_year": 1659,
+      "date_end_year": 1665,
+      "location_slug": "vienna",
+      "persons_involved": [],
+      "texts_involved": [
+        "kitab-al-hasib"
+      ],
+      "concepts_involved": [
+        "transmutation",
+        "laboratory-practice"
+      ]
+    },
+    {
+      "slug": "event_early_modern_central_europe_028",
+      "date_label": "c. 1668 CE",
+      "date_start_year": 1665,
+      "date_end_year": 1671,
+      "location_slug": "prague",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "laboratory-practice"
+      ]
+    },
+    {
+      "slug": "event_early_modern_central_europe_029",
+      "date_label": "c. 1674 CE",
+      "date_start_year": 1671,
+      "date_end_year": 1677,
+      "location_slug": "vienna",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "laboratory-practice"
+      ]
+    },
+    {
+      "slug": "event_early_modern_central_europe_030",
+      "date_label": "c. 1680 CE",
+      "date_start_year": 1677,
+      "date_end_year": 1683,
+      "location_slug": "prague",
+      "persons_involved": [],
+      "texts_involved": [
+        "de-sex-rerum-principiis"
+      ],
+      "concepts_involved": [
+        "transmutation",
+        "laboratory-practice"
+      ]
+    },
+    {
+      "slug": "event_early_modern_central_europe_031",
+      "date_label": "c. 1686 CE",
+      "date_start_year": 1683,
+      "date_end_year": 1689,
+      "location_slug": "vienna",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "laboratory-practice"
+      ]
+    },
+    {
+      "slug": "event_early_modern_central_europe_032",
+      "date_label": "c. 1692 CE",
+      "date_start_year": 1689,
+      "date_end_year": 1695,
+      "location_slug": "prague",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "laboratory-practice"
+      ]
+    },
+    {
+      "slug": "event_early_modern_central_europe_033",
+      "date_label": "c. 1698 CE",
+      "date_start_year": 1695,
+      "date_end_year": 1701,
+      "location_slug": "vienna",
+      "persons_involved": [],
+      "texts_involved": [
+        "emerald-tablet"
+      ],
+      "concepts_involved": [
+        "transmutation",
+        "laboratory-practice"
+      ]
+    },
+    {
+      "slug": "event_early_modern_central_europe_034",
+      "date_label": "c. 1704 CE",
+      "date_start_year": 1701,
+      "date_end_year": 1707,
+      "location_slug": "prague",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "laboratory-practice"
+      ]
+    },
+    {
+      "slug": "event_early_modern_central_europe_035",
+      "date_label": "c. 1710 CE",
+      "date_start_year": 1707,
+      "date_end_year": 1713,
+      "location_slug": "vienna",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "laboratory-practice"
+      ]
+    },
+    {
+      "slug": "event_early_modern_central_europe_036",
+      "date_label": "c. 1716 CE",
+      "date_start_year": 1713,
+      "date_end_year": 1719,
+      "location_slug": "prague",
+      "persons_involved": [],
+      "texts_involved": [
+        "picatrix"
+      ],
+      "concepts_involved": [
+        "transmutation",
+        "laboratory-practice"
+      ]
+    },
+    {
+      "slug": "event_early_modern_central_europe_037",
+      "date_label": "c. 1722 CE",
+      "date_start_year": 1719,
+      "date_end_year": 1725,
+      "location_slug": "vienna",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "laboratory-practice"
+      ]
+    },
+    {
+      "slug": "event_early_modern_central_europe_038",
+      "date_label": "c. 1728 CE",
+      "date_start_year": 1725,
+      "date_end_year": 1731,
+      "location_slug": "prague",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "laboratory-practice"
+      ]
+    },
+    {
+      "slug": "event_early_modern_central_europe_039",
+      "date_label": "c. 1734 CE",
+      "date_start_year": 1731,
+      "date_end_year": 1737,
+      "location_slug": "vienna",
+      "persons_involved": [],
+      "texts_involved": [
+        "ms-fr-640"
+      ],
+      "concepts_involved": [
+        "transmutation",
+        "laboratory-practice"
+      ]
+    },
+    {
+      "slug": "event_early_modern_central_europe_040",
+      "date_label": "c. 1740 CE",
+      "date_start_year": 1737,
+      "date_end_year": 1743,
+      "location_slug": "prague",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "laboratory-practice"
+      ]
+    },
+    {
+      "slug": "event_early_modern_central_europe_041",
+      "date_label": "c. 1746 CE",
+      "date_start_year": 1743,
+      "date_end_year": 1749,
+      "location_slug": "vienna",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "laboratory-practice"
+      ]
+    },
+    {
+      "slug": "event_early_modern_central_europe_042",
+      "date_label": "c. 1752 CE",
+      "date_start_year": 1749,
+      "date_end_year": 1755,
+      "location_slug": "prague",
+      "persons_involved": [],
+      "texts_involved": [
+        "summa-perfectionis"
+      ],
+      "concepts_involved": [
+        "transmutation",
+        "laboratory-practice"
+      ]
+    },
+    {
+      "slug": "event_early_modern_central_europe_043",
+      "date_label": "c. 1758 CE",
+      "date_start_year": 1755,
+      "date_end_year": 1761,
+      "location_slug": "vienna",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "laboratory-practice"
+      ]
+    },
+    {
+      "slug": "event_early_modern_central_europe_044",
+      "date_label": "c. 1764 CE",
+      "date_start_year": 1761,
+      "date_end_year": 1767,
+      "location_slug": "prague",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "laboratory-practice"
+      ]
+    },
+    {
+      "slug": "event_early_modern_england_000",
+      "date_label": "c. 1500 CE",
+      "date_start_year": 1497,
+      "date_end_year": 1503,
+      "location_slug": "london",
+      "persons_involved": [
+        "tycho-brahe"
+      ],
+      "texts_involved": [
+        "corpus-hermeticum"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "natural-philosophy"
+      ]
+    },
+    {
+      "slug": "event_early_modern_england_001",
+      "date_label": "c. 1506 CE",
+      "date_start_year": 1503,
+      "date_end_year": 1509,
+      "location_slug": "london",
+      "persons_involved": [
+        "michael-maier"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "natural-philosophy"
+      ]
+    },
+    {
+      "slug": "event_early_modern_england_002",
+      "date_label": "c. 1512 CE",
+      "date_start_year": 1509,
+      "date_end_year": 1515,
+      "location_slug": "london",
+      "persons_involved": [
+        "henry-cornelius-agrippa"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "natural-philosophy"
+      ]
+    },
+    {
+      "slug": "event_early_modern_england_003",
+      "date_label": "c. 1518 CE",
+      "date_start_year": 1515,
+      "date_end_year": 1521,
+      "location_slug": "london",
+      "persons_involved": [
+        "giordano-bruno"
+      ],
+      "texts_involved": [
+        "kitab-al-hasib"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "natural-philosophy"
+      ]
+    },
+    {
+      "slug": "event_early_modern_england_004",
+      "date_label": "c. 1524 CE",
+      "date_start_year": 1521,
+      "date_end_year": 1527,
+      "location_slug": "london",
+      "persons_involved": [
+        "paracelsus"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "natural-philosophy"
+      ]
+    },
+    {
+      "slug": "event_early_modern_england_005",
+      "date_label": "c. 1530 CE",
+      "date_start_year": 1527,
+      "date_end_year": 1533,
+      "location_slug": "london",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "natural-philosophy"
+      ]
+    },
+    {
+      "slug": "event_early_modern_england_006",
+      "date_label": "c. 1536 CE",
+      "date_start_year": 1533,
+      "date_end_year": 1539,
+      "location_slug": "london",
+      "persons_involved": [],
+      "texts_involved": [
+        "de-sex-rerum-principiis"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "natural-philosophy"
+      ]
+    },
+    {
+      "slug": "event_early_modern_england_007",
+      "date_label": "c. 1542 CE",
+      "date_start_year": 1539,
+      "date_end_year": 1545,
+      "location_slug": "london",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "natural-philosophy"
+      ]
+    },
+    {
+      "slug": "event_early_modern_england_008",
+      "date_label": "c. 1548 CE",
+      "date_start_year": 1545,
+      "date_end_year": 1551,
+      "location_slug": "london",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "natural-philosophy"
+      ]
+    },
+    {
+      "slug": "event_early_modern_england_009",
+      "date_label": "c. 1554 CE",
+      "date_start_year": 1551,
+      "date_end_year": 1557,
+      "location_slug": "london",
+      "persons_involved": [],
+      "texts_involved": [
+        "emerald-tablet"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "natural-philosophy"
+      ]
+    },
+    {
+      "slug": "event_early_modern_england_010",
+      "date_label": "c. 1560 CE",
+      "date_start_year": 1557,
+      "date_end_year": 1563,
+      "location_slug": "london",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "natural-philosophy"
+      ]
+    },
+    {
+      "slug": "event_early_modern_england_011",
+      "date_label": "c. 1566 CE",
+      "date_start_year": 1563,
+      "date_end_year": 1569,
+      "location_slug": "london",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "natural-philosophy"
+      ]
+    },
+    {
+      "slug": "event_early_modern_england_012",
+      "date_label": "c. 1572 CE",
+      "date_start_year": 1569,
+      "date_end_year": 1575,
+      "location_slug": "london",
+      "persons_involved": [],
+      "texts_involved": [
+        "picatrix"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "natural-philosophy"
+      ]
+    },
+    {
+      "slug": "event_early_modern_england_013",
+      "date_label": "c. 1578 CE",
+      "date_start_year": 1575,
+      "date_end_year": 1581,
+      "location_slug": "london",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "natural-philosophy"
+      ]
+    },
+    {
+      "slug": "event_early_modern_england_014",
+      "date_label": "c. 1584 CE",
+      "date_start_year": 1581,
+      "date_end_year": 1587,
+      "location_slug": "london",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "natural-philosophy"
+      ]
+    },
+    {
+      "slug": "event_early_modern_england_015",
+      "date_label": "c. 1590 CE",
+      "date_start_year": 1587,
+      "date_end_year": 1593,
+      "location_slug": "london",
+      "persons_involved": [],
+      "texts_involved": [
+        "ms-fr-640"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "natural-philosophy"
+      ]
+    },
+    {
+      "slug": "event_early_modern_england_016",
+      "date_label": "c. 1596 CE",
+      "date_start_year": 1593,
+      "date_end_year": 1599,
+      "location_slug": "london",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "natural-philosophy"
+      ]
+    },
+    {
+      "slug": "event_early_modern_england_017",
+      "date_label": "c. 1602 CE",
+      "date_start_year": 1599,
+      "date_end_year": 1605,
+      "location_slug": "london",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "natural-philosophy"
+      ]
+    },
+    {
+      "slug": "event_early_modern_england_018",
+      "date_label": "c. 1608 CE",
+      "date_start_year": 1605,
+      "date_end_year": 1611,
+      "location_slug": "london",
+      "persons_involved": [],
+      "texts_involved": [
+        "summa-perfectionis"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "natural-philosophy"
+      ]
+    },
+    {
+      "slug": "event_early_modern_england_019",
+      "date_label": "c. 1614 CE",
+      "date_start_year": 1611,
+      "date_end_year": 1617,
+      "location_slug": "london",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "natural-philosophy"
+      ]
+    },
+    {
+      "slug": "event_early_modern_england_020",
+      "date_label": "c. 1620 CE",
+      "date_start_year": 1617,
+      "date_end_year": 1623,
+      "location_slug": "london",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "natural-philosophy"
+      ]
+    },
+    {
+      "slug": "event_early_modern_england_021",
+      "date_label": "c. 1626 CE",
+      "date_start_year": 1623,
+      "date_end_year": 1629,
+      "location_slug": "london",
+      "persons_involved": [],
+      "texts_involved": [
+        "liber-xxiv-philosophorum"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "natural-philosophy"
+      ]
+    },
+    {
+      "slug": "event_early_modern_england_022",
+      "date_label": "c. 1632 CE",
+      "date_start_year": 1629,
+      "date_end_year": 1635,
+      "location_slug": "london",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "natural-philosophy"
+      ]
+    },
+    {
+      "slug": "event_early_modern_england_023",
+      "date_label": "c. 1638 CE",
+      "date_start_year": 1635,
+      "date_end_year": 1641,
+      "location_slug": "london",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "natural-philosophy"
+      ]
+    },
+    {
+      "slug": "event_early_modern_england_024",
+      "date_label": "c. 1644 CE",
+      "date_start_year": 1641,
+      "date_end_year": 1647,
+      "location_slug": "london",
+      "persons_involved": [],
+      "texts_involved": [
+        "corpus-hermeticum"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "natural-philosophy"
+      ]
+    },
+    {
+      "slug": "event_early_modern_england_025",
+      "date_label": "c. 1650 CE",
+      "date_start_year": 1647,
+      "date_end_year": 1653,
+      "location_slug": "london",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "natural-philosophy"
+      ]
+    },
+    {
+      "slug": "event_early_modern_england_026",
+      "date_label": "c. 1656 CE",
+      "date_start_year": 1653,
+      "date_end_year": 1659,
+      "location_slug": "london",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "natural-philosophy"
+      ]
+    },
+    {
+      "slug": "event_early_modern_england_027",
+      "date_label": "c. 1662 CE",
+      "date_start_year": 1659,
+      "date_end_year": 1665,
+      "location_slug": "london",
+      "persons_involved": [],
+      "texts_involved": [
+        "kitab-al-hasib"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "natural-philosophy"
+      ]
+    },
+    {
+      "slug": "event_early_modern_england_028",
+      "date_label": "c. 1668 CE",
+      "date_start_year": 1665,
+      "date_end_year": 1671,
+      "location_slug": "london",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "natural-philosophy"
+      ]
+    },
+    {
+      "slug": "event_early_modern_england_029",
+      "date_label": "c. 1674 CE",
+      "date_start_year": 1671,
+      "date_end_year": 1677,
+      "location_slug": "london",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "natural-philosophy"
+      ]
+    },
+    {
+      "slug": "event_early_modern_england_030",
+      "date_label": "c. 1680 CE",
+      "date_start_year": 1677,
+      "date_end_year": 1683,
+      "location_slug": "london",
+      "persons_involved": [],
+      "texts_involved": [
+        "de-sex-rerum-principiis"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "natural-philosophy"
+      ]
+    },
+    {
+      "slug": "event_early_modern_england_031",
+      "date_label": "c. 1686 CE",
+      "date_start_year": 1683,
+      "date_end_year": 1689,
+      "location_slug": "london",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "natural-philosophy"
+      ]
+    },
+    {
+      "slug": "event_early_modern_england_032",
+      "date_label": "c. 1692 CE",
+      "date_start_year": 1689,
+      "date_end_year": 1695,
+      "location_slug": "london",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "natural-philosophy"
+      ]
+    },
+    {
+      "slug": "event_early_modern_england_033",
+      "date_label": "c. 1698 CE",
+      "date_start_year": 1695,
+      "date_end_year": 1701,
+      "location_slug": "london",
+      "persons_involved": [],
+      "texts_involved": [
+        "emerald-tablet"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "natural-philosophy"
+      ]
+    },
+    {
+      "slug": "event_early_modern_england_034",
+      "date_label": "c. 1704 CE",
+      "date_start_year": 1701,
+      "date_end_year": 1707,
+      "location_slug": "london",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "natural-philosophy"
+      ]
+    },
+    {
+      "slug": "event_early_modern_france_000",
+      "date_label": "c. 1500 CE",
+      "date_start_year": 1497,
+      "date_end_year": 1503,
+      "location_slug": "paris",
+      "persons_involved": [
+        "tycho-brahe"
+      ],
+      "texts_involved": [
+        "corpus-hermeticum"
+      ],
+      "concepts_involved": [
+        "chemical-practice",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_france_001",
+      "date_label": "c. 1506 CE",
+      "date_start_year": 1503,
+      "date_end_year": 1509,
+      "location_slug": "paris",
+      "persons_involved": [
+        "michael-maier"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "chemical-practice",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_france_002",
+      "date_label": "c. 1512 CE",
+      "date_start_year": 1509,
+      "date_end_year": 1515,
+      "location_slug": "paris",
+      "persons_involved": [
+        "henry-cornelius-agrippa"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "chemical-practice",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_france_003",
+      "date_label": "c. 1518 CE",
+      "date_start_year": 1515,
+      "date_end_year": 1521,
+      "location_slug": "paris",
+      "persons_involved": [
+        "giordano-bruno"
+      ],
+      "texts_involved": [
+        "kitab-al-hasib"
+      ],
+      "concepts_involved": [
+        "chemical-practice",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_france_004",
+      "date_label": "c. 1524 CE",
+      "date_start_year": 1521,
+      "date_end_year": 1527,
+      "location_slug": "paris",
+      "persons_involved": [
+        "paracelsus"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "chemical-practice",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_france_005",
+      "date_label": "c. 1530 CE",
+      "date_start_year": 1527,
+      "date_end_year": 1533,
+      "location_slug": "paris",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "chemical-practice",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_france_006",
+      "date_label": "c. 1536 CE",
+      "date_start_year": 1533,
+      "date_end_year": 1539,
+      "location_slug": "paris",
+      "persons_involved": [],
+      "texts_involved": [
+        "de-sex-rerum-principiis"
+      ],
+      "concepts_involved": [
+        "chemical-practice",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_france_007",
+      "date_label": "c. 1542 CE",
+      "date_start_year": 1539,
+      "date_end_year": 1545,
+      "location_slug": "paris",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "chemical-practice",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_france_008",
+      "date_label": "c. 1548 CE",
+      "date_start_year": 1545,
+      "date_end_year": 1551,
+      "location_slug": "paris",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "chemical-practice",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_france_009",
+      "date_label": "c. 1554 CE",
+      "date_start_year": 1551,
+      "date_end_year": 1557,
+      "location_slug": "paris",
+      "persons_involved": [],
+      "texts_involved": [
+        "emerald-tablet"
+      ],
+      "concepts_involved": [
+        "chemical-practice",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_france_010",
+      "date_label": "c. 1560 CE",
+      "date_start_year": 1557,
+      "date_end_year": 1563,
+      "location_slug": "paris",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "chemical-practice",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_france_011",
+      "date_label": "c. 1566 CE",
+      "date_start_year": 1563,
+      "date_end_year": 1569,
+      "location_slug": "paris",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "chemical-practice",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_france_012",
+      "date_label": "c. 1572 CE",
+      "date_start_year": 1569,
+      "date_end_year": 1575,
+      "location_slug": "paris",
+      "persons_involved": [],
+      "texts_involved": [
+        "picatrix"
+      ],
+      "concepts_involved": [
+        "chemical-practice",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_france_013",
+      "date_label": "c. 1578 CE",
+      "date_start_year": 1575,
+      "date_end_year": 1581,
+      "location_slug": "paris",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "chemical-practice",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_france_014",
+      "date_label": "c. 1584 CE",
+      "date_start_year": 1581,
+      "date_end_year": 1587,
+      "location_slug": "paris",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "chemical-practice",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_france_015",
+      "date_label": "c. 1590 CE",
+      "date_start_year": 1587,
+      "date_end_year": 1593,
+      "location_slug": "paris",
+      "persons_involved": [],
+      "texts_involved": [
+        "ms-fr-640"
+      ],
+      "concepts_involved": [
+        "chemical-practice",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_france_016",
+      "date_label": "c. 1596 CE",
+      "date_start_year": 1593,
+      "date_end_year": 1599,
+      "location_slug": "paris",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "chemical-practice",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_france_017",
+      "date_label": "c. 1602 CE",
+      "date_start_year": 1599,
+      "date_end_year": 1605,
+      "location_slug": "paris",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "chemical-practice",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_france_018",
+      "date_label": "c. 1608 CE",
+      "date_start_year": 1605,
+      "date_end_year": 1611,
+      "location_slug": "paris",
+      "persons_involved": [],
+      "texts_involved": [
+        "summa-perfectionis"
+      ],
+      "concepts_involved": [
+        "chemical-practice",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_france_019",
+      "date_label": "c. 1614 CE",
+      "date_start_year": 1611,
+      "date_end_year": 1617,
+      "location_slug": "paris",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "chemical-practice",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_france_020",
+      "date_label": "c. 1620 CE",
+      "date_start_year": 1617,
+      "date_end_year": 1623,
+      "location_slug": "paris",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "chemical-practice",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_france_021",
+      "date_label": "c. 1626 CE",
+      "date_start_year": 1623,
+      "date_end_year": 1629,
+      "location_slug": "paris",
+      "persons_involved": [],
+      "texts_involved": [
+        "liber-xxiv-philosophorum"
+      ],
+      "concepts_involved": [
+        "chemical-practice",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_france_022",
+      "date_label": "c. 1632 CE",
+      "date_start_year": 1629,
+      "date_end_year": 1635,
+      "location_slug": "paris",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "chemical-practice",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_france_023",
+      "date_label": "c. 1638 CE",
+      "date_start_year": 1635,
+      "date_end_year": 1641,
+      "location_slug": "paris",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "chemical-practice",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_france_024",
+      "date_label": "c. 1644 CE",
+      "date_start_year": 1641,
+      "date_end_year": 1647,
+      "location_slug": "paris",
+      "persons_involved": [],
+      "texts_involved": [
+        "corpus-hermeticum"
+      ],
+      "concepts_involved": [
+        "chemical-practice",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_france_025",
+      "date_label": "c. 1650 CE",
+      "date_start_year": 1647,
+      "date_end_year": 1653,
+      "location_slug": "paris",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "chemical-practice",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_france_026",
+      "date_label": "c. 1656 CE",
+      "date_start_year": 1653,
+      "date_end_year": 1659,
+      "location_slug": "paris",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "chemical-practice",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_france_027",
+      "date_label": "c. 1662 CE",
+      "date_start_year": 1659,
+      "date_end_year": 1665,
+      "location_slug": "paris",
+      "persons_involved": [],
+      "texts_involved": [
+        "kitab-al-hasib"
+      ],
+      "concepts_involved": [
+        "chemical-practice",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_france_028",
+      "date_label": "c. 1668 CE",
+      "date_start_year": 1665,
+      "date_end_year": 1671,
+      "location_slug": "paris",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "chemical-practice",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_france_029",
+      "date_label": "c. 1674 CE",
+      "date_start_year": 1671,
+      "date_end_year": 1677,
+      "location_slug": "paris",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "chemical-practice",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_france_030",
+      "date_label": "c. 1680 CE",
+      "date_start_year": 1677,
+      "date_end_year": 1683,
+      "location_slug": "paris",
+      "persons_involved": [],
+      "texts_involved": [
+        "de-sex-rerum-principiis"
+      ],
+      "concepts_involved": [
+        "chemical-practice",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_france_031",
+      "date_label": "c. 1686 CE",
+      "date_start_year": 1683,
+      "date_end_year": 1689,
+      "location_slug": "paris",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "chemical-practice",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_france_032",
+      "date_label": "c. 1692 CE",
+      "date_start_year": 1689,
+      "date_end_year": 1695,
+      "location_slug": "paris",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "chemical-practice",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_france_033",
+      "date_label": "c. 1698 CE",
+      "date_start_year": 1695,
+      "date_end_year": 1701,
+      "location_slug": "paris",
+      "persons_involved": [],
+      "texts_involved": [
+        "emerald-tablet"
+      ],
+      "concepts_involved": [
+        "chemical-practice",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_france_034",
+      "date_label": "c. 1704 CE",
+      "date_start_year": 1701,
+      "date_end_year": 1707,
+      "location_slug": "paris",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "chemical-practice",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_000",
+      "date_label": "c. 1500 CE",
+      "date_start_year": 1497,
+      "date_end_year": 1503,
+      "location_slug": "madrid",
+      "persons_involved": [
+        "tycho-brahe"
+      ],
+      "texts_involved": [
+        "corpus-hermeticum"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_001",
+      "date_label": "c. 1506 CE",
+      "date_start_year": 1503,
+      "date_end_year": 1509,
+      "location_slug": "lisbon",
+      "persons_involved": [
+        "michael-maier"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_002",
+      "date_label": "c. 1512 CE",
+      "date_start_year": 1509,
+      "date_end_year": 1515,
+      "location_slug": "madrid",
+      "persons_involved": [
+        "henry-cornelius-agrippa"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_003",
+      "date_label": "c. 1518 CE",
+      "date_start_year": 1515,
+      "date_end_year": 1521,
+      "location_slug": "lisbon",
+      "persons_involved": [
+        "giordano-bruno"
+      ],
+      "texts_involved": [
+        "kitab-al-hasib"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_004",
+      "date_label": "c. 1524 CE",
+      "date_start_year": 1521,
+      "date_end_year": 1527,
+      "location_slug": "madrid",
+      "persons_involved": [
+        "paracelsus"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_005",
+      "date_label": "c. 1530 CE",
+      "date_start_year": 1527,
+      "date_end_year": 1533,
+      "location_slug": "lisbon",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_006",
+      "date_label": "c. 1536 CE",
+      "date_start_year": 1533,
+      "date_end_year": 1539,
+      "location_slug": "madrid",
+      "persons_involved": [],
+      "texts_involved": [
+        "de-sex-rerum-principiis"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_007",
+      "date_label": "c. 1542 CE",
+      "date_start_year": 1539,
+      "date_end_year": 1545,
+      "location_slug": "lisbon",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_008",
+      "date_label": "c. 1548 CE",
+      "date_start_year": 1545,
+      "date_end_year": 1551,
+      "location_slug": "madrid",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_009",
+      "date_label": "c. 1554 CE",
+      "date_start_year": 1551,
+      "date_end_year": 1557,
+      "location_slug": "lisbon",
+      "persons_involved": [],
+      "texts_involved": [
+        "emerald-tablet"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_010",
+      "date_label": "c. 1560 CE",
+      "date_start_year": 1557,
+      "date_end_year": 1563,
+      "location_slug": "madrid",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_011",
+      "date_label": "c. 1566 CE",
+      "date_start_year": 1563,
+      "date_end_year": 1569,
+      "location_slug": "lisbon",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_012",
+      "date_label": "c. 1572 CE",
+      "date_start_year": 1569,
+      "date_end_year": 1575,
+      "location_slug": "madrid",
+      "persons_involved": [],
+      "texts_involved": [
+        "picatrix"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_013",
+      "date_label": "c. 1578 CE",
+      "date_start_year": 1575,
+      "date_end_year": 1581,
+      "location_slug": "lisbon",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_014",
+      "date_label": "c. 1584 CE",
+      "date_start_year": 1581,
+      "date_end_year": 1587,
+      "location_slug": "madrid",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_015",
+      "date_label": "c. 1590 CE",
+      "date_start_year": 1587,
+      "date_end_year": 1593,
+      "location_slug": "lisbon",
+      "persons_involved": [],
+      "texts_involved": [
+        "ms-fr-640"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_016",
+      "date_label": "c. 1596 CE",
+      "date_start_year": 1593,
+      "date_end_year": 1599,
+      "location_slug": "madrid",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_017",
+      "date_label": "c. 1602 CE",
+      "date_start_year": 1599,
+      "date_end_year": 1605,
+      "location_slug": "lisbon",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_018",
+      "date_label": "c. 1608 CE",
+      "date_start_year": 1605,
+      "date_end_year": 1611,
+      "location_slug": "madrid",
+      "persons_involved": [],
+      "texts_involved": [
+        "summa-perfectionis"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_019",
+      "date_label": "c. 1614 CE",
+      "date_start_year": 1611,
+      "date_end_year": 1617,
+      "location_slug": "lisbon",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_020",
+      "date_label": "c. 1620 CE",
+      "date_start_year": 1617,
+      "date_end_year": 1623,
+      "location_slug": "madrid",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_021",
+      "date_label": "c. 1626 CE",
+      "date_start_year": 1623,
+      "date_end_year": 1629,
+      "location_slug": "lisbon",
+      "persons_involved": [],
+      "texts_involved": [
+        "liber-xxiv-philosophorum"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_022",
+      "date_label": "c. 1632 CE",
+      "date_start_year": 1629,
+      "date_end_year": 1635,
+      "location_slug": "madrid",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_023",
+      "date_label": "c. 1638 CE",
+      "date_start_year": 1635,
+      "date_end_year": 1641,
+      "location_slug": "lisbon",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_024",
+      "date_label": "c. 1644 CE",
+      "date_start_year": 1641,
+      "date_end_year": 1647,
+      "location_slug": "madrid",
+      "persons_involved": [],
+      "texts_involved": [
+        "corpus-hermeticum"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_025",
+      "date_label": "c. 1650 CE",
+      "date_start_year": 1647,
+      "date_end_year": 1653,
+      "location_slug": "lisbon",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_026",
+      "date_label": "c. 1656 CE",
+      "date_start_year": 1653,
+      "date_end_year": 1659,
+      "location_slug": "madrid",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_027",
+      "date_label": "c. 1662 CE",
+      "date_start_year": 1659,
+      "date_end_year": 1665,
+      "location_slug": "lisbon",
+      "persons_involved": [],
+      "texts_involved": [
+        "kitab-al-hasib"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_028",
+      "date_label": "c. 1668 CE",
+      "date_start_year": 1665,
+      "date_end_year": 1671,
+      "location_slug": "madrid",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_029",
+      "date_label": "c. 1674 CE",
+      "date_start_year": 1671,
+      "date_end_year": 1677,
+      "location_slug": "lisbon",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_030",
+      "date_label": "c. 1680 CE",
+      "date_start_year": 1677,
+      "date_end_year": 1683,
+      "location_slug": "madrid",
+      "persons_involved": [],
+      "texts_involved": [
+        "de-sex-rerum-principiis"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_031",
+      "date_label": "c. 1686 CE",
+      "date_start_year": 1683,
+      "date_end_year": 1689,
+      "location_slug": "lisbon",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_032",
+      "date_label": "c. 1692 CE",
+      "date_start_year": 1689,
+      "date_end_year": 1695,
+      "location_slug": "madrid",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_033",
+      "date_label": "c. 1698 CE",
+      "date_start_year": 1695,
+      "date_end_year": 1701,
+      "location_slug": "lisbon",
+      "persons_involved": [],
+      "texts_involved": [
+        "emerald-tablet"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_034",
+      "date_label": "c. 1704 CE",
+      "date_start_year": 1701,
+      "date_end_year": 1707,
+      "location_slug": "madrid",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_035",
+      "date_label": "c. 1710 CE",
+      "date_start_year": 1707,
+      "date_end_year": 1713,
+      "location_slug": "lisbon",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_036",
+      "date_label": "c. 1716 CE",
+      "date_start_year": 1713,
+      "date_end_year": 1719,
+      "location_slug": "madrid",
+      "persons_involved": [],
+      "texts_involved": [
+        "picatrix"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_037",
+      "date_label": "c. 1722 CE",
+      "date_start_year": 1719,
+      "date_end_year": 1725,
+      "location_slug": "lisbon",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_038",
+      "date_label": "c. 1728 CE",
+      "date_start_year": 1725,
+      "date_end_year": 1731,
+      "location_slug": "madrid",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_039",
+      "date_label": "c. 1734 CE",
+      "date_start_year": 1731,
+      "date_end_year": 1737,
+      "location_slug": "lisbon",
+      "persons_involved": [],
+      "texts_involved": [
+        "ms-fr-640"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    }
+  ]
+}

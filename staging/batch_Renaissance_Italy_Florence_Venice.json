@@ -1,0 +1,913 @@
+{
+  "batch_id": "Renaissance_Italy_Florence_Venice",
+  "event_count": 45,
+  "instructions": "For each event stub, write a 100–250 word description following STYLEGUIDE.md. Wrap entity mentions in [LINK:slug] markup. End with historiographical significance.",
+  "events": [
+    {
+      "slug": "event_renaissance_italy_000",
+      "date_label": "c. 1300 CE",
+      "date_start_year": 1295,
+      "date_end_year": 1305,
+      "location_slug": "florence",
+      "persons_involved": [
+        "marsilio-ficino"
+      ],
+      "texts_involved": [
+        "corpus-hermeticum"
+      ],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_001",
+      "date_label": "c. 1308 CE",
+      "date_start_year": 1303,
+      "date_end_year": 1313,
+      "location_slug": "venice",
+      "persons_involved": [
+        "pico-della-mirandola"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_002",
+      "date_label": "c. 1316 CE",
+      "date_start_year": 1311,
+      "date_end_year": 1321,
+      "location_slug": "florence",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_003",
+      "date_label": "c. 1324 CE",
+      "date_start_year": 1319,
+      "date_end_year": 1329,
+      "location_slug": "venice",
+      "persons_involved": [],
+      "texts_involved": [
+        "kitab-al-hasib"
+      ],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_004",
+      "date_label": "c. 1332 CE",
+      "date_start_year": 1327,
+      "date_end_year": 1337,
+      "location_slug": "florence",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_005",
+      "date_label": "c. 1340 CE",
+      "date_start_year": 1335,
+      "date_end_year": 1345,
+      "location_slug": "venice",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_006",
+      "date_label": "c. 1348 CE",
+      "date_start_year": 1343,
+      "date_end_year": 1353,
+      "location_slug": "florence",
+      "persons_involved": [],
+      "texts_involved": [
+        "de-sex-rerum-principiis"
+      ],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_007",
+      "date_label": "c. 1356 CE",
+      "date_start_year": 1351,
+      "date_end_year": 1361,
+      "location_slug": "venice",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_008",
+      "date_label": "c. 1364 CE",
+      "date_start_year": 1359,
+      "date_end_year": 1369,
+      "location_slug": "florence",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_009",
+      "date_label": "c. 1372 CE",
+      "date_start_year": 1367,
+      "date_end_year": 1377,
+      "location_slug": "venice",
+      "persons_involved": [],
+      "texts_involved": [
+        "emerald-tablet"
+      ],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_010",
+      "date_label": "c. 1380 CE",
+      "date_start_year": 1375,
+      "date_end_year": 1385,
+      "location_slug": "florence",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_011",
+      "date_label": "c. 1388 CE",
+      "date_start_year": 1383,
+      "date_end_year": 1393,
+      "location_slug": "venice",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_012",
+      "date_label": "c. 1396 CE",
+      "date_start_year": 1391,
+      "date_end_year": 1401,
+      "location_slug": "florence",
+      "persons_involved": [],
+      "texts_involved": [
+        "picatrix"
+      ],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_013",
+      "date_label": "c. 1404 CE",
+      "date_start_year": 1399,
+      "date_end_year": 1409,
+      "location_slug": "venice",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_014",
+      "date_label": "c. 1412 CE",
+      "date_start_year": 1407,
+      "date_end_year": 1417,
+      "location_slug": "florence",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_015",
+      "date_label": "c. 1420 CE",
+      "date_start_year": 1415,
+      "date_end_year": 1425,
+      "location_slug": "venice",
+      "persons_involved": [],
+      "texts_involved": [
+        "ms-fr-640"
+      ],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_016",
+      "date_label": "c. 1428 CE",
+      "date_start_year": 1423,
+      "date_end_year": 1433,
+      "location_slug": "florence",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_017",
+      "date_label": "c. 1436 CE",
+      "date_start_year": 1431,
+      "date_end_year": 1441,
+      "location_slug": "venice",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_018",
+      "date_label": "c. 1444 CE",
+      "date_start_year": 1439,
+      "date_end_year": 1449,
+      "location_slug": "florence",
+      "persons_involved": [],
+      "texts_involved": [
+        "summa-perfectionis"
+      ],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_019",
+      "date_label": "c. 1452 CE",
+      "date_start_year": 1447,
+      "date_end_year": 1457,
+      "location_slug": "venice",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_020",
+      "date_label": "c. 1460 CE",
+      "date_start_year": 1455,
+      "date_end_year": 1465,
+      "location_slug": "florence",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_021",
+      "date_label": "c. 1468 CE",
+      "date_start_year": 1463,
+      "date_end_year": 1473,
+      "location_slug": "venice",
+      "persons_involved": [],
+      "texts_involved": [
+        "liber-xxiv-philosophorum"
+      ],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_022",
+      "date_label": "c. 1476 CE",
+      "date_start_year": 1471,
+      "date_end_year": 1481,
+      "location_slug": "florence",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_023",
+      "date_label": "c. 1484 CE",
+      "date_start_year": 1479,
+      "date_end_year": 1489,
+      "location_slug": "venice",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_024",
+      "date_label": "c. 1492 CE",
+      "date_start_year": 1487,
+      "date_end_year": 1497,
+      "location_slug": "florence",
+      "persons_involved": [],
+      "texts_involved": [
+        "corpus-hermeticum"
+      ],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_025",
+      "date_label": "c. 1500 CE",
+      "date_start_year": 1495,
+      "date_end_year": 1505,
+      "location_slug": "venice",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_026",
+      "date_label": "c. 1508 CE",
+      "date_start_year": 1503,
+      "date_end_year": 1513,
+      "location_slug": "florence",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_027",
+      "date_label": "c. 1516 CE",
+      "date_start_year": 1511,
+      "date_end_year": 1521,
+      "location_slug": "venice",
+      "persons_involved": [],
+      "texts_involved": [
+        "kitab-al-hasib"
+      ],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_028",
+      "date_label": "c. 1524 CE",
+      "date_start_year": 1519,
+      "date_end_year": 1529,
+      "location_slug": "florence",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_029",
+      "date_label": "c. 1532 CE",
+      "date_start_year": 1527,
+      "date_end_year": 1537,
+      "location_slug": "venice",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_030",
+      "date_label": "c. 1540 CE",
+      "date_start_year": 1535,
+      "date_end_year": 1545,
+      "location_slug": "florence",
+      "persons_involved": [],
+      "texts_involved": [
+        "de-sex-rerum-principiis"
+      ],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_031",
+      "date_label": "c. 1548 CE",
+      "date_start_year": 1543,
+      "date_end_year": 1553,
+      "location_slug": "venice",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_032",
+      "date_label": "c. 1556 CE",
+      "date_start_year": 1551,
+      "date_end_year": 1561,
+      "location_slug": "florence",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_033",
+      "date_label": "c. 1564 CE",
+      "date_start_year": 1559,
+      "date_end_year": 1569,
+      "location_slug": "venice",
+      "persons_involved": [],
+      "texts_involved": [
+        "emerald-tablet"
+      ],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_034",
+      "date_label": "c. 1572 CE",
+      "date_start_year": 1567,
+      "date_end_year": 1577,
+      "location_slug": "florence",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_035",
+      "date_label": "c. 1580 CE",
+      "date_start_year": 1575,
+      "date_end_year": 1585,
+      "location_slug": "venice",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_036",
+      "date_label": "c. 1588 CE",
+      "date_start_year": 1583,
+      "date_end_year": 1593,
+      "location_slug": "florence",
+      "persons_involved": [],
+      "texts_involved": [
+        "picatrix"
+      ],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_037",
+      "date_label": "c. 1596 CE",
+      "date_start_year": 1591,
+      "date_end_year": 1601,
+      "location_slug": "venice",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_038",
+      "date_label": "c. 1604 CE",
+      "date_start_year": 1599,
+      "date_end_year": 1609,
+      "location_slug": "florence",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_039",
+      "date_label": "c. 1612 CE",
+      "date_start_year": 1607,
+      "date_end_year": 1617,
+      "location_slug": "venice",
+      "persons_involved": [],
+      "texts_involved": [
+        "ms-fr-640"
+      ],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_040",
+      "date_label": "c. 1620 CE",
+      "date_start_year": 1615,
+      "date_end_year": 1625,
+      "location_slug": "florence",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_041",
+      "date_label": "c. 1628 CE",
+      "date_start_year": 1623,
+      "date_end_year": 1633,
+      "location_slug": "venice",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_042",
+      "date_label": "c. 1636 CE",
+      "date_start_year": 1631,
+      "date_end_year": 1641,
+      "location_slug": "florence",
+      "persons_involved": [],
+      "texts_involved": [
+        "summa-perfectionis"
+      ],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_043",
+      "date_label": "c. 1644 CE",
+      "date_start_year": 1639,
+      "date_end_year": 1649,
+      "location_slug": "venice",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_renaissance_italy_044",
+      "date_label": "c. 1652 CE",
+      "date_start_year": 1647,
+      "date_end_year": 1657,
+      "location_slug": "florence",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "quintessence",
+        "operational-chemistry"
+      ]
+    }
+  ],
+  "entities": {
+    "persons": [
+      {
+        "slug": "marsilio-ficino",
+        "name": "Marsilio Ficino",
+        "role_primary": "PHILOSOPHER",
+        "era": "RENAISSANCE"
+      },
+      {
+        "slug": "pico-della-mirandola",
+        "name": "Pico della Mirandola",
+        "role_primary": "PHILOSOPHER",
+        "era": "RENAISSANCE"
+      }
+    ],
+    "texts": [
+      {
+        "slug": "corpus-hermeticum",
+        "title": "Corpus Hermeticum",
+        "text_type": "PRIMARY_SOURCE",
+        "composition_date": "c. 1st-3rd century CE"
+      },
+      {
+        "slug": "de-sex-rerum-principiis",
+        "title": "De Sex Rerum Principiis (On the Six Principles of Things)",
+        "text_type": "PRIMARY_SOURCE",
+        "composition_date": "c. 12th century"
+      },
+      {
+        "slug": "emerald-tablet",
+        "title": "Emerald Tablet (Tabula Smaragdina)",
+        "text_type": "PRIMARY_SOURCE",
+        "composition_date": "c. 6th-8th century (Arab compilation)"
+      },
+      {
+        "slug": "kitab-al-hasib",
+        "title": "Kitāb al-Ḥāsib",
+        "text_type": "PRIMARY_SOURCE",
+        "composition_date": "c. 8th-9th century (attributed to Jabir ibn Hayyan)"
+      },
+      {
+        "slug": "liber-xxiv-philosophorum",
+        "title": "Liber XXIV Philosophorum (Book of Twenty-Four Philosophers)",
+        "text_type": "PRIMARY_SOURCE",
+        "composition_date": "c. 12th century"
+      },
+      {
+        "slug": "ms-fr-640",
+        "title": "Ms. Fr. 640 (Anonymous Technical Manuscript)",
+        "text_type": "PRIMARY_SOURCE",
+        "composition_date": "c. 1580s"
+      },
+      {
+        "slug": "picatrix",
+        "title": "Picatrix (Ghāyat al-Hakīm)",
+        "text_type": "PRIMARY_SOURCE",
+        "composition_date": "c. 10th-11th century"
+      },
+      {
+        "slug": "summa-perfectionis",
+        "title": "Summa Perfectionis (Sum of Perfection)",
+        "text_type": "PRIMARY_SOURCE",
+        "composition_date": "c. 8th-9th century (attributed to Jabir ibn Hayyan)"
+      }
+    ],
+    "concepts": [
+      {
+        "slug": "operational-chemistry",
+        "label": "Operational Chemistry",
+        "category_type": "ANALYST_TERM"
+      },
+      {
+        "slug": "quintessence",
+        "label": "Quintessence",
+        "category_type": "ACTOR_TERM"
+      },
+      {
+        "slug": "transmutation",
+        "label": "Transmutation",
+        "category_type": "ACTOR_TERM"
+      }
+    ],
+    "locations": [
+      {
+        "slug": "cairo",
+        "place_name": "Cairo (Heliopolis/Babylon)",
+        "latitude": 30.0444,
+        "longitude": 31.2357
+      },
+      {
+        "slug": "alexandria",
+        "place_name": "Alexandria",
+        "latitude": 31.2001,
+        "longitude": 29.9187
+      },
+      {
+        "slug": "baghdad",
+        "place_name": "Baghdad",
+        "latitude": 33.3128,
+        "longitude": 44.3615
+      },
+      {
+        "slug": "ray",
+        "place_name": "Ray (Rhages)",
+        "latitude": 35.6568,
+        "longitude": 51.4168
+      },
+      {
+        "slug": "damascus",
+        "place_name": "Damascus",
+        "latitude": 33.5138,
+        "longitude": 36.2765
+      },
+      {
+        "slug": "cordoba",
+        "place_name": "Córdoba",
+        "latitude": 37.8882,
+        "longitude": -4.7794
+      },
+      {
+        "slug": "toledo",
+        "place_name": "Toledo",
+        "latitude": 39.8581,
+        "longitude": -4.0201
+      },
+      {
+        "slug": "palermo",
+        "place_name": "Palermo",
+        "latitude": 38.1157,
+        "longitude": 13.3615
+      },
+      {
+        "slug": "hesse-germany",
+        "place_name": "Hesse",
+        "latitude": 50.4501,
+        "longitude": 9.5501
+      },
+      {
+        "slug": "oxford",
+        "place_name": "Oxford",
+        "latitude": 51.752,
+        "longitude": -1.2577
+      },
+      {
+        "slug": "bologna",
+        "place_name": "Bologna",
+        "latitude": 44.4949,
+        "longitude": 11.3426
+      },
+      {
+        "slug": "montpellier",
+        "place_name": "Montpellier",
+        "latitude": 43.6108,
+        "longitude": 3.8767
+      },
+      {
+        "slug": "vienna",
+        "place_name": "Vienna",
+        "latitude": 48.2082,
+        "longitude": 16.3738
+      },
+      {
+        "slug": "florence",
+        "place_name": "Florence",
+        "latitude": 43.7696,
+        "longitude": 11.2558
+      },
+      {
+        "slug": "basle",
+        "place_name": "Basle (Basel)",
+        "latitude": 47.5596,
+        "longitude": 7.5886
+      },
+      {
+        "slug": "salzburg",
+        "place_name": "Salzburg",
+        "latitude": 47.8095,
+        "longitude": 13.055
+      },
+      {
+        "slug": "strasbourg",
+        "place_name": "Strasbourg",
+        "latitude": 48.5734,
+        "longitude": 7.7521
+      },
+      {
+        "slug": "cologne",
+        "place_name": "Cologne",
+        "latitude": 50.9365,
+        "longitude": 6.9589
+      },
+      {
+        "slug": "paris",
+        "place_name": "Paris",
+        "latitude": 48.8566,
+        "longitude": 2.3522
+      },
+      {
+        "slug": "london",
+        "place_name": "London",
+        "latitude": 51.5074,
+        "longitude": -0.1278
+      },
+      {
+        "slug": "rome",
+        "place_name": "Rome",
+        "latitude": 41.9028,
+        "longitude": 12.4964
+      },
+      {
+        "slug": "ven-island",
+        "place_name": "Ven Island (Hven)",
+        "latitude": 55.9125,
+        "longitude": 12.7211
+      },
+      {
+        "slug": "prague",
+        "place_name": "Prague",
+        "latitude": 50.0755,
+        "longitude": 14.4378
+      },
+      {
+        "slug": "frankfurt",
+        "place_name": "Frankfurt",
+        "latitude": 50.1109,
+        "longitude": 8.6821
+      },
+      {
+        "slug": "toulouse",
+        "place_name": "Toulouse",
+        "latitude": 43.6047,
+        "longitude": 1.4442
+      }
+    ]
+  },
+  "metadata": {
+    "batch_name": "Renaissance_Italy_Florence_Venice",
+    "total_events": 45,
+    "unique_persons": 2,
+    "unique_texts": 8,
+    "unique_concepts": 3
+  }
+}

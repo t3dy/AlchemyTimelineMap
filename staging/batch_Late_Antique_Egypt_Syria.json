@@ -1,0 +1,708 @@
+{
+  "batch_id": "Late_Antique_Egypt_Syria",
+  "date_range": [
+    200,
+    600
+  ],
+  "event_count": 31,
+  "instructions": "For each event stub below, write a 100–250 word description that:\n1. Incorporates the date, location, and involved persons/texts/concepts\n2. Explains the historiographical significance (why it matters to the history of alchemy/chemistry)\n3. When mentioning a person, text, or concept from the entity list, wrap it in [LINK:slug] markup\n4. Uses the tone and vocabulary from STYLEGUIDE.md and PROMPTS.md\n5. Avoids speculation; grounds claims in what is known from the tradition\n\nOutput format: JSON with 'enriched_events' array containing {slug, description} pairs.",
+  "events": [
+    {
+      "slug": "event_late_antique_egypt_syria_001",
+      "date_label": "c. 215 CE",
+      "date_start_year": 205,
+      "date_end_year": 225,
+      "location_slug": "cairo",
+      "persons_involved": [
+        "zosimos-of-panopolis"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_late_antique_egypt_syria_002",
+      "date_label": "c. 230 CE",
+      "date_start_year": 220,
+      "date_end_year": 240,
+      "location_slug": "alexandria",
+      "persons_involved": [
+        "zosimos-of-panopolis"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_late_antique_egypt_syria_003",
+      "date_label": "c. 245 CE",
+      "date_start_year": 235,
+      "date_end_year": 255,
+      "location_slug": "cairo",
+      "persons_involved": [
+        "zosimos-of-panopolis"
+      ],
+      "texts_involved": [
+        "kitab-al-hasib"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_late_antique_egypt_syria_004",
+      "date_label": "c. 260 CE",
+      "date_start_year": 250,
+      "date_end_year": 270,
+      "location_slug": "alexandria",
+      "persons_involved": [
+        "zosimos-of-panopolis"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_late_antique_egypt_syria_005",
+      "date_label": "c. 275 CE",
+      "date_start_year": 265,
+      "date_end_year": 285,
+      "location_slug": "cairo",
+      "persons_involved": [
+        "zosimos-of-panopolis"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_late_antique_egypt_syria_006",
+      "date_label": "c. 290 CE",
+      "date_start_year": 280,
+      "date_end_year": 300,
+      "location_slug": "alexandria",
+      "persons_involved": [
+        "zosimos-of-panopolis"
+      ],
+      "texts_involved": [
+        "de-sex-rerum-principiis"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_zosimos_001",
+      "date_label": "c. 300 CE",
+      "date_start_year": 290,
+      "date_end_year": 310,
+      "location_slug": "cairo",
+      "persons_involved": [
+        "zosimos-of-panopolis"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_late_antique_egypt_syria_007",
+      "date_label": "c. 305 CE",
+      "date_start_year": 295,
+      "date_end_year": 315,
+      "location_slug": "cairo",
+      "persons_involved": [
+        "zosimos-of-panopolis"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_zosimos_002",
+      "date_label": "c. 310 CE",
+      "date_start_year": 300,
+      "date_end_year": 320,
+      "location_slug": "alexandria",
+      "persons_involved": [
+        "zosimos-of-panopolis"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "sublimation"
+      ]
+    },
+    {
+      "slug": "event_late_antique_egypt_syria_008",
+      "date_label": "c. 320 CE",
+      "date_start_year": 310,
+      "date_end_year": 330,
+      "location_slug": "alexandria",
+      "persons_involved": [
+        "zosimos-of-panopolis"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_late_antique_egypt_syria_009",
+      "date_label": "c. 335 CE",
+      "date_start_year": 325,
+      "date_end_year": 345,
+      "location_slug": "cairo",
+      "persons_involved": [
+        "zosimos-of-panopolis"
+      ],
+      "texts_involved": [
+        "emerald-tablet"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_hellenistic_egypt_001",
+      "date_label": "c. 350 CE",
+      "date_start_year": 340,
+      "date_end_year": 360,
+      "location_slug": "alexandria",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "material-culture-approach"
+      ]
+    },
+    {
+      "slug": "event_late_antique_egypt_syria_010",
+      "date_label": "c. 350 CE",
+      "date_start_year": 340,
+      "date_end_year": 360,
+      "location_slug": "alexandria",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_late_antique_egypt_syria_011",
+      "date_label": "c. 365 CE",
+      "date_start_year": 355,
+      "date_end_year": 375,
+      "location_slug": "cairo",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_late_antique_egypt_syria_012",
+      "date_label": "c. 380 CE",
+      "date_start_year": 370,
+      "date_end_year": 390,
+      "location_slug": "alexandria",
+      "persons_involved": [],
+      "texts_involved": [
+        "picatrix"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_late_antique_egypt_syria_013",
+      "date_label": "c. 395 CE",
+      "date_start_year": 385,
+      "date_end_year": 405,
+      "location_slug": "cairo",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_late_antique_egypt_syria_014",
+      "date_label": "c. 410 CE",
+      "date_start_year": 400,
+      "date_end_year": 420,
+      "location_slug": "alexandria",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_late_antique_egypt_syria_015",
+      "date_label": "c. 425 CE",
+      "date_start_year": 415,
+      "date_end_year": 435,
+      "location_slug": "cairo",
+      "persons_involved": [],
+      "texts_involved": [
+        "ms-fr-640"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_late_antique_egypt_syria_016",
+      "date_label": "c. 440 CE",
+      "date_start_year": 430,
+      "date_end_year": 450,
+      "location_slug": "alexandria",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_late_antique_egypt_syria_017",
+      "date_label": "c. 455 CE",
+      "date_start_year": 445,
+      "date_end_year": 465,
+      "location_slug": "cairo",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_late_antique_egypt_syria_018",
+      "date_label": "c. 470 CE",
+      "date_start_year": 460,
+      "date_end_year": 480,
+      "location_slug": "alexandria",
+      "persons_involved": [],
+      "texts_involved": [
+        "summa-perfectionis"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_late_antique_egypt_syria_019",
+      "date_label": "c. 485 CE",
+      "date_start_year": 475,
+      "date_end_year": 495,
+      "location_slug": "cairo",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_late_antique_egypt_syria_020",
+      "date_label": "c. 500 CE",
+      "date_start_year": 490,
+      "date_end_year": 510,
+      "location_slug": "alexandria",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_late_antique_egypt_syria_021",
+      "date_label": "c. 515 CE",
+      "date_start_year": 505,
+      "date_end_year": 525,
+      "location_slug": "cairo",
+      "persons_involved": [],
+      "texts_involved": [
+        "liber-xxiv-philosophorum"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_late_antique_egypt_syria_022",
+      "date_label": "c. 530 CE",
+      "date_start_year": 520,
+      "date_end_year": 540,
+      "location_slug": "alexandria",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_late_antique_egypt_syria_023",
+      "date_label": "c. 545 CE",
+      "date_start_year": 535,
+      "date_end_year": 555,
+      "location_slug": "cairo",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_late_antique_egypt_syria_024",
+      "date_label": "c. 560 CE",
+      "date_start_year": 550,
+      "date_end_year": 570,
+      "location_slug": "alexandria",
+      "persons_involved": [],
+      "texts_involved": [
+        "corpus-hermeticum"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_late_antique_egypt_syria_025",
+      "date_label": "c. 575 CE",
+      "date_start_year": 565,
+      "date_end_year": 585,
+      "location_slug": "cairo",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_late_antique_egypt_syria_026",
+      "date_label": "c. 590 CE",
+      "date_start_year": 580,
+      "date_end_year": 600,
+      "location_slug": "alexandria",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_medieval_byzantium_000",
+      "date_label": "c. 600 CE",
+      "date_start_year": 585,
+      "date_end_year": 615,
+      "location_slug": "constantinople",
+      "persons_involved": [
+        "jabir-ibn-hayyan"
+      ],
+      "texts_involved": [
+        "corpus-hermeticum"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "distillation"
+      ]
+    },
+    {
+      "slug": "event_late_antique_egypt_syria_027",
+      "date_label": "c. 605 CE",
+      "date_start_year": 595,
+      "date_end_year": 615,
+      "location_slug": "cairo",
+      "persons_involved": [],
+      "texts_involved": [
+        "kitab-al-hasib"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "operational-chemistry"
+      ]
+    }
+  ],
+  "entities": {
+    "persons": [
+      {
+        "slug": "jabir-ibn-hayyan",
+        "name": "Jabir ibn Hayyan",
+        "role_primary": "ALCHEMIST",
+        "era": "MEDIEVAL",
+        "bio_html_excerpt": "Arab polymath and alchemist of the 8th-9th century whose corpus of works shaped practical chemistry for over a millennium. Known to Western alchemists as Geber...."
+      },
+      {
+        "slug": "zosimos-of-panopolis",
+        "name": "Zosimos of Panopolis",
+        "role_primary": "ALCHEMIST",
+        "era": "LATE_ANTIQUE",
+        "bio_html_excerpt": "3rd-century Greek alchemist whose writings represent the earliest systematic treatises on alchemy. His emphasis on operational knowledge grounded alchemy in material practice...."
+      }
+    ],
+    "texts": [
+      {
+        "slug": "corpus-hermeticum",
+        "title": "Corpus Hermeticum",
+        "text_type": "PRIMARY_SOURCE",
+        "composition_date": "c. 1st-3rd century CE"
+      },
+      {
+        "slug": "de-sex-rerum-principiis",
+        "title": "De Sex Rerum Principiis (On the Six Principles of Things)",
+        "text_type": "PRIMARY_SOURCE",
+        "composition_date": "c. 12th century"
+      },
+      {
+        "slug": "emerald-tablet",
+        "title": "Emerald Tablet (Tabula Smaragdina)",
+        "text_type": "PRIMARY_SOURCE",
+        "composition_date": "c. 6th-8th century (Arab compilation)"
+      },
+      {
+        "slug": "kitab-al-hasib",
+        "title": "Kitāb al-Ḥāsib",
+        "text_type": "PRIMARY_SOURCE",
+        "composition_date": "c. 8th-9th century (attributed to Jabir ibn Hayyan)"
+      },
+      {
+        "slug": "liber-xxiv-philosophorum",
+        "title": "Liber XXIV Philosophorum (Book of Twenty-Four Philosophers)",
+        "text_type": "PRIMARY_SOURCE",
+        "composition_date": "c. 12th century"
+      },
+      {
+        "slug": "ms-fr-640",
+        "title": "Ms. Fr. 640 (Anonymous Technical Manuscript)",
+        "text_type": "PRIMARY_SOURCE",
+        "composition_date": "c. 1580s"
+      },
+      {
+        "slug": "picatrix",
+        "title": "Picatrix (Ghāyat al-Hakīm)",
+        "text_type": "PRIMARY_SOURCE",
+        "composition_date": "c. 10th-11th century"
+      },
+      {
+        "slug": "summa-perfectionis",
+        "title": "Summa Perfectionis (Sum of Perfection)",
+        "text_type": "PRIMARY_SOURCE",
+        "composition_date": "c. 8th-9th century (attributed to Jabir ibn Hayyan)"
+      }
+    ],
+    "concepts": [
+      {
+        "slug": "distillation",
+        "label": "Distillation",
+        "category_type": "ACTOR_TERM"
+      },
+      {
+        "slug": "material-culture-approach",
+        "label": "Material Culture Approach",
+        "category_type": "ANALYST_TERM"
+      },
+      {
+        "slug": "operational-chemistry",
+        "label": "Operational Chemistry",
+        "category_type": "ANALYST_TERM"
+      },
+      {
+        "slug": "sublimation",
+        "label": "Sublimation",
+        "category_type": "ACTOR_TERM"
+      }
+    ],
+    "locations": [
+      {
+        "slug": "cairo",
+        "place_name": "Cairo (Heliopolis/Babylon)",
+        "latitude": 30.0444,
+        "longitude": 31.2357
+      },
+      {
+        "slug": "alexandria",
+        "place_name": "Alexandria",
+        "latitude": 31.2001,
+        "longitude": 29.9187
+      },
+      {
+        "slug": "baghdad",
+        "place_name": "Baghdad",
+        "latitude": 33.3128,
+        "longitude": 44.3615
+      },
+      {
+        "slug": "ray",
+        "place_name": "Ray (Rhages)",
+        "latitude": 35.6568,
+        "longitude": 51.4168
+      },
+      {
+        "slug": "damascus",
+        "place_name": "Damascus",
+        "latitude": 33.5138,
+        "longitude": 36.2765
+      },
+      {
+        "slug": "cordoba",
+        "place_name": "Córdoba",
+        "latitude": 37.8882,
+        "longitude": -4.7794
+      },
+      {
+        "slug": "toledo",
+        "place_name": "Toledo",
+        "latitude": 39.8581,
+        "longitude": -4.0201
+      },
+      {
+        "slug": "palermo",
+        "place_name": "Palermo",
+        "latitude": 38.1157,
+        "longitude": 13.3615
+      },
+      {
+        "slug": "hesse-germany",
+        "place_name": "Hesse",
+        "latitude": 50.4501,
+        "longitude": 9.5501
+      },
+      {
+        "slug": "oxford",
+        "place_name": "Oxford",
+        "latitude": 51.752,
+        "longitude": -1.2577
+      },
+      {
+        "slug": "bologna",
+        "place_name": "Bologna",
+        "latitude": 44.4949,
+        "longitude": 11.3426
+      },
+      {
+        "slug": "montpellier",
+        "place_name": "Montpellier",
+        "latitude": 43.6108,
+        "longitude": 3.8767
+      },
+      {
+        "slug": "vienna",
+        "place_name": "Vienna",
+        "latitude": 48.2082,
+        "longitude": 16.3738
+      },
+      {
+        "slug": "florence",
+        "place_name": "Florence",
+        "latitude": 43.7696,
+        "longitude": 11.2558
+      },
+      {
+        "slug": "basle",
+        "place_name": "Basle (Basel)",
+        "latitude": 47.5596,
+        "longitude": 7.5886
+      },
+      {
+        "slug": "salzburg",
+        "place_name": "Salzburg",
+        "latitude": 47.8095,
+        "longitude": 13.055
+      },
+      {
+        "slug": "strasbourg",
+        "place_name": "Strasbourg",
+        "latitude": 48.5734,
+        "longitude": 7.7521
+      },
+      {
+        "slug": "cologne",
+        "place_name": "Cologne",
+        "latitude": 50.9365,
+        "longitude": 6.9589
+      },
+      {
+        "slug": "paris",
+        "place_name": "Paris",
+        "latitude": 48.8566,
+        "longitude": 2.3522
+      },
+      {
+        "slug": "london",
+        "place_name": "London",
+        "latitude": 51.5074,
+        "longitude": -0.1278
+      },
+      {
+        "slug": "rome",
+        "place_name": "Rome",
+        "latitude": 41.9028,
+        "longitude": 12.4964
+      },
+      {
+        "slug": "ven-island",
+        "place_name": "Ven Island (Hven)",
+        "latitude": 55.9125,
+        "longitude": 12.7211
+      },
+      {
+        "slug": "prague",
+        "place_name": "Prague",
+        "latitude": 50.0755,
+        "longitude": 14.4378
+      },
+      {
+        "slug": "frankfurt",
+        "place_name": "Frankfurt",
+        "latitude": 50.1109,
+        "longitude": 8.6821
+      },
+      {
+        "slug": "toulouse",
+        "place_name": "Toulouse",
+        "latitude": 43.6047,
+        "longitude": 1.4442
+      }
+    ]
+  },
+  "metadata": {
+    "batch_name": "Late_Antique_Egypt_Syria",
+    "total_events": 31,
+    "unique_persons": 2,
+    "unique_texts": 8,
+    "unique_concepts": 4,
+    "unique_locations": 3
+  }
+}

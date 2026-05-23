@@ -1,0 +1,895 @@
+{
+  "batch_id": "Medieval_Islam_Baghdad_Persia",
+  "event_count": 40,
+  "instructions": "For each event stub, write a 100–250 word description following STYLEGUIDE.md. Wrap entity mentions in [LINK:slug] markup. End with historiographical significance.",
+  "events": [
+    {
+      "slug": "event_medieval_islam_baghdad_persia_000",
+      "date_label": "c. 700 CE",
+      "date_start_year": 690,
+      "date_end_year": 710,
+      "location_slug": "baghdad",
+      "persons_involved": [
+        "jabir-ibn-hayyan"
+      ],
+      "texts_involved": [
+        "corpus-hermeticum"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_001",
+      "date_label": "c. 712 CE",
+      "date_start_year": 702,
+      "date_end_year": 722,
+      "location_slug": "rayy",
+      "persons_involved": [
+        "al-razi"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_002",
+      "date_label": "c. 724 CE",
+      "date_start_year": 714,
+      "date_end_year": 734,
+      "location_slug": "baghdad",
+      "persons_involved": [
+        "al-kindi"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_003",
+      "date_label": "c. 736 CE",
+      "date_start_year": 726,
+      "date_end_year": 746,
+      "location_slug": "rayy",
+      "persons_involved": [
+        "roger-bacon"
+      ],
+      "texts_involved": [
+        "kitab-al-hasib"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_004",
+      "date_label": "c. 748 CE",
+      "date_start_year": 738,
+      "date_end_year": 758,
+      "location_slug": "baghdad",
+      "persons_involved": [
+        "gerard-of-cremona"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_005",
+      "date_label": "c. 760 CE",
+      "date_start_year": 750,
+      "date_end_year": 770,
+      "location_slug": "rayy",
+      "persons_involved": [
+        "jabir-ibn-hayyan"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_006",
+      "date_label": "c. 772 CE",
+      "date_start_year": 762,
+      "date_end_year": 782,
+      "location_slug": "baghdad",
+      "persons_involved": [
+        "al-razi"
+      ],
+      "texts_involved": [
+        "de-sex-rerum-principiis"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_007",
+      "date_label": "c. 784 CE",
+      "date_start_year": 774,
+      "date_end_year": 794,
+      "location_slug": "rayy",
+      "persons_involved": [
+        "al-kindi"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_008",
+      "date_label": "c. 796 CE",
+      "date_start_year": 786,
+      "date_end_year": 806,
+      "location_slug": "baghdad",
+      "persons_involved": [
+        "roger-bacon"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_009",
+      "date_label": "c. 808 CE",
+      "date_start_year": 798,
+      "date_end_year": 818,
+      "location_slug": "rayy",
+      "persons_involved": [
+        "gerard-of-cremona"
+      ],
+      "texts_involved": [
+        "emerald-tablet"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_010",
+      "date_label": "c. 820 CE",
+      "date_start_year": 810,
+      "date_end_year": 830,
+      "location_slug": "baghdad",
+      "persons_involved": [
+        "jabir-ibn-hayyan"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_011",
+      "date_label": "c. 832 CE",
+      "date_start_year": 822,
+      "date_end_year": 842,
+      "location_slug": "rayy",
+      "persons_involved": [
+        "al-razi"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_012",
+      "date_label": "c. 844 CE",
+      "date_start_year": 834,
+      "date_end_year": 854,
+      "location_slug": "baghdad",
+      "persons_involved": [
+        "al-kindi"
+      ],
+      "texts_involved": [
+        "picatrix"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_013",
+      "date_label": "c. 856 CE",
+      "date_start_year": 846,
+      "date_end_year": 866,
+      "location_slug": "rayy",
+      "persons_involved": [
+        "roger-bacon"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_014",
+      "date_label": "c. 868 CE",
+      "date_start_year": 858,
+      "date_end_year": 878,
+      "location_slug": "baghdad",
+      "persons_involved": [
+        "gerard-of-cremona"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_015",
+      "date_label": "c. 880 CE",
+      "date_start_year": 870,
+      "date_end_year": 890,
+      "location_slug": "rayy",
+      "persons_involved": [
+        "jabir-ibn-hayyan"
+      ],
+      "texts_involved": [
+        "ms-fr-640"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_016",
+      "date_label": "c. 892 CE",
+      "date_start_year": 882,
+      "date_end_year": 902,
+      "location_slug": "baghdad",
+      "persons_involved": [
+        "al-razi"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_017",
+      "date_label": "c. 904 CE",
+      "date_start_year": 894,
+      "date_end_year": 914,
+      "location_slug": "rayy",
+      "persons_involved": [
+        "al-kindi"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_018",
+      "date_label": "c. 916 CE",
+      "date_start_year": 906,
+      "date_end_year": 926,
+      "location_slug": "baghdad",
+      "persons_involved": [
+        "roger-bacon"
+      ],
+      "texts_involved": [
+        "summa-perfectionis"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_019",
+      "date_label": "c. 928 CE",
+      "date_start_year": 918,
+      "date_end_year": 938,
+      "location_slug": "rayy",
+      "persons_involved": [
+        "gerard-of-cremona"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_020",
+      "date_label": "c. 940 CE",
+      "date_start_year": 930,
+      "date_end_year": 950,
+      "location_slug": "baghdad",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_021",
+      "date_label": "c. 952 CE",
+      "date_start_year": 942,
+      "date_end_year": 962,
+      "location_slug": "rayy",
+      "persons_involved": [],
+      "texts_involved": [
+        "liber-xxiv-philosophorum"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_022",
+      "date_label": "c. 964 CE",
+      "date_start_year": 954,
+      "date_end_year": 974,
+      "location_slug": "baghdad",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_023",
+      "date_label": "c. 976 CE",
+      "date_start_year": 966,
+      "date_end_year": 986,
+      "location_slug": "rayy",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_024",
+      "date_label": "c. 988 CE",
+      "date_start_year": 978,
+      "date_end_year": 998,
+      "location_slug": "baghdad",
+      "persons_involved": [],
+      "texts_involved": [
+        "corpus-hermeticum"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_025",
+      "date_label": "c. 1000 CE",
+      "date_start_year": 990,
+      "date_end_year": 1010,
+      "location_slug": "rayy",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_026",
+      "date_label": "c. 1012 CE",
+      "date_start_year": 1002,
+      "date_end_year": 1022,
+      "location_slug": "baghdad",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_027",
+      "date_label": "c. 1024 CE",
+      "date_start_year": 1014,
+      "date_end_year": 1034,
+      "location_slug": "rayy",
+      "persons_involved": [],
+      "texts_involved": [
+        "kitab-al-hasib"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_028",
+      "date_label": "c. 1036 CE",
+      "date_start_year": 1026,
+      "date_end_year": 1046,
+      "location_slug": "baghdad",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_029",
+      "date_label": "c. 1048 CE",
+      "date_start_year": 1038,
+      "date_end_year": 1058,
+      "location_slug": "rayy",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_030",
+      "date_label": "c. 1060 CE",
+      "date_start_year": 1050,
+      "date_end_year": 1070,
+      "location_slug": "baghdad",
+      "persons_involved": [],
+      "texts_involved": [
+        "de-sex-rerum-principiis"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_031",
+      "date_label": "c. 1072 CE",
+      "date_start_year": 1062,
+      "date_end_year": 1082,
+      "location_slug": "rayy",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_032",
+      "date_label": "c. 1084 CE",
+      "date_start_year": 1074,
+      "date_end_year": 1094,
+      "location_slug": "baghdad",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_033",
+      "date_label": "c. 1096 CE",
+      "date_start_year": 1086,
+      "date_end_year": 1106,
+      "location_slug": "rayy",
+      "persons_involved": [],
+      "texts_involved": [
+        "emerald-tablet"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_034",
+      "date_label": "c. 1108 CE",
+      "date_start_year": 1098,
+      "date_end_year": 1118,
+      "location_slug": "baghdad",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_035",
+      "date_label": "c. 1120 CE",
+      "date_start_year": 1110,
+      "date_end_year": 1130,
+      "location_slug": "rayy",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_036",
+      "date_label": "c. 1132 CE",
+      "date_start_year": 1122,
+      "date_end_year": 1142,
+      "location_slug": "baghdad",
+      "persons_involved": [],
+      "texts_involved": [
+        "picatrix"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_037",
+      "date_label": "c. 1144 CE",
+      "date_start_year": 1134,
+      "date_end_year": 1154,
+      "location_slug": "rayy",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_038",
+      "date_label": "c. 1156 CE",
+      "date_start_year": 1146,
+      "date_end_year": 1166,
+      "location_slug": "baghdad",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    },
+    {
+      "slug": "event_medieval_islam_baghdad_persia_039",
+      "date_label": "c. 1168 CE",
+      "date_start_year": 1158,
+      "date_end_year": 1178,
+      "location_slug": "rayy",
+      "persons_involved": [],
+      "texts_involved": [
+        "ms-fr-640"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
+    }
+  ],
+  "entities": {
+    "persons": [
+      {
+        "slug": "al-kindi",
+        "name": "Al-Kindi (al-Kindy)",
+        "role_primary": "PHILOSOPHER",
+        "era": "MEDIEVAL"
+      },
+      {
+        "slug": "al-razi",
+        "name": "Al-Razi (Rhazes)",
+        "role_primary": "ALCHEMIST",
+        "era": "MEDIEVAL"
+      },
+      {
+        "slug": "gerard-of-cremona",
+        "name": "Gerard of Cremona",
+        "role_primary": "TRANSLATOR",
+        "era": "MEDIEVAL"
+      },
+      {
+        "slug": "jabir-ibn-hayyan",
+        "name": "Jabir ibn Hayyan",
+        "role_primary": "ALCHEMIST",
+        "era": "MEDIEVAL"
+      },
+      {
+        "slug": "roger-bacon",
+        "name": "Roger Bacon",
+        "role_primary": "PHILOSOPHER",
+        "era": "MEDIEVAL"
+      }
+    ],
+    "texts": [
+      {
+        "slug": "corpus-hermeticum",
+        "title": "Corpus Hermeticum",
+        "text_type": "PRIMARY_SOURCE",
+        "composition_date": "c. 1st-3rd century CE"
+      },
+      {
+        "slug": "de-sex-rerum-principiis",
+        "title": "De Sex Rerum Principiis (On the Six Principles of Things)",
+        "text_type": "PRIMARY_SOURCE",
+        "composition_date": "c. 12th century"
+      },
+      {
+        "slug": "emerald-tablet",
+        "title": "Emerald Tablet (Tabula Smaragdina)",
+        "text_type": "PRIMARY_SOURCE",
+        "composition_date": "c. 6th-8th century (Arab compilation)"
+      },
+      {
+        "slug": "kitab-al-hasib",
+        "title": "Kitāb al-Ḥāsib",
+        "text_type": "PRIMARY_SOURCE",
+        "composition_date": "c. 8th-9th century (attributed to Jabir ibn Hayyan)"
+      },
+      {
+        "slug": "liber-xxiv-philosophorum",
+        "title": "Liber XXIV Philosophorum (Book of Twenty-Four Philosophers)",
+        "text_type": "PRIMARY_SOURCE",
+        "composition_date": "c. 12th century"
+      },
+      {
+        "slug": "ms-fr-640",
+        "title": "Ms. Fr. 640 (Anonymous Technical Manuscript)",
+        "text_type": "PRIMARY_SOURCE",
+        "composition_date": "c. 1580s"
+      },
+      {
+        "slug": "picatrix",
+        "title": "Picatrix (Ghāyat al-Hakīm)",
+        "text_type": "PRIMARY_SOURCE",
+        "composition_date": "c. 10th-11th century"
+      },
+      {
+        "slug": "summa-perfectionis",
+        "title": "Summa Perfectionis (Sum of Perfection)",
+        "text_type": "PRIMARY_SOURCE",
+        "composition_date": "c. 8th-9th century (attributed to Jabir ibn Hayyan)"
+      }
+    ],
+    "concepts": [
+      {
+        "slug": "calcination",
+        "label": "Calcination",
+        "category_type": "ACTOR_TERM"
+      },
+      {
+        "slug": "distillation",
+        "label": "Distillation",
+        "category_type": "ACTOR_TERM"
+      },
+      {
+        "slug": "sublimation",
+        "label": "Sublimation",
+        "category_type": "ACTOR_TERM"
+      }
+    ],
+    "locations": [
+      {
+        "slug": "cairo",
+        "place_name": "Cairo (Heliopolis/Babylon)",
+        "latitude": 30.0444,
+        "longitude": 31.2357
+      },
+      {
+        "slug": "alexandria",
+        "place_name": "Alexandria",
+        "latitude": 31.2001,
+        "longitude": 29.9187
+      },
+      {
+        "slug": "baghdad",
+        "place_name": "Baghdad",
+        "latitude": 33.3128,
+        "longitude": 44.3615
+      },
+      {
+        "slug": "ray",
+        "place_name": "Ray (Rhages)",
+        "latitude": 35.6568,
+        "longitude": 51.4168
+      },
+      {
+        "slug": "damascus",
+        "place_name": "Damascus",
+        "latitude": 33.5138,
+        "longitude": 36.2765
+      },
+      {
+        "slug": "cordoba",
+        "place_name": "Córdoba",
+        "latitude": 37.8882,
+        "longitude": -4.7794
+      },
+      {
+        "slug": "toledo",
+        "place_name": "Toledo",
+        "latitude": 39.8581,
+        "longitude": -4.0201
+      },
+      {
+        "slug": "palermo",
+        "place_name": "Palermo",
+        "latitude": 38.1157,
+        "longitude": 13.3615
+      },
+      {
+        "slug": "hesse-germany",
+        "place_name": "Hesse",
+        "latitude": 50.4501,
+        "longitude": 9.5501
+      },
+      {
+        "slug": "oxford",
+        "place_name": "Oxford",
+        "latitude": 51.752,
+        "longitude": -1.2577
+      },
+      {
+        "slug": "bologna",
+        "place_name": "Bologna",
+        "latitude": 44.4949,
+        "longitude": 11.3426
+      },
+      {
+        "slug": "montpellier",
+        "place_name": "Montpellier",
+        "latitude": 43.6108,
+        "longitude": 3.8767
+      },
+      {
+        "slug": "vienna",
+        "place_name": "Vienna",
+        "latitude": 48.2082,
+        "longitude": 16.3738
+      },
+      {
+        "slug": "florence",
+        "place_name": "Florence",
+        "latitude": 43.7696,
+        "longitude": 11.2558
+      },
+      {
+        "slug": "basle",
+        "place_name": "Basle (Basel)",
+        "latitude": 47.5596,
+        "longitude": 7.5886
+      },
+      {
+        "slug": "salzburg",
+        "place_name": "Salzburg",
+        "latitude": 47.8095,
+        "longitude": 13.055
+      },
+      {
+        "slug": "strasbourg",
+        "place_name": "Strasbourg",
+        "latitude": 48.5734,
+        "longitude": 7.7521
+      },
+      {
+        "slug": "cologne",
+        "place_name": "Cologne",
+        "latitude": 50.9365,
+        "longitude": 6.9589
+      },
+      {
+        "slug": "paris",
+        "place_name": "Paris",
+        "latitude": 48.8566,
+        "longitude": 2.3522
+      },
+      {
+        "slug": "london",
+        "place_name": "London",
+        "latitude": 51.5074,
+        "longitude": -0.1278
+      },
+      {
+        "slug": "rome",
+        "place_name": "Rome",
+        "latitude": 41.9028,
+        "longitude": 12.4964
+      },
+      {
+        "slug": "ven-island",
+        "place_name": "Ven Island (Hven)",
+        "latitude": 55.9125,
+        "longitude": 12.7211
+      },
+      {
+        "slug": "prague",
+        "place_name": "Prague",
+        "latitude": 50.0755,
+        "longitude": 14.4378
+      },
+      {
+        "slug": "frankfurt",
+        "place_name": "Frankfurt",
+        "latitude": 50.1109,
+        "longitude": 8.6821
+      },
+      {
+        "slug": "toulouse",
+        "place_name": "Toulouse",
+        "latitude": 43.6047,
+        "longitude": 1.4442
+      }
+    ]
+  },
+  "metadata": {
+    "batch_name": "Medieval_Islam_Baghdad_Persia",
+    "total_events": 40,
+    "unique_persons": 5,
+    "unique_texts": 8,
+    "unique_concepts": 3
+  }
+}

@@ -1,0 +1,722 @@
+{
+  "batch_id": "Renaissance_Low_Countries",
+  "event_count": 35,
+  "instructions": "For each event stub, write a 100–250 word description following STYLEGUIDE.md. Wrap entity mentions in [LINK:slug] markup. End with historiographical significance.",
+  "events": [
+    {
+      "slug": "event_renaissance_low_countries_000",
+      "date_label": "c. 1400 CE",
+      "date_start_year": 1395,
+      "date_end_year": 1405,
+      "location_slug": "antwerp",
+      "persons_involved": [
+        "marsilio-ficino"
+      ],
+      "texts_involved": [
+        "corpus-hermeticum"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "chemical-experimentation"
+      ]
+    },
+    {
+      "slug": "event_renaissance_low_countries_001",
+      "date_label": "c. 1408 CE",
+      "date_start_year": 1403,
+      "date_end_year": 1413,
+      "location_slug": "bruges",
+      "persons_involved": [
+        "pico-della-mirandola"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "chemical-experimentation"
+      ]
+    },
+    {
+      "slug": "event_renaissance_low_countries_002",
+      "date_label": "c. 1416 CE",
+      "date_start_year": 1411,
+      "date_end_year": 1421,
+      "location_slug": "antwerp",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "chemical-experimentation"
+      ]
+    },
+    {
+      "slug": "event_renaissance_low_countries_003",
+      "date_label": "c. 1424 CE",
+      "date_start_year": 1419,
+      "date_end_year": 1429,
+      "location_slug": "bruges",
+      "persons_involved": [],
+      "texts_involved": [
+        "kitab-al-hasib"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "chemical-experimentation"
+      ]
+    },
+    {
+      "slug": "event_renaissance_low_countries_004",
+      "date_label": "c. 1432 CE",
+      "date_start_year": 1427,
+      "date_end_year": 1437,
+      "location_slug": "antwerp",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "chemical-experimentation"
+      ]
+    },
+    {
+      "slug": "event_renaissance_low_countries_005",
+      "date_label": "c. 1440 CE",
+      "date_start_year": 1435,
+      "date_end_year": 1445,
+      "location_slug": "bruges",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "chemical-experimentation"
+      ]
+    },
+    {
+      "slug": "event_renaissance_low_countries_006",
+      "date_label": "c. 1448 CE",
+      "date_start_year": 1443,
+      "date_end_year": 1453,
+      "location_slug": "antwerp",
+      "persons_involved": [],
+      "texts_involved": [
+        "de-sex-rerum-principiis"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "chemical-experimentation"
+      ]
+    },
+    {
+      "slug": "event_renaissance_low_countries_007",
+      "date_label": "c. 1456 CE",
+      "date_start_year": 1451,
+      "date_end_year": 1461,
+      "location_slug": "bruges",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "chemical-experimentation"
+      ]
+    },
+    {
+      "slug": "event_renaissance_low_countries_008",
+      "date_label": "c. 1464 CE",
+      "date_start_year": 1459,
+      "date_end_year": 1469,
+      "location_slug": "antwerp",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "chemical-experimentation"
+      ]
+    },
+    {
+      "slug": "event_renaissance_low_countries_009",
+      "date_label": "c. 1472 CE",
+      "date_start_year": 1467,
+      "date_end_year": 1477,
+      "location_slug": "bruges",
+      "persons_involved": [],
+      "texts_involved": [
+        "emerald-tablet"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "chemical-experimentation"
+      ]
+    },
+    {
+      "slug": "event_renaissance_low_countries_010",
+      "date_label": "c. 1480 CE",
+      "date_start_year": 1475,
+      "date_end_year": 1485,
+      "location_slug": "antwerp",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "chemical-experimentation"
+      ]
+    },
+    {
+      "slug": "event_renaissance_low_countries_011",
+      "date_label": "c. 1488 CE",
+      "date_start_year": 1483,
+      "date_end_year": 1493,
+      "location_slug": "bruges",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "chemical-experimentation"
+      ]
+    },
+    {
+      "slug": "event_renaissance_low_countries_012",
+      "date_label": "c. 1496 CE",
+      "date_start_year": 1491,
+      "date_end_year": 1501,
+      "location_slug": "antwerp",
+      "persons_involved": [],
+      "texts_involved": [
+        "picatrix"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "chemical-experimentation"
+      ]
+    },
+    {
+      "slug": "event_renaissance_low_countries_013",
+      "date_label": "c. 1504 CE",
+      "date_start_year": 1499,
+      "date_end_year": 1509,
+      "location_slug": "bruges",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "chemical-experimentation"
+      ]
+    },
+    {
+      "slug": "event_renaissance_low_countries_014",
+      "date_label": "c. 1512 CE",
+      "date_start_year": 1507,
+      "date_end_year": 1517,
+      "location_slug": "antwerp",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "chemical-experimentation"
+      ]
+    },
+    {
+      "slug": "event_renaissance_low_countries_015",
+      "date_label": "c. 1520 CE",
+      "date_start_year": 1515,
+      "date_end_year": 1525,
+      "location_slug": "bruges",
+      "persons_involved": [],
+      "texts_involved": [
+        "ms-fr-640"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "chemical-experimentation"
+      ]
+    },
+    {
+      "slug": "event_renaissance_low_countries_016",
+      "date_label": "c. 1528 CE",
+      "date_start_year": 1523,
+      "date_end_year": 1533,
+      "location_slug": "antwerp",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "chemical-experimentation"
+      ]
+    },
+    {
+      "slug": "event_renaissance_low_countries_017",
+      "date_label": "c. 1536 CE",
+      "date_start_year": 1531,
+      "date_end_year": 1541,
+      "location_slug": "bruges",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "chemical-experimentation"
+      ]
+    },
+    {
+      "slug": "event_renaissance_low_countries_018",
+      "date_label": "c. 1544 CE",
+      "date_start_year": 1539,
+      "date_end_year": 1549,
+      "location_slug": "antwerp",
+      "persons_involved": [],
+      "texts_involved": [
+        "summa-perfectionis"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "chemical-experimentation"
+      ]
+    },
+    {
+      "slug": "event_renaissance_low_countries_019",
+      "date_label": "c. 1552 CE",
+      "date_start_year": 1547,
+      "date_end_year": 1557,
+      "location_slug": "bruges",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "chemical-experimentation"
+      ]
+    },
+    {
+      "slug": "event_renaissance_low_countries_020",
+      "date_label": "c. 1560 CE",
+      "date_start_year": 1555,
+      "date_end_year": 1565,
+      "location_slug": "antwerp",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "chemical-experimentation"
+      ]
+    },
+    {
+      "slug": "event_renaissance_low_countries_021",
+      "date_label": "c. 1568 CE",
+      "date_start_year": 1563,
+      "date_end_year": 1573,
+      "location_slug": "bruges",
+      "persons_involved": [],
+      "texts_involved": [
+        "liber-xxiv-philosophorum"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "chemical-experimentation"
+      ]
+    },
+    {
+      "slug": "event_renaissance_low_countries_022",
+      "date_label": "c. 1576 CE",
+      "date_start_year": 1571,
+      "date_end_year": 1581,
+      "location_slug": "antwerp",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "chemical-experimentation"
+      ]
+    },
+    {
+      "slug": "event_renaissance_low_countries_023",
+      "date_label": "c. 1584 CE",
+      "date_start_year": 1579,
+      "date_end_year": 1589,
+      "location_slug": "bruges",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "chemical-experimentation"
+      ]
+    },
+    {
+      "slug": "event_renaissance_low_countries_024",
+      "date_label": "c. 1592 CE",
+      "date_start_year": 1587,
+      "date_end_year": 1597,
+      "location_slug": "antwerp",
+      "persons_involved": [],
+      "texts_involved": [
+        "corpus-hermeticum"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "chemical-experimentation"
+      ]
+    },
+    {
+      "slug": "event_renaissance_low_countries_025",
+      "date_label": "c. 1600 CE",
+      "date_start_year": 1595,
+      "date_end_year": 1605,
+      "location_slug": "bruges",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "chemical-experimentation"
+      ]
+    },
+    {
+      "slug": "event_renaissance_low_countries_026",
+      "date_label": "c. 1608 CE",
+      "date_start_year": 1603,
+      "date_end_year": 1613,
+      "location_slug": "antwerp",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "chemical-experimentation"
+      ]
+    },
+    {
+      "slug": "event_renaissance_low_countries_027",
+      "date_label": "c. 1616 CE",
+      "date_start_year": 1611,
+      "date_end_year": 1621,
+      "location_slug": "bruges",
+      "persons_involved": [],
+      "texts_involved": [
+        "kitab-al-hasib"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "chemical-experimentation"
+      ]
+    },
+    {
+      "slug": "event_renaissance_low_countries_028",
+      "date_label": "c. 1624 CE",
+      "date_start_year": 1619,
+      "date_end_year": 1629,
+      "location_slug": "antwerp",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "chemical-experimentation"
+      ]
+    },
+    {
+      "slug": "event_renaissance_low_countries_029",
+      "date_label": "c. 1632 CE",
+      "date_start_year": 1627,
+      "date_end_year": 1637,
+      "location_slug": "bruges",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "chemical-experimentation"
+      ]
+    },
+    {
+      "slug": "event_renaissance_low_countries_030",
+      "date_label": "c. 1640 CE",
+      "date_start_year": 1635,
+      "date_end_year": 1645,
+      "location_slug": "antwerp",
+      "persons_involved": [],
+      "texts_involved": [
+        "de-sex-rerum-principiis"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "chemical-experimentation"
+      ]
+    },
+    {
+      "slug": "event_renaissance_low_countries_031",
+      "date_label": "c. 1648 CE",
+      "date_start_year": 1643,
+      "date_end_year": 1653,
+      "location_slug": "bruges",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "chemical-experimentation"
+      ]
+    },
+    {
+      "slug": "event_renaissance_low_countries_032",
+      "date_label": "c. 1656 CE",
+      "date_start_year": 1651,
+      "date_end_year": 1661,
+      "location_slug": "antwerp",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "chemical-experimentation"
+      ]
+    },
+    {
+      "slug": "event_renaissance_low_countries_033",
+      "date_label": "c. 1664 CE",
+      "date_start_year": 1659,
+      "date_end_year": 1669,
+      "location_slug": "bruges",
+      "persons_involved": [],
+      "texts_involved": [
+        "emerald-tablet"
+      ],
+      "concepts_involved": [
+        "distillation",
+        "chemical-experimentation"
+      ]
+    },
+    {
+      "slug": "event_renaissance_low_countries_034",
+      "date_label": "c. 1672 CE",
+      "date_start_year": 1667,
+      "date_end_year": 1677,
+      "location_slug": "antwerp",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "distillation",
+        "chemical-experimentation"
+      ]
+    }
+  ],
+  "entities": {
+    "persons": [
+      {
+        "slug": "marsilio-ficino",
+        "name": "Marsilio Ficino",
+        "role_primary": "PHILOSOPHER",
+        "era": "RENAISSANCE"
+      },
+      {
+        "slug": "pico-della-mirandola",
+        "name": "Pico della Mirandola",
+        "role_primary": "PHILOSOPHER",
+        "era": "RENAISSANCE"
+      }
+    ],
+    "texts": [
+      {
+        "slug": "corpus-hermeticum",
+        "title": "Corpus Hermeticum",
+        "text_type": "PRIMARY_SOURCE",
+        "composition_date": "c. 1st-3rd century CE"
+      },
+      {
+        "slug": "de-sex-rerum-principiis",
+        "title": "De Sex Rerum Principiis (On the Six Principles of Things)",
+        "text_type": "PRIMARY_SOURCE",
+        "composition_date": "c. 12th century"
+      },
+      {
+        "slug": "emerald-tablet",
+        "title": "Emerald Tablet (Tabula Smaragdina)",
+        "text_type": "PRIMARY_SOURCE",
+        "composition_date": "c. 6th-8th century (Arab compilation)"
+      },
+      {
+        "slug": "kitab-al-hasib",
+        "title": "Kitāb al-Ḥāsib",
+        "text_type": "PRIMARY_SOURCE",
+        "composition_date": "c. 8th-9th century (attributed to Jabir ibn Hayyan)"
+      },
+      {
+        "slug": "liber-xxiv-philosophorum",
+        "title": "Liber XXIV Philosophorum (Book of Twenty-Four Philosophers)",
+        "text_type": "PRIMARY_SOURCE",
+        "composition_date": "c. 12th century"
+      },
+      {
+        "slug": "ms-fr-640",
+        "title": "Ms. Fr. 640 (Anonymous Technical Manuscript)",
+        "text_type": "PRIMARY_SOURCE",
+        "composition_date": "c. 1580s"
+      },
+      {
+        "slug": "picatrix",
+        "title": "Picatrix (Ghāyat al-Hakīm)",
+        "text_type": "PRIMARY_SOURCE",
+        "composition_date": "c. 10th-11th century"
+      },
+      {
+        "slug": "summa-perfectionis",
+        "title": "Summa Perfectionis (Sum of Perfection)",
+        "text_type": "PRIMARY_SOURCE",
+        "composition_date": "c. 8th-9th century (attributed to Jabir ibn Hayyan)"
+      }
+    ],
+    "concepts": [
+      {
+        "slug": "distillation",
+        "label": "Distillation",
+        "category_type": "ACTOR_TERM"
+      }
+    ],
+    "locations": [
+      {
+        "slug": "cairo",
+        "place_name": "Cairo (Heliopolis/Babylon)",
+        "latitude": 30.0444,
+        "longitude": 31.2357
+      },
+      {
+        "slug": "alexandria",
+        "place_name": "Alexandria",
+        "latitude": 31.2001,
+        "longitude": 29.9187
+      },
+      {
+        "slug": "baghdad",
+        "place_name": "Baghdad",
+        "latitude": 33.3128,
+        "longitude": 44.3615
+      },
+      {
+        "slug": "ray",
+        "place_name": "Ray (Rhages)",
+        "latitude": 35.6568,
+        "longitude": 51.4168
+      },
+      {
+        "slug": "damascus",
+        "place_name": "Damascus",
+        "latitude": 33.5138,
+        "longitude": 36.2765
+      },
+      {
+        "slug": "cordoba",
+        "place_name": "Córdoba",
+        "latitude": 37.8882,
+        "longitude": -4.7794
+      },
+      {
+        "slug": "toledo",
+        "place_name": "Toledo",
+        "latitude": 39.8581,
+        "longitude": -4.0201
+      },
+      {
+        "slug": "palermo",
+        "place_name": "Palermo",
+        "latitude": 38.1157,
+        "longitude": 13.3615
+      },
+      {
+        "slug": "hesse-germany",
+        "place_name": "Hesse",
+        "latitude": 50.4501,
+        "longitude": 9.5501
+      },
+      {
+        "slug": "oxford",
+        "place_name": "Oxford",
+        "latitude": 51.752,
+        "longitude": -1.2577
+      },
+      {
+        "slug": "bologna",
+        "place_name": "Bologna",
+        "latitude": 44.4949,
+        "longitude": 11.3426
+      },
+      {
+        "slug": "montpellier",
+        "place_name": "Montpellier",
+        "latitude": 43.6108,
+        "longitude": 3.8767
+      },
+      {
+        "slug": "vienna",
+        "place_name": "Vienna",
+        "latitude": 48.2082,
+        "longitude": 16.3738
+      },
+      {
+        "slug": "florence",
+        "place_name": "Florence",
+        "latitude": 43.7696,
+        "longitude": 11.2558
+      },
+      {
+        "slug": "basle",
+        "place_name": "Basle (Basel)",
+        "latitude": 47.5596,
+        "longitude": 7.5886
+      },
+      {
+        "slug": "salzburg",
+        "place_name": "Salzburg",
+        "latitude": 47.8095,
+        "longitude": 13.055
+      },
+      {
+        "slug": "strasbourg",
+        "place_name": "Strasbourg",
+        "latitude": 48.5734,
+        "longitude": 7.7521
+      },
+      {
+        "slug": "cologne",
+        "place_name": "Cologne",
+        "latitude": 50.9365,
+        "longitude": 6.9589
+      },
+      {
+        "slug": "paris",
+        "place_name": "Paris",
+        "latitude": 48.8566,
+        "longitude": 2.3522
+      },
+      {
+        "slug": "london",
+        "place_name": "London",
+        "latitude": 51.5074,
+        "longitude": -0.1278
+      },
+      {
+        "slug": "rome",
+        "place_name": "Rome",
+        "latitude": 41.9028,
+        "longitude": 12.4964
+      },
+      {
+        "slug": "ven-island",
+        "place_name": "Ven Island (Hven)",
+        "latitude": 55.9125,
+        "longitude": 12.7211
+      },
+      {
+        "slug": "prague",
+        "place_name": "Prague",
+        "latitude": 50.0755,
+        "longitude": 14.4378
+      },
+      {
+        "slug": "frankfurt",
+        "place_name": "Frankfurt",
+        "latitude": 50.1109,
+        "longitude": 8.6821
+      },
+      {
+        "slug": "toulouse",
+        "place_name": "Toulouse",
+        "latitude": 43.6047,
+        "longitude": 1.4442
+      }
+    ]
+  },
+  "metadata": {
+    "batch_name": "Renaissance_Low_Countries",
+    "total_events": 35,
+    "unique_persons": 2,
+    "unique_texts": 8,
+    "unique_concepts": 1
+  }
+}
