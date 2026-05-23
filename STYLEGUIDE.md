@@ -151,6 +151,21 @@ Never collapse these registers. If scholars argue about whether a term was reall
 
 **`<h2>Literature</h2>`**: 8–15 bibliographic entries in DGWE format.
 
+### Multi-Register Field (registers JSON)
+
+For every concept definition, also populate the `registers` JSON field in the database. This field is a JSON object mapping each of the four registers to a one-sentence description:
+
+```json
+{
+  "alchemical": "Operational description: what the procedure involved",
+  "medical": "Medical application: how it applied to health/humors",
+  "spiritual": "Spiritual significance: inner transformation dimension",
+  "cosmological": "Cosmic law: role in creation/universal order"
+}
+```
+
+Each sentence should be concise (15–30 words) and reflect the core content of the corresponding `<h2>` section in your `definition_long`. This enables the front-end to present concept meanings by register and helps readers understand simultaneity across domains.
+
 ---
 
 ## Bibliography Format (Literature Sections)
@@ -211,6 +226,28 @@ Every person, text, and concept has a *history*. It was created, copied, transla
 
 Example: The *Emerald Tablet* circulated in multiple versions. Medieval Latin translators read it as a recipe for transmutation. Renaissance Hermeticists read it as a cosmological text. Modern scholars argue about what Hermes Trismegistus "really" meant, but the medieval and Renaissance *misreadings* shaped alchemy's actual history. Show all of this.
 
+### Multi-Register Interpretation (Concept Definitions)
+
+Alchemical concepts are **polyvalent**: a single term carries meaning simultaneously across multiple knowledge registers. Every concept definition for alchemy must express these registers together, rather than choosing one and dismissing others as "mere metaphor."
+
+**Four core registers:**
+
+1. **Alchemical register**: the operational account (furnace work, material transformation, observable effects)
+2. **Medical register**: applications to health, healing, humoral theory, pharmaceutical compounds
+3. **Spiritual register**: inner transformation, purification, mystical union, ego-annihilation
+4. **Cosmological register**: universal laws, creation mythology, celestial influences, cosmic cycles
+
+Practitioners engaged all four simultaneously. Your concept definitions must show this simultaneity. Do NOT write separate sections for "what it really meant" (chemical) versus "what they thought it meant" (spiritual). Instead, show how a single term like *calcination* or *putrefaction* expressed meaning across all four registers at once.
+
+**Structure:** Divide the concept's `definition_long` field into four `<h2>` sections, one per register. Each section should include primary source quotations, technical details, and scholarly context specific to that register. See `docs/MULTIREGISTER_EXAMPLES.md` for a worked example (calcination across four registers).
+
+**In the database:** Populate the `registers` JSON field with one-sentence summaries:
+```
+{"alchemical": "...", "medical": "...", "spiritual": "...", "cosmological": "..."}
+```
+
+This enables the front-end to present concept meanings by register and helps readers understand how a single term unified different domains of knowledge.
+
 ---
 
 ## Voice and Register
@@ -227,6 +264,43 @@ Every substantive claim must be traceable to a named source. Integrate citations
 
 ---
 
+## Optional Historiographical Metadata Fields
+
+Three fields on the persons, texts, and concepts tables support deeper historiographical precision:
+
+### transmission_chain (JSON array)
+
+For concepts and texts with multiple versions, translations, or genealogies, populate this field with an ordered array of related slugs showing evolution:
+
+```json
+["distillatio-zosimos", "dhiqa-arabic", "distillatio-latin-gerard", "distillation-medieval", "distillation-paracelsian"]
+```
+
+This field enables the front-end to show readers how a term or text evolved across languages, periods, and interpretations. Include it especially for:
+- Texts with multiple translations or recensions
+- Concepts with variant terminology across languages
+- Persons with intellectual predecessors/successors
+
+### scholarly_disagreement (plain text)
+
+If there are significant historiographical disputes about this entry, note them briefly:
+
+> "Authorship of the *Summa Perfectionis* disputed between Newman (defends Jabir authorship, 8th century) and Principe (attributes to 13th-century compiler); see *Scholarly Significance* section for details."
+
+This alerts readers to uncertainties and directs them to the main text where the disagreement is discussed.
+
+### material_grounding (plain text, for concepts, texts, and persons)
+
+For concepts and texts, brief notes on real-world apparatus, materials, or dangers:
+
+> "Apparatus: alembic with long copper neck; common to distill wine, rose water, mineral waters; produces flammable vapors; can cause severe burns; requires careful furnace temperature control."
+
+For persons, note their practical context, teaching lineages, or real-world influence:
+
+> "Active as court physician and laboratory director; trained apprentices in distillation; oversaw production of mineral waters and medicinal compounds; evidence of laboratory accidents in correspondence."
+
+---
+
 ## Checking Your Work
 
 Before submitting any prose entry, ask:
@@ -239,6 +313,10 @@ Before submitting any prose entry, ask:
 6. Does the entry meet the minimum word count for its type?
 7. Does the Literature section have the minimum number of items?
 8. Are there at least 3 internal hyperlinks to related entities?
+9. For concepts: have I populated the `registers` JSON field?
+10. If there are historiographical disputes: have I noted them in `scholarly_disagreement` and discussed them in the main text?
+11. If the entry has a genealogy (translations, successors, variants): have I populated `transmission_chain`?
+12. If applicable: have I grounded the entry in material reality via `material_grounding`?
 
 If the answer to any is "no," revise before submission.
 

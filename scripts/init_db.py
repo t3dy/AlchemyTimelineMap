@@ -82,6 +82,15 @@ def create_schema():
             )),
             bio_html TEXT NOT NULL,
 
+            -- Transmission history (OPTIONAL): JSON array of predecessor/successor slugs
+            transmission_chain TEXT,
+
+            -- Historiographical disputes (OPTIONAL): plain text note on contested claims
+            scholarly_disagreement TEXT,
+
+            -- Material grounding (OPTIONAL): plain text on practical context, teaching lineages
+            material_grounding TEXT,
+
             -- Provenance
             source_method TEXT NOT NULL CHECK(source_method IN ('MANUAL', 'AI_ASSISTED', 'SCHOLARSHIP_BASED')),
             review_status TEXT NOT NULL CHECK(review_status IN ('DRAFT', 'REVIEWED', 'VERIFIED')),
@@ -108,6 +117,15 @@ def create_schema():
             composition_year_end INTEGER,
             analysis_html TEXT NOT NULL,
 
+            -- Transmission history (OPTIONAL): JSON array of predecessors/successors
+            transmission_chain TEXT,
+
+            -- Historiographical disputes (OPTIONAL): plain text note on contested claims
+            scholarly_disagreement TEXT,
+
+            -- Material grounding (OPTIONAL): plain text on manuscript tradition, material culture
+            material_grounding TEXT,
+
             -- Provenance
             source_method TEXT NOT NULL CHECK(source_method IN ('MANUAL', 'AI_ASSISTED', 'SCHOLARSHIP_BASED')),
             review_status TEXT NOT NULL CHECK(review_status IN ('DRAFT', 'REVIEWED', 'VERIFIED')),
@@ -125,13 +143,28 @@ def create_schema():
             id INTEGER PRIMARY KEY AUTOINCREMENT,
             slug TEXT UNIQUE NOT NULL,
             label TEXT NOT NULL,
-            category_type TEXT NOT NULL CHECK(category_type IN ('ACTOR_TERM', 'ANALYST_TERM')),
+            category_type TEXT NOT NULL CHECK(category_type IN (
+                'ACTOR_TERM', 'ANALYST_TERM', 'DISPUTED_ACTOR_TERM', 'RETROSPECTIVE_MISREADING'
+            )),
             definition_short TEXT,  -- 60–120 words (index card)
             definition_long TEXT,   -- 1,500–2,500 words (encyclopedia)
+
+            -- Multi-register interpretation (OPTIONAL): JSON mapping registers to descriptions
+            registers JSON,
+
             operation_type TEXT CHECK(operation_type IN (
                 'DISTILLATION', 'SUBLIMATION', 'CALCINATION', 'FERMENTATION', 'CRYSTALLIZATION',
-                'DISSOLUTION', 'COAGULATION', 'PUTREFACTION', 'CIRCULATION'
+                'DISSOLUTION', 'COAGULATION', 'PUTREFACTION', 'CIRCULATION', 'MATERIAL_TRANSFORMATION'
             )),
+
+            -- Historiographical disputes (OPTIONAL): plain text note on contested interpretation
+            scholarly_disagreement TEXT,
+
+            -- Transmission history (OPTIONAL): JSON array showing how the concept evolved
+            transmission_chain TEXT,
+
+            -- Material grounding (OPTIONAL): plain text on apparatus, substances, or techniques
+            material_grounding TEXT,
 
             -- Provenance
             source_method TEXT NOT NULL CHECK(source_method IN ('MANUAL', 'AI_ASSISTED', 'SCHOLARSHIP_BASED')),
