@@ -1,7 +1,7 @@
 # ALCHEMYTIMELINEMAP Phase Status
 
-**Updated:** 2026-05-23 (Interactive Map Complete - All 582/582 events visible on map)
-**Current Phase:** PHASE 2 (IN PROGRESS) — PERSONS, TEXTS, CONCEPTS EXPANSION + INTERACTIVE MAP LIVE
+**Updated:** 2026-05-23 (Scholarly Grounding Framework Complete - Timeline & Event Pages Ready)
+**Current Phase:** PHASE 2 (IN PROGRESS) — PERSONS, TEXTS, CONCEPTS EXPANSION + INTERACTIVE MAP LIVE + SCHOLARLY CITATIONS
 
 ---
 
@@ -126,6 +126,42 @@ ORDER BY event_count DESC;
 - `site/assets/map.js` — Enhanced popup content + hover/click behavior
 - `site/assets/style.css` — Added 60+ lines for popup styling
 - `db/alchemy_timeline.db` — Fixed 20 orphaned rows
+
+---
+
+### SCHOLARLY GROUNDING FRAMEWORK (✅ COMPLETE - 2026-05-23)
+
+**Goal:** Every timeline event links to modern scholarly historiography, grounding it in peer-reviewed work rather than speculation.
+
+**Completion Status (2026-05-23):**
+- ✅ Database schema extended: new `scholarly_grounding` column on timeline_events
+- ✅ Data ontology updated: `scholarly_grounding` is new required field
+- ✅ Standards updated: STANDARD_TIMELINE_EVENTS.md now mandates scholarly citations
+- ✅ Build pipeline: scholarly_grounding exported in data.json and rendered on event pages
+- ✅ UI: Index cards display scholarly context (italicized, with left border accent)
+- ✅ UI: Event detail pages render "Scholarly Context" box (beige background, secondary color border)
+- ✅ Demonstration: 3 sample citations added (Zosimos, Jabir ibn Hayyan, Gerard of Cremona)
+
+**Scholarly Grounding Format (DGWE-inspired):**
+```
+Scholar Last-Name [demonstrated|showed|argued] X in *Title* (Year) [ch.X pp.XX-YY]
+```
+
+**Examples in Database:**
+- `Lawrence Principe demonstrated Zosimos was a sophisticated experimentalist in *Secrets of Alchemy* (2013) ch.2 pp.45-67`
+- `William Newman traced the Summa Perfectionis influence on Latin alchemy in *The Summa Perfectionis* (2016) intro pp.xiv-xxiii`
+- `Michela Pereira demonstrated medieval alchemy continuity with Arabic tradition in *The Alchemical Corpus Attributed to Ray Lull* (2007) ch.1 pp.8-32`
+
+**Architecture:**
+- Field is **NULLABLE** (backward compatible with existing events)
+- Timeline index cards show scholarly grounding as italicized block between summary and entity chips
+- Event detail pages show scholarly grounding in dedicated "Scholarly Context" section above full description
+- Anchors every event in historiographical authority (Newman, Principe, Pereira, etc.)
+
+**Next Steps for Complete Coverage:**
+- Enrich remaining 579 events with scholarly_grounding citations
+- Target scholars: Hanegraaff, Smith, Fowden, Holmyard, Pereira, Principe, Newman
+- Cross-reference with CONCEPTUAL_FRAMEWORK.md key authorities
 
 ---
 
