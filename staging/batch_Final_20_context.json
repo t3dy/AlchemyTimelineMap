@@ -1,0 +1,570 @@
+{
+  "batch_id": "Final_20_Milestone",
+  "events": [
+    {
+      "slug": "event_early_modern_central_europe_034",
+      "date_label": "c. 1704 CE",
+      "date_start_year": 1701,
+      "location_slug": "prague",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "laboratory-practice"
+      ]
+    },
+    {
+      "slug": "event_early_modern_england_034",
+      "date_label": "c. 1704 CE",
+      "date_start_year": 1701,
+      "location_slug": "london",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "natural-philosophy"
+      ]
+    },
+    {
+      "slug": "event_early_modern_france_034",
+      "date_label": "c. 1704 CE",
+      "date_start_year": 1701,
+      "location_slug": "paris",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "chemical-practice",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_034",
+      "date_label": "c. 1704 CE",
+      "date_start_year": 1701,
+      "location_slug": "madrid",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_central_europe_035",
+      "date_label": "c. 1710 CE",
+      "date_start_year": 1707,
+      "location_slug": "vienna",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "laboratory-practice"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_035",
+      "date_label": "c. 1710 CE",
+      "date_start_year": 1707,
+      "location_slug": "lisbon",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_central_europe_036",
+      "date_label": "c. 1716 CE",
+      "date_start_year": 1713,
+      "location_slug": "prague",
+      "persons_involved": [],
+      "texts_involved": [
+        "picatrix"
+      ],
+      "concepts_involved": [
+        "transmutation",
+        "laboratory-practice"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_036",
+      "date_label": "c. 1716 CE",
+      "date_start_year": 1713,
+      "location_slug": "madrid",
+      "persons_involved": [],
+      "texts_involved": [
+        "picatrix"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_central_europe_037",
+      "date_label": "c. 1722 CE",
+      "date_start_year": 1719,
+      "location_slug": "vienna",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "laboratory-practice"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_037",
+      "date_label": "c. 1722 CE",
+      "date_start_year": 1719,
+      "location_slug": "lisbon",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_central_europe_038",
+      "date_label": "c. 1728 CE",
+      "date_start_year": 1725,
+      "location_slug": "prague",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "laboratory-practice"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_038",
+      "date_label": "c. 1728 CE",
+      "date_start_year": 1725,
+      "location_slug": "madrid",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_central_europe_039",
+      "date_label": "c. 1734 CE",
+      "date_start_year": 1731,
+      "location_slug": "vienna",
+      "persons_involved": [],
+      "texts_involved": [
+        "ms-fr-640"
+      ],
+      "concepts_involved": [
+        "transmutation",
+        "laboratory-practice"
+      ]
+    },
+    {
+      "slug": "event_early_modern_spain_portugal_039",
+      "date_label": "c. 1734 CE",
+      "date_start_year": 1731,
+      "location_slug": "lisbon",
+      "persons_involved": [],
+      "texts_involved": [
+        "ms-fr-640"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "transmutation"
+      ]
+    },
+    {
+      "slug": "event_early_modern_central_europe_040",
+      "date_label": "c. 1740 CE",
+      "date_start_year": 1737,
+      "location_slug": "prague",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "laboratory-practice"
+      ]
+    },
+    {
+      "slug": "event_enlightenment_chemistry_001",
+      "date_label": "c. 1750",
+      "date_start_year": 1740,
+      "location_slug": "paris",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry"
+      ]
+    },
+    {
+      "slug": "event_early_modern_central_europe_041",
+      "date_label": "c. 1746 CE",
+      "date_start_year": 1743,
+      "location_slug": "vienna",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "laboratory-practice"
+      ]
+    },
+    {
+      "slug": "event_early_modern_central_europe_042",
+      "date_label": "c. 1752 CE",
+      "date_start_year": 1749,
+      "location_slug": "prague",
+      "persons_involved": [],
+      "texts_involved": [
+        "summa-perfectionis"
+      ],
+      "concepts_involved": [
+        "transmutation",
+        "laboratory-practice"
+      ]
+    },
+    {
+      "slug": "event_early_modern_central_europe_043",
+      "date_label": "c. 1758 CE",
+      "date_start_year": 1755,
+      "location_slug": "vienna",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "laboratory-practice"
+      ]
+    },
+    {
+      "slug": "event_early_modern_central_europe_044",
+      "date_label": "c. 1764 CE",
+      "date_start_year": 1761,
+      "location_slug": "prague",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "laboratory-practice"
+      ]
+    }
+  ],
+  "persons": [
+    {
+      "slug": "al-kindi",
+      "name": "Al-Kindi (al-Kindy)"
+    },
+    {
+      "slug": "al-razi",
+      "name": "Al-Razi (Rhazes)"
+    },
+    {
+      "slug": "brian-copenhaver",
+      "name": "Brian P. Copenhaver"
+    },
+    {
+      "slug": "garth-fowden",
+      "name": "Garth Fowden"
+    },
+    {
+      "slug": "gerard-of-cremona",
+      "name": "Gerard of Cremona"
+    },
+    {
+      "slug": "giordano-bruno",
+      "name": "Giordano Bruno"
+    },
+    {
+      "slug": "henry-cornelius-agrippa",
+      "name": "Henry Cornelius Agrippa"
+    },
+    {
+      "slug": "jabir-ibn-hayyan",
+      "name": "Jabir ibn Hayyan"
+    },
+    {
+      "slug": "lawrence-principe",
+      "name": "Lawrence M. Principe"
+    },
+    {
+      "slug": "marsilio-ficino",
+      "name": "Marsilio Ficino"
+    },
+    {
+      "slug": "michael-maier",
+      "name": "Michael Maier"
+    },
+    {
+      "slug": "michela-pereira",
+      "name": "Michela Pereira"
+    },
+    {
+      "slug": "pamela-smith",
+      "name": "Pamela H. Smith"
+    },
+    {
+      "slug": "paracelsus",
+      "name": "Paracelsus (Theophrastus Bombastus von Hohenheim)"
+    },
+    {
+      "slug": "pico-della-mirandola",
+      "name": "Pico della Mirandola"
+    },
+    {
+      "slug": "roger-bacon",
+      "name": "Roger Bacon"
+    },
+    {
+      "slug": "tycho-brahe",
+      "name": "Tycho Brahe"
+    },
+    {
+      "slug": "william-newman",
+      "name": "William R. Newman"
+    },
+    {
+      "slug": "wouter-hanegraaff",
+      "name": "Wouter J. Hanegraaff"
+    },
+    {
+      "slug": "zosimos-of-panopolis",
+      "name": "Zosimos of Panopolis"
+    }
+  ],
+  "texts": [
+    {
+      "slug": "atalanta-fugiens",
+      "title": "Atalanta Fugiens"
+    },
+    {
+      "slug": "atoms-and-alchemy",
+      "title": "Atoms and Alchemy: Chymistry and the Transformation of Matter in the Early Modern Period"
+    },
+    {
+      "slug": "corpus-hermeticum",
+      "title": "Corpus Hermeticum"
+    },
+    {
+      "slug": "de-occulta-philosophia",
+      "title": "De Occulta Philosophia (Three Books of Occult Philosophy)"
+    },
+    {
+      "slug": "de-sex-rerum-principiis",
+      "title": "De Sex Rerum Principiis (On the Six Principles of Things)"
+    },
+    {
+      "slug": "emerald-tablet",
+      "title": "Emerald Tablet (Tabula Smaragdina)"
+    },
+    {
+      "slug": "kitab-al-hasib",
+      "title": "Kitāb al-Ḥāsib"
+    },
+    {
+      "slug": "liber-xxiv-philosophorum",
+      "title": "Liber XXIV Philosophorum (Book of Twenty-Four Philosophers)"
+    },
+    {
+      "slug": "ms-fr-640",
+      "title": "Ms. Fr. 640 (Anonymous Technical Manuscript)"
+    },
+    {
+      "slug": "picatrix",
+      "title": "Picatrix (Ghāyat al-Hakīm)"
+    },
+    {
+      "slug": "summa-perfectionis",
+      "title": "Summa Perfectionis (Sum of Perfection)"
+    },
+    {
+      "slug": "the-body-of-the-artisan",
+      "title": "The Body of the Artisan: Art and Experience in the Scientific Revolution"
+    },
+    {
+      "slug": "the-business-of-alchemy",
+      "title": "The Business of Alchemy: Science and Culture in the Holy Roman Empire"
+    },
+    {
+      "slug": "the-egyptian-hermes",
+      "title": "The Egyptian Hermes: A Historical Approach to the Late Pagan Mind"
+    }
+  ],
+  "concepts": [
+    {
+      "slug": "artisanal-epistemology",
+      "label": "Artisanal Epistemology"
+    },
+    {
+      "slug": "calcination",
+      "label": "Calcination"
+    },
+    {
+      "slug": "distillation",
+      "label": "Distillation"
+    },
+    {
+      "slug": "fermentation",
+      "label": "Fermentation"
+    },
+    {
+      "slug": "hermeticism",
+      "label": "Hermeticism"
+    },
+    {
+      "slug": "magia-naturalis",
+      "label": "Magia Naturalis (Natural Magic)"
+    },
+    {
+      "slug": "material-culture-approach",
+      "label": "Material Culture Approach"
+    },
+    {
+      "slug": "medicamenta-tria",
+      "label": "Medicamenta Tria (Three Medicines)"
+    },
+    {
+      "slug": "mullite",
+      "label": "Mullite"
+    },
+    {
+      "slug": "nous",
+      "label": "Nous (Divine Intellect)"
+    },
+    {
+      "slug": "operational-chemistry",
+      "label": "Operational Chemistry"
+    },
+    {
+      "slug": "paracelsian-alchemy",
+      "label": "Paracelsian Alchemy"
+    },
+    {
+      "slug": "prisca-theologia",
+      "label": "Prisca Theologia (Ancient Theology)"
+    },
+    {
+      "slug": "quintessence",
+      "label": "Quintessence"
+    },
+    {
+      "slug": "sublimation",
+      "label": "Sublimation"
+    },
+    {
+      "slug": "tacit-knowledge",
+      "label": "Tacit Knowledge"
+    },
+    {
+      "slug": "transmutation",
+      "label": "Transmutation"
+    },
+    {
+      "slug": "yates-paradigm",
+      "label": "Yates Paradigm"
+    }
+  ],
+  "locations": [
+    {
+      "slug": "alexandria",
+      "place": "Alexandria"
+    },
+    {
+      "slug": "baghdad",
+      "place": "Baghdad"
+    },
+    {
+      "slug": "basle",
+      "place": "Basle (Basel)"
+    },
+    {
+      "slug": "bologna",
+      "place": "Bologna"
+    },
+    {
+      "slug": "cairo",
+      "place": "Cairo (Heliopolis/Babylon)"
+    },
+    {
+      "slug": "cologne",
+      "place": "Cologne"
+    },
+    {
+      "slug": "cordoba",
+      "place": "Córdoba"
+    },
+    {
+      "slug": "damascus",
+      "place": "Damascus"
+    },
+    {
+      "slug": "florence",
+      "place": "Florence"
+    },
+    {
+      "slug": "frankfurt",
+      "place": "Frankfurt"
+    },
+    {
+      "slug": "hesse-germany",
+      "place": "Hesse"
+    },
+    {
+      "slug": "london",
+      "place": "London"
+    },
+    {
+      "slug": "montpellier",
+      "place": "Montpellier"
+    },
+    {
+      "slug": "oxford",
+      "place": "Oxford"
+    },
+    {
+      "slug": "palermo",
+      "place": "Palermo"
+    },
+    {
+      "slug": "paris",
+      "place": "Paris"
+    },
+    {
+      "slug": "prague",
+      "place": "Prague"
+    },
+    {
+      "slug": "ray",
+      "place": "Ray (Rhages)"
+    },
+    {
+      "slug": "rome",
+      "place": "Rome"
+    },
+    {
+      "slug": "salzburg",
+      "place": "Salzburg"
+    },
+    {
+      "slug": "strasbourg",
+      "place": "Strasbourg"
+    },
+    {
+      "slug": "toledo",
+      "place": "Toledo"
+    },
+    {
+      "slug": "toulouse",
+      "place": "Toulouse"
+    },
+    {
+      "slug": "ven-island",
+      "place": "Ven Island (Hven)"
+    },
+    {
+      "slug": "vienna",
+      "place": "Vienna"
+    }
+  ]
+}
