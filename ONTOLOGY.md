@@ -10,7 +10,7 @@
 
 ### timeline_events
 
-The primary content unit: a dated, geotagged historical event.
+The primary content unit: a dated, geotagged historical event with scholarly grounding.
 
 ```sql
 CREATE TABLE timeline_events (
@@ -21,9 +21,10 @@ CREATE TABLE timeline_events (
     date_end_year INTEGER,
     location_slug TEXT NOT NULL,
     description TEXT NOT NULL,
-    persons_involved TEXT,       -- JSON: ["person1", "person2"]
-    texts_involved TEXT,         -- JSON: ["text1", "text2"]
-    concepts_involved TEXT,      -- JSON: ["concept1"]
+    persons_involved TEXT,           -- JSON: ["person1", "person2"]
+    texts_involved TEXT,             -- JSON: ["text1", "text2"]
+    concepts_involved TEXT,          -- JSON: ["concept1"]
+    scholarly_grounding TEXT,        -- Citation: "Scholar Name showed X in *Title* (Year) ch.X pp.XX-YY"
     source_method TEXT NOT NULL CHECK(source_method IN ('MANUAL', 'AI_ASSISTED', 'SCHOLARSHIP_BASED')),
     review_status TEXT NOT NULL CHECK(review_status IN ('DRAFT', 'REVIEWED', 'VERIFIED')),
     confidence TEXT NOT NULL CHECK(confidence IN ('HIGH', 'MEDIUM', 'LOW')),
@@ -31,6 +32,10 @@ CREATE TABLE timeline_events (
     FOREIGN KEY (location_slug) REFERENCES locations(slug)
 );
 ```
+
+**Field Documentation:**
+
+- **scholarly_grounding** (TEXT, OPTIONAL): A citation anchoring this event in modern scholarly historiography. Format: `Scholar Name demonstrated/showed/argued X in *Title* (Year) chapter/page references`. Example: `"Lawrence Principe showed Zosimos' operational chemistry prefigured modern chemistry in *Secrets of Alchemy* (2013) ch.2 pp.45-67"`. This field is displayed on the event's index card and detail page to explain *why* this moment matters to the history of science, grounding it in peer-reviewed scholarship rather than speculation.
 
 ---
 

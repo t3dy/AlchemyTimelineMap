@@ -56,6 +56,9 @@ def create_schema():
             texts_involved TEXT,    -- JSON: ["text1"]
             concepts_involved TEXT, -- JSON: ["concept1"]
 
+            -- Scholarly grounding: citation tying event to modern scholarship
+            scholarly_grounding TEXT,  -- Plain text: "Scholar Name showed X in Title (Year) ch.X pp.XX-YY"
+
             -- Provenance
             source_method TEXT NOT NULL CHECK(source_method IN ('MANUAL', 'AI_ASSISTED', 'SCHOLARSHIP_BASED')),
             review_status TEXT NOT NULL CHECK(review_status IN ('DRAFT', 'REVIEWED', 'VERIFIED')),

@@ -14,12 +14,13 @@
 
 ## Required Elements
 
-Every timeline event description **must** include all four:
+Every timeline event description **must** include all five:
 
 1. **Exact date or date range** — "c. 1320," "1492–1495," "6th century"
 2. **Named location** — city preferably; region at minimum
 3. **Named actors** — at least one person, text, or institution
 4. **Historiographical significance** — final sentence explaining why this matters to alchemy/chemistry history
+5. **Scholarly grounding** — citation to a modern scholar situating this event in contemporary historiography (see Scholarly Grounding section below)
 
 ---
 
@@ -65,6 +66,7 @@ Word count: 98. All required elements present.
 - [ ] At least one `[LINK:slug]` markup present?
 - [ ] All slugs in `[LINK:slug]` markup exist in database?
 - [ ] Plain text only (no HTML tags)?
+- [ ] Scholarly grounding present: named scholar, work title, year, and chapter/page references?
 - [ ] Provenance metadata attached: `source_method`, `review_status`, `confidence`?
 
 ---
@@ -76,6 +78,22 @@ Word count: 98. All required elements present.
 - **No named actor** — anonymous events cannot be linked to entities
 - **Invented slug** — any `[LINK:slug]` that doesn't exist in the database breaks site generation
 - **Markdown in prose** — `*` or `**` instead of HTML; `#` headers; bullet points
+
+---
+
+## Scholarly Grounding
+
+Every event must include a **scholarly grounding** — a citation to a modern historian situating this event in contemporary scholarship. This is stored separately from the main description and displayed on the event's index card.
+
+**Format:** `Scholar Last-Name showed X in *Title* (Year) ch.X pp.XX-YY`
+
+**Examples:**
+- `Lawrence Principe showed Zosimos was a sophisticated experimentalist in *Secrets of Alchemy* (2013) ch.2 pp.45-67`
+- `Michela Pereira demonstrated medieval alchemy's continuity with Arabo-Islamic traditions in *The Alchemical Corpus Attributed to Ray Lull* (2007) ch.1 pp.8-32`
+- `Pamela Smith argued early modern alchemy embodied practical, embodied knowledge in *The Business of Alchemy* (2004) ch.3 pp.78-95`
+- `William Newman traced the Summa Perfectionis' authorship and influence in *The Summa Perfectionis* (2016) intro pp.xiv-xxiii`
+
+**Purpose:** Index cards will include a 1–2 sentence scholarly hook explaining *why this moment matters to the history of science*. This anchors every event in peer-reviewed historiography, not speculation.
 
 ---
 

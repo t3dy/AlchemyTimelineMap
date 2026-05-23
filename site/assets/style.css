@@ -945,6 +945,16 @@ pre code {
   flex-grow: 1;
 }
 
+.timeline-card__scholarly {
+  font-size: 0.82em;
+  color: #666;
+  line-height: 1.5;
+  font-style: italic;
+  border-left: 3px solid var(--secondary-color);
+  padding-left: 0.6em;
+  margin: 0.3em 0;
+}
+
 .timeline-card__chips {
   display: flex;
   flex-wrap: wrap;
@@ -1083,6 +1093,26 @@ pre code {
   border-color: var(--accent-color);
   color: var(--accent-color);
   background: #fff;
+}
+
+.event-page__scholarly {
+  background: var(--light-bg);
+  border-left: 4px solid var(--secondary-color);
+  padding: 1em 1.2em;
+  margin: 1.5em 0;
+  border-radius: 4px;
+}
+
+.event-page__scholarly h3 {
+  font-size: 1em;
+  margin-bottom: 0.5em;
+}
+
+.event-page__scholarly p {
+  font-size: 0.95em;
+  color: #555;
+  line-height: 1.7;
+  margin-bottom: 0;
 }
 
 .event-page__provenance {

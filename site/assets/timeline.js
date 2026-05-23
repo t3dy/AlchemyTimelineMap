@@ -74,6 +74,9 @@
 
     const summary = truncate(event.summary || event.description || "", 220);
 
+    // Scholarly grounding: display 1-2 sentence citation (if present)
+    const scholarlyGrounding = event.scholarly_grounding || "";
+
     return `
       <article class="timeline-card" data-era="${escHtml(era)}"
         data-persons="${escHtml((event.persons_involved || []).join(","))}"
@@ -83,6 +86,7 @@
           <span class="timeline-card__location">${escHtml(locationDisplay)}</span>
         </div>
         ${summary ? `<p class="timeline-card__summary">${escHtml(summary)}</p>` : ""}
+        ${scholarlyGrounding ? `<p class="timeline-card__scholarly"><em>${escHtml(scholarlyGrounding)}</em></p>` : ""}
         ${chipsRow ? `<div class="timeline-card__chips">${chipsRow}</div>` : ""}
         <a href="events/${escHtml(event.slug)}.html" class="timeline-card__link">Read full entry →</a>
       </article>`;

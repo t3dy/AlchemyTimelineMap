@@ -492,6 +492,18 @@ def strip_html(html):
     return re.sub(r"<[^>]+>", "", html).strip()
 
 
+def escapeHtml(text):
+    """HTML-escape a string."""
+    if not text:
+        return ""
+    return (str(text)
+            .replace("&", "&amp;")
+            .replace("<", "&lt;")
+            .replace(">", "&gt;")
+            .replace('"', "&quot;")
+            .replace("'", "&#39;"))
+
+
 def generate_event_pages(entity_map):
     """Generate events/[slug].html individual encyclopedia pages for all 582 events."""
     print("\nGenerating events/ pages...")
@@ -503,6 +515,7 @@ def generate_event_pages(entity_map):
         SELECT t.slug, t.date_label, t.date_start_year, t.date_end_year,
                t.location_slug, l.place_name, l.region,
                t.description, t.persons_involved, t.texts_involved, t.concepts_involved,
+               t.scholarly_grounding,
                t.source_method, t.review_status, t.confidence
         FROM timeline_events t
         LEFT JOIN locations l ON t.location_slug = l.slug
@@ -563,8 +576,18 @@ def generate_event_pages(entity_map):
         # Confidence / review badge
         review = event["review_status"] or "DRAFT"
         confidence = event["confidence"] or "LOW"
+        scholarly_grounding = event["scholarly_grounding"] or ""
 
         page_title = f"{event['date_label']}, {place_name}"
+
+        # Scholarly grounding section (if present)
+        scholarly_section = ""
+        if scholarly_grounding:
+            scholarly_section = f"""
+            <section class="event-page__scholarly">
+                <h3>Scholarly Context</h3>
+                <p><em>{escapeHtml(scholarly_grounding)}</em></p>
+            </section>"""
 
         html = f"""<!DOCTYPE html>
 <html lang="en">
@@ -596,6 +619,8 @@ def generate_event_pages(entity_map):
 
             <h2 class="event-page__location">{place_name}</h2>
             {"<p class='event-page__region'>" + region + "</p>" if region else ""}
+
+            {scholarly_section}
 
             <div class="event-page__body">
                 {description_html}
