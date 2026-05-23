@@ -165,7 +165,7 @@ def generate_index_html():
 
 
 def generate_timeline_html():
-    """Generate timeline.html (timeline viewer)."""
+    """Generate timeline.html (timeline viewer with filter controls)."""
     print("Generating timeline.html...")
     html = """<!DOCTYPE html>
 <html lang="en">
@@ -190,7 +190,30 @@ def generate_timeline_html():
     <main>
         <section>
             <h2>Timeline of Alchemy & Chemistry</h2>
-            <p>500 events from Late Antiquity through the early modern period.</p>
+            <p>582 events from Late Antiquity through the early modern period.</p>
+
+            <div class="timeline-filters">
+                <div class="filter-group">
+                    <label><strong>Filter by Era:</strong></label>
+                    <div class="filter-options">
+                        <label><input type="checkbox" data-era="LATE_ANTIQUE"> Late Antiquity</label>
+                        <label><input type="checkbox" data-era="MEDIEVAL"> Medieval</label>
+                        <label><input type="checkbox" data-era="EARLY_MODERN"> Early Modern</label>
+                    </div>
+                </div>
+                <div class="filter-group">
+                    <label><strong>Filter by Concept:</strong></label>
+                    <input type="text" id="concept-search" placeholder="Search concepts..." class="filter-input">
+                    <div id="concept-filter-options" class="filter-options concept-filter-options"></div>
+                </div>
+                <div class="filter-group">
+                    <label><strong>Filter by Person:</strong></label>
+                    <input type="text" id="person-search" placeholder="Search persons..." class="filter-input">
+                    <div id="person-filter-options" class="filter-options person-filter-options"></div>
+                </div>
+                <button id="clear-filters-btn" class="clear-filters-btn">Clear All Filters</button>
+            </div>
+
             <div id="timeline-container">
                 <!-- Timeline JS will populate this -->
             </div>
@@ -201,12 +224,13 @@ def generate_timeline_html():
         <p>Timeline generated on {{DATE}}.</p>
     </footer>
 
+    <script src="assets/filters.js"></script>
     <script src="assets/timeline.js"></script>
 </body>
 </html>""".replace("{{DATE}}", datetime.now().isoformat())
 
     write_html_page(SITE_PATH / "timeline.html", html)
-    print("  [OK] timeline.html created")
+    print("  [OK] timeline.html created (with filter controls)")
 
 
 def generate_map_html():
