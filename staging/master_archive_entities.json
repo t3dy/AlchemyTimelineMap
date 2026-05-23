@@ -1,0 +1,989 @@
+{
+  "metadata": {
+    "source": "Archive PDF extraction pipeline (8 topic batches)",
+    "extraction_date": "2026-05-22",
+    "batches_processed": [
+      "Zosimos research (8 PDFs, 24 entities)",
+      "Arabic alchemy (6 PDFs, 73 entities)",
+      "Michael Maier & Atalanta Fugiens (6 PDFs, 33 entities)",
+      "Roger Bacon (6 PDFs, 20 entities)",
+      "Chemistry history & Moran/Principe/Newman (7 PDFs, 34 entities)",
+      "Paracelsus & spiritual alchemy (8 PDFs, 44 entities)",
+      "Alchemical poetry & literature (8 PDFs, 42 entities)",
+      "Rosarium Philosophorum & Adam McLean (8 PDFs, 41 entities)"
+    ],
+    "total_pdfs_processed": 57,
+    "deduplication_applied": true
+  },
+  "entities": {
+    "persons": [
+      {
+        "name": "Zosimos of Panopolis",
+        "alternate_names": [
+          "Zosimos",
+          "Zosimus",
+          "Zosimes",
+          "Zosimos Aigyptiakos"
+        ],
+        "era_mentioned": "c. 250–300 CE",
+        "role_category": "ALCHEMIST",
+        "location_mentioned": "Panopolis (Akhmim), Southern Egypt; Alexandria",
+        "significance": "One of the best-known writers in Greco-Egyptian alchemical corpus; foundational to alchemy"
+      },
+      {
+        "name": "Jabir ibn Hayyan",
+        "alternate_names": [
+          "Geber",
+          "Pseudo-Geber",
+          "Jabir"
+        ],
+        "era_mentioned": "c. 722–815 CE",
+        "role_category": "ALCHEMIST",
+        "location_mentioned": "Khorasan, Baghdad",
+        "significance": "Central Islamic alchemist; established operational chemistry as reproducible practice"
+      },
+      {
+        "name": "Muhammad al-Razi",
+        "alternate_names": [
+          "Abu Bakr al-Razi",
+          "Al-Razi",
+          "Razi"
+        ],
+        "era_mentioned": "c. 865–925 CE",
+        "role_category": "CHEMIST",
+        "location_mentioned": "Ray (Persia)",
+        "significance": "Author of Kitab al-Asrar (Book of Secrets); developed systematic laboratory manual"
+      },
+      {
+        "name": "Al-Kindi",
+        "alternate_names": [
+          "Al-Kindi the Alchemist",
+          "Kindi"
+        ],
+        "era_mentioned": "9th century CE",
+        "role_category": "PHILOSOPHER",
+        "location_mentioned": "Baghdad",
+        "significance": "Islamic philosopher and alchemist; critiqued transmutation claims"
+      },
+      {
+        "name": "Muhammad Ibn Umail",
+        "alternate_names": [
+          "Ibn Umail",
+          "Muḥammad ibn Umayl"
+        ],
+        "era_mentioned": "10th century CE",
+        "role_category": "ALCHEMIST",
+        "location_mentioned": "Islamic world",
+        "significance": "Author of alchemical treatises in Arabic tradition"
+      },
+      {
+        "name": "Gerard of Cremona",
+        "alternate_names": [
+          "Gerard",
+          "Gerardo Cremonese"
+        ],
+        "era_mentioned": "c. 1114–1187 CE",
+        "role_category": "TRANSLATOR",
+        "location_mentioned": "Toledo, Spain",
+        "significance": "Prolific translator of Arabic scientific and alchemical texts into Latin"
+      },
+      {
+        "name": "Roger Bacon",
+        "alternate_names": [
+          "Bacon",
+          "Friar Roger Bacon"
+        ],
+        "era_mentioned": "c. 1214–1294 CE",
+        "role_category": "PHILOSOPHER",
+        "location_mentioned": "England",
+        "significance": "Franciscan friar; integrated alchemy with optical philosophy and experimental method"
+      },
+      {
+        "name": "Arnaud de Villanova",
+        "alternate_names": [
+          "Arnaldus",
+          "Arnold of Villanova"
+        ],
+        "era_mentioned": "c. 1235–1311 CE",
+        "role_category": "PHYSICIAN",
+        "location_mentioned": "Catalonia, France",
+        "significance": "Physician-alchemist; author of medical alchemical texts"
+      },
+      {
+        "name": "Raymond Lull",
+        "alternate_names": [
+          "Ramon Llull",
+          "Raymund Lull"
+        ],
+        "era_mentioned": "c. 1235–1315 CE",
+        "role_category": "PHILOSOPHER",
+        "location_mentioned": "Mallorca, Spain",
+        "significance": "Catalan polymath; developed alchemical-mystical philosophy"
+      },
+      {
+        "name": "Paracelsus",
+        "alternate_names": [
+          "Theophrastus Bombastus von Hohenheim"
+        ],
+        "era_mentioned": "1493–1541 CE",
+        "role_category": "PHYSICIAN",
+        "location_mentioned": "Switzerland, Germany, Austria",
+        "significance": "Revolutionary figure; united alchemy, medicine, and mysticism"
+      },
+      {
+        "name": "Heinrich Khunrath",
+        "alternate_names": [
+          "Khunrath",
+          "Kunrath"
+        ],
+        "era_mentioned": "1560–1605 CE",
+        "role_category": "ALCHEMIST",
+        "location_mentioned": "Germany",
+        "significance": "Alchemist and mystic; author of Amphitheatre of Eternal Wisdom"
+      },
+      {
+        "name": "Michael Maier",
+        "alternate_names": [
+          "Count Michael Maier"
+        ],
+        "era_mentioned": "1568–1622 CE",
+        "role_category": "ALCHEMIST",
+        "location_mentioned": "Knittelfeld, Holy Roman Empire",
+        "significance": "Created Atalanta Fugiens; integrated alchemy with music and emblems"
+      },
+      {
+        "name": "Robert Boyle",
+        "alternate_names": [
+          "Hon. Robert Boyle"
+        ],
+        "era_mentioned": "1627–1691 CE",
+        "role_category": "CHEMIST",
+        "location_mentioned": "Ireland, England",
+        "significance": "Chemist and alchemist; contributed to chemical operations and theory"
+      },
+      {
+        "name": "George Starkey",
+        "alternate_names": [
+          "Starkey"
+        ],
+        "era_mentioned": "1628–1665 CE",
+        "role_category": "ALCHEMIST",
+        "location_mentioned": "England, Ireland",
+        "significance": "Laboratory notebooks document practical alchemical experimentation"
+      },
+      {
+        "name": "Isaac Newton",
+        "alternate_names": [
+          "Sir Isaac Newton"
+        ],
+        "era_mentioned": "1643–1727 CE",
+        "role_category": "CHEMIST",
+        "location_mentioned": "England",
+        "significance": "Conducted extensive alchemical research alongside mathematical work"
+      },
+      {
+        "name": "Theosebeia",
+        "alternate_names": [
+          "Theosbeia"
+        ],
+        "era_mentioned": "c. 250–300 CE",
+        "role_category": "ALCHEMIST",
+        "location_mentioned": "Egypt",
+        "significance": "Colleague and student of Zosimos; recipient of his pedagogical letters"
+      },
+      {
+        "name": "Albertus Magnus",
+        "alternate_names": [
+          "Albert the Great"
+        ],
+        "era_mentioned": "c. 1200–1280 CE",
+        "role_category": "PHILOSOPHER",
+        "location_mentioned": "Swabia, Holy Roman Empire",
+        "significance": "Dominican philosopher; integrated alchemy with natural philosophy"
+      },
+      {
+        "name": "Thomas Aquinas",
+        "alternate_names": [
+          "Aquinas"
+        ],
+        "era_mentioned": "1225–1274 CE",
+        "role_category": "PHILOSOPHER",
+        "location_mentioned": "Italy",
+        "significance": "Scholastic philosopher; engaged with alchemical theory"
+      },
+      {
+        "name": "Jan van Helmont",
+        "alternate_names": [
+          "Jean Baptiste van Helmont",
+          "Helmont"
+        ],
+        "era_mentioned": "1579–1644 CE",
+        "role_category": "CHEMIST",
+        "location_mentioned": "Flanders, Spanish Netherlands",
+        "significance": "Pioneer of practical chemistry; alchemical experimentalist"
+      },
+      {
+        "name": "Wilhelm Homberg",
+        "alternate_names": [
+          "Homberg"
+        ],
+        "era_mentioned": "1652–1715 CE",
+        "role_category": "CHEMIST",
+        "location_mentioned": "Paris, France",
+        "significance": "Alchemist and chemist; worked in Académie Royale des Sciences"
+      },
+      {
+        "name": "George Agricola",
+        "alternate_names": [
+          "Georg Bauer"
+        ],
+        "era_mentioned": "1494–1555 CE",
+        "role_category": "SCHOLAR",
+        "location_mentioned": "Saxony, Holy Roman Empire",
+        "significance": "Documented mining and metallurgical practices"
+      },
+      {
+        "name": "Hermes Trismegistus",
+        "alternate_names": [
+          "Hermes",
+          "Thoth"
+        ],
+        "era_mentioned": "Legendary (Hellenistic syncretism)",
+        "role_category": "PHILOSOPHER",
+        "location_mentioned": "Egypt",
+        "significance": "Legendary source of Hermetic wisdom; invoked in alchemical texts"
+      },
+      {
+        "name": "Democritus",
+        "alternate_names": [
+          "Pseudo-Democritus",
+          "Bolos of Mendes"
+        ],
+        "era_mentioned": "c. 1st–2nd century CE",
+        "role_category": "ALCHEMIST",
+        "location_mentioned": "Egypt",
+        "significance": "Cited authority on metallic transformations; extensively quoted in alchemical corpus"
+      },
+      {
+        "name": "Ostanes",
+        "alternate_names": [
+          "Ostan"
+        ],
+        "era_mentioned": "Ancient (possibly pre-classical)",
+        "role_category": "ALCHEMIST",
+        "location_mentioned": "Persia",
+        "significance": "Persian master cited by Zosimos; authority on metallurgical transformation"
+      },
+      {
+        "name": "Mary the Prophetess",
+        "alternate_names": [
+          "Maria",
+          "Miriam the Jewess"
+        ],
+        "era_mentioned": "Late Antique (c. 1st–3rd century CE)",
+        "role_category": "ALCHEMIST",
+        "location_mentioned": "Egypt",
+        "significance": "Female alchemist; expert in divine water and kerotakis apparatus"
+      },
+      {
+        "name": "Stephanus of Alexandria",
+        "alternate_names": [
+          "Stephanus",
+          "Stephanos"
+        ],
+        "era_mentioned": "c. 6th–7th century CE",
+        "role_category": "ALCHEMIST",
+        "location_mentioned": "Alexandria",
+        "significance": "Revealer of alchemical mysteries; detailed technical descriptions"
+      },
+      {
+        "name": "Michael Sendivogius",
+        "alternate_names": [
+          "Sendivogius"
+        ],
+        "era_mentioned": "1566–1636 CE",
+        "role_category": "ALCHEMIST",
+        "location_mentioned": "Poland",
+        "significance": "Alchemist; author of alchemical works on transmutation"
+      },
+      {
+        "name": "Robert Fludd",
+        "alternate_names": [
+          "Fludd"
+        ],
+        "era_mentioned": "1574–1637 CE",
+        "role_category": "ALCHEMIST",
+        "location_mentioned": "England",
+        "significance": "Mystical alchemist; integrated alchemy with Rosicrucian philosophy"
+      },
+      {
+        "name": "Elias Ashmole",
+        "alternate_names": [
+          "Ashmole"
+        ],
+        "era_mentioned": "1617–1692 CE",
+        "role_category": "ALCHEMIST",
+        "location_mentioned": "England",
+        "significance": "Collector and compiler of alchemical texts"
+      },
+      {
+        "name": "Francis Bacon",
+        "alternate_names": [
+          "Bacon"
+        ],
+        "era_mentioned": "1561–1626 CE",
+        "role_category": "PHILOSOPHER",
+        "location_mentioned": "England",
+        "significance": "Advocated experimental method; influenced alchemical practice"
+      },
+      {
+        "name": "Kenelm Digby",
+        "alternate_names": [
+          "Digby"
+        ],
+        "era_mentioned": "1603–1665 CE",
+        "role_category": "ALCHEMIST",
+        "location_mentioned": "England",
+        "significance": "Chemist and alchemist; pursued practical chemical operations"
+      },
+      {
+        "name": "George Ripley",
+        "alternate_names": [
+          "Ripley"
+        ],
+        "era_mentioned": "c. 1415–1490 CE",
+        "role_category": "ALCHEMIST",
+        "location_mentioned": "England",
+        "significance": "English alchemist; author of alchemical allegories"
+      },
+      {
+        "name": "Samuel Norton",
+        "alternate_names": [
+          "Norton"
+        ],
+        "era_mentioned": "16th–17th century CE",
+        "role_category": "ALCHEMIST",
+        "location_mentioned": "England",
+        "significance": "English alchemist; pursued transmutation research"
+      },
+      {
+        "name": "Nicholas Flamel",
+        "alternate_names": [
+          "Flamel"
+        ],
+        "era_mentioned": "c. 1330–1418 CE",
+        "role_category": "ALCHEMIST",
+        "location_mentioned": "Paris, France",
+        "significance": "Legendary alchemist; symbol of successful transmutation"
+      },
+      {
+        "name": "Hildegard of Bingen",
+        "alternate_names": [
+          "Hildegard"
+        ],
+        "era_mentioned": "1098–1177 CE",
+        "role_category": "SCHOLAR",
+        "location_mentioned": "Germany",
+        "significance": "Abbess and scholar; wrote on natural philosophy and medicine"
+      },
+      {
+        "name": "Meister Eckhart",
+        "alternate_names": [
+          "Eckhart"
+        ],
+        "era_mentioned": "c. 1260–1328 CE",
+        "role_category": "PHILOSOPHER",
+        "location_mentioned": "Germany",
+        "significance": "Mystic philosopher; influenced alchemical symbolism"
+      },
+      {
+        "name": "Basilius Valentinus",
+        "alternate_names": [
+          "Basil Valentine"
+        ],
+        "era_mentioned": "15th–16th century CE",
+        "role_category": "ALCHEMIST",
+        "location_mentioned": "German-speaking lands",
+        "significance": "Alchemist; author of alchemical treatises"
+      },
+      {
+        "name": "Christian Rosencreutz",
+        "alternate_names": [
+          "Rosencreutz"
+        ],
+        "era_mentioned": "Legendary/15th–17th century CE",
+        "role_category": "ALCHEMIST",
+        "location_mentioned": "Germany",
+        "significance": "Legendary founder of Rosicrucian tradition; alchemist-mystic"
+      },
+      {
+        "name": "Geoffrey Chaucer",
+        "alternate_names": [
+          "Chaucer"
+        ],
+        "era_mentioned": "c. 1340–1400 CE",
+        "role_category": "POET",
+        "location_mentioned": "England",
+        "significance": "Medieval poet; referenced alchemy in literary works"
+      },
+      {
+        "name": "William Shakespeare",
+        "alternate_names": [
+          "Shakespeare"
+        ],
+        "era_mentioned": "1564–1616 CE",
+        "role_category": "POET",
+        "location_mentioned": "England",
+        "significance": "Playwright; integrated alchemical imagery and theory into drama"
+      },
+      {
+        "name": "Johann Goethe",
+        "alternate_names": [
+          "Goethe"
+        ],
+        "era_mentioned": "1749–1832 CE",
+        "role_category": "POET",
+        "location_mentioned": "Germany",
+        "significance": "Polymath; engaged deeply with alchemical symbolism and natural philosophy"
+      },
+      {
+        "name": "John Dee",
+        "alternate_names": [
+          "Dee"
+        ],
+        "era_mentioned": "1527–1608 CE",
+        "role_category": "SCHOLAR",
+        "location_mentioned": "England",
+        "significance": "Polymath; integrated mathematics, alchemy, and mysticism"
+      },
+      {
+        "name": "Johannes Trithemius",
+        "alternate_names": [
+          "Trithemius"
+        ],
+        "era_mentioned": "1462–1516 CE",
+        "role_category": "CLERICAL",
+        "location_mentioned": "Franconia, Holy Roman Empire",
+        "significance": "Abbot and scholar; wrote on occult philosophy"
+      },
+      {
+        "name": "Robert Bostocke",
+        "alternate_names": [
+          "Bostocke"
+        ],
+        "era_mentioned": "16th century CE",
+        "role_category": "PHYSICIAN",
+        "location_mentioned": "England",
+        "significance": "Physician-alchemist; pursued medical alchemy"
+      },
+      {
+        "name": "Dante Alighieri",
+        "alternate_names": [
+          "Dante"
+        ],
+        "era_mentioned": "1265–1321 CE",
+        "role_category": "POET",
+        "location_mentioned": "Italy",
+        "significance": "Medieval poet; incorporated alchemical imagery in Divine Comedy"
+      },
+      {
+        "name": "Avicenna",
+        "alternate_names": [
+          "Ibn Sina"
+        ],
+        "era_mentioned": "980–1037 CE",
+        "role_category": "PHILOSOPHER",
+        "location_mentioned": "Persia",
+        "significance": "Islamic philosopher; engaged with alchemical theory"
+      },
+      {
+        "name": "Al-Ghazali",
+        "alternate_names": [
+          "Al-Ghazali"
+        ],
+        "era_mentioned": "1058–1111 CE",
+        "role_category": "PHILOSOPHER",
+        "location_mentioned": "Islamic world",
+        "significance": "Islamic philosopher; critiqued alchemy in theological context"
+      },
+      {
+        "name": "Robert of Chester",
+        "alternate_names": [
+          "Robert of Chester"
+        ],
+        "era_mentioned": "c. 1140–1180 CE",
+        "role_category": "TRANSLATOR",
+        "location_mentioned": "England/Spain",
+        "significance": "Early translator of alchemical texts from Arabic"
+      },
+      {
+        "name": "John of Rupescissa",
+        "alternate_names": [
+          "Rupescissa"
+        ],
+        "era_mentioned": "c. 1310–1366 CE",
+        "role_category": "ALCHEMIST",
+        "location_mentioned": "Provence, France",
+        "significance": "Franciscan alchemist; pursued distillation and quintessence research"
+      },
+      {
+        "name": "William Backhouse",
+        "alternate_names": [
+          "Backhouse"
+        ],
+        "era_mentioned": "17th century CE",
+        "role_category": "ALCHEMIST",
+        "location_mentioned": "England",
+        "significance": "English alchemist; mentor to Elias Ashmole"
+      }
+    ],
+    "scholars": [
+      {
+        "name": "William R. Newman",
+        "era_active": "1985–present",
+        "primary_affiliation": "Indiana University",
+        "key_works": [
+          "Atoms and Alchemy",
+          "The Summa Perfectionis of Pseudo-Geber"
+        ],
+        "scholarly_focus": "Operational chemistry, transmutation theory, medieval and early modern alchemy",
+        "historiographical_position": "Reframes alchemy as proto-chemistry based on rigorous empirical laboratory practice"
+      },
+      {
+        "name": "Lawrence M. Principe",
+        "era_active": "1990–present",
+        "primary_affiliation": "Johns Hopkins University",
+        "key_works": [
+          "The Secrets of Alchemy",
+          "The Transmutations of Chymistry"
+        ],
+        "scholarly_focus": "Practical alchemy, operational chemistry, early modern alchemists",
+        "historiographical_position": "Emphasizes reproducible laboratory practice; combines history with experimental reproduction"
+      },
+      {
+        "name": "Michela Pereira",
+        "era_active": "1980–present",
+        "primary_affiliation": "University of Siena",
+        "key_works": [
+          "The Alchemical Corpus Attributed to Ray Lull"
+        ],
+        "scholarly_focus": "Medieval alchemy, Catalan tradition, textual analysis",
+        "historiographical_position": "Rigorous textual analysis and development of alchemical concepts in medieval Europe"
+      },
+      {
+        "name": "Wouter J. Hanegraaff",
+        "era_active": "1990–present",
+        "primary_affiliation": "University of Amsterdam",
+        "key_works": [
+          "Dictionary of Gnosis and Western Esotericism"
+        ],
+        "scholarly_focus": "Historiography of esotericism, actor/analyst distinction",
+        "historiographical_position": "Provides theoretical frameworks for understanding esotericism and alchemical history"
+      },
+      {
+        "name": "Garth Fowden",
+        "era_active": "1980–present",
+        "primary_affiliation": "Princeton University",
+        "key_works": [
+          "The Egyptian Hermes"
+        ],
+        "scholarly_focus": "Late Antique Egypt, Hermetic philosophy, roots of alchemy",
+        "historiographical_position": "Establishes late antique cultural and religious context for emergence of alchemy"
+      },
+      {
+        "name": "Pamela Smith",
+        "era_active": "1990–present",
+        "primary_affiliation": "Pomona College",
+        "key_works": [
+          "The Business of Alchemy"
+        ],
+        "scholarly_focus": "Early modern alchemy, craft knowledge, economic dimensions",
+        "historiographical_position": "Examines alchemy as embedded in craft practices and economic networks"
+      },
+      {
+        "name": "Bruce T. Moran",
+        "era_active": "1980–present",
+        "primary_affiliation": "University of Nevada, Reno",
+        "key_works": [
+          "Distilling Knowledge",
+          "A Cultural History of Chemistry in the Early Modern Age"
+        ],
+        "scholarly_focus": "Cultural history of alchemy, Paracelsus, early modern naturalism",
+        "historiographical_position": "Contextualizes alchemy within cultural and social history"
+      },
+      {
+        "name": "Eric John Holmyard",
+        "era_active": "1920–1970",
+        "primary_affiliation": "University of London",
+        "key_works": [
+          "Alchemy"
+        ],
+        "scholarly_focus": "General overview, historical narrative of alchemy",
+        "historiographical_position": "Pioneer systematic historian; established foundational narratives"
+      },
+      {
+        "name": "David C. Lindberg",
+        "era_active": "1970–present",
+        "primary_affiliation": "University of Wisconsin-Madison",
+        "key_works": [
+          "Roger Bacon's Philosophy of Nature"
+        ],
+        "scholarly_focus": "Medieval science, optics, Roger Bacon",
+        "historiographical_position": "Contextualizes medieval alchemy within broader history of science"
+      }
+    ],
+    "texts": [
+      {
+        "title": "Summa Perfectionis",
+        "alternate_titles": [
+          "Sum of Perfection"
+        ],
+        "author_or_tradition": "Attributed to Jabir ibn Hayyan (Pseudo-Geber)",
+        "original_language": "Latin (translated from Arabic)",
+        "date_or_period": "c. 1300 (Latin translation 12th–13th century)",
+        "text_type": "PRIMARY_SOURCE",
+        "significance": "Most widely cited authority in medieval and Renaissance alchemy; systematizes distillation, sublimation, and transmutation theory"
+      },
+      {
+        "title": "Kitab al-Asrar",
+        "alternate_titles": [
+          "Book of Secrets"
+        ],
+        "author_or_tradition": "Muhammad al-Razi",
+        "original_language": "Arabic",
+        "date_or_period": "c. 920 CE",
+        "text_type": "PRIMARY_SOURCE",
+        "significance": "Systematic laboratory manual describing chemical operations and apparatus; foundational to Islamic alchemical tradition"
+      },
+      {
+        "title": "Book of Pictures",
+        "alternate_titles": [
+          "Muṣḥaf aṣ-ṣuwar"
+        ],
+        "author_or_tradition": "Zosimos of Panopolis (compiled in Arabic tradition)",
+        "original_language": "Arabic",
+        "date_or_period": "Composition 850–1000 CE; surviving manuscripts 13th century",
+        "text_type": "PRIMARY_SOURCE",
+        "significance": "Illustrated Arabic compilation dramatizing Zosimos-Theosebeia relationship; demonstrates transmission of Greek alchemy into Islamic tradition"
+      },
+      {
+        "title": "Visions of Zosimos",
+        "alternate_titles": [
+          "The Visions",
+          "Visiones"
+        ],
+        "author_or_tradition": "Zosimos of Panopolis",
+        "original_language": "Greek",
+        "date_or_period": "c. 250–300 CE",
+        "text_type": "PRIMARY_SOURCE",
+        "significance": "Most famous work by Zosimos; describes mystical-alchemical experiences, transformation, apparatus, and symbolic figures"
+      },
+      {
+        "title": "Emerald Tablet",
+        "alternate_titles": [
+          "Tabula Smaragdina"
+        ],
+        "author_or_tradition": "Attributed to Hermes Trismegistus",
+        "original_language": "Arabic origins; medieval Latin translation",
+        "date_or_period": "c. 8th century (Arabic); medieval Latin versions",
+        "text_type": "PRIMARY_SOURCE",
+        "significance": "Foundational alchemical text; establishes principles of correspondence and unity underlying alchemical theory"
+      },
+      {
+        "title": "Turba Philosophorum",
+        "alternate_titles": [
+          "Assembly of Philosophers"
+        ],
+        "author_or_tradition": "Anonymous (pseudo-Jabir tradition)",
+        "original_language": "Arabic; Latin translation",
+        "date_or_period": "Medieval (9th–12th century)",
+        "text_type": "COMPILATION",
+        "significance": "Dialogic treatise on alchemical operations; influential medieval compilation of alchemical doctrine"
+      },
+      {
+        "title": "Atalanta Fugiens",
+        "alternate_titles": [
+          "The Fugitive Atalanta"
+        ],
+        "author_or_tradition": "Michael Maier",
+        "original_language": "Latin",
+        "date_or_period": "1617",
+        "text_type": "PRIMARY_SOURCE",
+        "significance": "Alchemical emblem book with 50 engravings, fugues, and epigrams; integrates alchemy with music and visual allegory"
+      },
+      {
+        "title": "Opus Majus",
+        "alternate_titles": [
+          "Great Work"
+        ],
+        "author_or_tradition": "Roger Bacon",
+        "original_language": "Latin",
+        "date_or_period": "c. 1267",
+        "text_type": "PRIMARY_SOURCE",
+        "significance": "Comprehensive synthesis of knowledge; extensively quotes Jabir and integrates alchemy with optics and natural philosophy"
+      },
+      {
+        "title": "Rosarium Philosophorum",
+        "alternate_titles": [
+          "Philosophers' Rose Garden"
+        ],
+        "author_or_tradition": "Anonymous (attributed to Arnaud de Villanova)",
+        "original_language": "Latin",
+        "date_or_period": "c. 1350",
+        "text_type": "PRIMARY_SOURCE",
+        "significance": "Influential treatise on alchemical operations; widely reproduced in Renaissance; uses rose garden metaphor for transmutation"
+      },
+      {
+        "title": "Theatrum Chemicum",
+        "alternate_titles": [
+          "Theater of Chemistry"
+        ],
+        "author_or_tradition": "Multi-authored (Lazarus Zetzner compilation)",
+        "original_language": "Latin, German",
+        "date_or_period": "1602",
+        "text_type": "COMPILATION",
+        "significance": "Comprehensive anthology of alchemical treatises; major Renaissance source combining numerous alchemical works"
+      },
+      {
+        "title": "De Multiplicitione Specierum",
+        "alternate_titles": [
+          "On the Multiplication of Species"
+        ],
+        "author_or_tradition": "Roger Bacon",
+        "original_language": "Latin",
+        "date_or_period": "13th century",
+        "text_type": "PRIMARY_SOURCE",
+        "significance": "Bacon's optical-alchemical treatise on transformation and multiplication of essences"
+      },
+      {
+        "title": "De Speculis Comburentibus",
+        "alternate_titles": [
+          "On Burning Mirrors"
+        ],
+        "author_or_tradition": "Roger Bacon",
+        "original_language": "Latin",
+        "date_or_period": "13th century",
+        "text_type": "PRIMARY_SOURCE",
+        "significance": "Bacon's treatise on optical apparatus; relates optical transformation to alchemical transformation"
+      },
+      {
+        "title": "Secretum Secretorum",
+        "alternate_titles": [
+          "Book of the Secret of Secrets"
+        ],
+        "author_or_tradition": "Attributed to Aristotle",
+        "original_language": "Arabic; Latin translation",
+        "date_or_period": "Medieval",
+        "text_type": "PRIMARY_SOURCE",
+        "significance": "Medieval alchemical work attributed to Aristotle; contains alchemical and magical doctrines"
+      },
+      {
+        "title": "Corpus Jabirianum",
+        "alternate_titles": [
+          "Works of Jabir"
+        ],
+        "author_or_tradition": "Jabir ibn Hayyan (compiler tradition)",
+        "original_language": "Arabic",
+        "date_or_period": "8th–9th centuries CE (compilation)",
+        "text_type": "COMPILATION",
+        "significance": "Collected works of Jabir; represents foundational Islamic alchemical tradition"
+      },
+      {
+        "title": "Libellus de Alchimia",
+        "alternate_titles": [
+          "Little Book of Alchemy"
+        ],
+        "author_or_tradition": "Attributed to Hermes Trismegistus",
+        "original_language": "Latin",
+        "date_or_period": "Medieval",
+        "text_type": "PRIMARY_SOURCE",
+        "significance": "Medieval alchemical treatise; foundational hermetic text"
+      },
+      {
+        "title": "De Chemia",
+        "alternate_titles": [
+          "On Chemistry"
+        ],
+        "author_or_tradition": "Michael Maier",
+        "original_language": "Latin",
+        "date_or_period": "1616",
+        "text_type": "PRIMARY_SOURCE",
+        "significance": "Maier's systematic treatise on alchemical chemistry"
+      },
+      {
+        "title": "Symbola Aureae Mensae",
+        "alternate_titles": [
+          "Symbols of the Golden Table"
+        ],
+        "author_or_tradition": "Michael Maier",
+        "original_language": "Latin",
+        "date_or_period": "1617",
+        "text_type": "PRIMARY_SOURCE",
+        "significance": "Maier's alchemical emblem work with explanatory texts"
+      },
+      {
+        "title": "Ars Combinatoria",
+        "alternate_titles": [
+          "Art of Combinations"
+        ],
+        "author_or_tradition": "Gottfried Wilhelm Leibniz",
+        "original_language": "Latin",
+        "date_or_period": "1666",
+        "text_type": "SCHOLARSHIP",
+        "significance": "Leibniz's combinatorial logic influenced by alchemical principles"
+      },
+      {
+        "title": "Book of Lambspring",
+        "alternate_titles": [
+          "Lambspring's Book"
+        ],
+        "author_or_tradition": "Anonymous (attributed to Lambspring)",
+        "original_language": "Latin",
+        "date_or_period": "Medieval",
+        "text_type": "PRIMARY_SOURCE",
+        "significance": "Alchemical treatise with symbolic imagery; widely reproduced in emblem books"
+      },
+      {
+        "title": "Mutus Liber",
+        "alternate_titles": [
+          "The Silent Book"
+        ],
+        "author_or_tradition": "Anonymous",
+        "original_language": "Latin",
+        "date_or_period": "1677",
+        "text_type": "PRIMARY_SOURCE",
+        "significance": "Alchemical emblem book with minimal text; focuses on visual representation of transmutation"
+      },
+      {
+        "title": "Chemical Wedding of Christian Rosencreutz",
+        "alternate_titles": [
+          "Chymische Hochzeit"
+        ],
+        "author_or_tradition": "attributed to Christian Rosencreutz",
+        "original_language": "German",
+        "date_or_period": "1616",
+        "text_type": "PRIMARY_SOURCE",
+        "significance": "Allegorical work integrating alchemy with Rosicrucian mysticism"
+      },
+      {
+        "title": "Aurora Consurgens",
+        "alternate_titles": [
+          "The Rising Dawn"
+        ],
+        "author_or_tradition": "Anonymous (attributed to Thomas Aquinas)",
+        "original_language": "Latin",
+        "date_or_period": "Medieval",
+        "text_type": "PRIMARY_SOURCE",
+        "significance": "Alchemical-mystical treatise; illustrated in Renaissance versions"
+      },
+      {
+        "title": "Splendor Solis",
+        "alternate_titles": [
+          "The Splendor of the Sun"
+        ],
+        "author_or_tradition": "Salomon Trismosin",
+        "original_language": "German",
+        "date_or_period": "16th century",
+        "text_type": "PRIMARY_SOURCE",
+        "significance": "Illustrated alchemical treatise; widely reproduced emblem book"
+      },
+      {
+        "title": "Amphitheatre of Eternal Wisdom",
+        "alternate_titles": [
+          "Amphitheatrum Sapientiae Aeternae"
+        ],
+        "author_or_tradition": "Heinrich Khunrath",
+        "original_language": "Latin",
+        "date_or_period": "1595",
+        "text_type": "PRIMARY_SOURCE",
+        "significance": "Khunrath's comprehensive treatise integrating alchemical, mystical, and occult philosophy"
+      },
+      {
+        "title": "Pictorial Keys to the Tarot",
+        "alternate_titles": [],
+        "author_or_tradition": "Arthur Edward Waite (modern); medieval roots",
+        "original_language": "English",
+        "date_or_period": "20th century (medieval alchemical iconography)",
+        "text_type": "SCHOLARSHIP",
+        "significance": "Modern work explicating alchemical symbolism in tarot and medieval iconography"
+      },
+      {
+        "title": "Collection of the Ancient Greek Alchemists",
+        "alternate_titles": [
+          "Recueil des Alchimistes Grecs"
+        ],
+        "author_or_tradition": "Compiled and translated by Marcellin Berthelot",
+        "original_language": "Greek and Syriac (translated to French)",
+        "date_or_period": "1887–1893",
+        "text_type": "SCHOLARSHIP",
+        "significance": "Foundational modern compilation of Greek and Syriac texts; made ancient alchemy accessible to scholarship"
+      },
+      {
+        "title": "Alchemia",
+        "alternate_titles": [
+          "Chemistry"
+        ],
+        "author_or_tradition": "Andreas Libavius",
+        "original_language": "Latin",
+        "date_or_period": "1597",
+        "text_type": "PRIMARY_SOURCE",
+        "significance": "First systematic chemistry textbook; directly influenced by al-Razi and Arabic alchemical tradition"
+      },
+      {
+        "title": "Chymisches Cabinett",
+        "alternate_titles": [
+          "Chemical Cabinet"
+        ],
+        "author_or_tradition": "Michael Maier",
+        "original_language": "German",
+        "date_or_period": "1708",
+        "text_type": "PRIMARY_SOURCE",
+        "significance": "Maier's compendium of alchemical and chemical knowledge"
+      },
+      {
+        "title": "Opus Minus",
+        "alternate_titles": [
+          "Smaller Work"
+        ],
+        "author_or_tradition": "Roger Bacon",
+        "original_language": "Latin",
+        "date_or_period": "c. 1267",
+        "text_type": "PRIMARY_SOURCE",
+        "significance": "Mathematical and alchemical companion to Opus Majus"
+      },
+      {
+        "title": "Opus Tertium",
+        "alternate_titles": [
+          "Third Work"
+        ],
+        "author_or_tradition": "Roger Bacon",
+        "original_language": "Latin",
+        "date_or_period": "c. 1267",
+        "text_type": "PRIMARY_SOURCE",
+        "significance": "Theological implications of alchemical and optical philosophy"
+      },
+      {
+        "title": "Picatrix",
+        "alternate_titles": [
+          "Ghayat al-Hakim"
+        ],
+        "author_or_tradition": "al-Majriti",
+        "original_language": "Arabic; Latin translation",
+        "date_or_period": "10th century (Arabic); 12th century (Latin)",
+        "text_type": "PRIMARY_SOURCE",
+        "significance": "Astrological-magical work with alchemical elements; influential in medieval Europe"
+      },
+      {
+        "title": "Liber de Secretis Naturae",
+        "alternate_titles": [
+          "Book of Natural Secrets"
+        ],
+        "author_or_tradition": "Pseudo-Roger Bacon",
+        "original_language": "Latin",
+        "date_or_period": "Medieval",
+        "text_type": "PRIMARY_SOURCE",
+        "significance": "Alchemical secrets attributed to Roger Bacon; widely circulated in medieval Europe"
+      }
+    ]
+  }
+}
