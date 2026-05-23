@@ -2,6 +2,8 @@
 
 An interactive timeline and map of alchemy and chemistry, with 500 events spanning Late Antiquity through the early modern period. Coverage: Europe, North Africa, Middle East.
 
+**Website:** https://t3dy.github.io/AlchemyTimelineMap/
+
 **Status:** Phase 0 (System Architecture + Documentation) — Ready for Python script implementation and seed data creation.
 
 ---
