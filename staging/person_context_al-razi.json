@@ -1,0 +1,122 @@
+{
+  "person": {
+    "slug": "al-razi",
+    "name": "Al-Razi (Rhazes)",
+    "role_primary": "ALCHEMIST",
+    "era": "MEDIEVAL",
+    "bio_html": "9th-10th century Persian alchemist, physician, and natural philosopher. Advanced practical alchemy through systematic distillation and metallurgical work."
+  },
+  "context": {
+    "texts_authored": [
+      {
+        "slug": "de-sex-rerum-principiis",
+        "title": "De Sex Rerum Principiis (On the Six Principles of Things)",
+        "text_type": "PRIMARY_SOURCE"
+      }
+    ],
+    "events_involving": [
+      {
+        "slug": "event_medieval_byzantium_001",
+        "date_label": "c. 630 CE",
+        "date_start_year": 615,
+        "location_slug": "constantinople",
+        "description": "c. 630 CE, Ray (Persia): The physician and alchemist <a href=\"../persons/al-razi.html\">Al-Razi (Rhazes)</a> composes treatises on <a href=\"../concepts/distillation.html\">Distillation</a> and pharmaceutical preparation, establishing the foundations of systematic <a href=\"../concepts/operational-chemistry.html\">Operational Chemistry</a> in the Islamic world. Al-Razi's works document the practical production of sulfuric acid, alcohol, and other corrosive substances through precise distillation methods, marking a watershed in the transition from metallurgical craft to repeatable chemical operation. His techniques and theoretical framework, transmitted through subsequent Arab alchemists and later translated into Latin, become foundational to European alchemy for centuries to come."
+      },
+      {
+        "slug": "event_medieval_islam_baghdad_persia_001",
+        "date_label": "c. 712 CE",
+        "date_start_year": 702,
+        "location_slug": "rayy",
+        "description": "c. 712 CE, Rayy: The physician and alchemist <a href=\"../persons/al-razi.html\">Al-Razi (Rhazes)</a> establishes his medical and alchemical laboratory in Rayy (Rhages), then a major intellectual center of the Persian plateau. Al-Razi pioneers systematic experimentation with <a href=\"../concepts/distillation.html\">Distillation</a> and <a href=\"../concepts/sublimation.html\">Sublimation</a>] to isolate and test mineral essences, refining earlier techniques through quantitative observation. His rigorous approach to <a href=\"../concepts/calcination.html\">Calcination</a> of mineral compounds marks a shift toward empirically grounded chemistry. Al-Razi's work demonstrates that alchemical operations yield reproducible, measurable results, earning him renown across the Islamic world and eventually reaching medieval European scholars."
+      },
+      {
+        "slug": "event_medieval_islam_baghdad_persia_006",
+        "date_label": "c. 772 CE",
+        "date_start_year": 762,
+        "location_slug": "baghdad",
+        "description": "c. 772 CE, Baghdad: The alchemist <a href=\"../persons/al-razi.html\">Al-Razi (Rhazes)</a>] produces the <a href=\"../texts/de-sex-rerum-principiis.html\">De Sex Rerum Principiis (On the Six Principles of Things)</a>], a treatise analyzing matter as composed of six fundamental principles—a departure from earlier Aristotelian schemes. In Baghdad, al-Razi's framework gains intellectual prominence, offering philosophers and alchemists an alternative theoretical foundation for understanding <a href=\"../concepts/distillation.html\">Distillation</a>], <a href=\"../concepts/sublimation.html\">Sublimation</a>], and <a href=\"../concepts/calcination.html\">Calcination</a>]. His innovative ontology elevates chemical operations from mechanical procedures to expressions of fundamental natural philosophy. Al-Razi's six-principles model influences subsequent Islamic and eventual European alchemical theory."
+      },
+      {
+        "slug": "event_medieval_islam_iberia_001",
+        "date_label": "c. 812 CE",
+        "date_start_year": 802,
+        "location_slug": "toledo",
+        "description": "c. 812 CE, Toledo: The physician and alchemist <a href=\"../persons/al-razi.html\">Al-Razi (Rhazes)</a>, active in Baghdad and Ray, gains increasing prominence in Islamic medical and alchemical circles during this period. His methodical works on pharmaceutical <a href=\"../concepts/distillation.html\">Distillation</a>, mineral chemistry, and the production of medicinal substances begin to influence Iberian practitioners through manuscript transmission. Al-Razi's detailed accounts of <a href=\"../concepts/fermentation.html\">Fermentation</a> processes, metal operations, and the consistent production of observable chemical results establish practical standards for Andalusian alchemists seeking reproducible outcomes. His emphasis on careful observation and systematic experimentation over mystical theory resonates deeply with the pragmatic scholarly tradition developing in Toledo's emerging academic communities. Al-Razi's influence on Iberian alchemy, though often transmitted indirectly through multiple scholarly intermediaries, fundamentally shapes the empirical orientation that characterizes medieval Spanish alchemical practice. His legacy ensures alchemy is treated as natural science rather than esoteric mystery."
+      },
+      {
+        "slug": "event_medieval_latin_monasteries_001",
+        "date_label": "c. 815 CE",
+        "date_start_year": 805,
+        "location_slug": "cluny",
+        "description": "c. 815 CE, Cluny: The Cluniac monastery, founded in 910 but here representing the wider Benedictine revival of the early ninth century, consolidates inherited knowledge of <a href=\"../concepts/operational-chemistry.html\">Operational Chemistry</a>. Manuscripts circulating from Islamic Spain and transmitted through the intellectual networks of the Carolingian Empire bring accounts of <a href=\"../persons/al-razi.html\">Al-Razi (Rhazes)</a>'s systematic explorations of mineral properties and chemical reactions. Monks at monastic centers influenced by the Carolingian scholars synthesize these accounts with traditional pharmaceutical and metallurgical knowledge. The emphasis shifts from mystical transmutation toward reproducible operations: <a href=\"../concepts/distillation.html\">Distillation</a> of volatile substances, crystallization of salts, and the heating of ores. This period establishes the monastic laboratory as a site where practical chemistry merges with scholarly philosophy, creating the foundation for medieval Latin alchemy."
+      },
+      {
+        "slug": "event_medieval_islam_baghdad_persia_011",
+        "date_label": "c. 832 CE",
+        "date_start_year": 822,
+        "location_slug": "rayy",
+        "description": "c. 832 CE, Rayy: The alchemist <a href=\"../persons/al-razi.html\">Al-Razi (Rhazes)</a>] continues his experimental investigations into the nature of matter and the limits of transmutation. In Rayy, al-Razi's sophisticated laboratory practice refines the techniques of <a href=\"../concepts/distillation.html\">Distillation</a>], <a href=\"../concepts/sublimation.html\">Sublimation</a>], and <a href=\"../concepts/calcination.html\">Calcination</a>], establishing standards for chemical purity and measurement. His empirical rigor and willingness to challenge inherited assumptions transform alchemy from a collection of craft secrets into a systematic natural philosophy. Al-Razi's influence extends across the Islamic world and eventually reaches medieval Europe through translated excerpts and paraphrases."
+      },
+      {
+        "slug": "event_medieval_islam_baghdad_persia_016",
+        "date_label": "c. 892 CE",
+        "date_start_year": 882,
+        "location_slug": "baghdad",
+        "description": "c. 892 CE, Baghdad: The alchemist <a href=\"../persons/al-razi.html\">Al-Razi (Rhazes)</a>] maintains his reputation as the preeminent experimenter in operative chemistry, his laboratory practice and theoretical innovations continuing to influence Baghdad's scholarly community. Al-Razi's systematic investigation of <a href=\"../concepts/distillation.html\">Distillation</a>], <a href=\"../concepts/sublimation.html\">Sublimation</a>], and <a href=\"../concepts/calcination.html\">Calcination</a>] establishes chemistry as a discipline requiring both intellectual sophistication and manual expertise. His insistence on empirical verification and reproducibility marks a fundamental shift in how knowledge of material processes is generated and validated within Islamic natural philosophy."
+      },
+      {
+        "slug": "event_al_razi_ray_001",
+        "date_label": "c. 900",
+        "date_start_year": 890,
+        "location_slug": "ray",
+        "description": "c. 900 CE, Ray (near modern Tehran): The alchemist and physician <a href=\"../persons/al-razi.html\">Al-Razi (Rhazes)</a>, sometimes called Rhazes in Latin texts, conducts his systematic investigations of mineral substances, metals, and pharmaceutical preparations in his laboratory at Ray. Al-Razi's *Book of Secrets* documents careful procedures for <a href=\"../concepts/distillation.html\">Distillation</a>] of mineral acids, <a href=\"../concepts/calcination.html\">Calcination</a>] of metals, and crystallization of pharmaceutical compounds. His methodology—repeated trials, careful observation of color changes, precise documentation of proportions—establishes al-Razi as the most rigorously empirical alchemist of the Islamic Golden Age. Working independently of court patronage, he develops distillation apparatus with improved condensation chambers and fuel management. His classification of substances into mineral, vegetable, and animal categories, each with characteristic chemical behaviors, advances alchemical theory beyond previous taxonomies. Al-Razi's integration of alchemy with practical pharmacy and medicine—producing reliable medicinal preparations from alchemical operations—demonstrates the tangible utility of laboratory craft. His influence extends through countless Arabic manuscripts and later European adaptations, making al-Razi the model of the rational, empiricist alchemist."
+      },
+      {
+        "slug": "event_al_razi_pharmacy_001",
+        "date_label": "c. 920",
+        "date_start_year": 910,
+        "location_slug": "baghdad",
+        "description": "c. 920 CE, Baghdad: <a href=\"../persons/al-razi.html\">Al-Razi (Rhazes)</a>], likely visiting the Abbasid capital, collaborates with court physicians in synthesizing alchemical operations toward pharmaceutical production. The doctrine of <a href=\"../concepts/medicamenta-tria.html\">Medicamenta Tria (Three Medicines)</a>]—the three medicines or three fundamental pharmaceutical extracts—becomes systematized through alchemical distillation. These three substances (commonly understood as volatile oils, metallic oxides, and crystalline salts) represent the irreducible principles extracted from natural bodies through <a href=\"../concepts/operational-chemistry.html\">Operational Chemistry</a>]. Al-Razi's work demonstrates that alchemy, far from being a marginal or fraudulent pursuit, constitutes the rational foundation of Islamic pharmacy and medicine. His integration of distillation, calcination, and crystallization techniques into authorized medical practice elevates <a href=\"../concepts/operational-chemistry.html\">Operational Chemistry</a>] from suspect transmutation-seeking to legitimate natural philosophy. The *Medicamenta Tria* framework persists through medieval Latin translations and shapes European pharmaceutical theory for centuries. Al-Razi's Baghdad phase represents the apex of alchemy's institutional integration into Islamic medicine, securing its intellectual legitimacy through medical utility rather than metaphysical claims."
+      },
+      {
+        "slug": "event_medieval_universities_001",
+        "date_label": "c. 1212 CE",
+        "date_start_year": 1202,
+        "location_slug": "paris",
+        "description": "c. 1212 CE, Paris: The expanding University of Paris incorporates teaching on <a href=\"../concepts/operational-chemistry.html\">Operational Chemistry</a>, drawing heavily on the medical and alchemical authorities of <a href=\"../persons/al-razi.html\">Al-Razi (Rhazes)</a> (Rhazes), whose systematic accounts of distillation, acid production, and pharmaceutical preparation dominate the Faculty of Medicine. Al-Razi's emphasis on observable, repeatable operations in metallurgy and substance manipulation becomes the model for natural philosophy teaching at Paris, where alchemy is positioned as part of practical knowledge rather than mystical speculation. The integration of al-Razi's methods into the Parisian curriculum establishes a lasting bridge between Islamic practical alchemy and European medical and philosophical training, ensuring that alchemical operations become normalized within the highest academic institutions."
+      }
+    ],
+    "related_persons": [],
+    "related_concepts": [
+      {
+        "slug": "calcination",
+        "label": "Calcination"
+      },
+      {
+        "slug": "distillation",
+        "label": "Distillation"
+      },
+      {
+        "slug": "fermentation",
+        "label": "Fermentation"
+      },
+      {
+        "slug": "medicamenta-tria",
+        "label": "Medicamenta Tria (Three Medicines)"
+      },
+      {
+        "slug": "operational-chemistry",
+        "label": "Operational Chemistry"
+      },
+      {
+        "slug": "sublimation",
+        "label": "Sublimation"
+      },
+      {
+        "slug": "transmutation",
+        "label": "Transmutation"
+      }
+    ]
+  },
+  "instructions": "Expand this person's bio_html from current length to 1,200–2,200 words. Follow STYLEGUIDE.md and AGENT_PROMPT_BIOGRAPHY_ENRICHER.md. Include opening + 2–4 <h2> sections + Literature section. Use context provided (related texts, events, persons, concepts). Wrap entity links in [LINK:slug]. Use DGWE format for bibliography."
+}
