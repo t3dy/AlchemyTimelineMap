@@ -820,6 +820,11 @@ function addLegend() {
 function addMapStyles() {
   const style = document.createElement("style");
   style.textContent = `
+    .leaflet-top,
+    .leaflet-bottom {
+      z-index: 450;
+    }
+
     .location-tooltip {
       background-color: #333 !important;
       color: white !important;
@@ -838,14 +843,15 @@ function addMapStyles() {
     .location-popup {
       font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
       color: #333;
-      max-width: 420px;
+      max-width: 440px;
+      line-height: 1.55;
     }
 
     .location-popup h3 {
       margin: 0 0 10px 0;
-      color: #111;
-      font-size: 16px;
-      border-bottom: 2px solid #888;
+      color: #1f2937;
+      font-size: 17px;
+      border-bottom: 2px solid #c7cdd4;
       padding-bottom: 8px;
     }
 
@@ -858,16 +864,19 @@ function addMapStyles() {
 
     .location-popup__significance {
       margin: 10px 0;
-      padding: 8px;
-      background-color: #f9f9f9;
-      border-left: 3px solid #888;
+      padding: 10px 12px;
+      background: linear-gradient(180deg, #fbfbfb 0%, #f5f5f5 100%);
+      border-left: 3px solid #64748b;
+      border-radius: 4px;
       font-size: 13px;
+      color: #374151;
     }
 
     .location-popup__figures,
     .location-popup__events {
       margin: 10px 0;
       font-size: 13px;
+      color: #374151;
     }
 
     .location-popup__figures ul,
@@ -879,7 +888,7 @@ function addMapStyles() {
     .location-popup__filter-note {
       margin-top: 6px;
       font-size: 12px;
-      color: #666;
+      color: #6b7280;
       font-style: italic;
     }
 
@@ -925,18 +934,20 @@ function addMapStyles() {
 
     .map-filter-control {
       z-index: 400;
-      max-width: 320px;
+      max-width: 360px;
     }
 
     .map-filter-panel {
-      background: white;
-      padding: 12px;
-      border-radius: 8px;
-      box-shadow: 0 0 15px rgba(0,0,0,0.2);
-      width: 320px;
+      background: linear-gradient(180deg, rgba(255,255,255,0.98) 0%, rgba(249,250,251,0.98) 100%);
+      padding: 14px;
+      border-radius: 14px;
+      border: 1px solid rgba(148, 163, 184, 0.28);
+      box-shadow: 0 20px 40px rgba(15, 23, 42, 0.16);
+      width: 350px;
       max-height: 78vh;
       overflow-y: auto;
       font-size: 12px;
+      backdrop-filter: blur(6px);
     }
 
     .map-filter-panel__header {
@@ -949,42 +960,46 @@ function addMapStyles() {
 
     .map-filter-panel__header h4 {
       margin: 0;
-      font-size: 14px;
-      color: #222;
+      font-size: 15px;
+      color: #0f172a;
     }
 
     .map-filter-panel__header p {
       margin: 4px 0 0 0;
-      color: #666;
+      color: #64748b;
       line-height: 1.35;
     }
 
     .map-filter-reset {
-      border: 1px solid #ccc;
-      background: #fafafa;
-      color: #222;
-      border-radius: 6px;
-      padding: 6px 10px;
+      border: 1px solid #cbd5e1;
+      background: #fff;
+      color: #0f172a;
+      border-radius: 999px;
+      padding: 7px 12px;
       cursor: pointer;
       font-size: 12px;
+      font-weight: 600;
+      transition: transform 0.15s ease, box-shadow 0.15s ease, background 0.15s ease;
+      box-shadow: 0 1px 2px rgba(15, 23, 42, 0.06);
     }
 
     .map-filter-reset:hover {
-      background: #f2f2f2;
+      background: #f8fafc;
+      transform: translateY(-1px);
     }
 
     .filter-group {
       margin: 8px 0;
-      border: 1px solid #eee;
-      border-radius: 6px;
+      border: 1px solid #e5e7eb;
+      border-radius: 10px;
       padding: 8px;
-      background: #fcfcfc;
+      background: #fff;
     }
 
     .filter-group summary {
       cursor: pointer;
-      font-weight: 600;
-      color: #333;
+      font-weight: 700;
+      color: #111827;
     }
 
     .filter-group__body {
@@ -1000,7 +1015,9 @@ function addMapStyles() {
       gap: 8px;
       align-items: flex-start;
       line-height: 1.35;
-      color: #333;
+      color: #1f2937;
+      padding: 4px 6px;
+      border-radius: 6px;
     }
 
     .filter-option input {
@@ -1011,9 +1028,30 @@ function addMapStyles() {
     .map-filter-panel__counts {
       margin-top: 10px;
       padding-top: 8px;
-      border-top: 1px solid #eee;
-      color: #333;
+      border-top: 1px solid #e5e7eb;
+      color: #334155;
       line-height: 1.4;
+    }
+
+    .map-filter-panel__summary strong,
+    .map-filter-panel__counts {
+      color: #0f172a;
+    }
+
+    .map-filter-panel__counts {
+      font-weight: 700;
+      letter-spacing: 0.02em;
+    }
+
+    @media (max-width: 700px) {
+      .map-filter-control {
+        max-width: calc(100vw - 24px);
+      }
+
+      .map-filter-panel {
+        width: calc(100vw - 24px);
+        max-width: 100%;
+      }
     }
   `;
   document.head.appendChild(style);
