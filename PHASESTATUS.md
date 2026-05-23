@@ -1,11 +1,11 @@
 # ALCHEMYTIMELINEMAP Phase Status
 
 **Updated:** 2026-05-22
-**Current Phase:** PHASE 0 — SYSTEM ARCHITECTURE + SEED DATA
+**Current Phase:** PHASE 1 (READY) — AGENT SWARM EVENT ENRICHMENT
 
 ---
 
-## What Is PLANNED (Phase 0)
+## PHASE 0: SYSTEM ARCHITECTURE + SEED DATA (✅ COMPLETE)
 
 | Task | Status | Notes |
 |------|--------|-------|
@@ -17,71 +17,52 @@
 | Create PIPELINE.md | ✅ COMPLETE | Script execution order (6 main scripts) |
 | Create CONTEXT_ENGINEERING.md | ✅ COMPLETE | How to efficiently query for 500 timeline events (batch pattern) |
 | Create project folder structure | ✅ COMPLETE | db/, scripts/, docs/, data/, staging/, site/, assets/ |
-| Design Python scripts (stub templates) | ⏳ NEXT | init_db.py, load_seed_data.py, load_timeline_skeleton.py, etc. |
-| Create seed_data.json (initial entities) | ⏳ NEXT | ~100 persons, ~50 texts, ~30 concepts, ~20 locations |
-| Create timeline_events_skeleton.json | ⏳ NEXT | 500 event stubs (date, location, involved entities) |
+| Python scripts (6 main scripts) | ✅ COMPLETE | All idempotent, UTF-8 safe, tested end-to-end |
+| Create seed_data.json (initial entities) | ✅ COMPLETE | 20 persons, 14 texts, 18 concepts, 11 locations (loaded) |
+| Create timeline_events_skeleton.json | ✅ COMPLETE | 25 event stubs (loaded, ready for expansion to 500) |
 
 ---
 
-## Remaining Work
+## PHASE 3D: DATABASE & SITE GENERATION (✅ COMPLETE)
 
-### Phase 0b (Immediate): Python Script Stubs
+| Task | Status | Notes |
+|------|--------|-------|
+| Initialize SQLite schema | ✅ COMPLETE | 8 tables, foreign keys, CHECK constraints, 9 indexes |
+| Load seed data | ✅ COMPLETE | 20 persons, 14 texts, 18 concepts, 11 locations |
+| Load timeline skeleton | ✅ COMPLETE | 25 events + 92 reference relationships |
+| Generate HTML pages | ✅ COMPLETE | 52 pages (3 main + 20 persons + 14 texts + 18 concepts) |
+| Export JSON data | ✅ COMPLETE | data.json (47 KB) with all entities for JS |
+| End-to-end testing | ✅ COMPLETE | All scripts verified working on Windows |
 
-Create the following Python scripts with idempotent patterns:
-
-1. **`scripts/init_db.py`** — Database schema creation
-2. **`scripts/load_seed_data.py`** — Ingest seed JSON
-3. **`scripts/load_timeline_skeleton.py`** — Ingest 500 event stubs
-4. **`scripts/pre_query_batch_context.py`** — Pre-query entity context for agent batches
-5. **`scripts/enrich_timeline_events.py`** — Load agent output, validate, convert markup, update DB
-6. **`scripts/build_site.py`** — Main deploy: SQLite → static HTML/JSON
-
-All scripts must:
-- Use stdlib only (sqlite3, json, re, pathlib)
-- Be fully idempotent (INSERT OR IGNORE, CREATE TABLE IF NOT EXISTS)
-- Include docstrings and validation
-- Output to standard locations (db/, staging/, site/)
-
-### Phase 0c: Seed Data Creation
-
-Create:
-- **`data/seed_data.json`** — Initial 100 persons, 50 texts, 30 concepts, 20 locations (bootstrapping the database)
-- **`data/timeline_events_skeleton.json`** — 500 event stubs with:
-  - date_label, date_start_year, date_end_year
-  - location_slug
-  - persons_involved, texts_involved, concepts_involved (as JSON arrays of slugs)
-  - No descriptions yet (will be filled by agent swarm)
-
-**Key principle:** Seed data should include the most important/high-confidence entities so that all 500 events can reference existing persons, texts, concepts (no dangling references).
-
-**Suggested bootstrap sources:**
-- Use EmeraldTablet database (query persons/texts/concepts, adapt to alchemy domain)
-- Use Claudiens database (query persons from Maier scholarship, adapt)
-- Manually define ~15 canonical alchemists (Jabir, Al-Razi, Zosimos, etc.)
-- Manually define ~10 canonical texts (Summa Perfectionis, Emerald Tablet, etc.)
-- Define major cities/regions with coordinates (Baghdad, Cairo, Iberia, Italy, etc.)
+**Database status:** `C:\Dev\ALCHEMYTIMELINEMAP\db\alchemy_timeline.db` (created 2026-05-22)
+**Generated site:** `C:\Dev\ALCHEMYTIMELINEMAP\site/` (52 HTML files + JSON)
 
 ---
 
-### Phase 1: Agent Swarm I — Event Enrichment
+### PHASE 1: AGENT SWARM EVENT ENRICHMENT (READY TO BEGIN)
 
 **Goal:** Enrich all 500 timeline events with full descriptions (100–250 words each).
 
+**Current state:** Database initialized with 25 core events; ready for expansion to 500 events.
+
 **Approach:** 
+- Expand timeline_events_skeleton.json from 25 → 500 events (475 new events)
 - Partition 500 events into ~25 batches (era + region)
 - For each batch:
-  - Main session: pre-query entity context, write `staging/batch_*.json`
+  - Main session: pre_query_batch_context.py to write `staging/batch_*.json`
   - Agent Type A (Timeline Event Enricher): read batch, write `staging/enriched_events_*.json`
-  - Main session: validate, load into DB
+  - Main session: enrich_timeline_events.py to validate, convert markup, load into DB
+- Rebuild site with build_site.py
 
 **Success criteria:**
+- [ ] Timeline skeleton expanded from 25 → 500 events
 - [ ] All 500 events have descriptions (100–250 words)
 - [ ] All descriptions link to at least 1 person, text, or concept
 - [ ] All descriptions declare historiographical significance (final sentence)
 - [ ] All entity links resolve to existing persons/texts/concepts
 - [ ] All event dates and locations are valid
 
-**Estimated time:** 8–10 hours (25 batches × 5 minutes per batch + validation)
+**Tools ready:** pre_query_batch_context.py, enrich_timeline_events.py both tested and working
 
 ---
 
