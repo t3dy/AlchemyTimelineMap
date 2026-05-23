@@ -2,7 +2,7 @@
 
 **Lifetime:** Read when writing or expanding text descriptions. Layer 3 (Operational Standards).
 
-**Authority:** If this contradicts `docs/SCHEMA.json`, the schema wins.
+**Authority:** If this contradicts `SCHEMA.json`, the schema wins.
 
 **Prerequisite:** Read `CONCEPTUAL_FRAMEWORK.md` — text descriptions require understanding of textual transmission, the Actor/Analyst distinction, and historiographical significance.
 
@@ -105,7 +105,7 @@ Rules: Author last name first; full title in italics; full publisher name; year;
 - [ ] At least 3 entity links total?
 - [ ] No markdown artifacts?
 - [ ] Provenance metadata: `source_method`, `review_status`, `confidence`?
-- [ ] `text_type` value from `docs/VOCABULARY.md`?
+- [ ] `text_type` value from `SCHEMA.json`?
 
 ---
 
@@ -119,4 +119,4 @@ Rules: Author last name first; full title in italics; full publisher name; year;
 
 ---
 
-*For historiographical context (textual transmission, Actor/Analyst distinction, scholarly authorities), see `CONCEPTUAL_FRAMEWORK.md`. For enum values, see `docs/SCHEMA.json`.*
+*For historiographical context (textual transmission, Actor/Analyst distinction, scholarly authorities), see `CONCEPTUAL_FRAMEWORK.md`. For enum values, see `SCHEMA.json`.*

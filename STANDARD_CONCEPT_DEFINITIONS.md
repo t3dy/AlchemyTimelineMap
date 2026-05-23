@@ -2,7 +2,7 @@
 
 **Lifetime:** Read when writing or expanding concept definitions. Layer 3 (Operational Standards).
 
-**Authority:** If this contradicts `docs/SCHEMA.json`, the schema wins.
+**Authority:** If this contradicts `SCHEMA.json`, the schema wins.
 
 **Prerequisite:** Read `CONCEPTUAL_FRAMEWORK.md` §§ 3.2 and 3.4 — the Actor/Analyst distinction and material culture framework are essential for this content type.
 
@@ -143,4 +143,4 @@ Concept definitions warrant slightly longer bibliographies (8–15) than other c
 
 ---
 
-*For the theoretical foundation of the Actor/Analyst distinction and material culture framework, see `CONCEPTUAL_FRAMEWORK.md` §§ 3.2 and 3.4. For enum values, see `docs/SCHEMA.json`.*
+*For the theoretical foundation of the Actor/Analyst distinction and material culture framework, see `CONCEPTUAL_FRAMEWORK.md` §§ 3.2 and 3.4. For enum values, see `SCHEMA.json`.*

@@ -118,4 +118,4 @@ This is what Hanegraaff's Actor/Analyst distinction protects against: explaining
 
 ---
 
-*This file is Layer 2 (Conceptual Framework). For writing specifications, see `STANDARD_*.md`. For project status, see `PHASESTATUS.md`. For examples, see `docs/reference/examples/`.*
+*This file is Layer 2 (Conceptual Framework). For writing specifications, see `STANDARD_*.md`. For project status, see `PHASESTATUS.md`. For schema and enum values, see `SCHEMA.json`.*

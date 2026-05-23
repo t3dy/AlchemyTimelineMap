@@ -195,10 +195,10 @@
 | STYLEGUIDE.md | Content standards | ✅ Complete |
 | CLAUDE.md | Routing guide | ✅ Complete |
 | PHASESTATUS.md | This file | ✅ Complete |
-| docs/SYSTEM.md | Architecture | ✅ Complete |
-| docs/ONTOLOGY.md | Database schema | ✅ Complete |
-| docs/PIPELINE.md | Script execution order | ✅ Complete |
-| docs/CONTEXT_ENGINEERING.md | 500-event batch strategy | ✅ Complete |
+| ONTOLOGY.md | Database schema | ✅ Complete |
+| PIPELINE.md | Script execution order | ✅ Complete |
+| CONTEXT_ENGINEERING.md | 500-event batch strategy | ✅ Complete |
+| SCHEMA.json | Machine-readable schema/enums | ✅ Complete |
 | data/seed_data.json | Initial entities | ⏳ Pending |
 | data/timeline_events_skeleton.json | 500 event stubs | ⏳ Pending |
 | scripts/*.py | All Python scripts | ⏳ Pending |

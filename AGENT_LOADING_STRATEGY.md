@@ -8,14 +8,14 @@
 
 | Task | Layer 0 | Layer 1 | Layer 2 | Layer 3 | Layer 4 | Layer 6 | Boot Time | Total Tokens |
 |------|---------|---------|---------|---------|---------|---------|-----------|------------|
-| **Write Timeline Event** | CLAUDE.md (5m) | PHASESTATUS.md (2m) | — | STANDARD_TIMELINE_EVENTS.md (5m) | docs/SCHEMA.json (1m) | Example (3m) | 5m | 1,200–1,500 |
-| **Write Person Biography** | CLAUDE.md (5m) | PHASESTATUS.md (2m) | CONCEPTUAL_FRAMEWORK.md (8m) | STANDARD_PERSON_BIOGRAPHIES.md (7m) | docs/SCHEMA.json (1m) | Example (5m) | 5m | 3,000–3,500 |
-| **Write Text Description** | CLAUDE.md (5m) | PHASESTATUS.md (2m) | CONCEPTUAL_FRAMEWORK.md (8m) | STANDARD_TEXT_DESCRIPTIONS.md (5m) | docs/SCHEMA.json (1m) | Example (4m) | 5m | 2,200–2,700 |
-| **Write Concept Definition** | CLAUDE.md (5m) | PHASESTATUS.md (2m) | CONCEPTUAL_FRAMEWORK.md (8m) | STANDARD_CONCEPT_DEFINITIONS.md (6m) | docs/SCHEMA.json (1m) | Examples (5m) | 5m | 2,500–3,000 |
-| **Enrich Events (Batch, 20–50)** | CLAUDE.md (5m) | PHASESTATUS.md (2m) | — | STANDARD_TIMELINE_EVENTS.md (5m) | docs/CONTEXT_ENGINEERING.md (8m) | — | 5m | 1,600–2,000 |
-| **Debug/Fix Invalid Link** | CLAUDE.md (5m) | — | — | — | docs/SCHEMA.json (1m) | — | 5m | 500–800 |
-| **Deploy Site (GitHub Pages)** | CLAUDE.md (5m) | PHASESTATUS.md (2m) | — | — | docs/PIPELINE.md (3m) | — | 5m | 800–1,200 |
-| **Schema Validation Update** | CLAUDE.md (5m) | — | — | — | docs/SCHEMA.json (1m), docs/CONTRACTS.json (2m) | — | 5m | 600–900 |
+| **Write Timeline Event** | CLAUDE.md (5m) | PHASESTATUS.md (2m) | — | STANDARD_TIMELINE_EVENTS.md (5m) | SCHEMA.json (1m) | Example (3m) | 5m | 1,200–1,500 |
+| **Write Person Biography** | CLAUDE.md (5m) | PHASESTATUS.md (2m) | CONCEPTUAL_FRAMEWORK.md (8m) | STANDARD_PERSON_BIOGRAPHIES.md (7m) | SCHEMA.json (1m) | Example (5m) | 5m | 3,000–3,500 |
+| **Write Text Description** | CLAUDE.md (5m) | PHASESTATUS.md (2m) | CONCEPTUAL_FRAMEWORK.md (8m) | STANDARD_TEXT_DESCRIPTIONS.md (5m) | SCHEMA.json (1m) | Example (4m) | 5m | 2,200–2,700 |
+| **Write Concept Definition** | CLAUDE.md (5m) | PHASESTATUS.md (2m) | CONCEPTUAL_FRAMEWORK.md (8m) | STANDARD_CONCEPT_DEFINITIONS.md (6m) | SCHEMA.json (1m) | Examples (5m) | 5m | 2,500–3,000 |
+| **Enrich Events (Batch, 20–50)** | CLAUDE.md (5m) | PHASESTATUS.md (2m) | — | STANDARD_TIMELINE_EVENTS.md (5m) | CONTEXT_ENGINEERING.md (8m) | — | 5m | 1,600–2,000 |
+| **Debug/Fix Invalid Link** | CLAUDE.md (5m) | — | — | — | SCHEMA.json (1m) | — | 5m | 500–800 |
+| **Deploy Site (GitHub Pages)** | CLAUDE.md (5m) | PHASESTATUS.md (2m) | — | — | PIPELINE.md (3m) | — | 5m | 800–1,200 |
+| **Schema Validation Update** | CLAUDE.md (5m) | — | — | — | SCHEMA.json (1m), CONTRACTS.json (2m) | — | 5m | 600–900 |
 
 ---
 
@@ -42,11 +42,11 @@
    - Validation checklist
    - Example passing entry
 
-4. **Layer 4 (1 min):** Skim `docs/SCHEMA.json` (just the timeline_event section)
+4. **Layer 4 (1 min):** Skim `SCHEMA.json` (just the timeline_event section)
    - Confirm enum values for location, confidence, review_status
    - Confirm word count range matches STANDARD_TIMELINE_EVENTS.md
 
-5. **Layer 6 (3 min, optional):** Read example timeline event from `docs/reference/examples/`
+5. **Layer 6 (3 min, optional):** Read example timeline event from `archive/`
    - See what a passing entry looks like
    - Note how entity links are formatted
 
@@ -82,11 +82,11 @@
    - Validation checklist
    - Example passing biography
 
-5. **Layer 4 (1 min):** Skim `docs/SCHEMA.json` (persons table section)
+5. **Layer 4 (1 min):** Skim `SCHEMA.json` (persons table section)
    - Confirm role_primary enum values (ALCHEMIST, CHEMIST, SCHOLAR, etc.)
    - Confirm era enum values (MEDIEVAL, RENAISSANCE, EARLY_MODERN, etc.)
 
-6. **Layer 6 (5 min, optional):** Read worked example person biography from `docs/reference/examples/`
+6. **Layer 6 (5 min, optional):** Read worked example person biography from `archive/`
    - Study how historiographical disputes are presented
    - Note how sources are cited
    - Examine entity links to other persons, texts, concepts
@@ -117,7 +117,7 @@
    - Bibliography format
    - Example passing entries
 
-5. **Layer 4 (1 min):** Skim `docs/SCHEMA.json` (texts table section)
+5. **Layer 4 (1 min):** Skim `SCHEMA.json` (texts table section)
    - Confirm text_type enum (PRIMARY_SOURCE, COMMENTARY, COMPILATION, TREATISE, SCHOLARSHIP, ENCYCLOPEDIA)
    - Confirm era enum
 
@@ -153,7 +153,7 @@
    - Validation checklist
    - Example entries (both types)
 
-5. **Layer 4 (1 min):** Skim `docs/SCHEMA.json` (concepts table section)
+5. **Layer 4 (1 min):** Skim `SCHEMA.json` (concepts table section)
    - Confirm category_type enum (ACTOR_TERM, ANALYST_TERM)
 
 6. **Layer 6 (5 min, optional):** Read worked example concept definitions
@@ -182,7 +182,7 @@
    - Required fields
    - Quick validation checklist
 
-4. **Layer 4 (8 min):** `docs/CONTEXT_ENGINEERING.md`
+4. **Layer 4 (8 min):** `CONTEXT_ENGINEERING.md`
    - Read this FIRST if doing batch enrichment
    - Understand the batch strategy: pre-query entities, load context once, enrich multiple events in sequence
    - Learn the staging pattern (write to staging/*, validate before DB insertion)
@@ -204,7 +204,7 @@
 
 1. **Layer 0 (5 min):** `CLAUDE.md` (quick skim for pipeline rules)
 
-2. **Layer 4 (2 min):** `docs/SCHEMA.json` (entity slug format, enum values)
+2. **Layer 4 (2 min):** `SCHEMA.json` (entity slug format, enum values)
    - Understand slug naming convention (lowercase, hyphens, no special chars)
    - Check if slug exists in database
    - Verify enum value is valid
@@ -228,7 +228,7 @@
 
 2. **Layer 1 (2 min):** `PHASESTATUS.md` (check current phase, event count accuracy)
 
-3. **Layer 4 (3 min):** `docs/PIPELINE.md`
+3. **Layer 4 (3 min):** `PIPELINE.md`
    - Script execution order
    - Database state requirements
    - Output directory (docs/ or site/)
@@ -248,14 +248,14 @@
 
 1. **Layer 0 (5 min):** `CLAUDE.md` (confirm vocabulary lock rules)
 
-2. **Layer 4 (3 min):** Both `docs/SCHEMA.json` and `docs/CONTRACTS.json`
+2. **Layer 4 (3 min):** Both `SCHEMA.json` and `CONTRACTS.json`
    - Understand current schema structure
    - Identify where enum is defined
    - Identify what validation contracts need updating
 
 **Action:** 
 - Update SCHEMA.json (source of truth for enums and word counts)
-- Update docs/VOCABULARY.md (reference documentation)
+- Update ONTOLOGY.md (reference documentation)
 - Update scripts/init_db.py CHECK constraints
 - Re-run validation script to verify
 
@@ -265,7 +265,7 @@
 
 **Rule 1: File precedence in loading sequence is authority precedence.**
 - If you load Layer 3 (STANDARD_TIMELINE_EVENTS.md) and it says 100–250 words, but Layer 6 example shows 200–300 words, the standard (Layer 3) is authoritative.
-- If you load Layer 4 (docs/SCHEMA.json) and it contradicts Layer 3, the schema is authoritative.
+- If you load Layer 4 (SCHEMA.json) and it contradicts Layer 3, the schema is authoritative.
 
 **Rule 2: Never skip Layer 0 or Layer 1.**
 - Every agent must read CLAUDE.md to understand mission and invariants.

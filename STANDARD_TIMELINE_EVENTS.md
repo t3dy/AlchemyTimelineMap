@@ -2,7 +2,7 @@
 
 **Lifetime:** Read when writing or enriching timeline events. Layer 3 (Operational Standards).
 
-**Authority:** If this contradicts `docs/SCHEMA.json`, the schema wins.
+**Authority:** If this contradicts `SCHEMA.json`, the schema wins.
 
 ---
 
@@ -89,4 +89,4 @@ Word count: 98. All required elements present.
 
 ---
 
-*For historiographical context, see `CONCEPTUAL_FRAMEWORK.md`. For enum values, see `docs/SCHEMA.json` or `docs/VOCABULARY.md`. For batch enrichment strategy, read `docs/CONTEXT_ENGINEERING.md` first.*
+*For historiographical context, see `CONCEPTUAL_FRAMEWORK.md`. For enum values, see `SCHEMA.json`. For batch enrichment strategy, read `CONTEXT_ENGINEERING.md` first.*

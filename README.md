@@ -17,8 +17,7 @@ An interactive timeline and map of alchemy and chemistry — 500 events spanning
 | Path | Purpose |
 |------|---------|
 | `docs/agents/` | Task-specific execution prompts and routing |
-| `docs/reference/` | Scholarly context, worked examples (on-demand) |
-| `docs/archive/` | Superseded files — historical record only |
+| `archive/` | Superseded files — historical record only |
 | `scripts/` | Python pipeline (idempotent, SQLite-backed) |
 | `staging/` | Agent output awaiting validation and ingestion |
 | `site/` | Generated static HTML/CSS/JS |

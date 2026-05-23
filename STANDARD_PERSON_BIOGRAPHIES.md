@@ -2,7 +2,7 @@
 
 **Lifetime:** Read when writing or expanding person biographies. Layer 3 (Operational Standards).
 
-**Authority:** If this contradicts `docs/SCHEMA.json`, the schema wins.
+**Authority:** If this contradicts `SCHEMA.json`, the schema wins.
 
 **Prerequisite:** Read `CONCEPTUAL_FRAMEWORK.md` before writing — biographies require historiographical judgment (Actor/Analyst distinction, material culture grounding, scholarly dispute framing).
 
@@ -109,7 +109,7 @@ Rules: Author last name first; full title in italics; full publisher name; year 
 - [ ] At least 3 entity links total?
 - [ ] No markdown artifacts?
 - [ ] Provenance metadata: `source_method`, `review_status`, `confidence`?
-- [ ] `role_primary` and `era` values from `docs/VOCABULARY.md`?
+- [ ] `role_primary` and `era` values from `SCHEMA.json`?
 
 ---
 
@@ -123,4 +123,4 @@ Rules: Author last name first; full title in italics; full publisher name; year 
 
 ---
 
-*For historiographical principles (Actor/Analyst distinction, material culture, scholarly authorities), see `CONCEPTUAL_FRAMEWORK.md`. For enum values, see `docs/SCHEMA.json`.*
+*For historiographical principles (Actor/Analyst distinction, material culture, scholarly authorities), see `CONCEPTUAL_FRAMEWORK.md`. For enum values, see `SCHEMA.json`.*

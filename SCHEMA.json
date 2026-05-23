@@ -1,0 +1,161 @@
+{
+  "version": "1.0",
+  "generated_date": "2026-05-23",
+  "authority": "This is the CANONICAL source for all schema definitions. All prose documentation (STANDARD_*.md, VOCABULARY.md) references this file. If prose contradicts schema, the schema wins.",
+
+  "content_types": {
+    "timeline_event": {
+      "field": "description",
+      "word_count": { "min": 100, "max": 250, "unit": "words" },
+      "required_fields": [
+        "slug", "date_label", "date_start_year", "location_slug",
+        "description", "source_method", "review_status", "confidence"
+      ],
+      "validation_rules": [
+        "description word count must be between 100 and 250",
+        "location_slug must exist in locations table",
+        "all slugs in persons_involved must exist in persons table",
+        "all slugs in texts_involved must exist in texts table",
+        "all slugs in concepts_involved must exist in concepts table",
+        "at least one [LINK:slug] markup in description",
+        "final sentence must state historiographical significance"
+      ]
+    },
+
+    "person_biography": {
+      "field": "bio_html",
+      "word_count": { "min": 1200, "max": 2200, "unit": "words" },
+      "required_sections": [
+        { "name": "opening_paragraph", "min_words": 200, "max_words": 350 },
+        { "name": "works_and_context", "min_words": 250, "max_words": 400 },
+        { "name": "alchemical_significance", "min_words": 250, "max_words": 400 },
+        { "name": "scholarly_debates", "min_words": 200, "max_words": 400 }
+      ],
+      "bibliography": { "min_refs": 5, "max_refs": 12, "format": "DGWE" },
+      "validation_rules": [
+        "bio_html total word count must be between 1200 and 2200",
+        "must begin with person name (not 'This figure...')",
+        "material grounding required for historical figures",
+        "named scholars with specific arguments in scholarly debates",
+        "at least 3 entity links [LINK:slug]",
+        "bibliography in DGWE format"
+      ]
+    },
+
+    "text_description": {
+      "field": "analysis_html",
+      "word_count_by_type": {
+        "PRIMARY_SOURCE": { "min": 1000, "max": 1800 },
+        "COMMENTARY":     { "min": 800,  "max": 1200 },
+        "COMPILATION":    { "min": 800,  "max": 1400 },
+        "TREATISE":       { "min": 1000, "max": 1800 },
+        "SCHOLARSHIP":    { "min": 800,  "max": 1200 },
+        "ENCYCLOPEDIA":   { "min": 1000, "max": 1600 }
+      },
+      "required_sections": [
+        "Content and Theory",
+        "Modern Scholarship"
+      ],
+      "required_sections_primary_source": [
+        "Content and Theory",
+        "Composition and Textual Tradition",
+        "Modern Scholarship"
+      ],
+      "bibliography": { "min_refs": 5, "max_refs": 12, "format": "DGWE" },
+      "validation_rules": [
+        "must begin with title in italics (not 'This text...')",
+        "word count must match the range for its text_type",
+        "textual tradition section required for PRIMARY_SOURCE, COMMENTARY, TREATISE",
+        "named scholars with specific arguments in Modern Scholarship",
+        "at least 3 entity links [LINK:slug]",
+        "bibliography in DGWE format"
+      ]
+    },
+
+    "concept_definition": {
+      "field_short": "definition_short",
+      "field_long": "definition_long",
+      "definition_short_word_count": { "min": 60, "max": 120, "unit": "words" },
+      "definition_long_word_count": { "min": 1500, "max": 2500, "unit": "words" },
+      "subtypes": ["ACTOR_TERM", "ANALYST_TERM"],
+      "required_sections_actor_term": [
+        "Historical Usage",
+        "Scholarly Significance",
+        "Related Concepts"
+      ],
+      "required_sections_analyst_term": [
+        "Historical Usage",
+        "Scholarly Significance",
+        "Related Concepts"
+      ],
+      "bibliography": { "min_refs": 8, "max_refs": 15, "format": "DGWE" },
+      "validation_rules": [
+        "ACTOR_TERM or ANALYST_TERM must be explicitly declared in opening paragraph",
+        "definition_short must be 60-120 words plain text",
+        "definition_long must be 1500-2500 words valid HTML",
+        "ACTOR_TERM: material grounding required (equipment, dangers, observable results)",
+        "ANALYST_TERM: historiographical disputes required (who invented this category?)",
+        "named scholars with specific arguments in Scholarly Significance",
+        "Related Concepts written as prose sentences (not bullets)",
+        "at least 3 [LINK:slug] entity links",
+        "bibliography 8-15 references in DGWE format"
+      ]
+    }
+  },
+
+  "enums": {
+    "era": {
+      "values": ["ANTIQUITY", "LATE_ANTIQUE", "MEDIEVAL", "RENAISSANCE", "EARLY_MODERN", "MODERN"],
+      "description": "Historical period. Controls timeline filtering and site organization."
+    },
+    "role_primary": {
+      "values": ["ALCHEMIST", "CHEMIST", "SCHOLAR", "PHILOSOPHER", "PHYSICIAN", "TRANSLATOR", "MATHEMATICIAN", "POET", "PATRON", "CLERICAL"],
+      "description": "Primary role of person. Not exclusive — captures the most salient role."
+    },
+    "text_type": {
+      "values": ["PRIMARY_SOURCE", "COMMENTARY", "COMPILATION", "TREATISE", "SCHOLARSHIP", "ENCYCLOPEDIA"],
+      "description": "Type of text. Controls word count requirements in text_description."
+    },
+    "category_type": {
+      "values": ["ACTOR_TERM", "ANALYST_TERM"],
+      "description": "Concept classification. ACTOR_TERM: historical practitioner's concept. ANALYST_TERM: modern scholarly category imposed retrospectively."
+    },
+    "operation": {
+      "values": ["DISTILLATION", "SUBLIMATION", "CALCINATION", "FERMENTATION", "CRYSTALLIZATION", "DISSOLUTION", "COAGULATION", "PUTREFACTION", "CIRCULATION"],
+      "description": "Alchemical or chemical operation. Used for concept filtering."
+    },
+    "confidence": {
+      "values": ["HIGH", "MEDIUM", "LOW"],
+      "description": "Confidence in data accuracy. HIGH: well-documented; MEDIUM: probable; LOW: speculative."
+    },
+    "review_status": {
+      "values": ["DRAFT", "REVIEWED", "VERIFIED"],
+      "description": "Editorial review state. DRAFT: AI-generated; REVIEWED: human-checked; VERIFIED: scholar-confirmed."
+    },
+    "source_method": {
+      "values": ["MANUAL", "AI_ASSISTED", "SCHOLARSHIP_BASED"],
+      "description": "How data was sourced. MANUAL: human-written; AI_ASSISTED: AI with human review; SCHOLARSHIP_BASED: direct citation."
+    }
+  },
+
+  "slug_conventions": {
+    "format": "lowercase, hyphens only, no special characters",
+    "examples": ["jabir-ibn-hayyan", "summa-perfectionis", "distillation", "baghdad"],
+    "forbidden": ["underscores", "spaces", "uppercase", "special_chars"]
+  },
+
+  "bibliography_format": {
+    "name": "DGWE",
+    "description": "Dictionary of Gnosis and Western Esotericism model",
+    "pattern": "Author Last, First. Title. Publisher, Year.",
+    "example": "Newman, William R. Atoms and Alchemy: Chymistry and the Transformation of Matter. University of Chicago Press, 2006.",
+    "rules": [
+      "Author last name first",
+      "Full title (italicized in HTML)",
+      "Full publisher name (not abbreviated)",
+      "Year of publication",
+      "Alphabetized by author last name",
+      "No URLs or DOIs"
+    ]
+  }
+}

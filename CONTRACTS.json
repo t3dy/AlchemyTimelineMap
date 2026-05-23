@@ -1,0 +1,125 @@
+{
+  "version": "1.0",
+  "generated_date": "2026-05-23",
+  "authority": "Defines staging manifest format, validation gates, and error codes. Used by validation scripts and agents writing to staging/.",
+
+  "staging_manifest_contract": {
+    "description": "Format for agent output files written to staging/",
+    "format": "JSON array of entry objects",
+    "filename_convention": "staging/[content_type]_[batch_id].json",
+    "required_fields": [
+      "content_type",
+      "entity_slug",
+      "word_count",
+      "source_method",
+      "confidence",
+      "review_status"
+    ],
+    "optional_fields": [
+      "persons_involved",
+      "texts_involved",
+      "concepts_involved",
+      "location_slug",
+      "checksum"
+    ],
+    "validation_gates": [
+      "word_count_matches_actual: count words in primary field; must match declared word_count",
+      "entity_links_exist_in_db: verify each slug in persons/texts/concepts/locations",
+      "enum_values_valid: check against SCHEMA.json enums",
+      "required_sections_present: verify structure for content type"
+    ],
+    "checksum_field": "SHA256 hash of primary content field (description, bio_html, analysis_html, or definition_long)",
+    "checksum_purpose": "Detect accidental mutations between staging creation and database ingestion"
+  },
+
+  "entry_schema": {
+    "timeline_event": {
+      "required_fields": ["slug", "date_label", "location_slug", "description", "source_method", "confidence", "review_status"],
+      "primary_field": "description",
+      "word_count_range": [100, 250]
+    },
+    "person_biography": {
+      "required_fields": ["slug", "name", "role_primary", "era", "bio_html", "source_method", "confidence", "review_status"],
+      "primary_field": "bio_html",
+      "word_count_range": [1200, 2200]
+    },
+    "text_description": {
+      "required_fields": ["slug", "title", "text_type", "analysis_html", "source_method", "confidence", "review_status"],
+      "primary_field": "analysis_html",
+      "word_count_range": "variable by text_type (see SCHEMA.json)"
+    },
+    "concept_definition": {
+      "required_fields": ["slug", "label", "category_type", "definition_short", "definition_long", "source_method", "confidence", "review_status"],
+      "primary_field_short": "definition_short",
+      "primary_field_long": "definition_long",
+      "word_count_short": [60, 120],
+      "word_count_long": [1500, 2500]
+    }
+  },
+
+  "error_codes": {
+    "WC_LOW": {
+      "name": "word_count_too_low",
+      "message": "Word count below minimum for this content type",
+      "resolution": "Expand content until word count requirement is met. Check SCHEMA.json for exact minimum."
+    },
+    "WC_HIGH": {
+      "name": "word_count_too_high",
+      "message": "Word count exceeds maximum for this content type",
+      "resolution": "Condense content or split into two separate entries."
+    },
+    "WC_MISMATCH": {
+      "name": "word_count_mismatch",
+      "message": "Declared word_count does not match actual word count of primary field",
+      "resolution": "Recount words and update word_count field."
+    },
+    "MISSING_SEC": {
+      "name": "missing_required_section",
+      "message": "Required section not found in content",
+      "resolution": "Add the required <h2> section. Check STANDARD_*.md for section requirements."
+    },
+    "SLUG_INVALID": {
+      "name": "invalid_entity_slug",
+      "message": "Entity slug does not exist in database",
+      "resolution": "Create the entity first, or verify slug spelling against database. Use lowercase-hyphen format."
+    },
+    "ENUM_INVALID": {
+      "name": "invalid_enum_value",
+      "message": "Enum value not in SCHEMA.json",
+      "resolution": "Use one of the valid enum values from SCHEMA.json. Do not invent new values."
+    },
+    "BIB_INVALID": {
+      "name": "bibliography_format_invalid",
+      "message": "Bibliography does not match DGWE format",
+      "resolution": "Reformat per SCHEMA.json bibliography_format. Pattern: Last, First. Title. Publisher, Year."
+    },
+    "CHECKSUM_FAIL": {
+      "name": "checksum_mismatch",
+      "message": "Primary content field has been modified since manifest was created",
+      "resolution": "Recalculate checksum: SHA256(primary_field_text) or verify intended change."
+    },
+    "DUPLICATE_SLUG": {
+      "name": "duplicate_slug_in_manifest",
+      "message": "Same entity_slug appears more than once in manifest",
+      "resolution": "Remove duplicate entries. Each entity should appear once per manifest."
+    },
+    "ACTOR_ANALYST_MISSING": {
+      "name": "actor_analyst_not_declared",
+      "message": "Concept definition does not explicitly declare ACTOR_TERM or ANALYST_TERM in opening paragraph",
+      "resolution": "Add explicit declaration: 'This is an ACTOR_TERM' or 'This is an ANALYST_TERM' in the opening paragraph."
+    },
+    "NO_ENTITY_LINKS": {
+      "name": "insufficient_entity_links",
+      "message": "Content has fewer than 3 [LINK:slug] entity links",
+      "resolution": "Add [LINK:slug] markup for at least 3 persons, texts, or concepts mentioned in the content."
+    }
+  },
+
+  "validation_pipeline": {
+    "step_1": "Agent writes staging file with correct format",
+    "step_2": "python scripts/validate_content.py staging/[file].json",
+    "step_3": "Human spot-check for historiographical accuracy",
+    "step_4": "python scripts/enrich_[type].py --ingest staging/[file].json",
+    "step_5": "Database CHECK constraints enforce final validation"
+  }
+}
