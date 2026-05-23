@@ -24,12 +24,67 @@ Date: 2026-05-22
 
 import json
 import sqlite3
+import re
 from pathlib import Path
 from datetime import datetime
 
 # Database and output paths
 DB_PATH = Path(__file__).parent.parent / "db" / "alchemy_timeline.db"
 SITE_PATH = Path(__file__).parent.parent / "site"
+
+
+def convert_links_to_html(text, entity_map):
+    """Convert [LINK:slug] markers to proper HTML links with tooltips."""
+    if not text:
+        return text
+
+    pattern = r'\[LINK:([^\]]+)\]+'
+
+    def normalize_slug(value):
+        return re.sub(r"[^a-z0-9-]", "", value.strip().lower().replace("_", "-").replace(" ", "-"))
+
+    def replace_link(match):
+        slug = normalize_slug(match.group(1))
+
+        # Determine entity type and get name
+        if slug in entity_map.get('concepts', {}):
+            entity = entity_map['concepts'][slug]
+            href = f"../concepts/{slug}.html"
+            title = f"Concept: {entity['label']}"
+            name = entity['label']
+        elif slug in entity_map.get('persons', {}):
+            entity = entity_map['persons'][slug]
+            href = f"../persons/{slug}.html"
+            title = f"Person: {entity['name']}"
+            name = entity['name']
+        elif slug in entity_map.get('texts', {}):
+            entity = entity_map['texts'][slug]
+            href = f"../texts/{slug}.html"
+            title = f"Text: {entity['title']}"
+            name = entity['title']
+        else:
+            return match.group(1).strip()
+
+        return f'<a href="{href}" class="dh-link" title="{title}">{name}</a>'
+
+    converted = re.sub(pattern, replace_link, text)
+    converted = re.sub(r"(</a>)\]+", r"\1", converted)
+    converted = re.sub(r"(?<!\*)\*([^*\n<>]{1,120})\*(?!\*)", r"<i>\1</i>", converted)
+    return converted.replace("[", "").replace("]", "")
+
+
+def extract_concept_tags(html_text, concepts_list):
+    """Extract concept slugs from [LINK:*] markers."""
+    if not html_text:
+        return []
+
+    pattern = r'\[LINK:([^\]]+)\]+'
+    tags = []
+    for match in re.finditer(pattern, html_text):
+        slug = re.sub(r"[^a-z0-9-]", "", match.group(1).strip().lower().replace("_", "-").replace(" ", "-"))
+        if slug in concepts_list:
+            tags.append(slug)
+    return list(dict.fromkeys(tags))  # Deduplicate while preserving order
 
 
 def init_site_structure():
@@ -197,7 +252,7 @@ def generate_map_html():
     print("  [OK] map.html created")
 
 
-def generate_persons_pages():
+def generate_persons_pages(entity_map):
     """Generate persons/[slug].html biography pages."""
     print("\nGenerating persons/ pages...")
     conn = sqlite3.connect(DB_PATH)
@@ -209,6 +264,7 @@ def generate_persons_pages():
 
     for person in persons:
         slug = person["slug"]
+        bio_html = convert_links_to_html(person["bio_html"], entity_map)
         html = f"""<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -234,7 +290,7 @@ def generate_persons_pages():
             <h2>{person['name']}</h2>
             <p><strong>Role:</strong> {person['role_primary']} | <strong>Era:</strong> {person['era']}</p>
             <div class="bio">
-                {person['bio_html']}
+                {bio_html}
             </div>
         </article>
     </main>
@@ -250,7 +306,7 @@ def generate_persons_pages():
     print(f"  [OK] {len(persons)} persons pages created")
 
 
-def generate_texts_pages():
+def generate_texts_pages(entity_map):
     """Generate texts/[slug].html text analysis pages."""
     print("\nGenerating texts/ pages...")
     conn = sqlite3.connect(DB_PATH)
@@ -262,6 +318,7 @@ def generate_texts_pages():
 
     for text in texts:
         slug = text["slug"]
+        analysis_html = convert_links_to_html(text["analysis_html"], entity_map)
         html = f"""<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -286,6 +343,9 @@ def generate_texts_pages():
         <article>
             <h2><i>{text['title']}</i></h2>
             <p><strong>Type:</strong> {text['text_type']} | <strong>Language:</strong> {text['original_language']} | <strong>Composed:</strong> {text['composition_date']}</p>
+            <div class="analysis">
+                {analysis_html}
+            </div>
         </article>
     </main>
 
@@ -300,7 +360,7 @@ def generate_texts_pages():
     print(f"  [OK] {len(texts)} texts pages created")
 
 
-def generate_concepts_pages():
+def generate_concepts_pages(entity_map):
     """Generate concepts/[slug].html concept definition pages."""
     print("\nGenerating concepts/ pages...")
     conn = sqlite3.connect(DB_PATH)
@@ -312,6 +372,7 @@ def generate_concepts_pages():
 
     for concept in concepts:
         slug = concept["slug"]
+        definition_html = convert_links_to_html(concept["definition_short"], entity_map)
         html = f"""<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -337,7 +398,7 @@ def generate_concepts_pages():
             <h2>{concept['label']}</h2>
             <p><strong>Category:</strong> {concept['category_type']}</p>
             <div class="definition">
-                {concept['definition_short']}
+                {definition_html}
             </div>
         </article>
     </main>
@@ -397,6 +458,30 @@ def export_json_data():
     print(f"  [OK] data.json exported ({len(persons)} persons, {len(texts)} texts, {len(concepts)} concepts, {len(events)} events)")
 
 
+def build_entity_map():
+    """Build entity_map for link conversion."""
+    conn = sqlite3.connect(DB_PATH)
+    conn.row_factory = sqlite3.Row
+    cursor = conn.cursor()
+
+    entity_map = {"persons": {}, "texts": {}, "concepts": {}}
+
+    cursor.execute("SELECT slug, name FROM persons")
+    for row in cursor.fetchall():
+        entity_map["persons"][row["slug"]] = {"name": row["name"]}
+
+    cursor.execute("SELECT slug, title FROM texts")
+    for row in cursor.fetchall():
+        entity_map["texts"][row["slug"]] = {"title": row["title"]}
+
+    cursor.execute("SELECT slug, label FROM concepts")
+    for row in cursor.fetchall():
+        entity_map["concepts"][row["slug"]] = {"label": row["label"]}
+
+    conn.close()
+    return entity_map
+
+
 def build_site():
     """Main deployment function."""
     print("=" * 60)
@@ -404,12 +489,13 @@ def build_site():
     print("=" * 60)
 
     init_site_structure()
+    entity_map = build_entity_map()
     generate_index_html()
     generate_timeline_html()
     generate_map_html()
-    generate_persons_pages()
-    generate_texts_pages()
-    generate_concepts_pages()
+    generate_persons_pages(entity_map)
+    generate_texts_pages(entity_map)
+    generate_concepts_pages(entity_map)
     export_json_data()
 
     print("\n" + "=" * 60)
