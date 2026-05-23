@@ -318,6 +318,13 @@ function getPersonBySlug(slug) {
   return allData.persons.find((entry) => entry.slug === slug) || null;
 }
 
+function getTextBySlug(slug) {
+  if (!allData?.texts) {
+    return null;
+  }
+  return allData.texts.find((entry) => entry.slug === slug) || null;
+}
+
 function normalizeLocationSlug(slug) {
   const raw = (slug || "").trim();
   return locationAliases[raw] || raw;
@@ -484,17 +491,54 @@ function buildEventSummary(event) {
 
 function buildEventItem(event) {
   const concepts = event.concepts_involved
-    .slice(0, 3)
     .map((slug) => getConceptLabel(slug))
     .filter(Boolean);
 
-  return `
+  const persons = (event.persons_involved || [])
+    .map((slug) => {
+      const person = getPersonBySlug(slug);
+      return person ? `<a href="../persons/${escapeHtml(slug)}.html">${escapeHtml(person.name)}</a>` : null;
+    })
+    .filter(Boolean);
+
+  const texts = (event.texts_involved || [])
+    .map((slug) => {
+      const text = getTextBySlug(slug);
+      return text ? `<a href="../texts/${escapeHtml(slug)}.html">${escapeHtml(text.title)}</a>` : null;
+    })
+    .filter(Boolean);
+
+  const conceptLinks = concepts
+    .map((label) => {
+      const slug = Object.keys(allData.concepts || {}).find(
+        (s) => getConceptLabel(s) === label
+      );
+      return slug ? `<a href="../concepts/${escapeHtml(slug)}.html">${escapeHtml(label)}</a>` : `<span>${escapeHtml(label)}</span>`;
+    });
+
+  let html = `
     <li class="event-card">
       <div class="event-card__date">${escapeHtml(event.date_label || "Undated")}</div>
-      ${event.description ? `<div class="event-card__summary">${escapeHtml(buildEventSummary(event))}</div>` : ""}
-      ${concepts.length > 0 ? `<div class="event-card__tags">${concepts.map((label) => `<span class="event-tag">${escapeHtml(label)}</span>`).join("")}</div>` : ""}
-    </li>
   `;
+
+  if (event.description) {
+    html += `<div class="event-card__description">${escapeHtml(stripHtml(event.description))}</div>`;
+  }
+
+  if (persons.length > 0) {
+    html += `<div class="event-card__entities"><strong>Persons:</strong> ${persons.join(", ")}</div>`;
+  }
+
+  if (texts.length > 0) {
+    html += `<div class="event-card__entities"><strong>Texts:</strong> ${texts.join(", ")}</div>`;
+  }
+
+  if (conceptLinks.length > 0) {
+    html += `<div class="event-card__tags">${conceptLinks.map((link) => `<span class="event-tag">${link}</span>`).join("")}</div>`;
+  }
+
+  html += `</li>`;
+  return html;
 }
 
 function buildLocationPopup(location, events) {
@@ -599,13 +643,37 @@ function createLocationMarker(location) {
   marker.bindPopup(buildLocationPopup(location, events), {
     maxWidth: 460,
     minWidth: 320,
-    className: "location-popup-container"
+    className: "location-popup-container",
+    closeButton: true
+  });
+
+  // Track popup state for persistent pinning
+  let popupPinned = false;
+
+  marker.on("mouseover", function () {
+    if (!popupPinned) {
+      this.openPopup();
+    }
+  });
+
+  marker.on("mouseout", function () {
+    if (!popupPinned) {
+      this.closePopup();
+    }
+  });
+
+  marker.on("click", function () {
+    popupPinned = !popupPinned;
+    if (popupPinned) {
+      this.openPopup();
+    }
   });
 
   marker.addTo(map);
   locationMarkers[location.slug] = {
     marker,
-    location
+    location,
+    popupPinned: () => popupPinned
   };
 }
 
