@@ -915,6 +915,180 @@
       "key_periods": [
         "EARLY_MODERN"
       ]
+    },
+    {
+      "slug": "amsterdam",
+      "place_name": "Amsterdam",
+      "latitude": 52.3676,
+      "longitude": 4.9041,
+      "region": "Low Countries",
+      "modern_name": "Amsterdam, Netherlands",
+      "alchemical_significance": "Major early modern printing and commercial center where alchemical books, instruments, and laboratory supplies circulated through republic trade networks.",
+      "key_figures": [],
+      "key_periods": [
+        "EARLY_MODERN"
+      ]
+    },
+    {
+      "slug": "antwerp",
+      "place_name": "Antwerp",
+      "latitude": 51.2194,
+      "longitude": 4.4025,
+      "region": "Low Countries",
+      "modern_name": "Antwerp, Belgium",
+      "alchemical_significance": "Major Low Countries commercial center that helped circulate alchemical books, pigments, metals, and laboratory equipment between the Mediterranean and northern Europe.",
+      "key_figures": [],
+      "key_periods": [
+        "RENAISSANCE",
+        "EARLY_MODERN"
+      ]
+    },
+    {
+      "slug": "athens",
+      "place_name": "Athens",
+      "latitude": 37.9838,
+      "longitude": 23.7275,
+      "region": "Greece",
+      "modern_name": "Athens, Greece",
+      "alchemical_significance": "Classical and late antique philosophical center whose traditions remained important for the transmission of Greek natural philosophy into later alchemical writing.",
+      "key_figures": [],
+      "key_periods": [
+        "ANTIQUITY",
+        "LATE_ANTIQUE"
+      ]
+    },
+    {
+      "slug": "bruges",
+      "place_name": "Bruges",
+      "latitude": 51.2093,
+      "longitude": 3.2247,
+      "region": "Low Countries",
+      "modern_name": "Bruges, Belgium",
+      "alchemical_significance": "Urban workshop and trade center in the Low Countries where artisanal practice, exchange, and manuscript circulation supported alchemical experimentation.",
+      "key_figures": [],
+      "key_periods": [
+        "RENAISSANCE",
+        "EARLY_MODERN"
+      ]
+    },
+    {
+      "slug": "cambridge",
+      "place_name": "Cambridge",
+      "latitude": 52.2053,
+      "longitude": 0.1218,
+      "region": "England",
+      "modern_name": "Cambridge, England",
+      "alchemical_significance": "Academic center associated with early modern natural philosophy and the circulation of chymical ideas in England.",
+      "key_figures": [
+        "isaac-newton"
+      ],
+      "key_periods": [
+        "EARLY_MODERN"
+      ]
+    },
+    {
+      "slug": "canterbury",
+      "place_name": "Canterbury",
+      "latitude": 51.2802,
+      "longitude": 1.0789,
+      "region": "England",
+      "modern_name": "Canterbury, England",
+      "alchemical_significance": "Ecclesiastical center that helped sustain learned exchange, manuscript culture, and medicinal or laboratory knowledge in medieval England.",
+      "key_figures": [],
+      "key_periods": [
+        "MEDIEVAL"
+      ]
+    },
+    {
+      "slug": "cluny",
+      "place_name": "Cluny",
+      "latitude": 46.4336,
+      "longitude": 4.6602,
+      "region": "France",
+      "modern_name": "Cluny, France",
+      "alchemical_significance": "Monastic center that supported manuscript culture, translation, and the transmission of practical and natural-philosophical knowledge in medieval Europe.",
+      "key_figures": [],
+      "key_periods": [
+        "MEDIEVAL"
+      ]
+    },
+    {
+      "slug": "constantinople",
+      "place_name": "Constantinople",
+      "latitude": 41.0082,
+      "longitude": 28.9784,
+      "region": "Byzantium",
+      "modern_name": "Istanbul, Turkey",
+      "alchemical_significance": "Imperial capital of Byzantium and a major conduit for the preservation and adaptation of Greek technical learning, including alchemical and pharmaceutical traditions.",
+      "key_figures": [],
+      "key_periods": [
+        "MEDIEVAL"
+      ]
+    },
+    {
+      "slug": "fulda",
+      "place_name": "Fulda",
+      "latitude": 50.5558,
+      "longitude": 9.6836,
+      "region": "Germany",
+      "modern_name": "Fulda, Germany",
+      "alchemical_significance": "Monastic and scholarly center in central Europe whose libraries and scriptoria preserved natural-philosophical materials in the Middle Ages.",
+      "key_figures": [],
+      "key_periods": [
+        "MEDIEVAL"
+      ]
+    },
+    {
+      "slug": "lisbon",
+      "place_name": "Lisbon",
+      "latitude": 38.7223,
+      "longitude": -9.1393,
+      "region": "Iberia",
+      "modern_name": "Lisbon, Portugal",
+      "alchemical_significance": "Major Iberian port that linked Latin, Arabic, and Mediterranean knowledge networks and later supported the circulation of chemical and alchemical texts.",
+      "key_figures": [],
+      "key_periods": [
+        "EARLY_MODERN"
+      ]
+    },
+    {
+      "slug": "madrid",
+      "place_name": "Madrid",
+      "latitude": 40.4168,
+      "longitude": -3.7038,
+      "region": "Iberia",
+      "modern_name": "Madrid, Spain",
+      "alchemical_significance": "Major Iberian political center that became important for learned exchange, courtly patronage, and the circulation of practical chemical knowledge.",
+      "key_figures": [],
+      "key_periods": [
+        "EARLY_MODERN"
+      ]
+    },
+    {
+      "slug": "monte-cassino",
+      "place_name": "Monte Cassino",
+      "latitude": 41.4917,
+      "longitude": 13.8116,
+      "region": "Italy",
+      "modern_name": "Cassino, Italy",
+      "alchemical_significance": "Foundational Benedictine monastic center where manuscript copying and scholarly exchange helped preserve scientific and medical learning.",
+      "key_figures": [],
+      "key_periods": [
+        "MEDIEVAL"
+      ]
+    },
+    {
+      "slug": "salerno",
+      "place_name": "Salerno",
+      "latitude": 40.6824,
+      "longitude": 14.7681,
+      "region": "Italy",
+      "modern_name": "Salerno, Italy",
+      "alchemical_significance": "Major medical center whose pharmacy, materia medica, and translation culture made it important for the development of practical alchemical knowledge.",
+      "key_figures": [],
+      "key_periods": [
+        "MEDIEVAL"
+      ]
     }
   ],
   "timeline_events": [],
@@ -924,7 +1098,7 @@
     "total_persons": 20,
     "total_texts": 15,
     "total_concepts": 19,
-    "total_locations": 11,
+    "total_locations": 38,
     "status": "Seed data consolidated; timeline events to be generated in Phase B"
   }
 }
