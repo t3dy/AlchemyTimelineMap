@@ -414,6 +414,98 @@ def generate_concepts_pages(entity_map):
     print(f"  [OK] {len(concepts)} concepts pages created")
 
 
+def extract_tags_for_entities(concepts_dict):
+    """Extract and enrich entities with concept tags."""
+    print("\nExtracting concept tags from entity content...")
+    conn = sqlite3.connect(DB_PATH)
+    conn.row_factory = sqlite3.Row
+    cursor = conn.cursor()
+
+    concepts_set = set(concepts_dict.keys())
+
+    # Extract tags for persons
+    cursor.execute("SELECT slug, bio_html FROM persons")
+    persons_tags = {}
+    for row in cursor.fetchall():
+        tags = extract_concept_tags(row["bio_html"], concepts_set)
+        if tags:
+            persons_tags[row["slug"]] = tags
+
+    # Extract tags for texts
+    cursor.execute("SELECT slug, analysis_html FROM texts")
+    texts_tags = {}
+    for row in cursor.fetchall():
+        tags = extract_concept_tags(row["analysis_html"], concepts_set)
+        if tags:
+            texts_tags[row["slug"]] = tags
+
+    conn.close()
+    return persons_tags, texts_tags
+
+
+def build_relationship_indices(persons, texts, concepts, events, persons_tags, texts_tags):
+    """Build cross-reference maps for relational browsing."""
+    print("Building relationship indices...")
+
+    persons_dict = {p["slug"]: p for p in persons}
+    texts_dict = {t["slug"]: t for t in texts}
+    concepts_dict = {c["slug"]: c for c in concepts}
+
+    relationships = {
+        "person_to_concepts": {},
+        "person_to_texts": {},
+        "person_to_events": {},
+        "text_to_persons": {},
+        "text_to_concepts": {},
+        "concept_to_persons": {},
+        "concept_to_texts": {},
+        "concept_to_events": {},
+    }
+
+    # Person to concepts (from extracted tags)
+    for person_slug, concept_slugs in persons_tags.items():
+        relationships["person_to_concepts"][person_slug] = concept_slugs
+
+    # Text to concepts (from extracted tags)
+    for text_slug, concept_slugs in texts_tags.items():
+        relationships["text_to_concepts"][text_slug] = concept_slugs
+
+    # Person to events, person to texts, concept relationships from events
+    for event in events:
+        event_persons = event.get("persons_involved", "")
+        event_concepts = event.get("concepts_involved", "")
+
+        if event_persons:
+            person_slugs = [p.strip() for p in event_persons.split(";") if p.strip()]
+            for person_slug in person_slugs:
+                if person_slug not in relationships["person_to_events"]:
+                    relationships["person_to_events"][person_slug] = []
+                relationships["person_to_events"][person_slug].append(event["slug"])
+
+        if event_concepts:
+            concept_slugs = [c.strip() for c in event_concepts.split(";") if c.strip()]
+            for concept_slug in concept_slugs:
+                if concept_slug not in relationships["concept_to_events"]:
+                    relationships["concept_to_events"][concept_slug] = []
+                relationships["concept_to_events"][concept_slug].append(event["slug"])
+
+    # Invert person_to_concepts to create concept_to_persons
+    for person_slug, concept_slugs in relationships["person_to_concepts"].items():
+        for concept_slug in concept_slugs:
+            if concept_slug not in relationships["concept_to_persons"]:
+                relationships["concept_to_persons"][concept_slug] = []
+            relationships["concept_to_persons"][concept_slug].append(person_slug)
+
+    # Invert text_to_concepts to create concept_to_texts
+    for text_slug, concept_slugs in relationships["text_to_concepts"].items():
+        for concept_slug in concept_slugs:
+            if concept_slug not in relationships["concept_to_texts"]:
+                relationships["concept_to_texts"][concept_slug] = []
+            relationships["concept_to_texts"][concept_slug].append(text_slug)
+
+    return relationships
+
+
 def export_json_data():
     """Export data.json (all entities for JavaScript consumers)."""
     print("\nExporting JSON data...")
@@ -441,12 +533,27 @@ def export_json_data():
     cursor.execute("SELECT * FROM timeline_events")
     events = [dict(row) for row in cursor.fetchall()]
 
+    conn.close()
+
+    # Extract concept tags and build relationships
+    concepts_dict = {c["slug"]: c for c in concepts}
+    persons_tags, texts_tags = extract_tags_for_entities(concepts_dict)
+    relationships = build_relationship_indices(persons, texts, concepts, events, persons_tags, texts_tags)
+
+    # Enrich persons and texts with concept_tags
+    for person in persons:
+        person["concept_tags"] = persons_tags.get(person["slug"], [])
+
+    for text in texts:
+        text["concept_tags"] = texts_tags.get(text["slug"], [])
+
     data = {
         "persons": persons,
         "texts": texts,
         "concepts": concepts,
         "locations": locations,
         "events": events,
+        "relationships": relationships,
         "generated": datetime.now().isoformat(),
     }
 
@@ -454,8 +561,9 @@ def export_json_data():
     with open(data_path, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2, default=str, ensure_ascii=False)
 
-    conn.close()
     print(f"  [OK] data.json exported ({len(persons)} persons, {len(texts)} texts, {len(concepts)} concepts, {len(events)} events)")
+    print(f"  [OK] concept_tags extracted for {len(persons_tags)} persons, {len(texts_tags)} texts")
+    print(f"  [OK] relationship indices built")
 
 
 def build_entity_map():
