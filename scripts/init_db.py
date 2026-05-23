@@ -287,8 +287,47 @@ def create_schema():
     print(f"   Run `python scripts/load_seed_data.py` next to load initial entities.")
 
 
+def validate_location_references():
+    """
+    Validate that all timeline_events have valid location_slug references.
+    Runs after schema creation to detect orphaned FK references.
+    """
+    conn = sqlite3.connect(DB_PATH)
+    cursor = conn.cursor()
+
+    print("\nValidating location references in timeline_events...")
+
+    # Query for orphaned events (location_slug not in locations table)
+    cursor.execute("""
+        SELECT COUNT(*) as orphaned_count
+        FROM timeline_events t
+        WHERE NOT EXISTS (SELECT 1 FROM locations l WHERE l.slug = t.location_slug)
+    """)
+    result = cursor.fetchone()
+    orphaned_count = result[0] if result else 0
+
+    if orphaned_count > 0:
+        print(f"  [WARNING] Found {orphaned_count} events with invalid location_slug:")
+        cursor.execute("""
+            SELECT t.slug, t.location_slug, t.date_label
+            FROM timeline_events t
+            WHERE NOT EXISTS (SELECT 1 FROM locations l WHERE l.slug = t.location_slug)
+            ORDER BY t.location_slug
+        """)
+        for slug, location_slug, date_label in cursor.fetchall():
+            print(f"    - Event '{slug}' ({date_label}) references non-existent location '{location_slug}'")
+        print("\n  [ACTION REQUIRED] Fix invalid location_slug references before proceeding.")
+        conn.close()
+        sys.exit(1)
+    else:
+        print("  [OK] All location_slug references are valid.")
+
+    conn.close()
+
+
 if __name__ == "__main__":
     # Create parent directory if it doesn't exist
     DB_PATH.parent.mkdir(parents=True, exist_ok=True)
 
     create_schema()
+    validate_location_references()

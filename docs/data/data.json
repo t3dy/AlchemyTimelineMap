@@ -1,4 +1,12 @@
 {
+  "meta": {
+    "total_events": 582,
+    "total_locations": 60,
+    "mapped_events": 582,
+    "unmapped_events": 0,
+    "validation_passed": true,
+    "generated": "2026-05-23T09:37:51.335889"
+  },
   "persons": [
     {
       "id": 1,
@@ -10,7 +18,13 @@
       "source_method": "SCHOLARSHIP_BASED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 01:50:28"
+      "created_at": "2026-05-23 01:50:28",
+      "concept_tags": [
+        "operational-chemistry",
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
     },
     {
       "id": 2,
@@ -22,7 +36,13 @@
       "source_method": "SCHOLARSHIP_BASED",
       "review_status": "DRAFT",
       "confidence": "MEDIUM",
-      "created_at": "2026-05-23 01:50:28"
+      "created_at": "2026-05-23 01:50:28",
+      "concept_tags": [
+        "operational-chemistry",
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
     },
     {
       "id": 3,
@@ -34,7 +54,14 @@
       "source_method": "SCHOLARSHIP_BASED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 01:50:28"
+      "created_at": "2026-05-23 01:50:28",
+      "concept_tags": [
+        "distillation",
+        "sublimation",
+        "calcination",
+        "operational-chemistry",
+        "fermentation"
+      ]
     },
     {
       "id": 4,
@@ -46,7 +73,12 @@
       "source_method": "SCHOLARSHIP_BASED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 01:50:28"
+      "created_at": "2026-05-23 01:50:28",
+      "concept_tags": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ]
     },
     {
       "id": 5,
@@ -58,7 +90,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 01:50:28"
+      "created_at": "2026-05-23 01:50:28",
+      "concept_tags": []
     },
     {
       "id": 6,
@@ -70,7 +103,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 01:50:28"
+      "created_at": "2026-05-23 01:50:28",
+      "concept_tags": []
     },
     {
       "id": 7,
@@ -82,7 +116,8 @@
       "source_method": "SCHOLARSHIP_BASED",
       "review_status": "REVIEWED",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 01:50:28"
+      "created_at": "2026-05-23 01:50:28",
+      "concept_tags": []
     },
     {
       "id": 8,
@@ -94,7 +129,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 01:50:28"
+      "created_at": "2026-05-23 01:50:28",
+      "concept_tags": []
     },
     {
       "id": 9,
@@ -106,7 +142,8 @@
       "source_method": "SCHOLARSHIP_BASED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 01:50:28"
+      "created_at": "2026-05-23 01:50:28",
+      "concept_tags": []
     },
     {
       "id": 10,
@@ -118,7 +155,8 @@
       "source_method": "SCHOLARSHIP_BASED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 01:50:28"
+      "created_at": "2026-05-23 01:50:28",
+      "concept_tags": []
     },
     {
       "id": 11,
@@ -130,7 +168,8 @@
       "source_method": "SCHOLARSHIP_BASED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 01:50:28"
+      "created_at": "2026-05-23 01:50:28",
+      "concept_tags": []
     },
     {
       "id": 12,
@@ -142,7 +181,8 @@
       "source_method": "SCHOLARSHIP_BASED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 01:50:28"
+      "created_at": "2026-05-23 01:50:28",
+      "concept_tags": []
     },
     {
       "id": 13,
@@ -154,7 +194,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 01:50:28"
+      "created_at": "2026-05-23 01:50:28",
+      "concept_tags": []
     },
     {
       "id": 14,
@@ -166,7 +207,8 @@
       "source_method": "SCHOLARSHIP_BASED",
       "review_status": "REVIEWED",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 01:50:28"
+      "created_at": "2026-05-23 01:50:28",
+      "concept_tags": []
     },
     {
       "id": 15,
@@ -178,7 +220,8 @@
       "source_method": "SCHOLARSHIP_BASED",
       "review_status": "REVIEWED",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 01:50:28"
+      "created_at": "2026-05-23 01:50:28",
+      "concept_tags": []
     },
     {
       "id": 16,
@@ -190,7 +233,8 @@
       "source_method": "SCHOLARSHIP_BASED",
       "review_status": "REVIEWED",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 01:50:28"
+      "created_at": "2026-05-23 01:50:28",
+      "concept_tags": []
     },
     {
       "id": 17,
@@ -202,7 +246,8 @@
       "source_method": "SCHOLARSHIP_BASED",
       "review_status": "DRAFT",
       "confidence": "MEDIUM",
-      "created_at": "2026-05-23 01:50:28"
+      "created_at": "2026-05-23 01:50:28",
+      "concept_tags": []
     },
     {
       "id": 18,
@@ -214,7 +259,8 @@
       "source_method": "SCHOLARSHIP_BASED",
       "review_status": "REVIEWED",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 01:50:28"
+      "created_at": "2026-05-23 01:50:28",
+      "concept_tags": []
     },
     {
       "id": 19,
@@ -226,7 +272,8 @@
       "source_method": "SCHOLARSHIP_BASED",
       "review_status": "REVIEWED",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 01:50:28"
+      "created_at": "2026-05-23 01:50:28",
+      "concept_tags": []
     },
     {
       "id": 20,
@@ -238,7 +285,8 @@
       "source_method": "SCHOLARSHIP_BASED",
       "review_status": "REVIEWED",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 01:50:28"
+      "created_at": "2026-05-23 01:50:28",
+      "concept_tags": []
     },
     {
       "id": 21,
@@ -250,7 +298,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 04:52:45"
+      "created_at": "2026-05-23 04:52:45",
+      "concept_tags": []
     },
     {
       "id": 22,
@@ -262,7 +311,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 04:52:45"
+      "created_at": "2026-05-23 04:52:45",
+      "concept_tags": []
     },
     {
       "id": 23,
@@ -274,7 +324,10 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 04:52:45"
+      "created_at": "2026-05-23 04:52:45",
+      "concept_tags": [
+        "quintessence"
+      ]
     },
     {
       "id": 24,
@@ -286,7 +339,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 04:52:45"
+      "created_at": "2026-05-23 04:52:45",
+      "concept_tags": []
     },
     {
       "id": 25,
@@ -298,7 +352,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 04:52:45"
+      "created_at": "2026-05-23 04:52:45",
+      "concept_tags": []
     },
     {
       "id": 26,
@@ -310,7 +365,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 04:52:45"
+      "created_at": "2026-05-23 04:52:45",
+      "concept_tags": []
     },
     {
       "id": 27,
@@ -322,7 +378,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 04:52:45"
+      "created_at": "2026-05-23 04:52:45",
+      "concept_tags": []
     },
     {
       "id": 28,
@@ -334,7 +391,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 04:52:45"
+      "created_at": "2026-05-23 04:52:45",
+      "concept_tags": []
     },
     {
       "id": 29,
@@ -346,7 +404,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 04:52:45"
+      "created_at": "2026-05-23 04:52:45",
+      "concept_tags": []
     },
     {
       "id": 30,
@@ -358,7 +417,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 04:52:45"
+      "created_at": "2026-05-23 04:52:45",
+      "concept_tags": []
     },
     {
       "id": 31,
@@ -370,7 +430,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 04:52:45"
+      "created_at": "2026-05-23 04:52:45",
+      "concept_tags": []
     },
     {
       "id": 32,
@@ -382,7 +443,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 04:52:45"
+      "created_at": "2026-05-23 04:52:45",
+      "concept_tags": []
     },
     {
       "id": 33,
@@ -394,7 +456,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 04:52:45"
+      "created_at": "2026-05-23 04:52:45",
+      "concept_tags": []
     },
     {
       "id": 34,
@@ -406,7 +469,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 04:52:45"
+      "created_at": "2026-05-23 04:52:45",
+      "concept_tags": []
     },
     {
       "id": 35,
@@ -418,7 +482,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 04:52:45"
+      "created_at": "2026-05-23 04:52:45",
+      "concept_tags": []
     },
     {
       "id": 36,
@@ -430,7 +495,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 04:52:45"
+      "created_at": "2026-05-23 04:52:45",
+      "concept_tags": []
     },
     {
       "id": 37,
@@ -442,7 +508,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 04:52:45"
+      "created_at": "2026-05-23 04:52:45",
+      "concept_tags": []
     },
     {
       "id": 38,
@@ -454,7 +521,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 04:52:45"
+      "created_at": "2026-05-23 04:52:45",
+      "concept_tags": []
     },
     {
       "id": 39,
@@ -466,7 +534,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 04:52:45"
+      "created_at": "2026-05-23 04:52:45",
+      "concept_tags": []
     },
     {
       "id": 40,
@@ -478,7 +547,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 04:52:45"
+      "created_at": "2026-05-23 04:52:45",
+      "concept_tags": []
     },
     {
       "id": 41,
@@ -490,7 +560,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 04:52:45"
+      "created_at": "2026-05-23 04:52:45",
+      "concept_tags": []
     },
     {
       "id": 42,
@@ -502,7 +573,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 04:52:45"
+      "created_at": "2026-05-23 04:52:45",
+      "concept_tags": []
     },
     {
       "id": 43,
@@ -514,7 +586,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 04:52:45"
+      "created_at": "2026-05-23 04:52:45",
+      "concept_tags": []
     },
     {
       "id": 44,
@@ -526,7 +599,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 04:52:45"
+      "created_at": "2026-05-23 04:52:45",
+      "concept_tags": []
     },
     {
       "id": 45,
@@ -538,7 +612,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 04:52:45"
+      "created_at": "2026-05-23 04:52:45",
+      "concept_tags": []
     },
     {
       "id": 46,
@@ -550,7 +625,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 04:52:45"
+      "created_at": "2026-05-23 04:52:45",
+      "concept_tags": []
     },
     {
       "id": 47,
@@ -562,7 +638,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 04:52:45"
+      "created_at": "2026-05-23 04:52:45",
+      "concept_tags": []
     },
     {
       "id": 48,
@@ -574,7 +651,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 04:52:45"
+      "created_at": "2026-05-23 04:52:45",
+      "concept_tags": []
     },
     {
       "id": 49,
@@ -586,7 +664,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 04:52:45"
+      "created_at": "2026-05-23 04:52:45",
+      "concept_tags": []
     },
     {
       "id": 50,
@@ -598,7 +677,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 04:52:45"
+      "created_at": "2026-05-23 04:52:45",
+      "concept_tags": []
     },
     {
       "id": 51,
@@ -610,7 +690,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 04:52:45"
+      "created_at": "2026-05-23 04:52:45",
+      "concept_tags": []
     },
     {
       "id": 52,
@@ -622,7 +703,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 04:52:45"
+      "created_at": "2026-05-23 04:52:45",
+      "concept_tags": []
     },
     {
       "id": 53,
@@ -634,7 +716,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 04:52:45"
+      "created_at": "2026-05-23 04:52:45",
+      "concept_tags": []
     },
     {
       "id": 54,
@@ -646,7 +729,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 04:52:45"
+      "created_at": "2026-05-23 04:52:45",
+      "concept_tags": []
     },
     {
       "id": 55,
@@ -658,7 +742,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 04:52:45"
+      "created_at": "2026-05-23 04:52:45",
+      "concept_tags": []
     },
     {
       "id": 56,
@@ -670,7 +755,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 04:52:45"
+      "created_at": "2026-05-23 04:52:45",
+      "concept_tags": []
     },
     {
       "id": 57,
@@ -682,7 +768,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 04:52:45"
+      "created_at": "2026-05-23 04:52:45",
+      "concept_tags": []
     },
     {
       "id": 58,
@@ -694,7 +781,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 04:52:45"
+      "created_at": "2026-05-23 04:52:45",
+      "concept_tags": []
     },
     {
       "id": 59,
@@ -706,7 +794,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 04:52:45"
+      "created_at": "2026-05-23 04:52:45",
+      "concept_tags": []
     },
     {
       "id": 60,
@@ -718,7 +807,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 04:52:45"
+      "created_at": "2026-05-23 04:52:45",
+      "concept_tags": []
     },
     {
       "id": 61,
@@ -730,7 +820,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 04:52:45"
+      "created_at": "2026-05-23 04:52:45",
+      "concept_tags": []
     },
     {
       "id": 62,
@@ -742,7 +833,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 04:52:45"
+      "created_at": "2026-05-23 04:52:45",
+      "concept_tags": []
     },
     {
       "id": 63,
@@ -754,7 +846,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 04:52:45"
+      "created_at": "2026-05-23 04:52:45",
+      "concept_tags": []
     }
   ],
   "texts": [
@@ -771,7 +864,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 01:50:28"
+      "created_at": "2026-05-23 01:50:28",
+      "concept_tags": []
     },
     {
       "id": 2,
@@ -786,7 +880,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 01:50:28"
+      "created_at": "2026-05-23 01:50:28",
+      "concept_tags": []
     },
     {
       "id": 3,
@@ -801,7 +896,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "MEDIUM",
-      "created_at": "2026-05-23 01:50:28"
+      "created_at": "2026-05-23 01:50:28",
+      "concept_tags": []
     },
     {
       "id": 4,
@@ -816,7 +912,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "MEDIUM",
-      "created_at": "2026-05-23 01:50:28"
+      "created_at": "2026-05-23 01:50:28",
+      "concept_tags": []
     },
     {
       "id": 5,
@@ -831,7 +928,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 01:50:28"
+      "created_at": "2026-05-23 01:50:28",
+      "concept_tags": []
     },
     {
       "id": 6,
@@ -846,7 +944,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "MEDIUM",
-      "created_at": "2026-05-23 01:50:28"
+      "created_at": "2026-05-23 01:50:28",
+      "concept_tags": []
     },
     {
       "id": 7,
@@ -861,7 +960,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "MEDIUM",
-      "created_at": "2026-05-23 01:50:28"
+      "created_at": "2026-05-23 01:50:28",
+      "concept_tags": []
     },
     {
       "id": 8,
@@ -876,7 +976,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 01:50:28"
+      "created_at": "2026-05-23 01:50:28",
+      "concept_tags": []
     },
     {
       "id": 9,
@@ -891,7 +992,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 01:50:28"
+      "created_at": "2026-05-23 01:50:28",
+      "concept_tags": []
     },
     {
       "id": 10,
@@ -906,7 +1008,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 01:50:28"
+      "created_at": "2026-05-23 01:50:28",
+      "concept_tags": []
     },
     {
       "id": 11,
@@ -921,7 +1024,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 01:50:28"
+      "created_at": "2026-05-23 01:50:28",
+      "concept_tags": []
     },
     {
       "id": 12,
@@ -936,7 +1040,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 01:50:28"
+      "created_at": "2026-05-23 01:50:28",
+      "concept_tags": []
     },
     {
       "id": 13,
@@ -951,7 +1056,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 01:50:28"
+      "created_at": "2026-05-23 01:50:28",
+      "concept_tags": []
     },
     {
       "id": 14,
@@ -966,7 +1072,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 01:50:28"
+      "created_at": "2026-05-23 01:50:28",
+      "concept_tags": []
     },
     {
       "id": 15,
@@ -981,7 +1088,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 04:52:45"
+      "created_at": "2026-05-23 04:52:45",
+      "concept_tags": []
     },
     {
       "id": 16,
@@ -996,7 +1104,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 04:52:45"
+      "created_at": "2026-05-23 04:52:45",
+      "concept_tags": []
     },
     {
       "id": 17,
@@ -1011,7 +1120,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 04:52:45"
+      "created_at": "2026-05-23 04:52:45",
+      "concept_tags": []
     },
     {
       "id": 18,
@@ -1026,7 +1136,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 04:52:45"
+      "created_at": "2026-05-23 04:52:45",
+      "concept_tags": []
     },
     {
       "id": 19,
@@ -1041,7 +1152,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 04:52:45"
+      "created_at": "2026-05-23 04:52:45",
+      "concept_tags": []
     },
     {
       "id": 20,
@@ -1056,7 +1168,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 04:52:45"
+      "created_at": "2026-05-23 04:52:45",
+      "concept_tags": []
     },
     {
       "id": 21,
@@ -1071,7 +1184,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 04:52:45"
+      "created_at": "2026-05-23 04:52:45",
+      "concept_tags": []
     },
     {
       "id": 22,
@@ -1086,7 +1200,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 04:52:45"
+      "created_at": "2026-05-23 04:52:45",
+      "concept_tags": []
     },
     {
       "id": 23,
@@ -1101,7 +1216,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 04:52:45"
+      "created_at": "2026-05-23 04:52:45",
+      "concept_tags": []
     },
     {
       "id": 24,
@@ -1116,7 +1232,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 04:52:45"
+      "created_at": "2026-05-23 04:52:45",
+      "concept_tags": []
     },
     {
       "id": 25,
@@ -1131,7 +1248,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 04:52:45"
+      "created_at": "2026-05-23 04:52:45",
+      "concept_tags": []
     },
     {
       "id": 26,
@@ -1146,7 +1264,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 04:52:45"
+      "created_at": "2026-05-23 04:52:45",
+      "concept_tags": []
     },
     {
       "id": 27,
@@ -1161,7 +1280,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 04:52:45"
+      "created_at": "2026-05-23 04:52:45",
+      "concept_tags": []
     },
     {
       "id": 28,
@@ -1176,7 +1296,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 04:52:45"
+      "created_at": "2026-05-23 04:52:45",
+      "concept_tags": []
     },
     {
       "id": 29,
@@ -1191,7 +1312,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 04:52:45"
+      "created_at": "2026-05-23 04:52:45",
+      "concept_tags": []
     },
     {
       "id": 30,
@@ -1206,7 +1328,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 04:52:45"
+      "created_at": "2026-05-23 04:52:45",
+      "concept_tags": []
     },
     {
       "id": 31,
@@ -1221,7 +1344,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 04:52:45"
+      "created_at": "2026-05-23 04:52:45",
+      "concept_tags": []
     },
     {
       "id": 32,
@@ -1236,7 +1360,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 04:52:45"
+      "created_at": "2026-05-23 04:52:45",
+      "concept_tags": []
     },
     {
       "id": 33,
@@ -1251,7 +1376,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 04:52:45"
+      "created_at": "2026-05-23 04:52:45",
+      "concept_tags": []
     },
     {
       "id": 34,
@@ -1266,7 +1392,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 04:52:45"
+      "created_at": "2026-05-23 04:52:45",
+      "concept_tags": []
     },
     {
       "id": 35,
@@ -1281,7 +1408,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 04:52:45"
+      "created_at": "2026-05-23 04:52:45",
+      "concept_tags": []
     },
     {
       "id": 36,
@@ -1296,7 +1424,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 04:52:45"
+      "created_at": "2026-05-23 04:52:45",
+      "concept_tags": []
     },
     {
       "id": 37,
@@ -1311,7 +1440,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 04:52:45"
+      "created_at": "2026-05-23 04:52:45",
+      "concept_tags": []
     },
     {
       "id": 38,
@@ -1326,7 +1456,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 04:52:45"
+      "created_at": "2026-05-23 04:52:45",
+      "concept_tags": []
     },
     {
       "id": 39,
@@ -1341,7 +1472,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 04:52:45"
+      "created_at": "2026-05-23 04:52:45",
+      "concept_tags": []
     },
     {
       "id": 40,
@@ -1356,7 +1488,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 04:52:45"
+      "created_at": "2026-05-23 04:52:45",
+      "concept_tags": []
     },
     {
       "id": 41,
@@ -1371,7 +1504,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 04:52:45"
+      "created_at": "2026-05-23 04:52:45",
+      "concept_tags": []
     },
     {
       "id": 42,
@@ -1386,7 +1520,8 @@
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
       "confidence": "HIGH",
-      "created_at": "2026-05-23 04:52:45"
+      "created_at": "2026-05-23 04:52:45",
+      "concept_tags": []
     }
   ],
   "concepts": [
@@ -1634,13 +1769,7 @@
       "region": "Egypt",
       "modern_name": "Cairo, Egypt",
       "alchemical_significance": "Cairo anchors the map's Egyptian and Islamic transmission layers. The site is used here as a late antique and medieval Egyptian node rather than as proof of one continuous school. Garth Fowden's work on Egyptian Hermetism and Lawrence Principe's synthesis of alchemy's history help frame Cairo as a place where Hermetic learning, pharmacy, craft practice, and later Arabic reception could be connected without collapsing them into a single tradition.",
-      "key_figures": [
-        "zosimos-of-panopolis"
-      ],
-      "key_periods": [
-        "LATE_ANTIQUE",
-        "MEDIEVAL"
-      ]
+      "key_periods": "LATE_ANTIQUE,MEDIEVAL"
     },
     {
       "slug": "alexandria",
@@ -1650,13 +1779,7 @@
       "region": "Egypt",
       "modern_name": "Alexandria, Egypt",
       "alchemical_significance": "Alexandria marks the Hellenistic and late antique environment in which Greek natural philosophy, Egyptian craft practice, and Hermetic literature were brought into contact. Garth Fowden treats Egyptian Hermetism as a learned late antique phenomenon, while Lawrence Principe emphasizes that early alchemy joined symbolic interpretation to real operations with metals, dyes, and apparatus. The marker signals an intellectual and artisanal crossroads, not a single institution.",
-      "key_figures": [
-        "zosimos-of-panopolis"
-      ],
-      "key_periods": [
-        "ANTIQUITY",
-        "LATE_ANTIQUE"
-      ]
+      "key_periods": "ANTIQUITY,LATE_ANTIQUE"
     },
     {
       "slug": "baghdad",
@@ -1666,14 +1789,7 @@
       "region": "Iraq",
       "modern_name": "Baghdad, Iraq",
       "alchemical_significance": "Baghdad represents the Abbasid translation and research milieu in which Greek, Persian, Syriac, and Arabic technical learning was reorganized. Paul Kraus, Roshdi Rashed, George Saliba, William Newman, and Lawrence Principe all treat the Arabic alchemical corpus as central to alchemy's medieval development, even when authorship is contested. This location therefore marks a scholarly network of texts, laboratories, medicine, and patronage rather than one biographical claim about Jabir.",
-      "key_figures": [
-        "jabir-ibn-hayyan",
-        "al-kindi",
-        "al-razi"
-      ],
-      "key_periods": [
-        "MEDIEVAL"
-      ]
+      "key_periods": "MEDIEVAL"
     },
     {
       "slug": "ray",
@@ -1683,12 +1799,7 @@
       "region": "Persia",
       "modern_name": "Ray, Iran",
       "alchemical_significance": "Ray, or Rhages, is tied to al-Razi's medical and practical chemical reputation. Lawrence Principe and William Newman treat al-Razi as important for laboratory classification, mineral substances, distillation, and pharmacy, even while modern historians distinguish operational success from transmutation claims. The marker identifies Ray as a Persian medical and craft context where alchemical procedures could be framed as useful knowledge.",
-      "key_figures": [
-        "al-razi"
-      ],
-      "key_periods": [
-        "MEDIEVAL"
-      ]
+      "key_periods": "MEDIEVAL"
     },
     {
       "slug": "damascus",
@@ -1698,10 +1809,7 @@
       "region": "Syria",
       "modern_name": "Damascus, Syria",
       "alchemical_significance": "Damascus belongs to the westward movement of Arabic natural philosophy, medicine, and practical chemical knowledge. George Saliba's account of Islamic science and Lawrence Principe's history of alchemy both stress that transmission moved through cities, teachers, manuscript routes, and medical practice rather than through one simple line of masters. This marker gives the Syrian corridor visibility as a bridge between Iraq, Egypt, and the Mediterranean.",
-      "key_figures": [],
-      "key_periods": [
-        "MEDIEVAL"
-      ]
+      "key_periods": "MEDIEVAL"
     },
     {
       "slug": "cordoba",
@@ -1711,10 +1819,7 @@
       "region": "Spain",
       "modern_name": "Córdoba, Spain",
       "alchemical_significance": "Cordoba marks the Andalusi courtly and scholarly world that helped carry Arabic natural philosophy into Latin Europe. The Picatrix and related astral-natural philosophical materials circulated in this wider Iberian setting, and scholars such as Brian Copenhaver and Charles Burnett treat al-Andalus as crucial for Latin access to Arabic learning. The location is included as a transmission center, not as evidence for a single local alchemical school.",
-      "key_figures": [],
-      "key_periods": [
-        "MEDIEVAL"
-      ]
+      "key_periods": "MEDIEVAL"
     },
     {
       "slug": "toledo",
@@ -1724,12 +1829,7 @@
       "region": "Spain",
       "modern_name": "Toledo, Spain",
       "alchemical_significance": "Toledo is one of the map's clearest translation hubs. Gerard of Cremona and other translators made Arabic scientific and philosophical materials available in Latin, including texts that later alchemists used. Charles Burnett, Michela Pereira, William Newman, and Lawrence Principe all frame Toledo as part of the machinery by which Arabic natural philosophy entered medieval European medicine, astrology, and alchemy.",
-      "key_figures": [
-        "gerard-of-cremona"
-      ],
-      "key_periods": [
-        "MEDIEVAL"
-      ]
+      "key_periods": "MEDIEVAL"
     },
     {
       "slug": "palermo",
@@ -1739,10 +1839,7 @@
       "region": "Sicily",
       "modern_name": "Palermo, Sicily",
       "alchemical_significance": "Palermo represents Norman Sicily's multilingual court culture, where Greek, Arabic, and Latin learning overlapped. Charles Burnett and Michela Pereira both make Sicily important for understanding medieval translation and transmission. For alchemy, Palermo matters because practical medicine, astrology, mineral knowledge, and manuscript circulation crossed linguistic boundaries there, helping create the mixed intellectual environment in which Latin alchemy developed.",
-      "key_figures": [],
-      "key_periods": [
-        "MEDIEVAL"
-      ]
+      "key_periods": "MEDIEVAL"
     },
     {
       "slug": "hesse-germany",
@@ -1752,10 +1849,7 @@
       "region": "Germany",
       "modern_name": "Hesse, Germany",
       "alchemical_significance": "Hesse marks the material culture side of alchemy. Hessian crucibles and related ceramic technologies show that high-temperature technical practice mattered as much as learned theory. Pamela Smith's work on artisanal knowledge and William Newman's studies of chymistry help frame crucibles, furnaces, and workshop materials as historical evidence for operational chemistry. The location points to craft competence, not to successful metallic transmutation.",
-      "key_figures": [],
-      "key_periods": [
-        "MEDIEVAL"
-      ]
+      "key_periods": "MEDIEVAL"
     },
     {
       "slug": "oxford",
@@ -1765,12 +1859,7 @@
       "region": "England",
       "modern_name": "Oxford, England",
       "alchemical_significance": "Oxford is included for its medieval university culture and Roger Bacon's defense of experiment and experience. David C. Lindberg's work on Bacon and William Newman's history of alchemy help situate Oxford as a place where Arabic learning, optics, medicine, and alchemical operations could become part of scholastic debate. The marker emphasizes learned reception of laboratory claims, not a modern scientific program.",
-      "key_figures": [
-        "roger-bacon"
-      ],
-      "key_periods": [
-        "MEDIEVAL"
-      ]
+      "key_periods": "MEDIEVAL"
     },
     {
       "slug": "bologna",
@@ -1780,10 +1869,7 @@
       "region": "Italy",
       "modern_name": "Bologna, Italy",
       "alchemical_significance": "Bologna marks the university and legal-medical environment through which alchemical texts could be read as natural philosophy. Michela Pereira and Lawrence Principe both emphasize that medieval alchemy circulated through manuscript, medicine, and university settings as well as workshops. This location makes visible the academic reception of texts such as the Summa perfectionis and related Latin discussions of matter.",
-      "key_figures": [],
-      "key_periods": [
-        "MEDIEVAL"
-      ]
+      "key_periods": "MEDIEVAL"
     },
     {
       "slug": "montpellier",
@@ -1793,10 +1879,7 @@
       "region": "France",
       "modern_name": "Montpellier, France",
       "alchemical_significance": "Montpellier is a medical university node, especially important for pharmaceutical and distillatory alchemy. Michela Pereira's work on the pseudo-Lullian corpus and Lawrence Principe's account of medical chymistry help explain why Montpellier matters: alchemical operations were often defended through healing, extraction, and drug preparation. The marker highlights medicine as a legitimating path for laboratory practice.",
-      "key_figures": [],
-      "key_periods": [
-        "MEDIEVAL"
-      ]
+      "key_periods": "MEDIEVAL"
     },
     {
       "slug": "vienna",
@@ -1806,11 +1889,7 @@
       "region": "Austria",
       "modern_name": "Vienna, Austria",
       "alchemical_significance": "Vienna is used for the central European monastic, courtly, and medical networks around practical alchemy. Nearby evidence such as Oberstockstall has been discussed by historians of laboratory culture as material proof that learned and practical chemical work coexisted. Pamela Smith and Lawrence Principe help frame this region as a zone where apparatus, recipes, and patronage mattered together.",
-      "key_figures": [],
-      "key_periods": [
-        "MEDIEVAL",
-        "EARLY_MODERN"
-      ]
+      "key_periods": "MEDIEVAL,EARLY_MODERN"
     },
     {
       "slug": "florence",
@@ -1820,13 +1899,7 @@
       "region": "Italy",
       "modern_name": "Florence, Italy",
       "alchemical_significance": "Florence marks the humanist and Hermetic revival associated with Marsilio Ficino's translation of the Corpus Hermeticum. Frances Yates made Florence central to her account of Renaissance Hermetism, while Brian Copenhaver and Wouter Hanegraaff later refined that picture by separating historical Hermetic texts from Renaissance projections of ancient wisdom. The marker shows why Florentine humanism mattered for alchemical interpretation.",
-      "key_figures": [
-        "marsilio-ficino",
-        "pico-della-mirandola"
-      ],
-      "key_periods": [
-        "RENAISSANCE"
-      ]
+      "key_periods": "RENAISSANCE"
     },
     {
       "slug": "basle",
@@ -1836,13 +1909,7 @@
       "region": "Switzerland",
       "modern_name": "Basel, Switzerland",
       "alchemical_significance": "Basle, or Basel, matters as a print and medical reform center. Printed editions, Paracelsian controversy, and humanist scholarship helped stabilize and spread alchemical and medical texts. Andrew Weeks, Bruce Moran, and Lawrence Principe treat print culture as essential to the rise of Paracelsian and chymical debate. This marker points to publication, controversy, and medical readership rather than one local laboratory.",
-      "key_figures": [
-        "paracelsus"
-      ],
-      "key_periods": [
-        "RENAISSANCE",
-        "EARLY_MODERN"
-      ]
+      "key_periods": "RENAISSANCE,EARLY_MODERN"
     },
     {
       "slug": "salzburg",
@@ -1852,12 +1919,7 @@
       "region": "Austria",
       "modern_name": "Salzburg, Austria",
       "alchemical_significance": "Salzburg is tied to Paracelsus's Alpine world of mining, medicine, and metallurgy. Andrew Weeks and Lawrence Principe both present Paracelsus as a figure who made alchemical operations serve medicine and natural philosophy, even when his claims remained contentious. The location highlights the mining and medical setting that shaped Paracelsian language about minerals, diseases, and remedies.",
-      "key_figures": [
-        "paracelsus"
-      ],
-      "key_periods": [
-        "EARLY_MODERN"
-      ]
+      "key_periods": "EARLY_MODERN"
     },
     {
       "slug": "strasbourg",
@@ -1867,12 +1929,7 @@
       "region": "France/Alsace",
       "modern_name": "Strasbourg, France",
       "alchemical_significance": "Strasbourg belongs to the print and reform networks that helped Paracelsian medicine spread. Bruce Moran and Lawrence Principe emphasize that early modern chymistry moved through printers, physicians, religious controversy, and urban learned circles. The city matters because alchemical pharmacy and reform medicine became public arguments there, not merely secret workshop practice.",
-      "key_figures": [
-        "paracelsus"
-      ],
-      "key_periods": [
-        "EARLY_MODERN"
-      ]
+      "key_periods": "EARLY_MODERN"
     },
     {
       "slug": "cologne",
@@ -1882,12 +1939,7 @@
       "region": "Germany",
       "modern_name": "Cologne, Germany",
       "alchemical_significance": "Cologne is included through Henry Cornelius Agrippa and the Rhineland world of natural magic, theology, and learned controversy. Frances Yates, Brian Copenhaver, and Wouter Hanegraaff all treat Agrippa as important for understanding Renaissance occult philosophy, though modern scholarship is careful not to reduce alchemy to esotericism. The marker places alchemical ideas inside wider debates over magic and nature.",
-      "key_figures": [
-        "henry-cornelius-agrippa"
-      ],
-      "key_periods": [
-        "EARLY_MODERN"
-      ]
+      "key_periods": "EARLY_MODERN"
     },
     {
       "slug": "paris",
@@ -1897,12 +1949,7 @@
       "region": "France",
       "modern_name": "Paris, France",
       "alchemical_significance": "Paris marks a long-running university and publishing environment for natural philosophy, medicine, and later chemistry. Giordano Bruno lectured there, and eighteenth-century chemical teaching later gave older operations new academic form. Frances Yates, Lawrence Principe, and William Newman help frame Paris as a place where Hermetic, scholastic, and chemical vocabularies could overlap across centuries.",
-      "key_figures": [
-        "giordano-bruno"
-      ],
-      "key_periods": [
-        "EARLY_MODERN"
-      ]
+      "key_periods": "EARLY_MODERN"
     },
     {
       "slug": "london",
@@ -1912,12 +1959,7 @@
       "region": "England",
       "modern_name": "London, England",
       "alchemical_significance": "London represents English manuscript, print, courtly, and experimental circles. John Dee, Elias Ashmole, Robert Boyle, George Starkey, and the Royal Society all connect the city to alchemy's transformation into early modern chymistry. William Newman, Lawrence Principe, and Michael Hunter show that English chemistry inherited alchemical operations while increasingly changing the evidentiary rules around them.",
-      "key_figures": [
-        "giordano-bruno"
-      ],
-      "key_periods": [
-        "EARLY_MODERN"
-      ]
+      "key_periods": "EARLY_MODERN"
     },
     {
       "slug": "rome",
@@ -1927,12 +1969,7 @@
       "region": "Italy",
       "modern_name": "Rome, Italy",
       "alchemical_significance": "Rome marks the pressure point between learned natural philosophy, Hermetic speculation, censorship, and religious authority. Giordano Bruno's trial made the city central to later stories about Hermetism, though Frances Yates's older interpretation has been revised by Copenhaver and Hanegraaff. The marker is included for institutional conflict and reception, not as proof that alchemy was inherently anti-clerical.",
-      "key_figures": [
-        "giordano-bruno"
-      ],
-      "key_periods": [
-        "EARLY_MODERN"
-      ]
+      "key_periods": "EARLY_MODERN"
     },
     {
       "slug": "ven-island",
@@ -1942,12 +1979,7 @@
       "region": "Denmark/Sweden",
       "modern_name": "Ven, Denmark-Sweden",
       "alchemical_significance": "Ven Island, or Hven, is Tycho Brahe's laboratory and observatory site. Tycho's Uraniborg joined astronomy, medicine, patronage, and alchemical pharmacy in one courtly research environment. Lawrence Principe and Pamela Smith help frame such settings as early modern knowledge workshops where observation, instruments, recipes, and material practice belonged together. Hven should be read separately from Venice.",
-      "key_figures": [
-        "tycho-brahe"
-      ],
-      "key_periods": [
-        "EARLY_MODERN"
-      ]
+      "key_periods": "EARLY_MODERN"
     },
     {
       "slug": "prague",
@@ -1957,12 +1989,7 @@
       "region": "Bohemia",
       "modern_name": "Prague, Czech Republic",
       "alchemical_significance": "Prague represents Rudolf II's court, one of early modern Europe's most famous habitats for alchemists, instrument makers, collectors, physicians, and natural philosophers. Bruce Moran, Pamela Smith, and Lawrence Principe treat court patronage as central to chymical work. The marker highlights a courtly research culture in which alchemy, medicine, art, collecting, and imperial prestige were closely entangled.",
-      "key_figures": [
-        "michael-maier"
-      ],
-      "key_periods": [
-        "EARLY_MODERN"
-      ]
+      "key_periods": "EARLY_MODERN"
     },
     {
       "slug": "frankfurt",
@@ -1972,12 +1999,7 @@
       "region": "Germany",
       "modern_name": "Frankfurt, Germany",
       "alchemical_significance": "Frankfurt matters as a print-fair and publishing center. Michael Maier's Atalanta fugiens appeared there in 1618, joining emblem, music, poetry, and alchemical interpretation. Lawrence Principe and Wouter Hanegraaff help explain why printed alchemical books need to be read as learned artifacts rather than transparent laboratory manuals. The location emphasizes circulation and readership.",
-      "key_figures": [
-        "michael-maier"
-      ],
-      "key_periods": [
-        "EARLY_MODERN"
-      ]
+      "key_periods": "EARLY_MODERN"
     },
     {
       "slug": "toulouse",
@@ -1987,10 +2009,7 @@
       "region": "France",
       "modern_name": "Toulouse, France",
       "alchemical_significance": "Toulouse is included because of manuscript BnF Ms. Fr. 640, the technical recipe collection studied by Pamela Smith's Making and Knowing Project. The manuscript documents artisanal procedures for pigments, casting, medicine, and material transformation. The marker therefore grounds alchemy in hands-on craft knowledge, tacit skill, and recipe culture rather than in abstract esoteric doctrine alone.",
-      "key_figures": [],
-      "key_periods": [
-        "EARLY_MODERN"
-      ]
+      "key_periods": "EARLY_MODERN"
     },
     {
       "slug": "amsterdam",
@@ -2000,10 +2019,7 @@
       "region": "Low Countries",
       "modern_name": "Amsterdam, Netherlands",
       "alchemical_significance": "Amsterdam marks Dutch print, trade, collecting, and pharmacy networks in which alchemical books and instruments circulated. Lawrence Principe and Pamela Smith both stress that chymistry lived in commercial cities as well as courts and universities. The location is useful for the map because it connects maritime exchange, book markets, apothecaries, and the later Dutch medical teaching environment.",
-      "key_figures": [],
-      "key_periods": [
-        "EARLY_MODERN"
-      ]
+      "key_periods": "EARLY_MODERN"
     },
     {
       "slug": "antwerp",
@@ -2013,11 +2029,7 @@
       "region": "Low Countries",
       "modern_name": "Antwerp, Belgium",
       "alchemical_significance": "Antwerp represents Low Countries commerce, print, pigments, metals, and artisanal exchange. Pamela Smith's work on artisans and material knowledge helps explain why a mercantile city belongs on an alchemy map: practical knowledge moved with goods, tools, apprentices, books, and recipes. The marker highlights workshop and market networks rather than a single named adept.",
-      "key_figures": [],
-      "key_periods": [
-        "RENAISSANCE",
-        "EARLY_MODERN"
-      ]
+      "key_periods": "RENAISSANCE,EARLY_MODERN"
     },
     {
       "slug": "athens",
@@ -2027,11 +2039,7 @@
       "region": "Greece",
       "modern_name": "Athens, Greece",
       "alchemical_significance": "Athens appears as a philosophical memory site rather than a major laboratory center. Greek natural philosophy, especially Aristotelian theories of matter and change, gave later alchemists a vocabulary for elements, qualities, generation, and corruption. William Newman and Lawrence Principe both show that medieval and early modern alchemists reworked Greek philosophy while pursuing practical operations.",
-      "key_figures": [],
-      "key_periods": [
-        "ANTIQUITY",
-        "LATE_ANTIQUE"
-      ]
+      "key_periods": "ANTIQUITY,LATE_ANTIQUE"
     },
     {
       "slug": "bruges",
@@ -2041,11 +2049,7 @@
       "region": "Low Countries",
       "modern_name": "Bruges, Belgium",
       "alchemical_significance": "Bruges marks Low Countries craft, trade, manuscript, and workshop networks. Pamela Smith's artisanal epistemology is especially useful here, because it treats painters, metalworkers, apothecaries, and other practitioners as knowledge makers. The city helps the map show how alchemical techniques circulated through urban labor and commerce, not only through universities or princely courts.",
-      "key_figures": [],
-      "key_periods": [
-        "RENAISSANCE",
-        "EARLY_MODERN"
-      ]
+      "key_periods": "RENAISSANCE,EARLY_MODERN"
     },
     {
       "slug": "cambridge",
@@ -2055,12 +2059,7 @@
       "region": "England",
       "modern_name": "Cambridge, England",
       "alchemical_significance": "Cambridge is included for Isaac Newton and the English university setting of late seventeenth-century alchemy. William Newman, Lawrence Principe, and Betty Jo Teeter Dobbs showed that Newton's alchemical manuscripts were serious research materials, even though they did not validate transmutation. The marker connects academic natural philosophy with manuscript-based chymical investigation.",
-      "key_figures": [
-        "isaac-newton"
-      ],
-      "key_periods": [
-        "EARLY_MODERN"
-      ]
+      "key_periods": "EARLY_MODERN"
     },
     {
       "slug": "canterbury",
@@ -2070,10 +2069,7 @@
       "region": "England",
       "modern_name": "Canterbury, England",
       "alchemical_significance": "Canterbury represents the English ecclesiastical and manuscript world that preserved learned, medical, and practical texts. It also helps contextualize Geoffrey Chaucer's literary satire of alchemical fraud. Lawrence Principe's distinction between alchemical practice and later caricature is useful here: the location signals reception, copying, and critique, not a claim of successful gold-making.",
-      "key_figures": [],
-      "key_periods": [
-        "MEDIEVAL"
-      ]
+      "key_periods": "MEDIEVAL"
     },
     {
       "slug": "cluny",
@@ -2083,10 +2079,7 @@
       "region": "France",
       "modern_name": "Cluny, France",
       "alchemical_significance": "Cluny is a monastic manuscript node. Medieval monasteries preserved medical, cosmological, and practical texts that later readers could connect to alchemical operations. Michela Pereira and Lawrence Principe both stress that Latin alchemy developed through manuscript transmission and learned reading communities. The marker makes monastic copying visible as part of alchemy's infrastructure.",
-      "key_figures": [],
-      "key_periods": [
-        "MEDIEVAL"
-      ]
+      "key_periods": "MEDIEVAL"
     },
     {
       "slug": "constantinople",
@@ -2096,10 +2089,7 @@
       "region": "Byzantium",
       "modern_name": "Istanbul, Turkey",
       "alchemical_significance": "Constantinople marks Byzantine preservation and reworking of Greek alchemical materials. Zosimos and later Greek alchemical texts survived through manuscript traditions that passed through Byzantine scholarly culture. Garth Fowden, Lawrence Principe, and historians of Greek alchemy treat this transmission as essential for understanding how late antique materials reached Arabic and Latin readers.",
-      "key_figures": [],
-      "key_periods": [
-        "MEDIEVAL"
-      ]
+      "key_periods": "MEDIEVAL"
     },
     {
       "slug": "fulda",
@@ -2109,10 +2099,7 @@
       "region": "Germany",
       "modern_name": "Fulda, Germany",
       "alchemical_significance": "Fulda is included as a Carolingian and medieval monastic center. Its importance for this project is infrastructural: scriptoria, libraries, medicine, computus, and natural philosophy helped maintain the textual habits through which practical knowledge survived. Michela Pereira's attention to manuscript transmission supports reading such places as part of alchemy's learned ecology.",
-      "key_figures": [],
-      "key_periods": [
-        "MEDIEVAL"
-      ]
+      "key_periods": "MEDIEVAL"
     },
     {
       "slug": "lisbon",
@@ -2122,10 +2109,7 @@
       "region": "Iberia",
       "modern_name": "Lisbon, Portugal",
       "alchemical_significance": "Lisbon represents Iberian maritime exchange, pharmacy, minerals, and Atlantic commerce. Pamela Smith's material culture approach helps place ports on the alchemical map because substances, instruments, dyestuffs, drugs, and recipes moved through trade. The marker does not claim a unified Lisbon school; it marks a commercial environment where chemical materials and information circulated.",
-      "key_figures": [],
-      "key_periods": [
-        "EARLY_MODERN"
-      ]
+      "key_periods": "EARLY_MODERN"
     },
     {
       "slug": "madrid",
@@ -2135,10 +2119,7 @@
       "region": "Iberia",
       "modern_name": "Madrid, Spain",
       "alchemical_significance": "Madrid is included for courtly and institutional patronage in early modern Iberia. Courts shaped what kinds of medicine, mining, assaying, and natural philosophy received support. Bruce Moran's work on princely laboratories and Pamela Smith's work on courtly craft knowledge help frame Madrid as a site of patronage and administration rather than an isolated laboratory.",
-      "key_figures": [],
-      "key_periods": [
-        "EARLY_MODERN"
-      ]
+      "key_periods": "EARLY_MODERN"
     },
     {
       "slug": "monte-cassino",
@@ -2148,10 +2129,7 @@
       "region": "Italy",
       "modern_name": "Cassino, Italy",
       "alchemical_significance": "Monte Cassino represents Benedictine manuscript culture and the preservation of medical and natural-philosophical learning. It belongs on the map because alchemy's later Latin forms depended on libraries, copying, and learned medicine as much as on workshop practice. Michela Pereira and Lawrence Principe both make manuscript transmission central to the history of medieval alchemy.",
-      "key_figures": [],
-      "key_periods": [
-        "MEDIEVAL"
-      ]
+      "key_periods": "MEDIEVAL"
     },
     {
       "slug": "salerno",
@@ -2161,10 +2139,7 @@
       "region": "Italy",
       "modern_name": "Salerno, Italy",
       "alchemical_significance": "Salerno marks the medical school environment that made pharmacy, regimen, distillation, and materia medica central to Latin practical learning. Lawrence Principe and Michela Pereira help explain why medicine gave alchemical operations legitimacy: distillation and extraction could be defended as healing practices even when transmutation claims remained contested.",
-      "key_figures": [],
-      "key_periods": [
-        "MEDIEVAL"
-      ]
+      "key_periods": "MEDIEVAL"
     },
     {
       "slug": "panopolis",
@@ -2174,12 +2149,7 @@
       "region": "Egypt",
       "modern_name": "Akhmim, Egypt",
       "alchemical_significance": "Panopolis, modern Akhmim, is tied to Zosimos, one of the earliest major witnesses to alchemical writing. Garth Fowden and Lawrence Principe treat Zosimos as evidence for a late antique Egyptian world where craft operations, Greek philosophy, and religious interpretation met. The marker identifies an authorial and regional association, not a precisely located excavated laboratory.",
-      "key_figures": [
-        "zosimos-of-panopolis"
-      ],
-      "key_periods": [
-        "LATE_ANTIQUE"
-      ]
+      "key_periods": "LATE_ANTIQUE"
     },
     {
       "slug": "harran",
@@ -2189,13 +2159,7 @@
       "region": "Syria/Mesopotamia",
       "modern_name": "Harran, Turkey",
       "alchemical_significance": "Harran is a transmission marker for astral religion, Greek learning, and Arabic Hermetic materials. Garth Fowden and Brian Copenhaver help frame Harranian traditions as part of the learned environment in which Hermetic natural philosophy was reinterpreted. The location matters because alchemical texts often traveled with astrology, medicine, and cosmology.",
-      "key_figures": [
-        "hermes-trismegistus"
-      ],
-      "key_periods": [
-        "LATE_ANTIQUE",
-        "MEDIEVAL"
-      ]
+      "key_periods": "LATE_ANTIQUE,MEDIEVAL"
     },
     {
       "slug": "kufa",
@@ -2205,12 +2169,7 @@
       "region": "Iraq",
       "modern_name": "Kufa, Iraq",
       "alchemical_significance": "Kufa is tied to the later biographical tradition around Jabir ibn Hayyan. Paul Kraus famously treated the Jabirian corpus as layered and pseudonymous, while William Newman and Lawrence Principe still emphasize its importance for alchemy's technical vocabulary. The marker keeps both points in view: Kufa is significant for attribution and reception, not simple authorship certainty.",
-      "key_figures": [
-        "jabir-ibn-hayyan"
-      ],
-      "key_periods": [
-        "MEDIEVAL"
-      ]
+      "key_periods": "MEDIEVAL"
     },
     {
       "slug": "basra",
@@ -2220,10 +2179,7 @@
       "region": "Iraq",
       "modern_name": "Basra, Iraq",
       "alchemical_significance": "Basra marks Abbasid intellectual culture, encyclopedic writing, medicine, and natural philosophy. George Saliba and Roshdi Rashed situate Basra within the wider scientific networks of the Islamic world. For this map, Basra helps show that alchemical knowledge was embedded in broader debates about minerals, bodies, cosmology, and classification.",
-      "key_figures": [],
-      "key_periods": [
-        "MEDIEVAL"
-      ]
+      "key_periods": "MEDIEVAL"
     },
     {
       "slug": "maragha",
@@ -2233,10 +2189,7 @@
       "region": "Persia",
       "modern_name": "Maragheh, Iran",
       "alchemical_significance": "Maragha is best known for astronomy, but it is useful here as a Persianate scientific center where patronage, instruments, manuscripts, and natural philosophy converged. George Saliba and Roshdi Rashed emphasize the sophistication of such Islamic scientific networks. The marker broadens the map beyond alchemy narrowly defined to the learned settings that sustained technical inquiry.",
-      "key_figures": [],
-      "key_periods": [
-        "MEDIEVAL"
-      ]
+      "key_periods": "MEDIEVAL"
     },
     {
       "slug": "fez",
@@ -2246,10 +2199,7 @@
       "region": "Maghreb",
       "modern_name": "Fez, Morocco",
       "alchemical_significance": "Fez represents the Maghrebi side of western Islamic scholarship, craft, medicine, and manuscript circulation. Michela Pereira and Lawrence Principe both make clear that Latin alchemy drew on materials moving through Iberian and western Islamic routes. The marker gives visibility to North African contexts that are often flattened into the phrase Arabic transmission.",
-      "key_figures": [],
-      "key_periods": [
-        "MEDIEVAL"
-      ]
+      "key_periods": "MEDIEVAL"
     },
     {
       "slug": "granada",
@@ -2259,10 +2209,7 @@
       "region": "Spain",
       "modern_name": "Granada, Spain",
       "alchemical_significance": "Granada marks the Nasrid and late medieval Andalusi environment of medicine, craft, and Arabic learned culture. Charles Burnett and George Saliba help frame al-Andalus as a key bridge between Arabic and Latin traditions. For the map, Granada shows that transmission was regional and multilingual, involving courts, artisans, physicians, and manuscript owners.",
-      "key_figures": [],
-      "key_periods": [
-        "MEDIEVAL"
-      ]
+      "key_periods": "MEDIEVAL"
     },
     {
       "slug": "seville",
@@ -2272,11 +2219,7 @@
       "region": "Spain",
       "modern_name": "Seville, Spain",
       "alchemical_significance": "Seville represents Iberian commerce, manuscript circulation, pharmacy, and later Atlantic exchange. Pamela Smith and Lawrence Principe help frame ports as sites where substances and recipes moved with people and goods. The marker is included to show how alchemical practice depended on trade in metals, minerals, drugs, pigments, and books.",
-      "key_figures": [],
-      "key_periods": [
-        "MEDIEVAL",
-        "EARLY_MODERN"
-      ]
+      "key_periods": "MEDIEVAL,EARLY_MODERN"
     },
     {
       "slug": "valencia",
@@ -2286,14 +2229,7 @@
       "region": "Spain",
       "modern_name": "Valencia, Spain",
       "alchemical_significance": "Valencia is tied to western Mediterranean medicine, pharmacy, and Lullian reception. Michela Pereira's study of the alchemical corpus attributed to Raymond Lull is the key scholarly anchor here, because it separates Lull's historical writings from later pseudo-Lullian authority. The marker highlights a region where medical and alchemical identities overlapped.",
-      "key_figures": [
-        "raymond-lull",
-        "arnaud-de-villanova"
-      ],
-      "key_periods": [
-        "MEDIEVAL",
-        "RENAISSANCE"
-      ]
+      "key_periods": "MEDIEVAL,RENAISSANCE"
     },
     {
       "slug": "barcelona",
@@ -2303,14 +2239,7 @@
       "region": "Catalonia",
       "modern_name": "Barcelona, Spain",
       "alchemical_significance": "Barcelona marks Catalan maritime, medical, and manuscript networks tied to Raymond Lull and Arnald of Villanova. Michela Pereira's scholarship on Lullian alchemy and broader work on medieval medical alchemy make Catalonia important for understanding how authority, attribution, and practical recipes traveled around the western Mediterranean.",
-      "key_figures": [
-        "raymond-lull",
-        "arnaud-de-villanova"
-      ],
-      "key_periods": [
-        "MEDIEVAL",
-        "RENAISSANCE"
-      ]
+      "key_periods": "MEDIEVAL,RENAISSANCE"
     },
     {
       "slug": "palma-mallorca",
@@ -2320,12 +2249,7 @@
       "region": "Catalonia",
       "modern_name": "Palma, Mallorca, Spain",
       "alchemical_significance": "Palma, Mallorca, is included because Raymond Lull's biography and later Lullian authority were rooted in the island. Michela Pereira shows that much alchemy attributed to Lull is later pseudo-Lullian writing, but that distinction makes Mallorca more interesting, not less: the place anchors the gap between historical actor and later textual tradition.",
-      "key_figures": [
-        "raymond-lull"
-      ],
-      "key_periods": [
-        "MEDIEVAL"
-      ]
+      "key_periods": "MEDIEVAL"
     },
     {
       "slug": "naples",
@@ -2335,11 +2259,7 @@
       "region": "Italy",
       "modern_name": "Naples, Italy",
       "alchemical_significance": "Naples marks Renaissance natural magic, medicine, court culture, and experimental curiosity. Frances Yates made southern Italian natural magic important for her Renaissance narrative, while Brian Copenhaver and later scholars refined the category. The marker places alchemy near optics, medicine, secrets literature, and courtly experimentation without treating all of them as the same practice.",
-      "key_figures": [],
-      "key_periods": [
-        "RENAISSANCE",
-        "EARLY_MODERN"
-      ]
+      "key_periods": "RENAISSANCE,EARLY_MODERN"
     },
     {
       "slug": "padua",
@@ -2349,11 +2269,7 @@
       "region": "Italy",
       "modern_name": "Padua, Italy",
       "alchemical_significance": "Padua is a university center for medicine, Aristotelian natural philosophy, anatomy, and learned debate. William Newman and Lawrence Principe show that alchemical claims were often argued through scholastic and medical categories, not only through craft recipes. The marker helps connect laboratory operations to university habits of explanation and dispute.",
-      "key_figures": [],
-      "key_periods": [
-        "RENAISSANCE",
-        "EARLY_MODERN"
-      ]
+      "key_periods": "RENAISSANCE,EARLY_MODERN"
     },
     {
       "slug": "venice",
@@ -2363,11 +2279,7 @@
       "region": "Italy",
       "modern_name": "Venice, Italy",
       "alchemical_significance": "Venice is a major print, glass, pigment, and trade center. Pamela Smith's material culture approach and William Newman's work on chymistry both make Venice valuable for understanding how books, glassware, colors, minerals, and commercial exchange shaped practical chemical knowledge. This marker is distinct from Hven, Tycho Brahe's island laboratory.",
-      "key_figures": [],
-      "key_periods": [
-        "RENAISSANCE",
-        "EARLY_MODERN"
-      ]
+      "key_periods": "RENAISSANCE,EARLY_MODERN"
     },
     {
       "slug": "nuremberg",
@@ -2377,11 +2289,7 @@
       "region": "Germany",
       "modern_name": "Nuremberg, Germany",
       "alchemical_significance": "Nuremberg represents German craft, print, instrument making, and metalwork. Pamela Smith's work on artisans helps frame such cities as knowledge centers, while Georg Agricola's metallurgical world shows how mining and assaying informed chemical practice. The marker foregrounds workshops, tools, and books as shared infrastructure for alchemical knowledge.",
-      "key_figures": [],
-      "key_periods": [
-        "RENAISSANCE",
-        "EARLY_MODERN"
-      ]
+      "key_periods": "RENAISSANCE,EARLY_MODERN"
     },
     {
       "slug": "freiberg-saxony",
@@ -2391,13 +2299,7 @@
       "region": "Germany/Saxony",
       "modern_name": "Freiberg, Germany",
       "alchemical_significance": "Freiberg marks the Saxon mining world associated with Georg Agricola. His De re metallica is a primary source for metallurgy, mining, and assaying, and historians such as Pamela Smith and William Newman treat those practices as crucial to early modern chymistry. The location grounds alchemy in ore, furnaces, labor, and technical observation.",
-      "key_figures": [
-        "george-agricola"
-      ],
-      "key_periods": [
-        "RENAISSANCE",
-        "EARLY_MODERN"
-      ]
+      "key_periods": "RENAISSANCE,EARLY_MODERN"
     },
     {
       "slug": "wittenberg",
@@ -2407,12 +2309,7 @@
       "region": "Germany/Saxony",
       "modern_name": "Wittenberg, Germany",
       "alchemical_significance": "Wittenberg marks Reformation university culture and the northern European debate over medicine, nature, and Paracelsian reform. Bruce Moran and Lawrence Principe show that chymistry developed through confessional, medical, and academic controversy. The marker helps explain how alchemical operations became part of arguments over authority and reform.",
-      "key_figures": [
-        "paracelsus"
-      ],
-      "key_periods": [
-        "EARLY_MODERN"
-      ]
+      "key_periods": "EARLY_MODERN"
     },
     {
       "slug": "kassel",
@@ -2422,10 +2319,7 @@
       "region": "Germany",
       "modern_name": "Kassel, Germany",
       "alchemical_significance": "Kassel is central for courtly laboratory culture under Landgrave Moritz of Hesse-Kassel. Bruce Moran's work on the Hessian court shows how patronage, instruments, medicine, and chymical experiment could be organized institutionally. The marker is included because court laboratories were practical workplaces as well as displays of princely knowledge.",
-      "key_figures": [],
-      "key_periods": [
-        "EARLY_MODERN"
-      ]
+      "key_periods": "EARLY_MODERN"
     },
     {
       "slug": "leiden",
@@ -2435,10 +2329,7 @@
       "region": "Netherlands",
       "modern_name": "Leiden, Netherlands",
       "alchemical_significance": "Leiden marks the Dutch university medical setting in which chymistry became increasingly teachable as academic chemistry. Lawrence Principe's account of the shift from alchemy to chemistry helps frame Leiden as a transformation site: older operations such as distillation and precipitation were retained while theoretical language and standards of evidence changed.",
-      "key_figures": [],
-      "key_periods": [
-        "EARLY_MODERN"
-      ]
+      "key_periods": "EARLY_MODERN"
     },
     {
       "slug": "krakow",
@@ -2448,12 +2339,7 @@
       "region": "Poland",
       "modern_name": "Krakow, Poland",
       "alchemical_significance": "Krakow is tied to Michael Sendivogius and the central European circulation of alchemical ideas about nitre, air, and combustion. Lawrence Principe treats Sendivogius as a serious early modern chymical author rather than a mere legend. The marker connects Polish learned culture, courtly networks, and the international movement of alchemical manuscripts and print.",
-      "key_figures": [
-        "michael-sendivogius"
-      ],
-      "key_periods": [
-        "EARLY_MODERN"
-      ]
+      "key_periods": "EARLY_MODERN"
     },
     {
       "slug": "uppsala",
@@ -2463,11 +2349,7 @@
       "region": "Sweden",
       "modern_name": "Uppsala, Sweden",
       "alchemical_significance": "Uppsala marks the northern European university context for the later academic chemistry that inherited alchemical operations. Lawrence Principe emphasizes continuity as well as change between chymistry and chemistry, and Uppsala helps show that the map's story extends into teaching, classification, and institutional science after classic transmutation claims weakened.",
-      "key_figures": [],
-      "key_periods": [
-        "EARLY_MODERN",
-        "MODERN"
-      ]
+      "key_periods": "EARLY_MODERN,MODERN"
     },
     {
       "slug": "copenhagen",
@@ -2477,13 +2359,7 @@
       "region": "Denmark",
       "modern_name": "Copenhagen, Denmark",
       "alchemical_significance": "Copenhagen represents the Danish court and university setting connected to Tycho Brahe, medical humanism, collecting, and laboratory culture. Pamela Smith and Lawrence Principe help frame such northern courts as environments where instruments, recipes, patronage, and natural philosophy could interact. The marker complements Hven by showing the broader Danish institutional setting.",
-      "key_figures": [
-        "tycho-brahe"
-      ],
-      "key_periods": [
-        "RENAISSANCE",
-        "EARLY_MODERN"
-      ]
+      "key_periods": "RENAISSANCE,EARLY_MODERN"
     }
   ],
   "events": [
@@ -3629,7 +3505,7 @@
       "date_label": "c. 712 CE",
       "date_start_year": 702,
       "date_end_year": 722,
-      "location_slug": "rayy",
+      "location_slug": "ray",
       "description": "c. 712 CE, Rayy: The physician and alchemist <a href=\"../persons/al-razi.html\">Al-Razi (Rhazes)</a> establishes his medical and alchemical laboratory in Rayy (Rhages), then a major intellectual center of the Persian plateau. Al-Razi pioneers systematic experimentation with <a href=\"../concepts/distillation.html\">Distillation</a> and <a href=\"../concepts/sublimation.html\">Sublimation</a> to isolate and test mineral essences, refining earlier techniques through quantitative observation. His rigorous approach to <a href=\"../concepts/calcination.html\">Calcination</a> of mineral compounds marks a shift toward empirically grounded chemistry. Al-Razi's work demonstrates that alchemical operations yield reproducible, measurable results, earning him renown across the Islamic world and eventually reaching medieval European scholars.",
       "persons_involved": "[\"al-razi\"]",
       "texts_involved": "[]",
@@ -3661,7 +3537,7 @@
       "date_label": "c. 736 CE",
       "date_start_year": 726,
       "date_end_year": 746,
-      "location_slug": "rayy",
+      "location_slug": "ray",
       "description": "c. 736 CE, Rayy: The <a href=\"../texts/kitab-al-hasib.html\">Kitāb al-Ḥāsib</a>, attributed to <a href=\"../persons/jabir-ibn-hayyan.html\">Jabir ibn Hayyan</a>, circulates in Rayy and among Persian natural philosophers exploring operative chemistry. This foundational text systematizes techniques of <a href=\"../concepts/distillation.html\">Distillation</a>, <a href=\"../concepts/sublimation.html\">Sublimation</a>, and <a href=\"../concepts/calcination.html\">Calcination</a>, presenting them as reproducible procedures grounded in rational investigation. The <i>Kitāb al-Ḥāsib</i> becomes the standard reference for alchemists across Persia and Baghdad, establishing Jabir as the preeminent authority on chemical operations. Its circulation marks the transition of alchemy from oral tradition to canonized textual knowledge.",
       "persons_involved": "[\"roger-bacon\"]",
       "texts_involved": "[\"kitab-al-hasib\"]",
@@ -3693,7 +3569,7 @@
       "date_label": "c. 760 CE",
       "date_start_year": 750,
       "date_end_year": 770,
-      "location_slug": "rayy",
+      "location_slug": "ray",
       "description": "c. 760 CE, Rayy: <a href=\"../persons/jabir-ibn-hayyan.html\">Jabir ibn Hayyan</a> consolidates his mature theory of alchemical practice, emphasizing the philosophical and operational unity of <a href=\"../concepts/distillation.html\">Distillation</a>, <a href=\"../concepts/sublimation.html\">Sublimation</a>, and <a href=\"../concepts/calcination.html\">Calcination</a>. His treatises, composed or compiled in Rayy and Baghdad, present alchemy as a legitimate natural science grounded in observable transformation of matter. Jabir's insistence on the reproducibility of operations and the necessity of precise proportions establishes chemistry as a discipline requiring both theoretical knowledge and manual skill. His work becomes the authoritative reference across the Islamic world for three centuries.",
       "persons_involved": "[\"jabir-ibn-hayyan\"]",
       "texts_involved": "[]",
@@ -3725,7 +3601,7 @@
       "date_label": "c. 784 CE",
       "date_start_year": 774,
       "date_end_year": 794,
-      "location_slug": "rayy",
+      "location_slug": "ray",
       "description": "c. 784 CE, Rayy: The philosopher <a href=\"../persons/al-kindi.html\">Al-Kindi (al-Kindy)</a> continues his critical examination of alchemical claims, particularly challenging the theoretical basis of transmutational ambitions while acknowledging the genuine achievements of operative chemistry. Al-Kindi's rational critique of <a href=\"../concepts/distillation.html\">Distillation</a>, <a href=\"../concepts/sublimation.html\">Sublimation</a>, and <a href=\"../concepts/calcination.html\">Calcination</a> investigations serves to refine alchemical methodology by demanding empirical and logical rigor. His skepticism regarding transmutation of base metals into gold paradoxically strengthens alchemy by compelling practitioners to justify their techniques through reproducible experiment and careful observation.",
       "persons_involved": "[\"al-kindi\"]",
       "texts_involved": "[]",
@@ -3757,7 +3633,7 @@
       "date_label": "c. 808 CE",
       "date_start_year": 798,
       "date_end_year": 818,
-      "location_slug": "rayy",
+      "location_slug": "ray",
       "description": "c. 808 CE, Rayy: The translator <a href=\"../persons/gerard-of-cremona.html\">Gerard of Cremona</a> symbolizes the future bridge between Islamic and Latin scholarship. In Rayy, alchemical knowledge reaches its zenith, with <a href=\"../persons/al-razi.html\">Al-Razi (Rhazes)</a> actively investigating the <a href=\"../texts/emerald-tablet.html\">Emerald Tablet (Tabula Smaragdina)</a>, a text encoding ancient Hermetic wisdom in alchemical language. The techniques of <a href=\"../concepts/distillation.html\">Distillation</a>, <a href=\"../concepts/sublimation.html\">Sublimation</a>, and <a href=\"../concepts/calcination.html\">Calcination</a>, now systematized and refined across Persian centers, will require translation into Latin and European vernaculars. Gerard's eventual role in transmitting Arabic learning signals the continuity of Islamic alchemy into medieval European scholarship.",
       "persons_involved": "[\"gerard-of-cremona\"]",
       "texts_involved": "[\"emerald-tablet\"]",
@@ -3789,7 +3665,7 @@
       "date_label": "c. 832 CE",
       "date_start_year": 822,
       "date_end_year": 842,
-      "location_slug": "rayy",
+      "location_slug": "ray",
       "description": "c. 832 CE, Rayy: The alchemist <a href=\"../persons/al-razi.html\">Al-Razi (Rhazes)</a> continues his experimental investigations into the nature of matter and the limits of transmutation. In Rayy, al-Razi's sophisticated laboratory practice refines the techniques of <a href=\"../concepts/distillation.html\">Distillation</a>, <a href=\"../concepts/sublimation.html\">Sublimation</a>, and <a href=\"../concepts/calcination.html\">Calcination</a>, establishing standards for chemical purity and measurement. His empirical rigor and willingness to challenge inherited assumptions transform alchemy from a collection of craft secrets into a systematic natural philosophy. Al-Razi's influence extends across the Islamic world and eventually reaches medieval Europe through translated excerpts and paraphrases.",
       "persons_involved": "[\"al-razi\"]",
       "texts_involved": "[]",
@@ -3821,7 +3697,7 @@
       "date_label": "c. 856 CE",
       "date_start_year": 846,
       "date_end_year": 866,
-      "location_slug": "rayy",
+      "location_slug": "ray",
       "description": "c. 856 CE, Rayy: The scholar <a href=\"../persons/roger-bacon.html\">Roger Bacon</a>, though born centuries later, inherits the entire intellectual tradition of Islamic alchemy centered in Rayy and Baghdad. By this date, the systematic treatises of <a href=\"../persons/jabir-ibn-hayyan.html\">Jabir ibn Hayyan</a> and <a href=\"../persons/al-razi.html\">Al-Razi (Rhazes)</a> on <a href=\"../concepts/distillation.html\">Distillation</a>, <a href=\"../concepts/sublimation.html\">Sublimation</a>, and <a href=\"../concepts/calcination.html\">Calcination</a> have achieved canonical status, copied and studied across the Islamic world. The methodological rigor established in Rayy becomes the foundation upon which Roger Bacon will build his own alchemical philosophy and experimental program in medieval Oxford.",
       "persons_involved": "[\"roger-bacon\"]",
       "texts_involved": "[]",
@@ -3853,7 +3729,7 @@
       "date_label": "c. 880 CE",
       "date_start_year": 870,
       "date_end_year": 890,
-      "location_slug": "rayy",
+      "location_slug": "ray",
       "description": "c. 880 CE, Rayy: The <a href=\"../texts/ms-fr-640.html\">Ms. Fr. 640 (Anonymous Technical Manuscript)</a>, an anonymous technical manuscript, represents the continued development of alchemical practice in Rayy, building upon the foundations established by <a href=\"../persons/jabir-ibn-hayyan.html\">Jabir ibn Hayyan</a> and <a href=\"../persons/al-razi.html\">Al-Razi (Rhazes)</a>. This manuscript documents advanced techniques of <a href=\"../concepts/distillation.html\">Distillation</a>, <a href=\"../concepts/sublimation.html\">Sublimation</a>, and <a href=\"../concepts/calcination.html\">Calcination</a> refined through generations of experimental practice. The methodological precision and theoretical sophistication evident in such texts demonstrate the maturity of Islamic chemistry by the ninth century. Such documents will eventually circulate in Europe, influencing alchemists and natural philosophers.",
       "persons_involved": "[\"jabir-ibn-hayyan\"]",
       "texts_involved": "[\"ms-fr-640\"]",
@@ -3885,7 +3761,7 @@
       "date_label": "c. 904 CE",
       "date_start_year": 894,
       "date_end_year": 914,
-      "location_slug": "rayy",
+      "location_slug": "ray",
       "description": "c. 904 CE, Rayy: The philosopher <a href=\"../persons/al-kindi.html\">Al-Kindi (al-Kindy)</a>, though deceased by this date, exerts posthumous influence on Rayy's intellectual culture through his preserved writings on natural philosophy and alchemy. Al-Kindi's critical framework for evaluating alchemical claims—demanding both rational coherence and empirical evidence—becomes institutionalized in advanced studies at Rayy. His skepticism regarding transmutation, coupled with his acknowledgment of the validity of <a href=\"../concepts/distillation.html\">Distillation</a>, <a href=\"../concepts/sublimation.html\">Sublimation</a>, and <a href=\"../concepts/calcination.html\">Calcination</a>, establishes a model for distinguishing legitimate chemical practice from speculative metaphysics.",
       "persons_involved": "[\"al-kindi\"]",
       "texts_involved": "[]",
@@ -3917,7 +3793,7 @@
       "date_label": "c. 928 CE",
       "date_start_year": 918,
       "date_end_year": 938,
-      "location_slug": "rayy",
+      "location_slug": "ray",
       "description": "c. 928 CE, Rayy: The translator <a href=\"../persons/gerard-of-cremona.html\">Gerard of Cremona</a> represents the future institutional role of translation in transmitting Islamic knowledge to the Latin West. Though Gerard's actual work occurs centuries later in Toledo, by this date the alchemical texts of <a href=\"../persons/jabir-ibn-hayyan.html\">Jabir ibn Hayyan</a> and <a href=\"../persons/al-razi.html\">Al-Razi (Rhazes)</a> have reached a level of textual stability and circulation that makes them worthy of translation. The sophisticated treatments of <a href=\"../concepts/distillation.html\">Distillation</a>, <a href=\"../concepts/sublimation.html\">Sublimation</a>, and <a href=\"../concepts/calcination.html\">Calcination</a> in Rayy's alchemical schools constitute the precise material that translation networks will eventually convey to European universities.",
       "persons_involved": "[\"gerard-of-cremona\"]",
       "texts_involved": "[]",
@@ -3949,7 +3825,7 @@
       "date_label": "c. 952 CE",
       "date_start_year": 942,
       "date_end_year": 962,
-      "location_slug": "rayy",
+      "location_slug": "ray",
       "description": "c. 952 CE, Rayy: The <a href=\"../texts/liber-xxiv-philosophorum.html\">Liber XXIV Philosophorum (Book of Twenty-Four Philosophers)</a>, a comprehensive philosophical text incorporating alchemical teachings, circulates among Rayy's intellectual elite. This work synthesizes the achievements of earlier alchemists including <a href=\"../persons/jabir-ibn-hayyan.html\">Jabir ibn Hayyan</a> and <a href=\"../persons/al-razi.html\">Al-Razi (Rhazes)</a>, presenting <a href=\"../concepts/distillation.html\">Distillation</a>, <a href=\"../concepts/sublimation.html\">Sublimation</a>, and <a href=\"../concepts/calcination.html\">Calcination</a> within a broader cosmological framework. The <i>Liber XXIV Philosophorum</i> represents the maturation of Islamic alchemy into a sophisticated natural philosophy integrated with metaphysics. Its eventual circulation in medieval Europe will influence alchemists' understanding of the cosmic significance of chemical operations.",
       "persons_involved": "[]",
       "texts_involved": "[\"liber-xxiv-philosophorum\"]",
@@ -3981,7 +3857,7 @@
       "date_label": "c. 976 CE",
       "date_start_year": 966,
       "date_end_year": 986,
-      "location_slug": "rayy",
+      "location_slug": "ray",
       "description": "c. 976 CE, Rayy: The continuation of operative chemistry in Rayy reflects the deep entrenchment of alchemical practice in Islamic natural philosophy. Practitioners refine and document techniques of <a href=\"../concepts/distillation.html\">Distillation</a>, <a href=\"../concepts/sublimation.html\">Sublimation</a>, and <a href=\"../concepts/calcination.html\">Calcination</a> grounded in the methodologies established by earlier masters. Rayy's alchemical schools maintain laboratories equipped with sophisticated apparatus for these operations. The standardization and codification of procedure evident in Rayy's alchemical culture constitute a level of technical sophistication that medieval European alchemists will gradually assimilate through translation and scholarly exchange.",
       "persons_involved": "[]",
       "texts_involved": "[]",
@@ -4013,7 +3889,7 @@
       "date_label": "c. 1000 CE",
       "date_start_year": 990,
       "date_end_year": 1010,
-      "location_slug": "rayy",
+      "location_slug": "ray",
       "description": "c. 1000 CE, Rayy: The continuation of systematic alchemical practice in Rayy at the millennium demonstrates the institutionalization of Islamic chemistry. Practitioners and philosophers maintain the traditions of <a href=\"../concepts/distillation.html\">Distillation</a>, <a href=\"../concepts/sublimation.html\">Sublimation</a>, and <a href=\"../concepts/calcination.html\">Calcination</a>, refining apparatus and refining theoretical understanding. Rayy's role as a major center of alchemical learning persists despite broader political changes in the Islamic world. The preservation of alchemical texts and the continuity of experimental practice ensure that the knowledge accumulated over three centuries remains accessible to future scholars, including eventual medieval European translators.",
       "persons_involved": "[]",
       "texts_involved": "[]",
@@ -4045,7 +3921,7 @@
       "date_label": "c. 1024 CE",
       "date_start_year": 1014,
       "date_end_year": 1034,
-      "location_slug": "rayy",
+      "location_slug": "ray",
       "description": "c. 1024 CE, Rayy: The <a href=\"../texts/kitab-al-hasib.html\">Kitāb al-Ḥāsib</a>, Jabir ibn Hayyan's foundational treatise, continues to serve as the authoritative reference for alchemical practice in Rayy. This text's systematic presentation of <a href=\"../concepts/distillation.html\">Distillation</a>, <a href=\"../concepts/sublimation.html\">Sublimation</a>, and <a href=\"../concepts/calcination.html\">Calcination</a> remains without peer in the Islamic world. Rayy's scholars and practitioners study the <i>Kitāb al-Ḥāsib</i> intensively, building upon its methodology to advance their own experimental investigations. The continued circulation and active engagement with this foundational text ensures the preservation and refinement of operative chemistry through the eleventh century.",
       "persons_involved": "[]",
       "texts_involved": "[\"kitab-al-hasib\"]",
@@ -4077,7 +3953,7 @@
       "date_label": "c. 1048 CE",
       "date_start_year": 1038,
       "date_end_year": 1058,
-      "location_slug": "rayy",
+      "location_slug": "ray",
       "description": "c. 1048 CE, Rayy: The continuation of alchemical learning in Rayy during the eleventh century reflects the discipline's institutional maturity. Practitioners maintain the legacy of <a href=\"../persons/al-razi.html\">Al-Razi (Rhazes)</a> and <a href=\"../persons/jabir-ibn-hayyan.html\">Jabir ibn Hayyan</a>, investigating the fundamental principles governing matter transformation through <a href=\"../concepts/distillation.html\">Distillation</a>, <a href=\"../concepts/sublimation.html\">Sublimation</a>, and <a href=\"../concepts/calcination.html\">Calcination</a>. Rayy's alchemical schools possess comprehensive knowledge of apparatus design, material purification, and operational precision. This accumulated expertise constitutes the highest level of chemical knowledge in the medieval world.",
       "persons_involved": "[]",
       "texts_involved": "[]",
@@ -4109,7 +3985,7 @@
       "date_label": "c. 1072 CE",
       "date_start_year": 1062,
       "date_end_year": 1082,
-      "location_slug": "rayy",
+      "location_slug": "ray",
       "description": "c. 1072 CE, Rayy: The sophisticated state of alchemical practice in Rayy during the late eleventh century demonstrates the continuation and refinement of traditions established in earlier centuries. Practitioners maintain detailed knowledge of <a href=\"../concepts/distillation.html\">Distillation</a>, <a href=\"../concepts/sublimation.html\">Sublimation</a>, and <a href=\"../concepts/calcination.html\">Calcination</a> techniques, supported by well-equipped laboratories and comprehensive theoretical understanding. Rayy's alchemical community represents the pinnacle of Islamic chemistry, with expertise in apparatus construction, material processing, and theoretical sophistication far exceeding contemporary European knowledge.",
       "persons_involved": "[]",
       "texts_involved": "[]",
@@ -4141,7 +4017,7 @@
       "date_label": "c. 1096 CE",
       "date_start_year": 1086,
       "date_end_year": 1106,
-      "location_slug": "rayy",
+      "location_slug": "ray",
       "description": "c. 1096 CE, Rayy: The <a href=\"../texts/emerald-tablet.html\">Emerald Tablet (Tabula Smaragdina)</a>, an ancient Hermetic text reinterpreted within Islamic alchemical frameworks, continues to guide Rayy's investigation of material transformation. This enigmatic text encodes the principles governing <a href=\"../concepts/distillation.html\">Distillation</a>, <a href=\"../concepts/sublimation.html\">Sublimation</a>, and <a href=\"../concepts/calcination.html\">Calcination</a>, which Rayy's alchemists interpret as operations expressing cosmic law. The <i>Tabula Smaragdina</i>'s influence demonstrates how Islamic alchemy synthesizes practical operative knowledge with cosmic philosophy. The continued circulation of this text in Rayy ensures the preservation of alchemical theory linking laboratory practice to universal principles.",
       "persons_involved": "[]",
       "texts_involved": "[\"emerald-tablet\"]",
@@ -4173,7 +4049,7 @@
       "date_label": "c. 1120 CE",
       "date_start_year": 1110,
       "date_end_year": 1130,
-      "location_slug": "rayy",
+      "location_slug": "ray",
       "description": "c. 1120 CE, Rayy: The continuation of alchemical investigation in Rayy during the early twelfth century demonstrates the discipline's deep entrenchment in Islamic natural philosophy. Practitioners maintain laboratories equipped with sophisticated apparatus for <a href=\"../concepts/distillation.html\">Distillation</a>, <a href=\"../concepts/sublimation.html\">Sublimation</a>, and <a href=\"../concepts/calcination.html\">Calcination</a>. Rayy's alchemical schools offer comprehensive instruction in operative technique and theoretical understanding. The legacy of <a href=\"../persons/al-razi.html\">Al-Razi (Rhazes)</a> and <a href=\"../persons/jabir-ibn-hayyan.html\">Jabir ibn Hayyan</a> remains vital, guiding investigation into the nature of matter and the principles governing material transformation.",
       "persons_involved": "[]",
       "texts_involved": "[]",
@@ -4205,7 +4081,7 @@
       "date_label": "c. 1144 CE",
       "date_start_year": 1134,
       "date_end_year": 1154,
-      "location_slug": "rayy",
+      "location_slug": "ray",
       "description": "c. 1144 CE, Rayy: The advanced state of alchemical expertise in Rayy during the twelfth century reflects the discipline's evolution from early experimental ventures to sophisticated natural philosophy. Practitioners possess detailed knowledge of <a href=\"../concepts/distillation.html\">Distillation</a>, <a href=\"../concepts/sublimation.html\">Sublimation</a>, and <a href=\"../concepts/calcination.html\">Calcination</a>, supported by generations of accumulated technique. Rayy's alchemists maintain laboratories with specialized equipment, pursue investigations into the transformation of matter, and preserve textual traditions dating back centuries. This level of sophistication will eventually inspire medieval European alchemists seeking to recover and master Islamic chemical knowledge.",
       "persons_involved": "[]",
       "texts_involved": "[]",
@@ -4237,7 +4113,7 @@
       "date_label": "c. 1168 CE",
       "date_start_year": 1158,
       "date_end_year": 1178,
-      "location_slug": "rayy",
+      "location_slug": "ray",
       "description": "c. 1168 CE, Rayy: The anonymous technical manuscript <a href=\"../texts/ms-fr-640.html\">Ms. Fr. 640 (Anonymous Technical Manuscript)</a> exemplifies the sophisticated state of alchemical documentation in Rayy during the twelfth century. This text records detailed procedures for <a href=\"../concepts/distillation.html\">Distillation</a>, <a href=\"../concepts/sublimation.html\">Sublimation</a>, and <a href=\"../concepts/calcination.html\">Calcination</a>, reflecting generations of refined practice and theoretical understanding. The manuscript's careful attention to apparatus design, material selection, and operational precision demonstrates the high level of chemical expertise maintained in Rayy. Such technical documentation preserves the practical knowledge of Islamic alchemy for transmission and eventual adoption by medieval European scholars.",
       "persons_involved": "[]",
       "texts_involved": "[\"ms-fr-640\"]",
@@ -11800,5 +11676,1440 @@
       "created_at": "2026-05-23 04:52:45"
     }
   ],
-  "generated": "2026-05-23T14:37:26.438Z"
+  "relationships": {
+    "person_to_concepts": {
+      "jabir-ibn-hayyan": [
+        "operational-chemistry",
+        "distillation",
+        "sublimation",
+        "calcination"
+      ],
+      "al-kindi": [
+        "operational-chemistry",
+        "distillation",
+        "sublimation",
+        "calcination"
+      ],
+      "al-razi": [
+        "distillation",
+        "sublimation",
+        "calcination",
+        "operational-chemistry",
+        "fermentation"
+      ],
+      "zosimos-of-panopolis": [
+        "distillation",
+        "sublimation",
+        "calcination"
+      ],
+      "arnaud-de-villanova": [
+        "quintessence"
+      ]
+    },
+    "person_to_texts": {},
+    "person_to_events": {
+      "[\"zosimos-of-panopolis\"]": [
+        "event_zosimos_001",
+        "event_zosimos_002",
+        "event_late_antique_egypt_syria_000",
+        "event_late_antique_egypt_syria_001",
+        "event_late_antique_egypt_syria_002",
+        "event_late_antique_egypt_syria_003",
+        "event_late_antique_egypt_syria_004",
+        "event_late_antique_egypt_syria_005",
+        "event_late_antique_egypt_syria_006",
+        "event_late_antique_egypt_syria_007",
+        "event_late_antique_egypt_syria_008",
+        "event_late_antique_egypt_syria_009",
+        "event_zosimos_alexandria_003",
+        "event_zosimos-of-panopolis_biography"
+      ],
+      "[]": [
+        "event_hellenistic_egypt_001",
+        "event_picatrix_arab_001",
+        "event_damascus_alchemy_001",
+        "event_baghdad_decline_001",
+        "event_hessian_crucibles_001",
+        "event_monastic_alchemy_001",
+        "event_basle_printing_001",
+        "event_making_knowing_001",
+        "event_ms_fr_640_001",
+        "event_islamic_alchemy_damascus",
+        "event_cordoba_transmission_001",
+        "event_sicily_translation_001",
+        "event_montpellier_medical_001",
+        "event_prague_alchemy_001",
+        "event_late_antique_egypt_syria_010",
+        "event_late_antique_egypt_syria_011",
+        "event_late_antique_egypt_syria_012",
+        "event_late_antique_egypt_syria_013",
+        "event_late_antique_egypt_syria_014",
+        "event_late_antique_egypt_syria_015",
+        "event_late_antique_egypt_syria_016",
+        "event_late_antique_egypt_syria_017",
+        "event_late_antique_egypt_syria_018",
+        "event_late_antique_egypt_syria_019",
+        "event_late_antique_egypt_syria_020",
+        "event_late_antique_egypt_syria_021",
+        "event_late_antique_egypt_syria_022",
+        "event_late_antique_egypt_syria_023",
+        "event_late_antique_egypt_syria_024",
+        "event_late_antique_egypt_syria_025",
+        "event_late_antique_egypt_syria_026",
+        "event_late_antique_egypt_syria_027",
+        "event_late_antique_egypt_syria_028",
+        "event_late_antique_egypt_syria_029",
+        "event_medieval_islam_baghdad_persia_020",
+        "event_medieval_islam_baghdad_persia_021",
+        "event_medieval_islam_baghdad_persia_022",
+        "event_medieval_islam_baghdad_persia_023",
+        "event_medieval_islam_baghdad_persia_024",
+        "event_medieval_islam_baghdad_persia_025",
+        "event_medieval_islam_baghdad_persia_026",
+        "event_medieval_islam_baghdad_persia_027",
+        "event_medieval_islam_baghdad_persia_028",
+        "event_medieval_islam_baghdad_persia_029",
+        "event_medieval_islam_baghdad_persia_030",
+        "event_medieval_islam_baghdad_persia_031",
+        "event_medieval_islam_baghdad_persia_032",
+        "event_medieval_islam_baghdad_persia_033",
+        "event_medieval_islam_baghdad_persia_034",
+        "event_medieval_islam_baghdad_persia_035",
+        "event_medieval_islam_baghdad_persia_036",
+        "event_medieval_islam_baghdad_persia_037",
+        "event_medieval_islam_baghdad_persia_038",
+        "event_medieval_islam_baghdad_persia_039",
+        "event_medieval_islam_iberia_005",
+        "event_medieval_islam_iberia_006",
+        "event_medieval_islam_iberia_007",
+        "event_medieval_islam_iberia_008",
+        "event_medieval_islam_iberia_009",
+        "event_medieval_islam_iberia_010",
+        "event_medieval_islam_iberia_011",
+        "event_medieval_islam_iberia_012",
+        "event_medieval_islam_iberia_013",
+        "event_medieval_islam_iberia_014",
+        "event_medieval_islam_iberia_015",
+        "event_medieval_islam_iberia_016",
+        "event_medieval_islam_iberia_017",
+        "event_medieval_islam_iberia_018",
+        "event_medieval_islam_iberia_019",
+        "event_medieval_islam_iberia_020",
+        "event_medieval_islam_iberia_021",
+        "event_medieval_islam_iberia_022",
+        "event_medieval_islam_iberia_023",
+        "event_medieval_islam_iberia_024",
+        "event_medieval_islam_iberia_025",
+        "event_medieval_islam_iberia_026",
+        "event_medieval_islam_iberia_027",
+        "event_medieval_islam_iberia_028",
+        "event_medieval_islam_iberia_029",
+        "event_medieval_islam_iberia_030",
+        "event_medieval_islam_iberia_031",
+        "event_medieval_islam_iberia_032",
+        "event_medieval_islam_iberia_033",
+        "event_medieval_islam_iberia_034",
+        "event_medieval_latin_monasteries_005",
+        "event_medieval_latin_monasteries_006",
+        "event_medieval_latin_monasteries_007",
+        "event_medieval_latin_monasteries_008",
+        "event_medieval_latin_monasteries_009",
+        "event_medieval_latin_monasteries_010",
+        "event_medieval_latin_monasteries_011",
+        "event_medieval_latin_monasteries_012",
+        "event_medieval_latin_monasteries_013",
+        "event_medieval_latin_monasteries_014",
+        "event_medieval_latin_monasteries_015",
+        "event_medieval_latin_monasteries_016",
+        "event_medieval_latin_monasteries_017",
+        "event_medieval_latin_monasteries_018",
+        "event_medieval_latin_monasteries_019",
+        "event_medieval_latin_monasteries_020",
+        "event_medieval_latin_monasteries_021",
+        "event_medieval_latin_monasteries_022",
+        "event_medieval_latin_monasteries_023",
+        "event_medieval_latin_monasteries_024",
+        "event_medieval_latin_monasteries_025",
+        "event_medieval_latin_monasteries_026",
+        "event_medieval_latin_monasteries_027",
+        "event_medieval_latin_monasteries_028",
+        "event_medieval_latin_monasteries_029",
+        "event_medieval_latin_monasteries_030",
+        "event_medieval_latin_monasteries_031",
+        "event_medieval_latin_monasteries_032",
+        "event_medieval_latin_monasteries_033",
+        "event_medieval_latin_monasteries_034",
+        "event_medieval_latin_monasteries_035",
+        "event_medieval_latin_monasteries_036",
+        "event_medieval_latin_monasteries_037",
+        "event_medieval_latin_monasteries_038",
+        "event_medieval_latin_monasteries_039",
+        "event_medieval_universities_005",
+        "event_medieval_universities_006",
+        "event_medieval_universities_007",
+        "event_medieval_universities_008",
+        "event_medieval_universities_009",
+        "event_medieval_universities_010",
+        "event_medieval_universities_011",
+        "event_medieval_universities_012",
+        "event_medieval_universities_013",
+        "event_medieval_universities_014",
+        "event_medieval_universities_015",
+        "event_medieval_universities_016",
+        "event_medieval_universities_017",
+        "event_medieval_universities_018",
+        "event_medieval_universities_019",
+        "event_medieval_universities_020",
+        "event_medieval_universities_021",
+        "event_medieval_universities_022",
+        "event_medieval_universities_023",
+        "event_medieval_universities_024",
+        "event_medieval_universities_025",
+        "event_medieval_universities_026",
+        "event_medieval_universities_027",
+        "event_medieval_universities_028",
+        "event_medieval_universities_029",
+        "event_medieval_universities_030",
+        "event_medieval_universities_031",
+        "event_medieval_universities_032",
+        "event_medieval_universities_033",
+        "event_medieval_universities_034",
+        "event_medieval_byzantium_005",
+        "event_medieval_byzantium_006",
+        "event_medieval_byzantium_007",
+        "event_medieval_byzantium_008",
+        "event_medieval_byzantium_009",
+        "event_medieval_byzantium_010",
+        "event_medieval_byzantium_011",
+        "event_medieval_byzantium_012",
+        "event_medieval_byzantium_013",
+        "event_medieval_byzantium_014",
+        "event_medieval_byzantium_015",
+        "event_medieval_byzantium_016",
+        "event_medieval_byzantium_017",
+        "event_medieval_byzantium_018",
+        "event_medieval_byzantium_019",
+        "event_medieval_byzantium_020",
+        "event_medieval_byzantium_021",
+        "event_medieval_byzantium_022",
+        "event_medieval_byzantium_023",
+        "event_medieval_byzantium_024",
+        "event_renaissance_italy_002",
+        "event_renaissance_italy_003",
+        "event_renaissance_italy_004",
+        "event_renaissance_italy_005",
+        "event_renaissance_italy_006",
+        "event_renaissance_italy_007",
+        "event_renaissance_italy_008",
+        "event_renaissance_italy_009",
+        "event_renaissance_italy_010",
+        "event_renaissance_italy_011",
+        "event_renaissance_italy_012",
+        "event_renaissance_italy_013",
+        "event_renaissance_italy_014",
+        "event_renaissance_italy_015",
+        "event_renaissance_italy_016",
+        "event_renaissance_italy_017",
+        "event_renaissance_italy_018",
+        "event_renaissance_italy_019",
+        "event_renaissance_italy_020",
+        "event_renaissance_italy_021",
+        "event_renaissance_italy_022",
+        "event_renaissance_italy_023",
+        "event_renaissance_italy_024",
+        "event_renaissance_italy_025",
+        "event_renaissance_italy_026",
+        "event_renaissance_italy_027",
+        "event_renaissance_italy_028",
+        "event_renaissance_italy_029",
+        "event_renaissance_italy_030",
+        "event_renaissance_italy_031",
+        "event_renaissance_italy_032",
+        "event_renaissance_italy_033",
+        "event_renaissance_italy_034",
+        "event_renaissance_italy_035",
+        "event_renaissance_italy_036",
+        "event_renaissance_italy_037",
+        "event_renaissance_italy_038",
+        "event_renaissance_italy_039",
+        "event_renaissance_italy_040",
+        "event_renaissance_italy_041",
+        "event_renaissance_italy_042",
+        "event_renaissance_italy_043",
+        "event_renaissance_italy_044",
+        "event_renaissance_low_countries_002",
+        "event_renaissance_low_countries_003",
+        "event_renaissance_low_countries_004",
+        "event_renaissance_low_countries_005",
+        "event_renaissance_low_countries_006",
+        "event_renaissance_low_countries_007",
+        "event_renaissance_low_countries_008",
+        "event_renaissance_low_countries_009",
+        "event_renaissance_low_countries_010",
+        "event_renaissance_low_countries_011",
+        "event_renaissance_low_countries_012",
+        "event_renaissance_low_countries_013",
+        "event_renaissance_low_countries_014",
+        "event_renaissance_low_countries_015",
+        "event_renaissance_low_countries_016",
+        "event_renaissance_low_countries_017",
+        "event_renaissance_low_countries_018",
+        "event_renaissance_low_countries_019",
+        "event_renaissance_low_countries_020",
+        "event_renaissance_low_countries_021",
+        "event_renaissance_low_countries_022",
+        "event_renaissance_low_countries_023",
+        "event_renaissance_low_countries_024",
+        "event_renaissance_low_countries_025",
+        "event_renaissance_low_countries_026",
+        "event_renaissance_low_countries_027",
+        "event_renaissance_low_countries_028",
+        "event_renaissance_low_countries_029",
+        "event_renaissance_low_countries_030",
+        "event_renaissance_low_countries_031",
+        "event_renaissance_low_countries_032",
+        "event_renaissance_low_countries_033",
+        "event_renaissance_low_countries_034",
+        "event_early_modern_central_europe_005",
+        "event_early_modern_central_europe_006",
+        "event_early_modern_central_europe_007",
+        "event_early_modern_central_europe_008",
+        "event_early_modern_central_europe_009",
+        "event_early_modern_central_europe_010",
+        "event_early_modern_central_europe_011",
+        "event_early_modern_central_europe_012",
+        "event_early_modern_central_europe_013",
+        "event_early_modern_central_europe_014",
+        "event_early_modern_central_europe_015",
+        "event_early_modern_central_europe_016",
+        "event_early_modern_central_europe_017",
+        "event_early_modern_central_europe_018",
+        "event_early_modern_central_europe_019",
+        "event_early_modern_central_europe_020",
+        "event_early_modern_central_europe_021",
+        "event_early_modern_central_europe_022",
+        "event_early_modern_central_europe_023",
+        "event_early_modern_central_europe_024",
+        "event_early_modern_central_europe_025",
+        "event_early_modern_central_europe_026",
+        "event_early_modern_central_europe_027",
+        "event_early_modern_central_europe_028",
+        "event_early_modern_central_europe_029",
+        "event_early_modern_central_europe_030",
+        "event_early_modern_central_europe_031",
+        "event_early_modern_central_europe_032",
+        "event_early_modern_central_europe_033",
+        "event_early_modern_central_europe_034",
+        "event_early_modern_central_europe_035",
+        "event_early_modern_central_europe_036",
+        "event_early_modern_central_europe_037",
+        "event_early_modern_central_europe_038",
+        "event_early_modern_central_europe_039",
+        "event_early_modern_central_europe_040",
+        "event_early_modern_central_europe_041",
+        "event_early_modern_central_europe_042",
+        "event_early_modern_central_europe_043",
+        "event_early_modern_central_europe_044",
+        "event_early_modern_england_005",
+        "event_early_modern_england_006",
+        "event_early_modern_england_007",
+        "event_early_modern_england_008",
+        "event_early_modern_england_009",
+        "event_early_modern_england_010",
+        "event_early_modern_england_011",
+        "event_early_modern_england_012",
+        "event_early_modern_england_013",
+        "event_early_modern_england_014",
+        "event_early_modern_england_015",
+        "event_early_modern_england_016",
+        "event_early_modern_england_017",
+        "event_early_modern_england_018",
+        "event_early_modern_england_019",
+        "event_early_modern_england_020",
+        "event_early_modern_england_021",
+        "event_early_modern_england_022",
+        "event_early_modern_england_023",
+        "event_early_modern_england_024",
+        "event_early_modern_england_025",
+        "event_early_modern_england_026",
+        "event_early_modern_england_027",
+        "event_early_modern_england_028",
+        "event_early_modern_england_029",
+        "event_early_modern_england_030",
+        "event_early_modern_england_031",
+        "event_early_modern_england_032",
+        "event_early_modern_england_033",
+        "event_early_modern_england_034",
+        "event_early_modern_france_005",
+        "event_early_modern_france_006",
+        "event_early_modern_france_007",
+        "event_early_modern_france_008",
+        "event_early_modern_france_009",
+        "event_early_modern_france_010",
+        "event_early_modern_france_011",
+        "event_early_modern_france_012",
+        "event_early_modern_france_013",
+        "event_early_modern_france_014",
+        "event_early_modern_france_015",
+        "event_early_modern_france_016",
+        "event_early_modern_france_017",
+        "event_early_modern_france_018",
+        "event_early_modern_france_019",
+        "event_early_modern_france_020",
+        "event_early_modern_france_021",
+        "event_early_modern_france_022",
+        "event_early_modern_france_023",
+        "event_early_modern_france_024",
+        "event_early_modern_france_025",
+        "event_early_modern_france_026",
+        "event_early_modern_france_027",
+        "event_early_modern_france_028",
+        "event_early_modern_france_029",
+        "event_early_modern_france_030",
+        "event_early_modern_france_031",
+        "event_early_modern_france_032",
+        "event_early_modern_france_033",
+        "event_early_modern_france_034",
+        "event_early_modern_spain_portugal_005",
+        "event_early_modern_spain_portugal_006",
+        "event_early_modern_spain_portugal_007",
+        "event_early_modern_spain_portugal_008",
+        "event_early_modern_spain_portugal_009",
+        "event_early_modern_spain_portugal_010",
+        "event_early_modern_spain_portugal_011",
+        "event_early_modern_spain_portugal_012",
+        "event_early_modern_spain_portugal_013",
+        "event_early_modern_spain_portugal_014",
+        "event_early_modern_spain_portugal_015",
+        "event_early_modern_spain_portugal_016",
+        "event_early_modern_spain_portugal_017",
+        "event_early_modern_spain_portugal_018",
+        "event_early_modern_spain_portugal_019",
+        "event_early_modern_spain_portugal_020",
+        "event_early_modern_spain_portugal_021",
+        "event_early_modern_spain_portugal_022",
+        "event_early_modern_spain_portugal_023",
+        "event_early_modern_spain_portugal_024",
+        "event_early_modern_spain_portugal_025",
+        "event_early_modern_spain_portugal_026",
+        "event_early_modern_spain_portugal_027",
+        "event_early_modern_spain_portugal_028",
+        "event_early_modern_spain_portugal_029",
+        "event_early_modern_spain_portugal_030",
+        "event_early_modern_spain_portugal_031",
+        "event_early_modern_spain_portugal_032",
+        "event_early_modern_spain_portugal_033",
+        "event_early_modern_spain_portugal_034",
+        "event_early_modern_spain_portugal_035",
+        "event_early_modern_spain_portugal_036",
+        "event_early_modern_spain_portugal_037",
+        "event_early_modern_spain_portugal_038",
+        "event_early_modern_spain_portugal_039",
+        "event_alchemy_damascus_001",
+        "event_cairo_alchemy_001",
+        "event_salerno_school_001",
+        "event_moorish_spain_001",
+        "event_printing_alchemy_001",
+        "event_laboratory_practice_001",
+        "event_alchemist_rome_001",
+        "event_bruges_workshop_001",
+        "event_alchemy_church_001",
+        "event_mercurial_alchemy_001",
+        "event_enlightenment_chemistry_001",
+        "event_lavoisier_revolution_001",
+        "event_summa-perfectionis_composition",
+        "event_kitab-al-asrar_composition",
+        "event_book-of-pictures_composition",
+        "event_visions-of-zosimos_composition",
+        "event_emerald-tablet_composition",
+        "event_turba-philosophorum_composition",
+        "event_atalanta-fugiens_composition",
+        "event_opus-majus_composition",
+        "event_rosarium-philosophorum_composition",
+        "event_theatrum-chemicum_composition",
+        "event_de-multiplicitione-specierum_composition",
+        "event_de-speculis-comburentibus_composition",
+        "event_secretum-secretorum_composition",
+        "event_corpus-jabirianum_composition",
+        "event_libellus-de-alchimia_composition",
+        "event_de-chemia_composition",
+        "event_symbola-aureae-mensae_composition",
+        "event_ars-combinatoria_composition",
+        "event_book-of-lambspring_composition",
+        "event_mutus-liber_composition",
+        "event_chemical-wedding-of-christian-rosencreutz_composition",
+        "event_aurora-consurgens_composition",
+        "event_splendor-solis_composition",
+        "event_amphitheatre-of-eternal-wisdom_composition",
+        "event_pictorial-keys-to-the-tarot_composition",
+        "event_collection-of-the-ancient-greek-alchemists_composition",
+        "event_alchemia_composition",
+        "event_chymisches-cabinett_composition",
+        "event_opus-minus_composition",
+        "event_opus-tertium_composition",
+        "event_picatrix_composition",
+        "event_liber-de-secretis-naturae_composition"
+      ],
+      "[\"jabir-ibn-hayyan\"]": [
+        "event_jabir_baghdad_001",
+        "event_jabir_baghdad_002",
+        "event_medieval_islam_baghdad_persia_000",
+        "event_medieval_islam_baghdad_persia_005",
+        "event_medieval_islam_baghdad_persia_010",
+        "event_medieval_islam_baghdad_persia_015",
+        "event_medieval_islam_iberia_000",
+        "event_medieval_latin_monasteries_000",
+        "event_medieval_universities_000",
+        "event_medieval_byzantium_000",
+        "event_jabir-ibn-hayyan_biography"
+      ],
+      "[\"al-kindi\", \"jabir-ibn-hayyan\"]": [
+        "event_al_kindi_baghdad_001"
+      ],
+      "[\"al-razi\"]": [
+        "event_al_razi_ray_001",
+        "event_al_razi_pharmacy_001",
+        "event_medieval_islam_baghdad_persia_001",
+        "event_medieval_islam_baghdad_persia_006",
+        "event_medieval_islam_baghdad_persia_011",
+        "event_medieval_islam_baghdad_persia_016",
+        "event_medieval_islam_iberia_001",
+        "event_medieval_latin_monasteries_001",
+        "event_medieval_universities_001",
+        "event_medieval_byzantium_001"
+      ],
+      "[\"gerard-of-cremona\"]": [
+        "event_toledo_translation_001",
+        "event_gerard_toledo_001",
+        "event_medieval_islam_baghdad_persia_004",
+        "event_medieval_islam_baghdad_persia_009",
+        "event_medieval_islam_baghdad_persia_014",
+        "event_medieval_islam_baghdad_persia_019",
+        "event_medieval_islam_iberia_004",
+        "event_medieval_latin_monasteries_004",
+        "event_medieval_universities_004",
+        "event_medieval_byzantium_004",
+        "event_gerard-of-cremona_biography"
+      ],
+      "[\"roger-bacon\"]": [
+        "event_bologna_university_001",
+        "event_oxford_bacon_001",
+        "event_medieval_islam_baghdad_persia_003",
+        "event_medieval_islam_baghdad_persia_008",
+        "event_medieval_islam_baghdad_persia_013",
+        "event_medieval_islam_baghdad_persia_018",
+        "event_medieval_islam_iberia_003",
+        "event_medieval_latin_monasteries_003",
+        "event_medieval_universities_003",
+        "event_medieval_byzantium_003",
+        "event_roger-bacon_biography"
+      ],
+      "[\"marsilio-ficino\"]": [
+        "event_florence_hermeticism_001",
+        "event_ficino_translation_001",
+        "event_renaissance_italy_000",
+        "event_renaissance_low_countries_000"
+      ],
+      "[\"pico-della-mirandola\"]": [
+        "event_pico_florence_001",
+        "event_renaissance_italy_001",
+        "event_renaissance_low_countries_001"
+      ],
+      "[\"paracelsus\"]": [
+        "event_paracelsus_salzburg_001",
+        "event_paracelsus_strasbourg_001",
+        "event_paracelsus_reformation_001",
+        "event_early_modern_central_europe_004",
+        "event_early_modern_england_004",
+        "event_early_modern_france_004",
+        "event_early_modern_spain_portugal_004",
+        "event_paracelsus_legacy_001",
+        "event_paracelsus_biography"
+      ],
+      "[\"henry-cornelius-agrippa\"]": [
+        "event_agrippa_cologne_001",
+        "event_agrippa_writing_001",
+        "event_early_modern_central_europe_002",
+        "event_early_modern_england_002",
+        "event_early_modern_france_002",
+        "event_early_modern_spain_portugal_002"
+      ],
+      "[\"giordano-bruno\"]": [
+        "event_bruno_paris_001",
+        "event_bruno_london_001",
+        "event_bruno_rome_001",
+        "event_early_modern_central_europe_003",
+        "event_early_modern_england_003",
+        "event_early_modern_france_003",
+        "event_early_modern_spain_portugal_003"
+      ],
+      "[\"tycho-brahe\"]": [
+        "event_tycho_ven_001",
+        "event_tycho_laboratory_001",
+        "event_early_modern_central_europe_000",
+        "event_early_modern_england_000",
+        "event_early_modern_france_000",
+        "event_early_modern_spain_portugal_000"
+      ],
+      "[\"michael-maier\"]": [
+        "event_maier_court_001",
+        "event_maier_atalanta_001",
+        "event_early_modern_central_europe_001",
+        "event_early_modern_england_001",
+        "event_early_modern_france_001",
+        "event_early_modern_spain_portugal_001",
+        "event_alchemy_print_001",
+        "event_michael-maier_biography"
+      ],
+      "[\"al-kindi\"]": [
+        "event_medieval_islam_baghdad_persia_002",
+        "event_medieval_islam_baghdad_persia_007",
+        "event_medieval_islam_baghdad_persia_012",
+        "event_medieval_islam_baghdad_persia_017",
+        "event_medieval_islam_iberia_002",
+        "event_medieval_latin_monasteries_002",
+        "event_medieval_universities_002",
+        "event_medieval_byzantium_002",
+        "event_al-kindi_biography"
+      ],
+      "[\"hermes-trismegistus\"]": [
+        "event_hermes_greece_001",
+        "event_hermes-trismegistus_biography"
+      ],
+      "[\"marsilio-ficino\", \"pico-della-mirandola\"]": [
+        "event_hermeticism_florence_001"
+      ],
+      "[\"isaac-newton\"]": [
+        "event_newton_alchemy_001",
+        "event_isaac-newton_biography"
+      ],
+      "[\"arnaud-de-villanova\"]": [
+        "event_medical_alchemy_001",
+        "event_arnaud-de-villanova_biography"
+      ],
+      "[\"robert-boyle\"]": [
+        "event_boyle_chemistry_001",
+        "event_robert-boyle_biography"
+      ],
+      "[\"muhammad-al-razi\"]": [
+        "event_muhammad-al-razi_biography"
+      ],
+      "[\"muhammad-ibn-umail\"]": [
+        "event_muhammad-ibn-umail_biography"
+      ],
+      "[\"raymond-lull\"]": [
+        "event_raymond-lull_biography"
+      ],
+      "[\"heinrich-khunrath\"]": [
+        "event_heinrich-khunrath_biography"
+      ],
+      "[\"george-starkey\"]": [
+        "event_george-starkey_biography"
+      ],
+      "[\"theosebeia\"]": [
+        "event_theosebeia_biography"
+      ],
+      "[\"albertus-magnus\"]": [
+        "event_albertus-magnus_biography"
+      ],
+      "[\"thomas-aquinas\"]": [
+        "event_thomas-aquinas_biography"
+      ],
+      "[\"jan-van-helmont\"]": [
+        "event_jan-van-helmont_biography"
+      ],
+      "[\"wilhelm-homberg\"]": [
+        "event_wilhelm-homberg_biography"
+      ],
+      "[\"george-agricola\"]": [
+        "event_george-agricola_biography"
+      ],
+      "[\"democritus\"]": [
+        "event_democritus_biography"
+      ],
+      "[\"ostanes\"]": [
+        "event_ostanes_biography"
+      ],
+      "[\"mary-the-prophetess\"]": [
+        "event_mary-the-prophetess_biography"
+      ],
+      "[\"stephanus-of-alexandria\"]": [
+        "event_stephanus-of-alexandria_biography"
+      ],
+      "[\"michael-sendivogius\"]": [
+        "event_michael-sendivogius_biography"
+      ],
+      "[\"robert-fludd\"]": [
+        "event_robert-fludd_biography"
+      ],
+      "[\"elias-ashmole\"]": [
+        "event_elias-ashmole_biography"
+      ],
+      "[\"francis-bacon\"]": [
+        "event_francis-bacon_biography"
+      ],
+      "[\"kenelm-digby\"]": [
+        "event_kenelm-digby_biography"
+      ],
+      "[\"george-ripley\"]": [
+        "event_george-ripley_biography"
+      ],
+      "[\"samuel-norton\"]": [
+        "event_samuel-norton_biography"
+      ],
+      "[\"nicholas-flamel\"]": [
+        "event_nicholas-flamel_biography"
+      ],
+      "[\"hildegard-of-bingen\"]": [
+        "event_hildegard-of-bingen_biography"
+      ],
+      "[\"meister-eckhart\"]": [
+        "event_meister-eckhart_biography"
+      ],
+      "[\"basilius-valentinus\"]": [
+        "event_basilius-valentinus_biography"
+      ],
+      "[\"christian-rosencreutz\"]": [
+        "event_christian-rosencreutz_biography"
+      ],
+      "[\"geoffrey-chaucer\"]": [
+        "event_geoffrey-chaucer_biography"
+      ],
+      "[\"william-shakespeare\"]": [
+        "event_william-shakespeare_biography"
+      ],
+      "[\"johann-goethe\"]": [
+        "event_johann-goethe_biography"
+      ],
+      "[\"john-dee\"]": [
+        "event_john-dee_biography"
+      ],
+      "[\"johannes-trithemius\"]": [
+        "event_johannes-trithemius_biography"
+      ],
+      "[\"robert-bostocke\"]": [
+        "event_robert-bostocke_biography"
+      ],
+      "[\"dante-alighieri\"]": [
+        "event_dante-alighieri_biography"
+      ],
+      "[\"avicenna\"]": [
+        "event_avicenna_biography"
+      ],
+      "[\"al-ghazali\"]": [
+        "event_al-ghazali_biography"
+      ],
+      "[\"robert-of-chester\"]": [
+        "event_robert-of-chester_biography"
+      ],
+      "[\"john-of-rupescissa\"]": [
+        "event_john-of-rupescissa_biography"
+      ],
+      "[\"william-backhouse\"]": [
+        "event_william-backhouse_biography"
+      ]
+    },
+    "text_to_persons": {},
+    "text_to_concepts": {},
+    "concept_to_persons": {
+      "operational-chemistry": [
+        "jabir-ibn-hayyan",
+        "al-kindi",
+        "al-razi"
+      ],
+      "distillation": [
+        "jabir-ibn-hayyan",
+        "al-kindi",
+        "al-razi",
+        "zosimos-of-panopolis"
+      ],
+      "sublimation": [
+        "jabir-ibn-hayyan",
+        "al-kindi",
+        "al-razi",
+        "zosimos-of-panopolis"
+      ],
+      "calcination": [
+        "jabir-ibn-hayyan",
+        "al-kindi",
+        "al-razi",
+        "zosimos-of-panopolis"
+      ],
+      "fermentation": [
+        "al-razi"
+      ],
+      "quintessence": [
+        "arnaud-de-villanova"
+      ]
+    },
+    "concept_to_texts": {},
+    "concept_to_events": {
+      "[\"distillation\", \"operational-chemistry\"]": [
+        "event_zosimos_001",
+        "event_jabir_baghdad_001",
+        "event_al_kindi_baghdad_001",
+        "event_damascus_alchemy_001",
+        "event_toledo_translation_001",
+        "event_gerard_toledo_001",
+        "event_islamic_alchemy_damascus",
+        "event_late_antique_egypt_syria_000",
+        "event_late_antique_egypt_syria_001",
+        "event_late_antique_egypt_syria_002",
+        "event_late_antique_egypt_syria_003",
+        "event_late_antique_egypt_syria_004",
+        "event_late_antique_egypt_syria_005",
+        "event_late_antique_egypt_syria_006",
+        "event_late_antique_egypt_syria_007",
+        "event_late_antique_egypt_syria_008",
+        "event_late_antique_egypt_syria_009",
+        "event_late_antique_egypt_syria_010",
+        "event_late_antique_egypt_syria_011",
+        "event_late_antique_egypt_syria_012",
+        "event_late_antique_egypt_syria_013",
+        "event_late_antique_egypt_syria_014",
+        "event_late_antique_egypt_syria_015",
+        "event_late_antique_egypt_syria_016",
+        "event_late_antique_egypt_syria_017",
+        "event_late_antique_egypt_syria_018",
+        "event_late_antique_egypt_syria_019",
+        "event_late_antique_egypt_syria_020",
+        "event_late_antique_egypt_syria_021",
+        "event_late_antique_egypt_syria_022",
+        "event_late_antique_egypt_syria_023",
+        "event_late_antique_egypt_syria_024",
+        "event_late_antique_egypt_syria_025",
+        "event_late_antique_egypt_syria_026",
+        "event_late_antique_egypt_syria_027",
+        "event_late_antique_egypt_syria_028",
+        "event_late_antique_egypt_syria_029"
+      ],
+      "[\"distillation\", \"sublimation\"]": [
+        "event_zosimos_002",
+        "event_alchemy_damascus_001"
+      ],
+      "[\"operational-chemistry\", \"material-culture-approach\"]": [
+        "event_hellenistic_egypt_001"
+      ],
+      "[\"sublimation\", \"calcination\"]": [
+        "event_jabir_baghdad_002"
+      ],
+      "[\"distillation\", \"calcination\"]": [
+        "event_al_razi_ray_001"
+      ],
+      "[\"medicamenta-tria\", \"operational-chemistry\"]": [
+        "event_al_razi_pharmacy_001",
+        "event_paracelsus_salzburg_001"
+      ],
+      "[\"magia-naturalis\", \"operational-chemistry\"]": [
+        "event_picatrix_arab_001"
+      ],
+      "[\"operational-chemistry\"]": [
+        "event_baghdad_decline_001",
+        "event_hermes_greece_001",
+        "event_cairo_alchemy_001",
+        "event_moorish_spain_001",
+        "event_hermeticism_florence_001",
+        "event_laboratory_practice_001",
+        "event_newton_alchemy_001",
+        "event_alchemist_rome_001",
+        "event_mercurial_alchemy_001",
+        "event_enlightenment_chemistry_001"
+      ],
+      "[\"mullite\", \"distillation\", \"operational-chemistry\"]": [
+        "event_hessian_crucibles_001"
+      ],
+      "[\"operational-chemistry\", \"distillation\"]": [
+        "event_bologna_university_001",
+        "event_medieval_latin_monasteries_000",
+        "event_medieval_latin_monasteries_001",
+        "event_medieval_latin_monasteries_002",
+        "event_medieval_latin_monasteries_003",
+        "event_medieval_latin_monasteries_004",
+        "event_medieval_latin_monasteries_005",
+        "event_medieval_latin_monasteries_006",
+        "event_medieval_latin_monasteries_007",
+        "event_medieval_latin_monasteries_008",
+        "event_medieval_latin_monasteries_009",
+        "event_medieval_latin_monasteries_010",
+        "event_medieval_latin_monasteries_011",
+        "event_medieval_latin_monasteries_012",
+        "event_medieval_latin_monasteries_013",
+        "event_medieval_latin_monasteries_014",
+        "event_medieval_latin_monasteries_015",
+        "event_medieval_latin_monasteries_016",
+        "event_medieval_latin_monasteries_017",
+        "event_medieval_latin_monasteries_018",
+        "event_medieval_latin_monasteries_019",
+        "event_medieval_latin_monasteries_020",
+        "event_medieval_latin_monasteries_021",
+        "event_medieval_latin_monasteries_022",
+        "event_medieval_latin_monasteries_023",
+        "event_medieval_latin_monasteries_024",
+        "event_medieval_latin_monasteries_025",
+        "event_medieval_latin_monasteries_026",
+        "event_medieval_latin_monasteries_027",
+        "event_medieval_latin_monasteries_028",
+        "event_medieval_latin_monasteries_029",
+        "event_medieval_latin_monasteries_030",
+        "event_medieval_latin_monasteries_031",
+        "event_medieval_latin_monasteries_032",
+        "event_medieval_latin_monasteries_033",
+        "event_medieval_latin_monasteries_034",
+        "event_medieval_latin_monasteries_035",
+        "event_medieval_latin_monasteries_036",
+        "event_medieval_latin_monasteries_037",
+        "event_medieval_latin_monasteries_038",
+        "event_medieval_latin_monasteries_039",
+        "event_medieval_byzantium_000",
+        "event_medieval_byzantium_001",
+        "event_medieval_byzantium_002",
+        "event_medieval_byzantium_003",
+        "event_medieval_byzantium_004",
+        "event_medieval_byzantium_005",
+        "event_medieval_byzantium_006",
+        "event_medieval_byzantium_007",
+        "event_medieval_byzantium_008",
+        "event_medieval_byzantium_009",
+        "event_medieval_byzantium_010",
+        "event_medieval_byzantium_011",
+        "event_medieval_byzantium_012",
+        "event_medieval_byzantium_013",
+        "event_medieval_byzantium_014",
+        "event_medieval_byzantium_015",
+        "event_medieval_byzantium_016",
+        "event_medieval_byzantium_017",
+        "event_medieval_byzantium_018",
+        "event_medieval_byzantium_019",
+        "event_medieval_byzantium_020",
+        "event_medieval_byzantium_021",
+        "event_medieval_byzantium_022",
+        "event_medieval_byzantium_023",
+        "event_medieval_byzantium_024"
+      ],
+      "[\"operational-chemistry\", \"experimentation\"]": [
+        "event_oxford_bacon_001"
+      ],
+      "[\"distillation\", \"medicamenta-tria\"]": [
+        "event_monastic_alchemy_001"
+      ],
+      "[\"hermeticism\", \"prisca-theologia\"]": [
+        "event_florence_hermeticism_001"
+      ],
+      "[\"hermeticism\"]": [
+        "event_ficino_translation_001",
+        "event_basle_printing_001",
+        "event_bruno_rome_001"
+      ],
+      "[\"hermeticism\", \"kabbalism\"]": [
+        "event_pico_florence_001"
+      ],
+      "[\"medicamenta-tria\", \"pharmaceutical-alchemy\"]": [
+        "event_paracelsus_strasbourg_001"
+      ],
+      "[\"medicamenta-tria\", \"theological-alchemy\"]": [
+        "event_paracelsus_reformation_001"
+      ],
+      "[\"magia-naturalis\", \"occult-philosophy\"]": [
+        "event_agrippa_cologne_001"
+      ],
+      "[\"magia-naturalis\", \"hermetic-synthesis\"]": [
+        "event_agrippa_writing_001"
+      ],
+      "[\"hermeticism\", \"cosmology\"]": [
+        "event_bruno_paris_001"
+      ],
+      "[\"hermeticism\", \"neoplatonism\"]": [
+        "event_bruno_london_001"
+      ],
+      "[\"operational-chemistry\", \"alchemical-laboratory\"]": [
+        "event_tycho_ven_001"
+      ],
+      "[\"metallurgical-enrichment\", \"pharmaceutical-preparation\"]": [
+        "event_tycho_laboratory_001"
+      ],
+      "[\"hermetic-alchemy\", \"rosicrucian\"]": [
+        "event_maier_court_001"
+      ],
+      "[\"emblem-alchemy\", \"hermetic-art\"]": [
+        "event_maier_atalanta_001"
+      ],
+      "[\"tacit-knowledge\", \"artisanal-epistemology\"]": [
+        "event_making_knowing_001"
+      ],
+      "[\"artisanal-knowledge\", \"craft-practice\"]": [
+        "event_ms_fr_640_001"
+      ],
+      "[\"alchemical-transmission\"]": [
+        "event_cordoba_transmission_001"
+      ],
+      "[\"greek-arab-latin\", \"transmission\"]": [
+        "event_sicily_translation_001"
+      ],
+      "[\"medical-alchemy\"]": [
+        "event_montpellier_medical_001"
+      ],
+      "[\"hermetic-alchemy\"]": [
+        "event_prague_alchemy_001"
+      ],
+      "[\"distillation\", \"sublimation\", \"calcination\"]": [
+        "event_medieval_islam_baghdad_persia_000",
+        "event_medieval_islam_baghdad_persia_001",
+        "event_medieval_islam_baghdad_persia_002",
+        "event_medieval_islam_baghdad_persia_003",
+        "event_medieval_islam_baghdad_persia_004",
+        "event_medieval_islam_baghdad_persia_005",
+        "event_medieval_islam_baghdad_persia_006",
+        "event_medieval_islam_baghdad_persia_007",
+        "event_medieval_islam_baghdad_persia_008",
+        "event_medieval_islam_baghdad_persia_009",
+        "event_medieval_islam_baghdad_persia_010",
+        "event_medieval_islam_baghdad_persia_011",
+        "event_medieval_islam_baghdad_persia_012",
+        "event_medieval_islam_baghdad_persia_013",
+        "event_medieval_islam_baghdad_persia_014",
+        "event_medieval_islam_baghdad_persia_015",
+        "event_medieval_islam_baghdad_persia_016",
+        "event_medieval_islam_baghdad_persia_017",
+        "event_medieval_islam_baghdad_persia_018",
+        "event_medieval_islam_baghdad_persia_019",
+        "event_medieval_islam_baghdad_persia_020",
+        "event_medieval_islam_baghdad_persia_021",
+        "event_medieval_islam_baghdad_persia_022",
+        "event_medieval_islam_baghdad_persia_023",
+        "event_medieval_islam_baghdad_persia_024",
+        "event_medieval_islam_baghdad_persia_025",
+        "event_medieval_islam_baghdad_persia_026",
+        "event_medieval_islam_baghdad_persia_027",
+        "event_medieval_islam_baghdad_persia_028",
+        "event_medieval_islam_baghdad_persia_029",
+        "event_medieval_islam_baghdad_persia_030",
+        "event_medieval_islam_baghdad_persia_031",
+        "event_medieval_islam_baghdad_persia_032",
+        "event_medieval_islam_baghdad_persia_033",
+        "event_medieval_islam_baghdad_persia_034",
+        "event_medieval_islam_baghdad_persia_035",
+        "event_medieval_islam_baghdad_persia_036",
+        "event_medieval_islam_baghdad_persia_037",
+        "event_medieval_islam_baghdad_persia_038",
+        "event_medieval_islam_baghdad_persia_039"
+      ],
+      "[\"distillation\", \"fermentation\", \"transmutation\"]": [
+        "event_medieval_islam_iberia_000",
+        "event_medieval_islam_iberia_001",
+        "event_medieval_islam_iberia_002",
+        "event_medieval_islam_iberia_003",
+        "event_medieval_islam_iberia_004",
+        "event_medieval_islam_iberia_005",
+        "event_medieval_islam_iberia_006",
+        "event_medieval_islam_iberia_007",
+        "event_medieval_islam_iberia_008",
+        "event_medieval_islam_iberia_009",
+        "event_medieval_islam_iberia_010",
+        "event_medieval_islam_iberia_011",
+        "event_medieval_islam_iberia_012",
+        "event_medieval_islam_iberia_013",
+        "event_medieval_islam_iberia_014",
+        "event_medieval_islam_iberia_015",
+        "event_medieval_islam_iberia_016",
+        "event_medieval_islam_iberia_017",
+        "event_medieval_islam_iberia_018",
+        "event_medieval_islam_iberia_019",
+        "event_medieval_islam_iberia_020",
+        "event_medieval_islam_iberia_021",
+        "event_medieval_islam_iberia_022",
+        "event_medieval_islam_iberia_023",
+        "event_medieval_islam_iberia_024",
+        "event_medieval_islam_iberia_025",
+        "event_medieval_islam_iberia_026",
+        "event_medieval_islam_iberia_027",
+        "event_medieval_islam_iberia_028",
+        "event_medieval_islam_iberia_029",
+        "event_medieval_islam_iberia_030",
+        "event_medieval_islam_iberia_031",
+        "event_medieval_islam_iberia_032",
+        "event_medieval_islam_iberia_033",
+        "event_medieval_islam_iberia_034"
+      ],
+      "[\"operational-chemistry\", \"natural-philosophy\"]": [
+        "event_medieval_universities_000",
+        "event_medieval_universities_001",
+        "event_medieval_universities_002",
+        "event_medieval_universities_003",
+        "event_medieval_universities_004",
+        "event_medieval_universities_005",
+        "event_medieval_universities_006",
+        "event_medieval_universities_007",
+        "event_medieval_universities_008",
+        "event_medieval_universities_009",
+        "event_medieval_universities_010",
+        "event_medieval_universities_011",
+        "event_medieval_universities_012",
+        "event_medieval_universities_013",
+        "event_medieval_universities_014",
+        "event_medieval_universities_015",
+        "event_medieval_universities_016",
+        "event_medieval_universities_017",
+        "event_medieval_universities_018",
+        "event_medieval_universities_019",
+        "event_medieval_universities_020",
+        "event_medieval_universities_021",
+        "event_medieval_universities_022",
+        "event_medieval_universities_023",
+        "event_medieval_universities_024",
+        "event_medieval_universities_025",
+        "event_medieval_universities_026",
+        "event_medieval_universities_027",
+        "event_medieval_universities_028",
+        "event_medieval_universities_029",
+        "event_medieval_universities_030",
+        "event_medieval_universities_031",
+        "event_medieval_universities_032",
+        "event_medieval_universities_033",
+        "event_medieval_universities_034",
+        "event_early_modern_england_000",
+        "event_early_modern_england_001",
+        "event_early_modern_england_002",
+        "event_early_modern_england_003",
+        "event_early_modern_england_004",
+        "event_early_modern_england_005",
+        "event_early_modern_england_006",
+        "event_early_modern_england_007",
+        "event_early_modern_england_008",
+        "event_early_modern_england_009",
+        "event_early_modern_england_010",
+        "event_early_modern_england_011",
+        "event_early_modern_england_012",
+        "event_early_modern_england_013",
+        "event_early_modern_england_014",
+        "event_early_modern_england_015",
+        "event_early_modern_england_016",
+        "event_early_modern_england_017",
+        "event_early_modern_england_018",
+        "event_early_modern_england_019",
+        "event_early_modern_england_020",
+        "event_early_modern_england_021",
+        "event_early_modern_england_022",
+        "event_early_modern_england_023",
+        "event_early_modern_england_024",
+        "event_early_modern_england_025",
+        "event_early_modern_england_026",
+        "event_early_modern_england_027",
+        "event_early_modern_england_028",
+        "event_early_modern_england_029",
+        "event_early_modern_england_030",
+        "event_early_modern_england_031",
+        "event_early_modern_england_032",
+        "event_early_modern_england_033",
+        "event_early_modern_england_034"
+      ],
+      "[\"transmutation\", \"quintessence\", \"operational-chemistry\"]": [
+        "event_renaissance_italy_000",
+        "event_renaissance_italy_001",
+        "event_renaissance_italy_002",
+        "event_renaissance_italy_003",
+        "event_renaissance_italy_004",
+        "event_renaissance_italy_005",
+        "event_renaissance_italy_006",
+        "event_renaissance_italy_007",
+        "event_renaissance_italy_008",
+        "event_renaissance_italy_009",
+        "event_renaissance_italy_010",
+        "event_renaissance_italy_011",
+        "event_renaissance_italy_012",
+        "event_renaissance_italy_013",
+        "event_renaissance_italy_014",
+        "event_renaissance_italy_015",
+        "event_renaissance_italy_016",
+        "event_renaissance_italy_017",
+        "event_renaissance_italy_018",
+        "event_renaissance_italy_019",
+        "event_renaissance_italy_020",
+        "event_renaissance_italy_021",
+        "event_renaissance_italy_022",
+        "event_renaissance_italy_023",
+        "event_renaissance_italy_024",
+        "event_renaissance_italy_025",
+        "event_renaissance_italy_026",
+        "event_renaissance_italy_027",
+        "event_renaissance_italy_028",
+        "event_renaissance_italy_029",
+        "event_renaissance_italy_030",
+        "event_renaissance_italy_031",
+        "event_renaissance_italy_032",
+        "event_renaissance_italy_033",
+        "event_renaissance_italy_034",
+        "event_renaissance_italy_035",
+        "event_renaissance_italy_036",
+        "event_renaissance_italy_037",
+        "event_renaissance_italy_038",
+        "event_renaissance_italy_039",
+        "event_renaissance_italy_040",
+        "event_renaissance_italy_041",
+        "event_renaissance_italy_042",
+        "event_renaissance_italy_043",
+        "event_renaissance_italy_044"
+      ],
+      "[\"distillation\", \"chemical-experimentation\"]": [
+        "event_renaissance_low_countries_000",
+        "event_renaissance_low_countries_001",
+        "event_renaissance_low_countries_002",
+        "event_renaissance_low_countries_003",
+        "event_renaissance_low_countries_004",
+        "event_renaissance_low_countries_005",
+        "event_renaissance_low_countries_006",
+        "event_renaissance_low_countries_007",
+        "event_renaissance_low_countries_008",
+        "event_renaissance_low_countries_009",
+        "event_renaissance_low_countries_010",
+        "event_renaissance_low_countries_011",
+        "event_renaissance_low_countries_012",
+        "event_renaissance_low_countries_013",
+        "event_renaissance_low_countries_014",
+        "event_renaissance_low_countries_015",
+        "event_renaissance_low_countries_016",
+        "event_renaissance_low_countries_017",
+        "event_renaissance_low_countries_018",
+        "event_renaissance_low_countries_019",
+        "event_renaissance_low_countries_020",
+        "event_renaissance_low_countries_021",
+        "event_renaissance_low_countries_022",
+        "event_renaissance_low_countries_023",
+        "event_renaissance_low_countries_024",
+        "event_renaissance_low_countries_025",
+        "event_renaissance_low_countries_026",
+        "event_renaissance_low_countries_027",
+        "event_renaissance_low_countries_028",
+        "event_renaissance_low_countries_029",
+        "event_renaissance_low_countries_030",
+        "event_renaissance_low_countries_031",
+        "event_renaissance_low_countries_032",
+        "event_renaissance_low_countries_033",
+        "event_renaissance_low_countries_034"
+      ],
+      "[\"transmutation\", \"laboratory-practice\"]": [
+        "event_early_modern_central_europe_000",
+        "event_early_modern_central_europe_001",
+        "event_early_modern_central_europe_002",
+        "event_early_modern_central_europe_003",
+        "event_early_modern_central_europe_004",
+        "event_early_modern_central_europe_005",
+        "event_early_modern_central_europe_006",
+        "event_early_modern_central_europe_007",
+        "event_early_modern_central_europe_008",
+        "event_early_modern_central_europe_009",
+        "event_early_modern_central_europe_010",
+        "event_early_modern_central_europe_011",
+        "event_early_modern_central_europe_012",
+        "event_early_modern_central_europe_013",
+        "event_early_modern_central_europe_014",
+        "event_early_modern_central_europe_015",
+        "event_early_modern_central_europe_016",
+        "event_early_modern_central_europe_017",
+        "event_early_modern_central_europe_018",
+        "event_early_modern_central_europe_019",
+        "event_early_modern_central_europe_020",
+        "event_early_modern_central_europe_021",
+        "event_early_modern_central_europe_022",
+        "event_early_modern_central_europe_023",
+        "event_early_modern_central_europe_024",
+        "event_early_modern_central_europe_025",
+        "event_early_modern_central_europe_026",
+        "event_early_modern_central_europe_027",
+        "event_early_modern_central_europe_028",
+        "event_early_modern_central_europe_029",
+        "event_early_modern_central_europe_030",
+        "event_early_modern_central_europe_031",
+        "event_early_modern_central_europe_032",
+        "event_early_modern_central_europe_033",
+        "event_early_modern_central_europe_034",
+        "event_early_modern_central_europe_035",
+        "event_early_modern_central_europe_036",
+        "event_early_modern_central_europe_037",
+        "event_early_modern_central_europe_038",
+        "event_early_modern_central_europe_039",
+        "event_early_modern_central_europe_040",
+        "event_early_modern_central_europe_041",
+        "event_early_modern_central_europe_042",
+        "event_early_modern_central_europe_043",
+        "event_early_modern_central_europe_044"
+      ],
+      "[\"chemical-practice\", \"transmutation\"]": [
+        "event_early_modern_france_000",
+        "event_early_modern_france_001",
+        "event_early_modern_france_002",
+        "event_early_modern_france_003",
+        "event_early_modern_france_004",
+        "event_early_modern_france_005",
+        "event_early_modern_france_006",
+        "event_early_modern_france_007",
+        "event_early_modern_france_008",
+        "event_early_modern_france_009",
+        "event_early_modern_france_010",
+        "event_early_modern_france_011",
+        "event_early_modern_france_012",
+        "event_early_modern_france_013",
+        "event_early_modern_france_014",
+        "event_early_modern_france_015",
+        "event_early_modern_france_016",
+        "event_early_modern_france_017",
+        "event_early_modern_france_018",
+        "event_early_modern_france_019",
+        "event_early_modern_france_020",
+        "event_early_modern_france_021",
+        "event_early_modern_france_022",
+        "event_early_modern_france_023",
+        "event_early_modern_france_024",
+        "event_early_modern_france_025",
+        "event_early_modern_france_026",
+        "event_early_modern_france_027",
+        "event_early_modern_france_028",
+        "event_early_modern_france_029",
+        "event_early_modern_france_030",
+        "event_early_modern_france_031",
+        "event_early_modern_france_032",
+        "event_early_modern_france_033",
+        "event_early_modern_france_034"
+      ],
+      "[\"operational-chemistry\", \"transmutation\"]": [
+        "event_early_modern_spain_portugal_000",
+        "event_early_modern_spain_portugal_001",
+        "event_early_modern_spain_portugal_002",
+        "event_early_modern_spain_portugal_003",
+        "event_early_modern_spain_portugal_004",
+        "event_early_modern_spain_portugal_005",
+        "event_early_modern_spain_portugal_006",
+        "event_early_modern_spain_portugal_007",
+        "event_early_modern_spain_portugal_008",
+        "event_early_modern_spain_portugal_009",
+        "event_early_modern_spain_portugal_010",
+        "event_early_modern_spain_portugal_011",
+        "event_early_modern_spain_portugal_012",
+        "event_early_modern_spain_portugal_013",
+        "event_early_modern_spain_portugal_014",
+        "event_early_modern_spain_portugal_015",
+        "event_early_modern_spain_portugal_016",
+        "event_early_modern_spain_portugal_017",
+        "event_early_modern_spain_portugal_018",
+        "event_early_modern_spain_portugal_019",
+        "event_early_modern_spain_portugal_020",
+        "event_early_modern_spain_portugal_021",
+        "event_early_modern_spain_portugal_022",
+        "event_early_modern_spain_portugal_023",
+        "event_early_modern_spain_portugal_024",
+        "event_early_modern_spain_portugal_025",
+        "event_early_modern_spain_portugal_026",
+        "event_early_modern_spain_portugal_027",
+        "event_early_modern_spain_portugal_028",
+        "event_early_modern_spain_portugal_029",
+        "event_early_modern_spain_portugal_030",
+        "event_early_modern_spain_portugal_031",
+        "event_early_modern_spain_portugal_032",
+        "event_early_modern_spain_portugal_033",
+        "event_early_modern_spain_portugal_034",
+        "event_early_modern_spain_portugal_035",
+        "event_early_modern_spain_portugal_036",
+        "event_early_modern_spain_portugal_037",
+        "event_early_modern_spain_portugal_038",
+        "event_early_modern_spain_portugal_039"
+      ],
+      "[\"distillation\"]": [
+        "event_zosimos_alexandria_003",
+        "event_salerno_school_001",
+        "event_paracelsus_legacy_001",
+        "event_medical_alchemy_001",
+        "event_bruges_workshop_001",
+        "event_boyle_chemistry_001",
+        "event_lavoisier_revolution_001"
+      ],
+      "[\"transmutation\"]": [
+        "event_printing_alchemy_001",
+        "event_alchemy_print_001",
+        "event_alchemy_church_001"
+      ],
+      "[]": [
+        "event_zosimos-of-panopolis_biography",
+        "event_jabir-ibn-hayyan_biography",
+        "event_muhammad-al-razi_biography",
+        "event_al-kindi_biography",
+        "event_muhammad-ibn-umail_biography",
+        "event_gerard-of-cremona_biography",
+        "event_roger-bacon_biography",
+        "event_arnaud-de-villanova_biography",
+        "event_raymond-lull_biography",
+        "event_paracelsus_biography",
+        "event_heinrich-khunrath_biography",
+        "event_michael-maier_biography",
+        "event_robert-boyle_biography",
+        "event_george-starkey_biography",
+        "event_isaac-newton_biography",
+        "event_theosebeia_biography",
+        "event_albertus-magnus_biography",
+        "event_thomas-aquinas_biography",
+        "event_jan-van-helmont_biography",
+        "event_wilhelm-homberg_biography",
+        "event_george-agricola_biography",
+        "event_hermes-trismegistus_biography",
+        "event_democritus_biography",
+        "event_ostanes_biography",
+        "event_mary-the-prophetess_biography",
+        "event_stephanus-of-alexandria_biography",
+        "event_michael-sendivogius_biography",
+        "event_robert-fludd_biography",
+        "event_elias-ashmole_biography",
+        "event_francis-bacon_biography",
+        "event_kenelm-digby_biography",
+        "event_george-ripley_biography",
+        "event_samuel-norton_biography",
+        "event_nicholas-flamel_biography",
+        "event_hildegard-of-bingen_biography",
+        "event_meister-eckhart_biography",
+        "event_basilius-valentinus_biography",
+        "event_christian-rosencreutz_biography",
+        "event_geoffrey-chaucer_biography",
+        "event_william-shakespeare_biography",
+        "event_johann-goethe_biography",
+        "event_john-dee_biography",
+        "event_johannes-trithemius_biography",
+        "event_robert-bostocke_biography",
+        "event_dante-alighieri_biography",
+        "event_avicenna_biography",
+        "event_al-ghazali_biography",
+        "event_robert-of-chester_biography",
+        "event_john-of-rupescissa_biography",
+        "event_william-backhouse_biography",
+        "event_summa-perfectionis_composition",
+        "event_kitab-al-asrar_composition",
+        "event_book-of-pictures_composition",
+        "event_visions-of-zosimos_composition",
+        "event_emerald-tablet_composition",
+        "event_turba-philosophorum_composition",
+        "event_atalanta-fugiens_composition",
+        "event_opus-majus_composition",
+        "event_rosarium-philosophorum_composition",
+        "event_theatrum-chemicum_composition",
+        "event_de-multiplicitione-specierum_composition",
+        "event_de-speculis-comburentibus_composition",
+        "event_secretum-secretorum_composition",
+        "event_corpus-jabirianum_composition",
+        "event_libellus-de-alchimia_composition",
+        "event_de-chemia_composition",
+        "event_symbola-aureae-mensae_composition",
+        "event_ars-combinatoria_composition",
+        "event_book-of-lambspring_composition",
+        "event_mutus-liber_composition",
+        "event_chemical-wedding-of-christian-rosencreutz_composition",
+        "event_aurora-consurgens_composition",
+        "event_splendor-solis_composition",
+        "event_amphitheatre-of-eternal-wisdom_composition",
+        "event_pictorial-keys-to-the-tarot_composition",
+        "event_collection-of-the-ancient-greek-alchemists_composition",
+        "event_alchemia_composition",
+        "event_chymisches-cabinett_composition",
+        "event_opus-minus_composition",
+        "event_opus-tertium_composition",
+        "event_picatrix_composition",
+        "event_liber-de-secretis-naturae_composition"
+      ]
+    }
+  }
 }

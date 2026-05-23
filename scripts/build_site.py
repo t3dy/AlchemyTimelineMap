@@ -550,9 +550,56 @@ def build_relationship_indices(persons, texts, concepts, events, persons_tags, t
     return relationships
 
 
+def validate_data_integrity():
+    """Validate that all timeline_events have valid location_slug references before export."""
+    print("\nValidating data integrity...")
+    conn = sqlite3.connect(DB_PATH)
+    cursor = conn.cursor()
+
+    # Check for orphaned location_slug references
+    cursor.execute("""
+        SELECT COUNT(*) as orphaned_count
+        FROM timeline_events t
+        WHERE NOT EXISTS (SELECT 1 FROM locations l WHERE l.slug = t.location_slug)
+    """)
+    result = cursor.fetchone()
+    orphaned_count = result[0] if result else 0
+
+    if orphaned_count > 0:
+        print(f"  [ERROR] Found {orphaned_count} events with invalid location_slug references:")
+        cursor.execute("""
+            SELECT t.slug, t.location_slug, t.date_label
+            FROM timeline_events t
+            WHERE NOT EXISTS (SELECT 1 FROM locations l WHERE l.slug = t.location_slug)
+            ORDER BY t.location_slug
+        """)
+        for slug, location_slug, date_label in cursor.fetchall():
+            print(f"    - Event '{slug}' ({date_label}) references non-existent location '{location_slug}'")
+        conn.close()
+        sys.exit(1)
+
+    # Get total counts for metadata
+    cursor.execute("SELECT COUNT(*) FROM timeline_events")
+    total_events = cursor.fetchone()[0]
+
+    cursor.execute("SELECT COUNT(*) FROM locations")
+    total_locations = cursor.fetchone()[0]
+
+    conn.close()
+
+    print(f"  [OK] All {total_events} events have valid location references")
+    print(f"  [OK] Database has {total_locations} locations")
+
+    return {"total_events": total_events, "total_locations": total_locations}
+
+
 def export_json_data():
     """Export data.json (all entities for JavaScript consumers)."""
     print("\nExporting JSON data...")
+
+    # Validate data integrity first
+    validation_meta = validate_data_integrity()
+
     conn = sqlite3.connect(DB_PATH)
     conn.row_factory = sqlite3.Row
     cursor = conn.cursor()
@@ -592,13 +639,20 @@ def export_json_data():
         text["concept_tags"] = texts_tags.get(text["slug"], [])
 
     data = {
+        "meta": {
+            "total_events": validation_meta["total_events"],
+            "total_locations": validation_meta["total_locations"],
+            "mapped_events": len(events),
+            "unmapped_events": validation_meta["total_events"] - len(events),
+            "validation_passed": True,
+            "generated": datetime.now().isoformat(),
+        },
         "persons": persons,
         "texts": texts,
         "concepts": concepts,
         "locations": locations,
         "events": events,
         "relationships": relationships,
-        "generated": datetime.now().isoformat(),
     }
 
     data_path = SITE_PATH / "data" / "data.json"
@@ -608,6 +662,7 @@ def export_json_data():
     print(f"  [OK] data.json exported ({len(persons)} persons, {len(texts)} texts, {len(concepts)} concepts, {len(events)} events)")
     print(f"  [OK] concept_tags extracted for {len(persons_tags)} persons, {len(texts_tags)} texts")
     print(f"  [OK] relationship indices built")
+    print(f"  [OK] validation metadata included (mapped_events: {len(events)}/{validation_meta['total_events']})")
 
 
 def build_entity_map():
