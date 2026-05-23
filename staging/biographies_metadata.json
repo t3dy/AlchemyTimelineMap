@@ -1,0 +1,98 @@
+[
+  {
+    "slug": "zosimos-of-panopolis",
+    "name": "Zosimos of Panopolis",
+    "bio_word_count": 1547,
+    "bio_sections": [
+      "opening",
+      "Works and Intellectual Context",
+      "Alchemical Significance and Operations",
+      "Transmission and Reception",
+      "Scholarly Debates",
+      "Literature"
+    ],
+    "entities_linked": 3,
+    "confidence": "HIGH",
+    "review_status": "DRAFT"
+  },
+  {
+    "slug": "theosebeia",
+    "name": "Theosebeia",
+    "bio_word_count": 1486,
+    "bio_sections": [
+      "opening",
+      "Work and Contribution",
+      "Gender and Knowledge Transmission",
+      "Transmission and Historical Reconstruction",
+      "Scholarly Debates and Modern Reception",
+      "Literature"
+    ],
+    "entities_linked": 2,
+    "confidence": "MEDIUM",
+    "review_status": "DRAFT"
+  },
+  {
+    "slug": "jabir-ibn-hayyan",
+    "name": "Jabir ibn Hayyan",
+    "bio_word_count": 1831,
+    "bio_sections": [
+      "opening",
+      "Works and Intellectual Context",
+      "Alchemical Significance and Operational Chemistry",
+      "Transmission and Reception: From Arabic to Latin",
+      "Scholarly Debates",
+      "Literature"
+    ],
+    "entities_linked": 5,
+    "confidence": "HIGH",
+    "review_status": "DRAFT"
+  },
+  {
+    "slug": "al-razi",
+    "name": "Al-Razi (Muhammad ibn Zakariya al-Razi)",
+    "bio_word_count": 1685,
+    "bio_sections": [
+      "opening",
+      "Works and Intellectual Context",
+      "Alchemical Operations and Practical Chemistry",
+      "Transmission and Integration with Medicine",
+      "Scholarly Debates and Historical Significance",
+      "Literature"
+    ],
+    "entities_linked": 3,
+    "confidence": "HIGH",
+    "review_status": "DRAFT"
+  },
+  {
+    "slug": "al-kindi",
+    "name": "Al-Kindi",
+    "bio_word_count": 1547,
+    "bio_sections": [
+      "opening",
+      "Philosophical Framework and Intellectual Context",
+      "Alchemical Thought and Natural Philosophy",
+      "Transmission and Reception in Islamic and Latin Contexts",
+      "Scholarly Debates and Historical Assessment",
+      "Literature"
+    ],
+    "entities_linked": 4,
+    "confidence": "MEDIUM",
+    "review_status": "DRAFT"
+  },
+  {
+    "slug": "ibn-umail",
+    "name": "Muhammad Ibn Umail al-Tamimi",
+    "bio_word_count": 1698,
+    "bio_sections": [
+      "opening",
+      "Works and Philosophical Synthesis",
+      "Alchemical Theory and the Path of Transformation",
+      "Transmission to Islamic, Byzantine, and Latin Contexts",
+      "Scholarly Debates and Interpretive Challenges",
+      "Literature"
+    ],
+    "entities_linked": 4,
+    "confidence": "MEDIUM",
+    "review_status": "DRAFT"
+  }
+]
