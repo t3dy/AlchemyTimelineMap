@@ -24,15 +24,21 @@ const regionColors = {
   Switzerland: "#32CD32",
   "Denmark/Sweden": "#87CEEB",
   "Low Countries": "#2E8B57",
+  Netherlands: "#2E8B57",
   Greece: "#20B2AA",
   Byzantium: "#9932CC",
-  Iberia: "#FF7F50"
+  Iberia: "#FF7F50",
+  Catalonia: "#C2410C",
+  Maghreb: "#7C3AED",
+  "Syria/Mesopotamia": "#B45309",
+  "Germany/Saxony": "#1D4ED8",
+  Poland: "#BE123C",
+  Sweden: "#0369A1",
+  Denmark: "#0F766E"
 };
 
 const locationAliases = {
   rayy: "ray",
-  venice: "ven-island",
-  venetia: "ven-island",
   basel: "basle"
 };
 
@@ -182,14 +188,13 @@ const fallbackLocations = [
   },
   {
     slug: "ven-island",
-    place_name: "Venice",
-    latitude: 45.4408,
-    longitude: 12.3155,
-    region: "Italy",
-    modern_name: "Venice, Italy",
+    place_name: "Ven Island (Hven)",
+    latitude: 55.9125,
+    longitude: 12.7211,
+    region: "Denmark/Sweden",
+    modern_name: "Ven, Denmark-Sweden",
     alchemical_significance:
-      "A printing and commercial hub that helped move alchemical books, pigments, glassware, and laboratory techniques across Europe.",
-    aliases: ["venice"],
+      "Island in the Oresund Strait where Tycho Brahe built Uraniborg, combining astronomical observation with alchemical and pharmaceutical practice.",
     key_periods: ["RENAISSANCE", "EARLY_MODERN"]
   }
 ];
@@ -329,7 +334,7 @@ function normalizeLocationRecord(location) {
 
 function buildLocationIndex(data) {
   locationIndex = new Map();
-  const sourceLocations = [...(data.locations || []), ...fallbackLocations];
+  const sourceLocations = [...fallbackLocations, ...(data.locations || [])];
 
   for (const location of sourceLocations) {
     if (!location || !location.slug) {

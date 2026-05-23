@@ -2165,6 +2165,325 @@
       "key_periods": [
         "MEDIEVAL"
       ]
+    },
+    {
+      "slug": "panopolis",
+      "place_name": "Panopolis (Akhmim)",
+      "latitude": 26.5622,
+      "longitude": 31.7453,
+      "region": "Egypt",
+      "modern_name": "Akhmim, Egypt",
+      "alchemical_significance": "Birthplace associated with Zosimos of Panopolis. Garth Fowden and Lawrence Principe treat Zosimos as a key witness to late antique Egyptian alchemy, where workshop practice, Greek philosophy, and Hermetic interpretation met.",
+      "key_figures": [
+        "zosimos-of-panopolis"
+      ],
+      "key_periods": [
+        "LATE_ANTIQUE"
+      ]
+    },
+    {
+      "slug": "harran",
+      "place_name": "Harran",
+      "latitude": 36.865,
+      "longitude": 39.0314,
+      "region": "Syria/Mesopotamia",
+      "modern_name": "Harran, Turkey",
+      "alchemical_significance": "Late antique and medieval center associated with astral religion, Greek learning, and Arabic Hermetic transmission. Scholars such as Garth Fowden and Brian Copenhaver discuss Harranian materials as part of the learned environment through which Hermetic natural philosophy circulated.",
+      "key_figures": [
+        "hermes-trismegistus"
+      ],
+      "key_periods": [
+        "LATE_ANTIQUE",
+        "MEDIEVAL"
+      ]
+    },
+    {
+      "slug": "kufa",
+      "place_name": "Kufa",
+      "latitude": 32.0347,
+      "longitude": 44.4033,
+      "region": "Iraq",
+      "modern_name": "Kufa, Iraq",
+      "alchemical_significance": "Early Islamic intellectual and religious center linked in later tradition to Jabir ibn Hayyan. Paul Kraus, William Newman, and Lawrence Principe treat the Jabirian corpus as a layered textual tradition rather than simple biography, but Kufa remains important in that tradition of attribution.",
+      "key_figures": [
+        "jabir-ibn-hayyan"
+      ],
+      "key_periods": [
+        "MEDIEVAL"
+      ]
+    },
+    {
+      "slug": "basra",
+      "place_name": "Basra",
+      "latitude": 30.5085,
+      "longitude": 47.7804,
+      "region": "Iraq",
+      "modern_name": "Basra, Iraq",
+      "alchemical_significance": "Abbasid-era intellectual center connected with encyclopedic natural philosophy and the circulation of mineral, medical, and cosmological knowledge. George Saliba and Roshdi Rashed situate Basra within the wider scholarly networks that shaped Arabic science.",
+      "key_figures": [],
+      "key_periods": [
+        "MEDIEVAL"
+      ]
+    },
+    {
+      "slug": "maragha",
+      "place_name": "Maragha",
+      "latitude": 37.3892,
+      "longitude": 46.2377,
+      "region": "Persia",
+      "modern_name": "Maragheh, Iran",
+      "alchemical_significance": "Ilkhanid scientific center best known for astronomy but important for mapping the Persian learned networks through which natural philosophy, mineral knowledge, and technical manuscript culture moved. Roshdi Rashed and George Saliba emphasize these Persianate scientific networks.",
+      "key_figures": [],
+      "key_periods": [
+        "MEDIEVAL"
+      ]
+    },
+    {
+      "slug": "fez",
+      "place_name": "Fez",
+      "latitude": 34.0181,
+      "longitude": -5.0078,
+      "region": "Maghreb",
+      "modern_name": "Fez, Morocco",
+      "alchemical_significance": "Western Islamic scholarly and craft center connected to manuscript circulation, pharmacy, dyeing, and metallurgical exchange across the Maghreb and al-Andalus. Michela Pereira and Lawrence Principe emphasize such western Islamic routes in the movement of alchemical materials into Latin Europe.",
+      "key_figures": [],
+      "key_periods": [
+        "MEDIEVAL"
+      ]
+    },
+    {
+      "slug": "granada",
+      "place_name": "Granada",
+      "latitude": 37.1773,
+      "longitude": -3.5986,
+      "region": "Spain",
+      "modern_name": "Granada, Spain",
+      "alchemical_significance": "Nasrid and late medieval Iberian center where Arabic learned culture, medicine, craft practice, and translation networks remained active. Historians of medieval science treat Granada as part of the Andalusi environment that mediated Arabic natural philosophy into Latin contexts.",
+      "key_figures": [],
+      "key_periods": [
+        "MEDIEVAL"
+      ]
+    },
+    {
+      "slug": "seville",
+      "place_name": "Seville",
+      "latitude": 37.3891,
+      "longitude": -5.9845,
+      "region": "Spain",
+      "modern_name": "Seville, Spain",
+      "alchemical_significance": "Iberian commercial and manuscript center with links to Arabic-Latin transmission and later Atlantic exchange. Pamela Smith and Lawrence Principe frame such urban craft and trade settings as crucial for understanding practical chemical knowledge.",
+      "key_figures": [],
+      "key_periods": [
+        "MEDIEVAL",
+        "EARLY_MODERN"
+      ]
+    },
+    {
+      "slug": "valencia",
+      "place_name": "Valencia",
+      "latitude": 39.4699,
+      "longitude": -0.3763,
+      "region": "Spain",
+      "modern_name": "Valencia, Spain",
+      "alchemical_significance": "Mediterranean Iberian center connected to medicine, pharmacy, and Lullian transmission. Michela Pereira emphasizes the western Mediterranean setting of the pseudo-Lullian alchemical corpus and its later reception.",
+      "key_figures": [
+        "raymond-lull",
+        "arnaud-de-villanova"
+      ],
+      "key_periods": [
+        "MEDIEVAL",
+        "RENAISSANCE"
+      ]
+    },
+    {
+      "slug": "barcelona",
+      "place_name": "Barcelona",
+      "latitude": 41.3874,
+      "longitude": 2.1686,
+      "region": "Catalonia",
+      "modern_name": "Barcelona, Spain",
+      "alchemical_significance": "Catalan urban and maritime center tied to the Lullian and medical traditions of the western Mediterranean. Michela Pereira treats Catalonia as central to the later alchemical authority attached to Raymond Lull.",
+      "key_figures": [
+        "raymond-lull",
+        "arnaud-de-villanova"
+      ],
+      "key_periods": [
+        "MEDIEVAL",
+        "RENAISSANCE"
+      ]
+    },
+    {
+      "slug": "palma-mallorca",
+      "place_name": "Palma, Mallorca",
+      "latitude": 39.5696,
+      "longitude": 2.6502,
+      "region": "Catalonia",
+      "modern_name": "Palma, Mallorca, Spain",
+      "alchemical_significance": "Mallorcan center associated with Raymond Lull and the later Lullian tradition. Michela Pereira distinguishes Lull himself from the later pseudo-Lullian alchemical corpus, but Mallorca remains central to the authority attached to that tradition.",
+      "key_figures": [
+        "raymond-lull"
+      ],
+      "key_periods": [
+        "MEDIEVAL"
+      ]
+    },
+    {
+      "slug": "naples",
+      "place_name": "Naples",
+      "latitude": 40.8518,
+      "longitude": 14.2681,
+      "region": "Italy",
+      "modern_name": "Naples, Italy",
+      "alchemical_significance": "Southern Italian courtly and intellectual center associated with natural magic, medicine, and experimental culture. Frances Yates and Brian Copenhaver discuss Neapolitan natural magic as part of the Renaissance environment in which alchemy, optics, and occult philosophy overlapped.",
+      "key_figures": [],
+      "key_periods": [
+        "RENAISSANCE",
+        "EARLY_MODERN"
+      ]
+    },
+    {
+      "slug": "padua",
+      "place_name": "Padua",
+      "latitude": 45.4064,
+      "longitude": 11.8768,
+      "region": "Italy",
+      "modern_name": "Padua, Italy",
+      "alchemical_significance": "University center for medicine and Aristotelian natural philosophy. William Newman and Lawrence Principe emphasize university medicine as one route by which alchemical operations became academically legible.",
+      "key_figures": [],
+      "key_periods": [
+        "RENAISSANCE",
+        "EARLY_MODERN"
+      ]
+    },
+    {
+      "slug": "venice",
+      "place_name": "Venice",
+      "latitude": 45.4408,
+      "longitude": 12.3155,
+      "region": "Italy",
+      "modern_name": "Venice, Italy",
+      "alchemical_significance": "Major center for printing, glassmaking, pigment trade, and the circulation of alchemical books. Pamela Smith and William Newman both stress the importance of urban craft, print, and material culture for early modern chymistry.",
+      "key_figures": [],
+      "key_periods": [
+        "RENAISSANCE",
+        "EARLY_MODERN"
+      ]
+    },
+    {
+      "slug": "nuremberg",
+      "place_name": "Nuremberg",
+      "latitude": 49.4521,
+      "longitude": 11.0767,
+      "region": "Germany",
+      "modern_name": "Nuremberg, Germany",
+      "alchemical_significance": "German craft, printing, instrument, and metalworking center. Pamela Smith uses German urban craft culture to show how artisans, metallurgists, and learned practitioners shaped early modern material knowledge.",
+      "key_figures": [],
+      "key_periods": [
+        "RENAISSANCE",
+        "EARLY_MODERN"
+      ]
+    },
+    {
+      "slug": "freiberg-saxony",
+      "place_name": "Freiberg, Saxony",
+      "latitude": 50.9175,
+      "longitude": 13.3428,
+      "region": "Germany/Saxony",
+      "modern_name": "Freiberg, Germany",
+      "alchemical_significance": "Mining and metallurgy center associated with the practical world described by Georg Agricola. Pamela Smith and William Newman treat mining, assaying, and metallurgical practice as central to the material culture from which chymistry developed.",
+      "key_figures": [
+        "george-agricola"
+      ],
+      "key_periods": [
+        "RENAISSANCE",
+        "EARLY_MODERN"
+      ]
+    },
+    {
+      "slug": "wittenberg",
+      "place_name": "Wittenberg",
+      "latitude": 51.8667,
+      "longitude": 12.65,
+      "region": "Germany/Saxony",
+      "modern_name": "Wittenberg, Germany",
+      "alchemical_significance": "Reformation university center where medicine, natural philosophy, and debates over Paracelsian reform circulated in northern Europe. Bruce Moran and Lawrence Principe treat confessional university settings as important for early modern chymical controversy.",
+      "key_figures": [
+        "paracelsus"
+      ],
+      "key_periods": [
+        "EARLY_MODERN"
+      ]
+    },
+    {
+      "slug": "kassel",
+      "place_name": "Kassel",
+      "latitude": 51.3127,
+      "longitude": 9.4797,
+      "region": "Germany",
+      "modern_name": "Kassel, Germany",
+      "alchemical_significance": "Courtly center of Hessian alchemy and chymistry under Landgrave Moritz. Bruce Moran treats Kassel as a central site for understanding court laboratories, patronage, and early modern chemical practice.",
+      "key_figures": [],
+      "key_periods": [
+        "EARLY_MODERN"
+      ]
+    },
+    {
+      "slug": "leiden",
+      "place_name": "Leiden",
+      "latitude": 52.1601,
+      "longitude": 4.497,
+      "region": "Netherlands",
+      "modern_name": "Leiden, Netherlands",
+      "alchemical_significance": "Dutch university and medical center where chymistry became part of learned medicine and teaching. Lawrence Principe treats such university settings as places where alchemical operations were reframed as chemistry.",
+      "key_figures": [],
+      "key_periods": [
+        "EARLY_MODERN"
+      ]
+    },
+    {
+      "slug": "krakow",
+      "place_name": "Krakow",
+      "latitude": 50.0647,
+      "longitude": 19.945,
+      "region": "Poland",
+      "modern_name": "Krakow, Poland",
+      "alchemical_significance": "Central European university and courtly environment connected with the career of Michael Sendivogius. Lawrence Principe discusses Sendivogius as a major figure in early modern alchemy and the theory of nitre and air.",
+      "key_figures": [
+        "michael-sendivogius"
+      ],
+      "key_periods": [
+        "EARLY_MODERN"
+      ]
+    },
+    {
+      "slug": "uppsala",
+      "place_name": "Uppsala",
+      "latitude": 59.8586,
+      "longitude": 17.6389,
+      "region": "Sweden",
+      "modern_name": "Uppsala, Sweden",
+      "alchemical_significance": "Northern European university center important for the later transition from alchemical operations to academic chemistry. Lawrence Principe situates eighteenth-century chemistry as a transformation of older chymical practices rather than a clean break.",
+      "key_figures": [],
+      "key_periods": [
+        "EARLY_MODERN",
+        "MODERN"
+      ]
+    },
+    {
+      "slug": "copenhagen",
+      "place_name": "Copenhagen",
+      "latitude": 55.6761,
+      "longitude": 12.5683,
+      "region": "Denmark",
+      "modern_name": "Copenhagen, Denmark",
+      "alchemical_significance": "Scandinavian court and university center connected to Tycho Brahe, medical humanism, collecting, and laboratory culture around the Danish realm. Pamela Smith and Lawrence Principe frame such courtly settings as important habitats for early modern chymistry.",
+      "key_figures": [
+        "tycho-brahe"
+      ],
+      "key_periods": [
+        "RENAISSANCE",
+        "EARLY_MODERN"
+      ]
     }
   ],
   "events": [
@@ -11481,5 +11800,5 @@
       "created_at": "2026-05-23 04:52:45"
     }
   ],
-  "generated": "2026-05-23T09:00:05.730Z"
+  "generated": "2026-05-23T09:05:08.580Z"
 }
