@@ -1,7 +1,7 @@
 # ALCHEMYTIMELINEMAP Phase Status
 
-**Updated:** 2026-05-22 (Phase 1 Complete - All 480/480 events enriched)
-**Current Phase:** PHASE 2 (READY) — PERSONS, TEXTS, CONCEPTS EXPANSION
+**Updated:** 2026-05-23 (Interactive Map Complete - All 582/582 events visible on map)
+**Current Phase:** PHASE 2 (IN PROGRESS) — PERSONS, TEXTS, CONCEPTS EXPANSION + INTERACTIVE MAP LIVE
 
 ---
 
@@ -80,7 +80,56 @@
 
 ---
 
-### Phase 2: Persons + Texts Enrichment (READY TO BEGIN)
+### INTERACTIVE MAP FEATURE (✅ COMPLETE - 2026-05-23)
+
+**Goal:** Display all 582 timeline events on an interactive map with rich event details, hover/click popups, and filtering.
+
+**Completion Status (2026-05-23):**
+- ✅ All 582/582 events visible on map (100% coverage)
+- ✅ Data integrity issue fixed: 20 orphaned location_slug references corrected
+- ✅ Validation migration added to init_db.py to prevent future FK violations
+- ✅ Enhanced event popups with:
+  - Full event description (HTML-stripped)
+  - Persons involved (linked to person pages)
+  - Texts cited (linked to text pages)
+  - Concepts (linked to concept pages)
+- ✅ Hover behavior: popups show on mouseover, persist on click
+- ✅ Scrollable event lists for locations with 3+ events
+- ✅ Build validation: data integrity check before data.json export
+- ✅ Deployed to GitHub Pages (site/ → docs/)
+
+**Implementation Details:**
+- **Phase 1 (Data Fix):** Fixed location_slug='rayy' → 'ray' for 20 events; added validation migration
+- **Phase 2 (Map UX):** Enhanced map.js with hover/click interaction and rich event cards
+- **Phase 3 (Build Validation):** Added integrity validation to build_site.py before data export
+- **Database:** All 582 timeline_events now have valid location references (FK constraint satisfied)
+- **CSS:** Added 60+ lines of styling for scrollable popups, entity links, concept tags
+
+**Verification Queries:**
+```sql
+-- Verify all events have valid locations
+SELECT COUNT(*) FROM timeline_events t 
+WHERE NOT EXISTS (SELECT 1 FROM locations l WHERE l.slug = t.location_slug);
+-- Expected: 0
+
+-- Verify all locations have events
+SELECT l.slug, COUNT(t.id) as event_count FROM locations l
+LEFT JOIN timeline_events t ON t.location_slug = l.slug
+GROUP BY l.slug
+ORDER BY event_count DESC;
+-- Expected: 60 locations with 1-20 events each
+```
+
+**Files Modified:**
+- `scripts/init_db.py` — Added validate_location_references() migration
+- `scripts/build_site.py` — Added validate_data_integrity() check before export
+- `site/assets/map.js` — Enhanced popup content + hover/click behavior
+- `site/assets/style.css` — Added 60+ lines for popup styling
+- `db/alchemy_timeline.db` — Fixed 20 orphaned rows
+
+---
+
+### Phase 2: Persons + Texts Enrichment (READY TO CONTINUE)
 
 **Goal:** Expand all persons to 1,200–2,200 words and texts to 1,000–1,800 words.
 
