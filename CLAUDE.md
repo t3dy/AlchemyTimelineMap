@@ -8,9 +8,11 @@
 
 1. **Read `PROMPTS.md` in full.** It is the canonical record of the project vision, historiographical framework, three constituencies, and all architectural decisions.
 
-2. **Read `STYLEGUIDE.md` in full.** It governs all prose fields (`description`, `bio_html`, `analysis_html`, `definition_long`) with precise word counts and required structures.
+2. **Read `SCHOLARLYPROFILE.md` in full.** It documents Ted Hand's scholarly values, methodological commitments, and historiographical framework. This shapes all content standards and editorial decisions.
 
-3. **Read `docs/CONTEXT_ENGINEERING.md`.** It explains how to efficiently query the database for timeline event descriptions without creating context explosion with 500 events.
+3. **Read `STYLEGUIDE.md` in full.** It governs all prose fields (`description`, `bio_html`, `analysis_html`, `definition_long`) with precise word counts, required structures, and historiographical standards (actor/analyst distinction, material grounding, transmission chains).
+
+4. **Read `docs/CONTEXT_ENGINEERING.md`.** It explains how to efficiently query the database for timeline event descriptions without creating context explosion with 500 events.
 
 ---
 

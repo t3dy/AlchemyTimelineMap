@@ -76,10 +76,10 @@ Every biography **must** contain:
 **At least two `<h2>` sections**, each 250–400 words:
 
 *For historical alchemists/chemists:*
-- `<h2>Works and Intellectual Context</h2>` — specific texts, their arguments, sources
-- `<h2>Alchemical Significance</h2>` — engagement with transmutation theory, practical operations, theoretical innovations
-- `<h2>Transmission and Reception</h2>` — how were they read and cited by successors?
-- `<h2>Scholarly Debates</h2>` — what do modern historians disagree about?
+- `<h2>Works and Intellectual Context</h2>` — specific texts, their arguments, what sources they drew from, intellectual traditions they engaged with
+- `<h2>Alchemical Significance</h2>` — engagement with transmutation theory, practical operations, theoretical innovations. Ground in material reality: what was actually being done in the laboratory? What equipment? What dangers?
+- `<h2>Transmission and Reception</h2>` — how were they read and cited by successors? Were they misunderstood? Reinterpreted? Which manuscripts survived? How did translations alter their meaning?
+- `<h2>Scholarly Debates</h2>` — what do modern historians disagree about? Name the scholars and their arguments explicitly. If there's disagreement about authentorship, dating, sources, or significance, present the evidence for competing views.
 
 *For modern scholars:*
 - `<h2>Central Thesis</h2>` — their most distinctive historiographical argument
@@ -127,13 +127,23 @@ Do NOT italicize proper names of persons, places, or institutions.
 **Format:** Valid HTML with `<p>`, `<h2>`, `<i>`, `<b>` tags.
 **Bibliographic minimum:** 8–15 items in Literature section.
 
+**Critical note on Actor/Analyst Distinction:** Following Wouter J. Hanegraaff's *Dictionary of Gnosis and Western Esotericism*, you MUST distinguish between:
+- **ACTOR_TERMs**: Words used by historical practitioners (e.g., *distillatio*, *calcination*, *transmutatio*). These are terms that alchemists themselves employed and would recognize.
+- **ANALYST_TERMs**: Modern retrospective scholarly categories (e.g., *alchemy*, *Hermeticism*, *esotericism*). These are frameworks historians impose after the fact.
+
+Never collapse these registers. If scholars argue about whether a term was really used or really meant what we think it means, say so explicitly.
+
 **Required structure:**
 
 **Opening paragraph** (150–250 words): State the term in original language if applicable. Declare explicitly whether it is an ACTOR_TERM (used by historical alchemists) or ANALYST_TERM (modern historiographical category). Give earliest attestation. Establish significance. Do NOT begin with "This term..." or "This concept..." — begin with the term itself.
 
-**`<h2>Historical Usage</h2>`** (400–600 words): Trace the term's evolution from earliest attestation through Late Antiquity, medieval Islam, medieval Latin, Renaissance, and early modernity. Name specific texts and authors. Show shifts in meaning.
+**Example opening for ACTOR_TERM:** "Distillatio (Latin; also *distillation* in English, *dhiqa* in some Arabic texts) was an operational term used by medieval and early modern alchemists to describe the separation of substances by heating and condensation, producing volatile essences or refined products..."
 
-**`<h2>Scholarly Significance</h2>`** (400–600 words): How have modern scholars debated this term? Name them by name. State their specific arguments. If historians disagree, state the disagreement explicitly.
+**Example opening for ANALYST_TERM:** "Hermeticism is a modern scholarly category for a complex of ideas, texts, and practices ostensibly derived from the Hermetic corpus (Corpus Hermeticum), though Wouter J. Hanegraaff has questioned whether historical actors would have recognized themselves under this rubric. The term gained currency in 20th-century esotericism studies to describe a tradition spanning from Late Antiquity through the present, though contemporary usage masks significant historiographical disputes about periodization and boundaries."
+
+**`<h2>Historical Usage</h2>`** (400–600 words): Trace the term's evolution from earliest attestation through Late Antiquity, medieval Islam, medieval Latin, Renaissance, and early modernity. Name specific texts and authors. Show shifts in meaning. **For ACTOR_TERMs especially:** Ground the term in material reality. What was the actual operation or substance? What tools, dangers, or sensory experiences were involved? (E.g., distillation produces vapors that can be condensed; it requires glass or copper equipment; it poses burn and respiratory hazards.) This grounds abstract terminology in the embodied experience of the alchemist. **For transmission:** Show how the term traveled across cultures and languages, how translations altered meaning, and how practitioners in different contexts may have understood it differently.
+
+**`<h2>Scholarly Significance</h2>`** (400–600 words): How have modern scholars debated this term? Name them by name. State their specific arguments. If historians disagree, state the disagreement explicitly and engage with the evidence on both sides. Example structure: "William R. Newman has argued that distillation was primarily an operational technique rooted in reproducible chemistry, citing specific passages from the *Corpus Jabirianum* (e.g., *Summa Perfectionis* II.7) where the apparatus is described with technical precision. However, Lawrence Principe emphasizes that many alchemists also attributed transmutational significance to distillation, suggesting the operation and the transmutational belief were inseparable in practitioners' minds. Pamela Smith's work on artisanal epistemology suggests that this disagreement reflects a false binary: alchemists learned through embodied, practical engagement with the apparatus itself, which produced both observable chemical effects and theoretical speculation about matter's nature."
 
 **`<h2>Transmission and Variant Forms</h2>`** (200–400 words, OPTIONAL): Include for terms with Greek, Arabic, Latin, or Hebrew variants, or for terms whose meaning shifted significantly in translation.
 
@@ -163,6 +173,43 @@ All `<h2>Literature</h2>` sections use the following format, modeled on the *Dic
 - Articles: full page range
 - Alphabetical by author surname
 - No "ibid."
+
+---
+
+## Historiographical Standards: Actor/Analyst Distinction, Material Culture, Transmission
+
+This portal follows the historiographical framework of **Wouter J. Hanegraaff** (*Dictionary of Gnosis and Western Esotericism*, Brill, 2006) and **Pamela H. Smith** (*The Business of Alchemy*, Smith, 2004; Making and Knowing methodology).
+
+### The Actor/Analyst Distinction (MANDATORY)
+
+Every entry must be clear about whose perspective we're adopting:
+
+- **ACTOR perspective**: What did practitioners in their own time call this? What did they think they were doing? What would surprise or offend them about modern interpretation?
+- **ANALYST perspective**: What retrospective categories do 21st-century historians use? How did we arrive at terms like "alchemy," "Hermeticism," or "esotericism"?
+
+Collapsing these perspectives creates false unity and hides genuine historical complexity. Example: Medieval alchemists never called themselves "Hermeticists." They may have read Hermetic texts, but they would not have recognized "Hermeticism" as a category. This is a modern analytical frame. State this clearly.
+
+### Material Culture and Embodied Knowledge
+
+Following Pamela Smith's *artisanal epistemology*, ground all discussions in the material reality of the laboratory:
+
+- What equipment was used? (alembics, retorts, furnaces, crucibles)
+- What materials? (minerals, metals, plant matter, animal products)
+- What dangers? (fumes, burns, explosions, toxins)
+- How was knowledge transmitted? (apprenticeship, bodily practice, not just reading)
+
+Avoid floating abstractions like "transmutation belief." Instead: "Alchemists heated mercury and sulfur together in sealed vessels, expecting to transform base metals into gold, based on theoretical frameworks derived from Jabir ibn Hayyan's operational chemistry and Neoplatonic theories of matter."
+
+### Transmission and Reception History
+
+Every person, text, and concept has a *history*. It was created, copied, translated, misread, reused, embedded in new contexts. Show this:
+
+- Which manuscripts survived and which were lost?
+- How did translation alter meaning? (Arabic *dhiqa* → Latin *distillatio* → English *distillation*)
+- Who read this text and what did they do with it? (Was it corrected? Rejected? Integrated into new frameworks?)
+- Was the author understood as they intended? Or misread? (This is often more historically interesting than "accurate" reading.)
+
+Example: The *Emerald Tablet* circulated in multiple versions. Medieval Latin translators read it as a recipe for transmutation. Renaissance Hermeticists read it as a cosmological text. Modern scholars argue about what Hermes Trismegistus "really" meant, but the medieval and Renaissance *misreadings* shaped alchemy's actual history. Show all of this.
 
 ---
 

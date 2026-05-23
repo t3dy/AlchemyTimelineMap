@@ -70,6 +70,14 @@ CREATE TABLE persons (
     -- Full biography (1,200–2,200 words)
     bio_html TEXT NOT NULL,
     
+    -- Transmission history (OPTIONAL): JSON array of predecessor/successor slugs
+    -- e.g. ["zosimos", "pseudo-jabir", "jabir-ibn-hayyan", "al-razi"]
+    transmission_chain TEXT,
+    
+    -- Historiographical disputes (OPTIONAL): plain text note on contested claims
+    -- e.g. "Authorship of corpus disputed between Principle and Newman; see bio section"
+    scholarly_disagreement TEXT,
+    
     -- Provenance
     source_method TEXT NOT NULL CHECK(source_method IN ('MANUAL', 'AI_ASSISTED', 'SCHOLARSHIP_BASED')),
     review_status TEXT NOT NULL CHECK(review_status IN ('DRAFT', 'REVIEWED', 'VERIFIED')),
@@ -114,6 +122,14 @@ CREATE TABLE texts (
     -- Full text description/analysis (1,000–1,800 words)
     analysis_html TEXT NOT NULL,
     
+    -- Transmission history (OPTIONAL): JSON array of predecessors/successors
+    -- e.g. for a translation: ["corpus-hermeticum-greek", "corpus-hermeticum-latin-ficino"]
+    transmission_chain TEXT,
+    
+    -- Historiographical disputes (OPTIONAL): plain text note on contested claims
+    -- e.g. "Authorship disputed; date uncertain; multiple recensions exist"
+    scholarly_disagreement TEXT,
+    
     -- Provenance
     source_method TEXT NOT NULL CHECK(source_method IN ('MANUAL', 'AI_ASSISTED', 'SCHOLARSHIP_BASED')),
     review_status TEXT NOT NULL CHECK(review_status IN ('DRAFT', 'REVIEWED', 'VERIFIED')),
@@ -149,7 +165,12 @@ CREATE TABLE concepts (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     slug TEXT UNIQUE NOT NULL,  -- e.g. "distillation"
     label TEXT NOT NULL,        -- term name (e.g., "Distillation")
-    category_type TEXT NOT NULL CHECK(category_type IN ('ACTOR_TERM', 'ANALYST_TERM')),
+    category_type TEXT NOT NULL CHECK(category_type IN (
+        'ACTOR_TERM',              -- used by historical practitioners (e.g., "distillatio")
+        'ANALYST_TERM',            -- modern scholarly category (e.g., "alchemy")
+        'DISPUTED_ACTOR_TERM',     -- practitioners used inconsistently or unclear
+        'RETROSPECTIVE_MISREADING' -- scholars invented; practitioners wouldn't recognize
+    )),
     
     -- Index card (60–120 words)
     definition_short TEXT NOT NULL,
@@ -160,8 +181,16 @@ CREATE TABLE concepts (
     -- Chemical operation type (if applicable)
     operation_type TEXT CHECK(operation_type IN (
         'DISTILLATION', 'SUBLIMATION', 'CALCINATION', 'FERMENTATION', 'CRYSTALLIZATION',
-        'DISSOLUTION', 'COAGULATION', 'PUTREFACTION', 'CIRCULATION'
+        'DISSOLUTION', 'COAGULATION', 'PUTREFACTION', 'CIRCULATION', 'MATERIAL_TRANSFORMATION'
     )),
+    
+    -- Historiographical disputes (OPTIONAL): plain text note on contested interpretation
+    -- e.g. "Scholars debate whether practitioners used this term or whether later editors imposed it"
+    scholarly_disagreement TEXT,
+    
+    -- Transmission history (OPTIONAL): JSON array showing how the concept evolved
+    -- e.g. for "distillation": ["ancient-distillation-zosimos", "arabic-dhiqa", "latin-distillatio"]
+    transmission_chain TEXT,
     
     -- Provenance
     source_method TEXT NOT NULL CHECK(source_method IN ('MANUAL', 'AI_ASSISTED', 'SCHOLARSHIP_BASED')),
