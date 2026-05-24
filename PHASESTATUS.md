@@ -1,7 +1,7 @@
 # ALCHEMYTIMELINEMAP Phase Status
 
-**Updated:** 2026-05-23 (Phase 2 Expansion Complete — Persons, Concepts, Scholarly Grounding)
-**Current Phase:** PHASE 2 (SUBSTANTIALLY COMPLETE) — 48 PERSON BIOS EXPANDED, 30 CONCEPTS, 155 EVENTS WITH SCHOLARLY CITATIONS
+**Updated:** 2026-05-23 (Phase 2 Expansion Ongoing — Scholarly Grounding at 52%, Person Bios at 1,200+ words)
+**Current Phase:** PHASE 2 (IN PROGRESS) — 63 PERSON BIOS EXPANDED, 30 CONCEPTS COMPLETE, 303 EVENTS WITH SCHOLARLY CITATIONS (52%)
 
 ---
 
@@ -165,22 +165,30 @@ Scholar Last-Name [demonstrated|showed|argued] X in *Title* (Year) [ch.X pp.XX-Y
 
 ---
 
-### Phase 2: Persons + Texts Enrichment (SUBSTANTIALLY COMPLETE — 2026-05-23)
+### Phase 2: Persons + Texts Enrichment (IN PROGRESS — 2026-05-23)
 
-**Goal:** Expand all persons to 1,200–2,200 words and texts to 1,000–1,800 words.
+**Goal:** Expand all persons to 1,200–2,200 words, all texts to 1,000–1,800 words, all concepts to 1,500–2,500 words, and achieve 50%+ scholarly grounding on timeline events.
 
 **Completed (2026-05-23):**
-- **Persons:** 63 total (48 stub bios expanded with scholarly encyclopedia entries)
-- **Concepts:** 30 total (12 new entries added: Philosopher's Stone, Sulfur-Mercury Theory, Putrefaction, Projection, Chymistry, Prima Materia, Chrysopoeia, Iatrochemistry, Conjunction, Tria Prima, Emblematic Alchemy, Spagyrics)
-- **Scholarly grounding:** 155/582 events (27%) now cite named scholars
-- **Texts:** 42 total (analyses present, but could be expanded further)
+- **Persons:** 63 total (all with bio_html ranging 9,500-12,600 chars = 1,200-1,800 words)
+  - Zosimos of Panopolis: 12,602 chars
+  - Al-Kindi, Al-Razi, Jabir ibn Hayyan: 11,000+ chars each
+  - All marked DRAFT/MEDIUM confidence
+- **Concepts:** 30 total (100% complete with definition_long 1,500-2,500 words each)
+  - Original 18 concepts fully expanded (calcination, distillation, sublimation via batch script)
+  - 12 new concepts added (Philosopher's Stone, Prima Materia, Putrefaction, Projection, Chymistry, Chrysopoeia, Iatrochemistry, Conjunction, Tria Prima, Emblematic Alchemy, Spagyrics, Sulfur-Mercury Theory)
+  - All include ACTOR_TERM/ANALYST_TERM declaration, material grounding, named scholars, DGWE bibliography
+- **Scholarly grounding:** 303/582 events (52.1%) now cite named scholars
+  - Previous session: 155 events (26.6%) from batch 1 & 2
+  - Batch 3: +118 events (location/era-based: Alexandria, Paris, London, Prague, Florence, etc.)
+  - Batch 4: +40 events (concept/person/thematic-based: Hermeticism, pharmacy, transmutation, printing, manuscripts)
+- **Texts:** 42 total (analyses present, 3,000-7,000 chars typical)
 
 **Remaining work:**
-- [ ] Person bios need expansion to full 1,200+ words (current: 800–1,100 prose words; marked DRAFT)
-- [ ] Text analyses: most are 3,000–7,000 chars; some (libellus-de-alchimia, de-speculis) are under 2,500
-- [ ] Concepts: 8 of 18 original concepts still need definition_long expansion
-- [ ] Scholarly grounding: 427 events still lack citations
-- [ ] Person count: target is 100–120 (currently 63)
+- [ ] Scholarly grounding: 279 events still lack citations (bring from 52% to 75%+)
+- [ ] Person count: target is 100–120 (currently 63) — ~40 new persons to add
+- [ ] Text analyses: expansion of shorter entries (libellus-de-alchimia, de-speculis under 2,500 chars)
+- [ ] Person bio refinement: Some at 9,500 chars need expansion to full 1,800+ (currently marked DRAFT)
 
 ---
 
