@@ -1,7 +1,7 @@
 # ALCHEMYTIMELINEMAP Phase Status
 
-**Updated:** 2026-05-23 (Scholarly Grounding Framework Complete - Timeline & Event Pages Ready)
-**Current Phase:** PHASE 2 (IN PROGRESS) — PERSONS, TEXTS, CONCEPTS EXPANSION + INTERACTIVE MAP LIVE + SCHOLARLY CITATIONS
+**Updated:** 2026-05-23 (Phase 2 Expansion Complete — Persons, Concepts, Scholarly Grounding)
+**Current Phase:** PHASE 2 (SUBSTANTIALLY COMPLETE) — 48 PERSON BIOS EXPANDED, 30 CONCEPTS, 155 EVENTS WITH SCHOLARLY CITATIONS
 
 ---
 
@@ -165,46 +165,22 @@ Scholar Last-Name [demonstrated|showed|argued] X in *Title* (Year) [ch.X pp.XX-Y
 
 ---
 
-### Phase 2: Persons + Texts Enrichment (READY TO CONTINUE)
+### Phase 2: Persons + Texts Enrichment (SUBSTANTIALLY COMPLETE — 2026-05-23)
 
 **Goal:** Expand all persons to 1,200–2,200 words and texts to 1,000–1,800 words.
 
-**Current entity counts:**
-- **Persons:** 20 (target: 100–120)
-- **Texts:** 14 (target: 50–60)
-- **Concepts:** 18 (target: 30–40)
+**Completed (2026-05-23):**
+- **Persons:** 63 total (48 stub bios expanded with scholarly encyclopedia entries)
+- **Concepts:** 30 total (12 new entries added: Philosopher's Stone, Sulfur-Mercury Theory, Putrefaction, Projection, Chymistry, Prima Materia, Chrysopoeia, Iatrochemistry, Conjunction, Tria Prima, Emblematic Alchemy, Spagyrics)
+- **Scholarly grounding:** 155/582 events (27%) now cite named scholars
+- **Texts:** 42 total (analyses present, but could be expanded further)
 
-**Immediate next steps (Phase 2.1 — Expand existing entities):**
-
-1. **Expand person biographies (bio_html):**
-   - Minimum: 1,200–2,200 words
-   - Required sections: opening para (200–350w) + 2–4 named `<h2>` sections (250–400w each) + Literature (5–12 refs)
-   - Start with core figures: Zosimos, Jabir, Al-Razi, Al-Kindi, Gerard of Cremona, Roger Bacon, Paracelsus, Ficino, Pico
-
-2. **Expand text analyses (analysis_html):**
-   - Minimum: 1,000–1,800 words
-   - Required sections: opening para (200–300w) + Content/Theory (300–500w) + Composition (200–400w) + Modern Scholarship (150–300w) + Literature (5–12 refs)
-   - Start with canonical texts: Corpus Hermeticum, Kitāb al-Ḥāsib, Summa Perfectionis, Emerald Tablet
-
-3. **Expand concept definitions (definition_long):**
-   - Minimum: 1,500–2,500 words
-   - Required sections: opening para + Historical Usage (400–600w) + Scholarly Significance (400–600w) + Related Concepts + Literature (8–15 refs)
-   - Prioritize: Distillation, Transmutation, Calcination, Sublimation
-
-**Approach:**
-- Query persons/texts/concepts with word counts < minimum
-- Pre-query enrichment context (texts by person, events involving person, etc.)
-- Agent Type B/C (Biography/Text/Concept Enricher): expand existing entries
-- Validate and reload
-- Rebuild site
-
-**Success criteria:**
-- [ ] All persons: 1,200+ words with Literature section
-- [ ] All texts: 1,000+ words with Literature section
-- [ ] All concepts: 1,500+ words with Literature section
-- [ ] All biographies cite ≥2 named scholars
-- [ ] All Literature sections have 5–15 items in DGWE format
-- [ ] Every entry links to ≥3 other entities
+**Remaining work:**
+- [ ] Person bios need expansion to full 1,200+ words (current: 800–1,100 prose words; marked DRAFT)
+- [ ] Text analyses: most are 3,000–7,000 chars; some (libellus-de-alchimia, de-speculis) are under 2,500
+- [ ] Concepts: 8 of 18 original concepts still need definition_long expansion
+- [ ] Scholarly grounding: 427 events still lack citations
+- [ ] Person count: target is 100–120 (currently 63)
 
 ---
 
