@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "alchemy-site",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["-m", "http.server", "7890", "--directory", "site"],
+      "port": 7890
+    }
+  ]
+}
