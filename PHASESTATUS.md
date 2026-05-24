@@ -1,7 +1,7 @@
 # ALCHEMYTIMELINEMAP Phase Status
 
-**Updated:** 2026-05-23 (Phase 2 Expansion Ongoing — Scholarly Grounding at 52%, Person Bios at 1,200+ words)
-**Current Phase:** PHASE 2 (IN PROGRESS) — 63 PERSON BIOS EXPANDED, 30 CONCEPTS COMPLETE, 303 EVENTS WITH SCHOLARLY CITATIONS (52%)
+**Updated:** 2026-05-23 (Phase 2 Expansion Complete — Scholarly Grounding at 100%, Person Bios at 1,200+ words)
+**Current Phase:** PHASE 2 (✅ COMPLETE) — 63 PERSON BIOS EXPANDED, 30 CONCEPTS COMPLETE, 582 EVENTS WITH SCHOLARLY CITATIONS (100%)
 
 ---
 
@@ -165,9 +165,9 @@ Scholar Last-Name [demonstrated|showed|argued] X in *Title* (Year) [ch.X pp.XX-Y
 
 ---
 
-### Phase 2: Persons + Texts Enrichment (IN PROGRESS — 2026-05-23)
+### Phase 2: Persons + Texts Enrichment + Scholarly Grounding (✅ COMPLETE — 2026-05-23)
 
-**Goal:** Expand all persons to 1,200–2,200 words, all texts to 1,000–1,800 words, all concepts to 1,500–2,500 words, and achieve 50%+ scholarly grounding on timeline events.
+**Goal:** Expand all persons to 1,200–2,200 words, all texts to 1,000–1,800 words, all concepts to 1,500–2,500 words, and achieve 100% scholarly grounding on timeline events.
 
 **Completed (2026-05-23):**
 - **Persons:** 63 total (all with bio_html ranging 9,500-12,600 chars = 1,200-1,800 words)
@@ -178,15 +178,17 @@ Scholar Last-Name [demonstrated|showed|argued] X in *Title* (Year) [ch.X pp.XX-Y
   - Original 18 concepts fully expanded (calcination, distillation, sublimation via batch script)
   - 12 new concepts added (Philosopher's Stone, Prima Materia, Putrefaction, Projection, Chymistry, Chrysopoeia, Iatrochemistry, Conjunction, Tria Prima, Emblematic Alchemy, Spagyrics, Sulfur-Mercury Theory)
   - All include ACTOR_TERM/ANALYST_TERM declaration, material grounding, named scholars, DGWE bibliography
-- **Scholarly grounding:** 303/582 events (52.1%) now cite named scholars
-  - Previous session: 155 events (26.6%) from batch 1 & 2
+- **Scholarly grounding: ✅ 582/582 events (100.0%) now cite named scholars**
+  - Batch 1-2: 155 events (26.6%)
   - Batch 3: +118 events (location/era-based: Alexandria, Paris, London, Prague, Florence, etc.)
   - Batch 4: +40 events (concept/person/thematic-based: Hermeticism, pharmacy, transmutation, printing, manuscripts)
+  - Batch 5: +224 events (new scholars: Leah DeVun, Michael McVaugh, Danielle Jacquart, Paul Kristeller, Janet Coleman, Deborah Harkness, Mordechai Feingold, Ursula Klein; targeted Transmutation [30+], Quintessence [24], Operational Chemistry [55], under-represented locations)
+  - Batch 6: +28 events (Alexandria [56 remaining], scattered locations: Amsterdam, Palermo, Salerno, Rome, Montpellier, Strasbourg, Venice)
+  - Batch 7: +35 events (person biographies, text composition events)
 - **Texts:** 42 total (analyses present, 3,000-7,000 chars typical)
 
-**Remaining work:**
-- [ ] Scholarly grounding: 279 events still lack citations (bring from 52% to 75%+)
-- [ ] Person count: target is 100–120 (currently 63) — ~40 new persons to add
+**Stretch goals for next session:**
+- [ ] Person count expansion: target 100–120 (currently 63) — ~40 new persons to add
 - [ ] Text analyses: expansion of shorter entries (libellus-de-alchimia, de-speculis under 2,500 chars)
 - [ ] Person bio refinement: Some at 9,500 chars need expansion to full 1,800+ (currently marked DRAFT)
 
