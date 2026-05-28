@@ -1,0 +1,82 @@
+{
+  "slug": "rosarium-philosophorum",
+  "title": "Rosarium Philosophorum",
+  "text_type": "PRIMARY_SOURCE",
+  "original_language": "Latin",
+  "composition_date": "c. 1350-1450",
+  "composition_year_start": 1350,
+  "composition_year_end": 1450,
+  "key_concepts": [
+    [
+      "Mercury",
+      118
+    ],
+    [
+      "Sulfur",
+      30
+    ],
+    [
+      "Elixir",
+      22
+    ],
+    [
+      "Tincture",
+      18
+    ],
+    [
+      "Putrefaction",
+      18
+    ],
+    [
+      "Sublimation",
+      5
+    ],
+    [
+      "Coagulation",
+      5
+    ],
+    [
+      "Philosopher's Stone",
+      4
+    ],
+    [
+      "Calcination",
+      4
+    ],
+    [
+      "Fermentation",
+      4
+    ],
+    [
+      "Projection",
+      3
+    ],
+    [
+      "Dissolution",
+      3
+    ],
+    [
+      "Transmutation",
+      1
+    ],
+    [
+      "Distillation",
+      1
+    ],
+    [
+      "King and Queen",
+      1
+    ]
+  ],
+  "manuscript_count": "40+",
+  "emblem_count_documented": "20+ in various manuscript versions",
+  "major_anthologies": [
+    "Theatrum Chemicum (1659)"
+  ],
+  "modern_editors": [
+    "Joachim Telle (German edition, 1992)",
+    "Patrick J. Smith (English translation, 2008)"
+  ],
+  "enrichment_source": "PDF extraction from Telle Band 1-2 facsimile/commentary + Smith translation",
+  "enrichment_date": "2026-05-27"
+}

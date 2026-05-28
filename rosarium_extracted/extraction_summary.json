@@ -1,0 +1,53 @@
+{
+  "band1_facsimile": {
+    "filename": "Joachim Telle - Rosarium Philosophorum Band 1 Faksimile 1 (1992, VCH Verlagsgesellschaft) - libgen.li.pdf",
+    "pdf_name": "band1_facsimile",
+    "extracted_at": "2026-05-27T22:46:11.292085",
+    "file_size_mb": 15.36,
+    "metadata": {
+      "total_pages": 197,
+      "title": null,
+      "author": null,
+      "subject": null,
+      "creator": null,
+      "producer": "ABBYY FineReader 12"
+    },
+    "text_pages": 197,
+    "total_words": 34005,
+    "tables": 0
+  },
+  "band2_commentary": {
+    "filename": "Joachim Telle, Luth Clären, Joachim Huber - Rosarium Philosophorum Band 2 2 (1992, VCH Verlagsgesellschaft) - libgen.li.pdf",
+    "pdf_name": "band2_commentary",
+    "extracted_at": "2026-05-27T22:46:33.758529",
+    "file_size_mb": 9.51,
+    "metadata": {
+      "total_pages": 270,
+      "title": null,
+      "author": null,
+      "subject": null,
+      "creator": null,
+      "producer": "ABBYY FineReader 12"
+    },
+    "text_pages": 268,
+    "total_words": 75899,
+    "tables": 0
+  },
+  "smith_translation": {
+    "filename": "The Rosary of the Philosophers Being the Rosarium Philosophorum (2008, Holmes Pub Group Llc, Smith, Patrick J) - libgen.li.pdf",
+    "pdf_name": "smith_translation",
+    "extracted_at": "2026-05-27T22:47:15.010424",
+    "file_size_mb": 0.58,
+    "metadata": {
+      "total_pages": 56,
+      "title": "English translation of the Rosarium philosophorum\\374",
+      "author": "TEAM LAXiTY (Bauer Lindemann)",
+      "subject": null,
+      "creator": "WordToPDF Pro 2.1 build 113",
+      "producer": "AFPL Ghostscript 8.50"
+    },
+    "text_pages": 56,
+    "total_words": 46567,
+    "tables": 0
+  }
+}

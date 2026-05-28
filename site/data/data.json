@@ -1,11 +1,11 @@
 {
   "meta": {
-    "total_events": 582,
+    "total_events": 587,
     "total_locations": 60,
-    "mapped_events": 582,
+    "mapped_events": 587,
     "unmapped_events": 0,
     "validation_passed": true,
-    "generated": "2026-05-24T08:32:41.976536"
+    "generated": "2026-05-27T23:13:41.981245"
   },
   "persons": [
     {
@@ -1412,10 +1412,10 @@
       "composition_date": "c. 1350",
       "composition_year_start": null,
       "composition_year_end": null,
-      "analysis_html": "<p>The <i>Rosarium Philosophorum</i> (Rosary of the Philosophers), an anonymous medieval treatise attributed in some manuscript traditions to [LINK:arnaud-de-villanova], is an influential work employing the rose garden metaphor as the central organizing principle for alchemical transmutation. The rose garden serves as an extended allegory for the stages of the Great Work: the garden's cultivation parallels the preparation of the prima materia, the unfolding of roses represents the progressive refinement of substances, and the harvesting of the perfect rose signifies the attainment of the philosopher's stone and transmutation itself. The work circulated widely in manuscript form throughout the medieval and Renaissance periods and was printed multiple times beginning in the sixteenth century, particularly in the great alchemical anthologies. The <i>Rosarium</i> exemplifies the medieval European tradition of encoding alchemical operations in figurative language drawn from courtly literature, horticulture, and religious allegory, making it an exemplary text for understanding how alchemy functioned within broader medieval intellectual culture.</p><h2>Content and Theory</h2><p>The <i>Rosarium Philosophorum</i> unfolds as a series of allegories, emblems, and technical discussions loosely organized around the rose-garden metaphor. The text begins with a classical invocation and establishes the philosophical foundations drawn from earlier authorities, particularly [LINK:jabir-ibn-hayyan] and medieval Latin alchemical sources. The work describes the preparation of the garden (the initial purification and dissolution of materials), the cultivation of conditions for the roses' growth (the application of heat and manipulation of qualities), and the stages of blooming (the progression of colors—black, white, red—that characterize the Great Work in many alchemical traditions). Central to the <i>Rosarium</i>'s theory is the doctrine of the coniunctio or sacred marriage of opposites: the union of King (sulfur, the active male principle) and Queen (mercury, the passive female principle) produces offspring—the miraculous red stone or philosopher's stone capable of transmuting base metals into gold and elixir of life. The text describes in some passages what appear to be actual laboratory operations—heating, cooling, distillation, crystallization—while in other passages it speaks entirely in allegorical terms that make the actual procedures unclear. This ambiguity seems deliberate; the <i>Rosarium</i> addresses multiple audiences: experienced alchemists who could recognize actual operations encoded in figurative language, spiritual seekers interested in inner transformation, and philosophers concerned with cosmology.</p><h2>Composition and Textual Tradition</h2><p>The authorship of the <i>Rosarium Philosophorum</i> remains uncertain. The attribution to Arnaud de Villanova, a 13th-century physician and alchemist, is rejected by most modern scholars, who see the text as likely a fourteenth- or fifteenth-century compilation drawing on earlier sources. The work survives in numerous manuscript versions with significant textual variations, some quite lengthy (over 40,000 words in some manuscripts), others more condensed. Different manuscript versions contain different numbers of emblematic illustrations, suggesting that the text was continuously being adapted and recopied for different audiences and purposes. The transmission of the <i>Rosarium</i> demonstrates how alchemical texts functioned as open, evolving compositions: medieval scribes felt free to add commentary, illustrations, and explanatory material, treating the text as a living document rather than a fixed canonical work. When the <i>Rosarium</i> was printed in the sixteenth and seventeenth centuries, printers had to choose among competing manuscript versions, and their selections helped establish a more standardized (though still variable) text. The work appears in the major alchemical anthologies, most notably the <i>Theatrum Chemicum</i> (1659), where it was printed alongside other major medieval and Renaissance alchemical treatises, reinforcing its canonical status.</p><h2>Modern Scholarship</h2><p>Modern scholarship on the <i>Rosarium Philosophorum</i> has focused on its literary and allegorical dimensions as much as its technical content. Scholars have traced the rose-garden metaphor to medieval courtly literature, particularly the <i>Roman de la Rose</i>, suggesting that alchemical authors deliberately appropriated and recontextualized conventions from secular literature. The work's use of the King and Queen allegory has been extensively analyzed; scholars debate whether this represents genuine gender theory or simply conventional personification of abstract principles. Lawrence Principe has emphasized the <i>Rosarium</i>'s place in the medieval Latin alchemical tradition and its relationship to the <i>Summa Perfectionis</i> and other foundational texts. Pamela Smith's work on artisanal epistemology has prompted new readings of the <i>Rosarium</i> that attend to the embodied, practical dimensions of the rose-garden metaphor—the actual sensory experiences of working with chemicals and apparatus. Contemporary scholars continue to debate the <i>Rosarium</i>'s relationship to transmutational claims: was it a practical manual for attempting metallic transmutation, a purely spiritual allegory, or a hybrid that functioned differently for different readers?</p><h2>Literature</h2><p>Harley, John H. \"Alchemy and Allegory: Encoded Knowledge in the <i>Rosarium Philosophorum</i>.\" <i>Ambix</i>, vol. 45, no. 1, 1998, pp. 39–71.</p><p>Principe, Lawrence M. <i>The Secrets of Alchemy</i>. University of Chicago Press, 2013.</p><p>Newman, William R. <i>Atoms and Alchemy: Chymistry and the Transformation of Matter in the Early Modern Period</i>. University of Chicago Press, 2006.</p><p>Smith, Pamela H. <i>The Business of Alchemy: Science and Culture in the Holy Roman Empire</i>. Princeton University Press, 2005.</p><p>Crosland, Maurice P. <i>Historical Studies in the Language of Chemistry</i>. Harvard University Press, 1962.</p><p>Klossowski de Rola, Stanislas. <i>The Golden Game: Alchemical Engravings of the Seventeenth Century</i>. Thames and Hudson, 1997.</p>",
+      "analysis_html": "<p>The <i>Rosarium Philosophorum</i> (Rosary of the Philosophers) is one of the most influential and widely circulated alchemical treatises of the medieval and Renaissance periods. Originally composed in Latin, likely in the 14th or 15th century, the text has been traditionally attributed to various figures including Arnaud de Villanova, though modern scholarship rejects these attributions in favor of understanding it as a collective compilation reflecting the accumulated wisdom of medieval Latin alchemical tradition. The work employs an extended rose-garden allegory as its organizing principle, using horticultural metaphors to encode the stages of the Great Work—the alchemical quest for the philosopher's stone and the transmutation of base metals into gold. The <i>Rosarium Philosophorum</i> survives in numerous manuscript versions with significant textual variations, decorated with emblematic woodcuts that serve as visual aids to understanding the text's complex allegorical language. Its appearance in major sixteenth- and seventeenth-century alchemical anthologies established it as a canonical text, ensuring its influence on both practical alchemists and philosophical seekers well into the early modern period.</p><h2>Content and Theory</h2><p>The <i>Rosarium Philosophorum</i> structures its teaching through multiple overlapping layers of meaning: literal horticultural instruction, alchemical laboratory procedures, philosophical argument, and spiritual allegory. The text begins with invocations and theoretical preliminaries establishing the philosophical foundations drawn from earlier alchemical authorities, particularly the Arabic tradition of Jabir ibn Hayyan (Geber) and medieval Latin commentaries on those works. The central organizing metaphor of the rose garden unfolds as a complete alchemical system: the preparation and cultivation of the garden corresponds to the initial purification and dissolution of raw materials (nigredo, the blackening); the appearance of flowers in various colors represents the stages of refinement and transformation (albedo, the whitening; citrinitas, the yellowing; rubedo, the reddening); and the harvesting of the perfect rose signifies the achievement of the philosopher's stone or the red elixir capable of transmutation.</p><p>A distinctive feature of the <i>Rosarium</i> is its extensive use of the King and Queen allegory—variously interpreted as the union of sulfur (the active, masculine principle) and mercury (the passive, feminine principle), or as symbolic representations of opposing qualities in nature that must be reconciled and united. The text describes this coniunctio (conjunction or sacred marriage) in both abstract philosophical terms and in passages that describe what appear to be actual laboratory operations: heating, cooling, distillation, crystallization, and the observation of color changes. This deliberate ambiguity—the simultaneous operation on multiple registers of meaning—appears intentional; the text addresses multiple audiences: experienced laborators (practical alchemists) who could recognize operational procedures disguised in figurative language, spiritual seekers interested in inner transformation and enlightenment, and natural philosophers concerned with cosmological questions about matter, change, and causation. The <i>Rosarium</i>'s discussions of mercury (quicksilver, argent vive) are particularly detailed, drawing on practical knowledge of this remarkable substance that is simultaneously a liquid metal, a powerful solvent, and a substance exhibiting properties that medieval and Renaissance thinkers found philosophically mysterious and profound.</p><h2>Composition and Textual Tradition</h2><p>The manuscript tradition of the <i>Rosarium Philosophorum</i> is extraordinarily complex. The work survives in numerous copies, some extending to 40,000 words or more, others condensed to brief essentials. Different manuscript versions contain different numbers and arrangements of emblematic illustrations—woodcuts depicting stages of the work, symbolic figures of the King and Queen, distillation apparatus, and rose gardens. Medieval and Renaissance scribes and copyists treated the <i>Rosarium</i> as a fundamentally open text, freely adding explanatory glosses, allegorical interpretations, and supplementary material drawn from other alchemical sources. This reflects broader medieval attitudes toward authoritative texts as living documents to be continuously interpreted and adapted rather than fixed canonical forms. Some manuscript versions include extensive indices and cross-references to other alchemical works, suggesting that learned copyists understood the <i>Rosarium</i> as part of an integrated corpus of alchemical knowledge.</p><p>The transition from manuscript to print in the sixteenth century represented a watershed moment in the text's transmission. Early modern printers, faced with competing manuscript versions, had to choose which variant to reproduce. These choices—often made on the basis of manuscript availability, condition, or the printer's own judgment—effectively standardized the text, though printed versions still exhibited considerable variation. The <i>Rosarium</i>'s inclusion in the great alchemical anthologies—most significantly in the <i>Theatrum Chemicum</i> (1659)—established its canonical status within early modern alchemy and ensured its survival and continued study. Eighteenth- and nineteenth-century scholars and collectors (including those who created the Ferguson Collection at the University of Glasgow) recognized the work's historical significance and preserved particularly fine manuscript copies. Modern editions and translations, including Patrick J. Smith's 2008 English version, have made the <i>Rosarium</i> accessible to contemporary readers and scholars, though the work's allegorical density and alchemical technical vocabulary continue to pose challenges to interpretation.</p><h2>Modern Scholarship</h2><p>Contemporary scholarship on the <i>Rosarium Philosophorum</i> has undergone significant development over the past three decades. Early modern scholarship (particularly in the nineteenth century) often treated the work as a curiosity or example of medieval superstition, but later twentieth-century historians reframed it as a serious intellectual endeavor meriting careful study. Scholars have traced the rose-garden metaphor to medieval courtly literature—particularly the immensely popular <i>Roman de la Rose</i>—demonstrating how alchemical authors deliberately appropriated and recontextualized literary conventions from secular courtly romance. This literary turn in alchemical scholarship revealed the <i>Rosarium</i> as a sophisticated work engaging with broader medieval and Renaissance intellectual and cultural concerns, not an isolated technical manual.</p><p>Lawrence M. Principe's work on the history of alchemy has paid particular attention to the <i>Rosarium Philosophorum</i>'s place within the medieval Latin alchemical tradition, situating it in relation to foundational texts like the <i>Summa Perfectionis</i> and tracing networks of textual influence and citation. Pamela H. Smith's studies of artisanal epistemology and early modern knowledge practices have prompted fresh readings of the <i>Rosarium</i> that attend carefully to its descriptions of embodied practice, material transformation, and sensory experience. Her work emphasizes that alchemical texts should be understood not merely as philosophical or spiritual documents but as reflecting genuine engagement with chemical materials and laboratory practice, however mediated that engagement may be through allegorical and poetic language. Contemporary scholars continue to debate fundamental questions about the <i>Rosarium</i>'s purpose and audience: Was it a practical manual for attempting metallic transmutation? A text designed for spiritual and religious transformation? A philosophical meditation on the nature of matter and change? Or—most likely—a polymorphous work functioning differently for different readers depending on their knowledge, interests, and interpretive frameworks?</p>",
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
-      "confidence": "HIGH",
+      "confidence": "MEDIUM",
       "created_at": "2026-05-23 04:52:45",
       "concept_tags": []
     },
@@ -10241,6 +10241,36 @@
       "summary": "c. 1356 CE, Paris: The University of Paris maintains its position as the leading center for natural philosophical study in Latin Christendom, with the Faculty of Arts incorporating systematic analysis"
     },
     {
+      "id": 588,
+      "slug": "rosarium-composition-1350-1450",
+      "date_label": "c. 1350–1450",
+      "date_start_year": 1350,
+      "date_end_year": 1450,
+      "location_slug": "paris",
+      "description": "Composition of the Rosarium Philosophorum, an influential Latin alchemical treatise employing the rose-garden metaphor as its organizing principle for describing the stages of the Great Work. The work",
+      "persons_involved": [
+        "arnaud-de-villanova"
+      ],
+      "texts_involved": [
+        "rosarium-philosophorum"
+      ],
+      "concepts_involved": [
+        "philosopher-s-stone",
+        "transmutation",
+        "conjunction",
+        "prima-materia"
+      ],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "MEDIUM",
+      "created_at": "2026-05-28 06:13:36",
+      "scholarly_grounding": "Joachim Telle documented the textual tradition and manuscript variants of the Rosarium Philosophorum in his comprehensive German edition and commentary (1992).",
+      "place_name": "Paris",
+      "region": "France",
+      "era": "MEDIEVAL",
+      "summary": "Composition of the Rosarium Philosophorum, an influential Latin alchemical treatise employing the rose-garden metaphor as its organizing principle for describing the stages of the Great Work. The work"
+    },
+    {
       "id": 253,
       "slug": "event_renaissance_italy_007",
       "date_label": "c. 1356 CE",
@@ -13114,6 +13144,32 @@
       "region": "Low Countries",
       "era": "EARLY_MODERN",
       "summary": "c. 1552, Bruges: The mid-16th century found Bruges maintaining historical continuity with its alchemical past even as the center of gravity shifted decisively toward Antwerp. Practitioners and scholar"
+    },
+    {
+      "id": 589,
+      "slug": "rosarium-printing-frankfurt-1550",
+      "date_label": "1550",
+      "date_start_year": 1550,
+      "date_end_year": 1550,
+      "location_slug": "frankfurt",
+      "description": "The Rosarium Philosophorum is printed in Frankfurt as part of De Alchemia: Opuscula complura veterum philosophorum, a major sixteenth-century alchemical anthology. This edition includes a series of 20",
+      "persons_involved": [],
+      "texts_involved": [
+        "rosarium-philosophorum",
+        "de-alchemia-1550"
+      ],
+      "concepts_involved": [
+        "emblematic-alchemy"
+      ],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "created_at": "2026-05-28 06:13:36",
+      "scholarly_grounding": "The 1550 Frankfurt edition is documented in Patrick J. Smith's introduction to the 2008 English translation of the Rosarium Philosophorum.",
+      "place_name": "Frankfurt",
+      "region": "Germany",
+      "era": "EARLY_MODERN",
+      "summary": "The Rosarium Philosophorum is printed in Frankfurt as part of De Alchemia: Opuscula complura veterum philosophorum, a major sixteenth-century alchemical anthology. This edition includes a series of 20"
     },
     {
       "id": 216,
@@ -16027,6 +16083,32 @@
       "summary": "c. 1656 CE, Madrid: Spanish alchemists, increasingly influenced by mechanical philosophy and nascent scientific empiricism, begin reconceptualizing Operational Chemistry in terms of particle motion an"
     },
     {
+      "id": 590,
+      "slug": "rosarium-theatrum-chemicum-1659",
+      "date_label": "1659",
+      "date_start_year": 1659,
+      "date_end_year": 1659,
+      "location_slug": "strasbourg",
+      "description": "The Rosarium Philosophorum is included in the Theatrum Chemicum, a comprehensive printed anthology of major alchemical texts. Its inclusion in this prestigious collection establishes the work as canon",
+      "persons_involved": [],
+      "texts_involved": [
+        "rosarium-philosophorum",
+        "theatrum-chemicum"
+      ],
+      "concepts_involved": [
+        "philosopher-s-stone"
+      ],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "created_at": "2026-05-28 06:13:36",
+      "scholarly_grounding": "The Theatrum Chemicum editions (1659-1661) are documented as the major seventeenth-century platform for disseminating the Rosarium Philosophorum across Europe.",
+      "place_name": "Strasbourg",
+      "region": "France/Alsace",
+      "era": "EARLY_MODERN",
+      "summary": "The Rosarium Philosophorum is included in the Theatrum Chemicum, a comprehensive printed anthology of major alchemical texts. Its inclusion in this prestigious collection establishes the work as canon"
+    },
+    {
       "id": 353,
       "slug": "event_early_modern_central_europe_027",
       "date_label": "c. 1662 CE",
@@ -16798,6 +16880,31 @@
       "summary": "c. 1698 CE, Lisbon: The Emerald Tablet (Tabula Smaragdina), once central to alchemical metaphysics, appears primarily in historical scholarship rather than as active guide to practice. Portuguese natu"
     },
     {
+      "id": 591,
+      "slug": "rosarium-ferguson-manuscript-18c",
+      "date_label": "18th century",
+      "date_start_year": 1700,
+      "date_end_year": 1800,
+      "location_slug": "london",
+      "description": "An English translation of the Rosarium Philosophorum is produced, now preserved as MS Ferguson 210 in the University of Glasgow Library. This manuscript represents the continued circulation and reinte",
+      "persons_involved": [],
+      "texts_involved": [
+        "rosarium-philosophorum"
+      ],
+      "concepts_involved": [
+        "philosophy-of-alchemy"
+      ],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "created_at": "2026-05-28 06:13:36",
+      "scholarly_grounding": "Patrick J. Smith's 2008 English translation was based on the transcription of MS Ferguson 210, documented in his introductory analysis.",
+      "place_name": "London",
+      "region": "England",
+      "era": "EARLY_MODERN",
+      "summary": "An English translation of the Rosarium Philosophorum is produced, now preserved as MS Ferguson 210 in the University of Glasgow Library. This manuscript represents the continued circulation and reinte"
+    },
+    {
       "id": 360,
       "slug": "event_early_modern_central_europe_034",
       "date_label": "c. 1704 CE",
@@ -17308,6 +17415,34 @@
       "region": "France",
       "era": "EARLY_MODERN",
       "summary": "c. 1780, Paris: Antoine Lavoisier and his collaborators reorganized chemical language around weighing, gases, combustion, and the rejection of phlogiston. This event sits after the main medieval and e"
+    },
+    {
+      "id": 592,
+      "slug": "rosarium-telle-edition-1992",
+      "date_label": "1992",
+      "date_start_year": 1992,
+      "date_end_year": 1992,
+      "location_slug": "frankfurt",
+      "description": "Joachim Telle, Luth Clären, and Joachim Huber publish a comprehensive German scholarly edition of the Rosarium Philosophorum with full textual commentary, apparatus, and analysis (VCH Verlagsgesellsch",
+      "persons_involved": [
+        "joachim-telle"
+      ],
+      "texts_involved": [
+        "rosarium-philosophorum"
+      ],
+      "concepts_involved": [
+        "textual-transmission",
+        "emblematic-alchemy"
+      ],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "created_at": "2026-05-28 06:13:36",
+      "scholarly_grounding": "Joachim Telle's edition and commentary (Rosarium Philosophorum, Band 1-2, VCH Verlagsgesellschaft, 1992) established new standards for the scholarly study of alchemical texts and manuscript traditions.",
+      "place_name": "Frankfurt",
+      "region": "Germany",
+      "era": "EARLY_MODERN",
+      "summary": "Joachim Telle, Luth Clären, and Joachim Huber publish a comprehensive German scholarly edition of the Rosarium Philosophorum with full textual commentary, apparatus, and analysis (VCH Verlagsgesellsch"
     }
   ],
   "relationships": {
@@ -17455,7 +17590,8 @@
       ],
       "arnaud-de-villanova": [
         "event_arnaud-de-villanova_biography",
-        "event_medical_alchemy_001"
+        "event_medical_alchemy_001",
+        "rosarium-composition-1350-1450"
       ],
       "raymond-lull": [
         "event_raymond-lull_biography"
@@ -17634,6 +17770,9 @@
         "event_bruno_paris_001",
         "event_bruno_london_001",
         "event_bruno_rome_001"
+      ],
+      "joachim-telle": [
+        "rosarium-telle-edition-1992"
       ]
     },
     "text_to_persons": {},
@@ -18362,6 +18501,7 @@
         "event_renaissance_italy_004",
         "event_renaissance_italy_005",
         "event_renaissance_italy_006",
+        "rosarium-composition-1350-1450",
         "event_renaissance_italy_007",
         "event_renaissance_italy_008",
         "event_renaissance_italy_009",
@@ -18673,6 +18813,16 @@
         "event_renaissance_italy_043",
         "event_renaissance_italy_044"
       ],
+      "philosopher-s-stone": [
+        "rosarium-composition-1350-1450",
+        "rosarium-theatrum-chemicum-1659"
+      ],
+      "conjunction": [
+        "rosarium-composition-1350-1450"
+      ],
+      "prima-materia": [
+        "rosarium-composition-1350-1450"
+      ],
       "chemical-experimentation": [
         "event_renaissance_low_countries_000",
         "event_renaissance_low_countries_001",
@@ -18821,6 +18971,10 @@
       "hermetic-synthesis": [
         "event_agrippa_writing_001"
       ],
+      "emblematic-alchemy": [
+        "rosarium-printing-frankfurt-1550",
+        "rosarium-telle-edition-1992"
+      ],
       "cosmology": [
         "event_bruno_paris_001"
       ],
@@ -18860,6 +19014,12 @@
       ],
       "hermetic-art": [
         "event_maier_atalanta_001"
+      ],
+      "philosophy-of-alchemy": [
+        "rosarium-ferguson-manuscript-18c"
+      ],
+      "textual-transmission": [
+        "rosarium-telle-edition-1992"
       ]
     }
   }
