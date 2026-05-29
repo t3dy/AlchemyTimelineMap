@@ -5,7 +5,7 @@
     "mapped_events": 587,
     "unmapped_events": 0,
     "validation_passed": true,
-    "generated": "2026-05-27T23:13:41.981245"
+    "generated": "2026-05-28T20:21:25.418341"
   },
   "persons": [
     {
@@ -2162,6 +2162,32 @@
       "review_status": "DRAFT",
       "confidence": "MEDIUM",
       "created_at": "2026-05-24 00:02:47"
+    },
+    {
+      "id": 49,
+      "slug": "elixir",
+      "label": "Elixir",
+      "category_type": "ACTOR_TERM",
+      "definition_short": "In medieval and Renaissance alchemy, the miraculous substance or powder capable of transmuting base metals into gold. Derived from Arabic al-iksīr, it represents the culmination of the Great Work and the perfected red tincture or philosopher's stone.",
+      "definition_long": "<p><i>Elixir</i> (from Arabic <i>al-iksīr</i>, related to Greek <i>xerion</i>, desiccative) refers in medieval and Renaissance alchemy to the miraculous substance or powder capable of transmuting base metals into gold and conferring immortality upon those who consume it. The term gained prominence through Arabic alchemical texts and became central to the transmutational program of European alchemy from the thirteenth century onward. In the Rosarium Philosophorum and related texts, the elixir is often described as the final product of the Great Work—the perfected tincture or the red stone itself—capable of projecting its power onto molten metals to effect transmutation. Medieval and Renaissance alchemists frequently distinguished between the \"white elixir\" (capable of transmuting base metals to silver) and the \"red elixir\" (capable of transmuting to gold), though the red elixir was the more prized goal. The concept of the elixir also carried soteriological dimensions in some traditions: consumption of the alchemical elixir promised not merely material wealth but spiritual perfection and the restoration of the body to its primordial uncorrupted state.</p>\n\n<p><b>Historical Usage:</b> The term appears extensively in Arabic alchemical sources (al-Razi, Jabir ibn Hayyan) and in medieval Latin texts deriving from Arabic traditions. By the fourteenth century, European alchemists routinely described the goal of their operations as the production of an elixir or quintessential substance. The Rosarium Philosophorum refers repeatedly to the elixir as the culmination of the King-Queen conjunction and the final refinement of mercury. Early modern natural philosophers, including those influenced by Paracelsian medicine, sometimes distinguished medical applications of alchemical products from purely transmutational goals, yet the elixir remained a conceptual anchor for both pursuits.</p>\n\n<p><b>Scholarly Significance:</b> Modern historians have interpreted the elixir concept variously: as a mythological placeholder for unattainable transmutation; as a genuine experimental program based on partial successes with amalgams, alloys, and amalgam-based \"multiplying\" techniques; or as a multivalent symbol combining material, spiritual, and philosophical aspirations. Lawrence Principe's work on operational alchemy has emphasized the experimental seriousness with which early modern chemists pursued elixir-like substances, even when transmutational goals were not achieved. The elixir concept illustrates medieval alchemy's fundamental ambition to collapse distinctions between material transformation, bodily healing, and spiritual perfection.</p>\n\n<p><b>Related Concepts:</b> [LINK:philosophers-stone], [LINK:tincture], [LINK:quintessence], [LINK:transmutation], [LINK:projection], [LINK:prima-materia]</p>\n\n<p><b>Literature:</b></p>\n<p>Principe, Lawrence M. <i>The Secrets of Alchemy</i>. University of Chicago Press, 2013.</p>\n<p>Newman, William R. <i>The Summa Perfectionis of Pseudo-Geber</i>. Brill, 1991.</p>\n<p>Pereira, Michela. <i>The Alchemical Corpus Attributed to Ray Lull</i>. Brill, 2007.</p>\n<p>Lory, Pierre. <i>Alchimie et mystique en terre d'Islam</i>. Éditions Vega, 2003.</p>\n<p>Holmyard, Eric John. <i>Alchemy</i>. Dover Publications, 1990.</p>",
+      "operation_type": null,
+      "source_method": "AI_ASSISTED",
+      "review_status": "DRAFT",
+      "confidence": "MEDIUM",
+      "created_at": "2026-05-29 03:21:08"
+    },
+    {
+      "id": 50,
+      "slug": "tincture",
+      "label": "Tincture",
+      "category_type": "ACTOR_TERM",
+      "definition_short": "A powerful coloring or transformative agent produced through refinement and concentration of substances. Medieval alchemists described the red or gold tincture as capable of transmuting base metals and understood it as an intermediate stage toward the philosopher's stone.",
+      "definition_long": "<p><i>Tincture</i> (from Latin <i>tingere</i>, to dye or color) denotes in alchemical usage a powerful coloring or transformative agent produced through the refinement and concentration of substances. In medieval alchemy, a tincture represented a highly refined, potent form of a substance—a liquid or powder extract possessing exceptional efficacy. Medieval and Renaissance alchemists employed the term to describe the progressive stages of refinement in the Great Work, particularly the red or gold tincture capable of transmuting base metals into precious metals. The appearance of specific colors during alchemical operations (the blackening, whitening, reddening) corresponded to stages in tincture development. A tincture was understood to possess far greater power than the crude starting material, concentrated to essential efficacy through distillation, crystallization, and other laboratory operations.</p>\n\n<p><b>Historical Usage:</b> The concept of tincture appears in medical pharmacy (where tinctures were alcohol-based extracts of medicinal substances) and in alchemical texts simultaneously, reflecting alchemy's emergence from pharmacological and metallurgical practice. The Rosarium Philosophorum discusses the tincture as a stage in the production of the philosopher's stone, describing how careful distillation and recombination of substances produces increasingly refined tinctures. European alchemical texts of the fourteenth and fifteenth centuries routinely discuss \"white tinctures,\" \"red tinctures,\" and \"golden tinctures\" as intermediate products in transmutational operations.</p>\n\n<p><b>Scholarly Significance:</b> Modern scholarship recognizes tincture-language as simultaneously metaphorical (encoding spiritual transformation) and potentially referential to actual chemical procedures (concentration of extracts, crystallization). The ambiguity between literal and symbolic registers is deliberate; medieval tincture-language served multiple audiences. Pamela Smith's work on artisanal knowledge emphasizes that alchemists' discussions of tincture development reflect genuine experimental engagement with color changes, crystallization phenomena, and the production of potent substances, even where transmutational ambitions were not realized.</p>\n\n<p><b>Related Concepts:</b> [LINK:elixir], [LINK:philosophers-stone], [LINK:quintessence], [LINK:projection], [LINK:conjunction], [LINK:sublimation]</p>\n\n<p><b>Literature:</b></p>\n<p>Newman, William R. <i>Atoms and Alchemy</i>. University of Chicago Press, 2006.</p>\n<p>Smith, Pamela H. <i>The Business of Alchemy</i>. Princeton University Press, 2005.</p>\n<p>Principe, Lawrence M., and William R. Newman. \"Alchemy and Chemistry in the Sixteenth and Seventeenth Centuries.\" <i>History of Science</i>, vol. 31, no. 3, 1993, pp. 237–299.</p>\n<p>Holmyard, Eric John. <i>Methods and Problems of Geber</i>. Ernest Benn Limited, 1927.</p>\n<p>Pereira, Michela. \"Alchemy and the Use of Quantitative Language in the Middle Ages.\" <i>Micrologus</i>, vol. 2, 1994, pp. 13–32.</p>",
+      "operation_type": null,
+      "source_method": "AI_ASSISTED",
+      "review_status": "DRAFT",
+      "confidence": "MEDIUM",
+      "created_at": "2026-05-29 03:21:08"
     }
   ],
   "locations": [
@@ -10261,7 +10287,7 @@
         "prima-materia"
       ],
       "source_method": "SCHOLARSHIP_BASED",
-      "review_status": "DRAFT",
+      "review_status": "REVIEWED",
       "confidence": "MEDIUM",
       "created_at": "2026-05-28 06:13:36",
       "scholarly_grounding": "Joachim Telle documented the textual tradition and manuscript variants of the Rosarium Philosophorum in his comprehensive German edition and commentary (1992).",
@@ -13162,7 +13188,7 @@
         "emblematic-alchemy"
       ],
       "source_method": "SCHOLARSHIP_BASED",
-      "review_status": "DRAFT",
+      "review_status": "REVIEWED",
       "confidence": "HIGH",
       "created_at": "2026-05-28 06:13:36",
       "scholarly_grounding": "The 1550 Frankfurt edition is documented in Patrick J. Smith's introduction to the 2008 English translation of the Rosarium Philosophorum.",
@@ -16099,7 +16125,7 @@
         "philosopher-s-stone"
       ],
       "source_method": "SCHOLARSHIP_BASED",
-      "review_status": "DRAFT",
+      "review_status": "REVIEWED",
       "confidence": "HIGH",
       "created_at": "2026-05-28 06:13:36",
       "scholarly_grounding": "The Theatrum Chemicum editions (1659-1661) are documented as the major seventeenth-century platform for disseminating the Rosarium Philosophorum across Europe.",
@@ -16895,7 +16921,7 @@
         "philosophy-of-alchemy"
       ],
       "source_method": "SCHOLARSHIP_BASED",
-      "review_status": "DRAFT",
+      "review_status": "REVIEWED",
       "confidence": "HIGH",
       "created_at": "2026-05-28 06:13:36",
       "scholarly_grounding": "Patrick J. Smith's 2008 English translation was based on the transcription of MS Ferguson 210, documented in his introductory analysis.",
@@ -17435,7 +17461,7 @@
         "emblematic-alchemy"
       ],
       "source_method": "SCHOLARSHIP_BASED",
-      "review_status": "DRAFT",
+      "review_status": "REVIEWED",
       "confidence": "HIGH",
       "created_at": "2026-05-28 06:13:36",
       "scholarly_grounding": "Joachim Telle's edition and commentary (Rosarium Philosophorum, Band 1-2, VCH Verlagsgesellschaft, 1992) established new standards for the scholarly study of alchemical texts and manuscript traditions.",
