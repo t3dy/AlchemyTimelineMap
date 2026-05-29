@@ -1,0 +1,25 @@
+{
+  "emblem_catalog": {
+    "source": "Rosarium Philosophorum Band 1 (Telle Facsimile, 1992)",
+    "total_emblems_documented": "20+",
+    "description": "Emblematic woodcuts from the medieval/Renaissance alchemical text, depicting stages of the Great Work, the King-Queen conjunction, distillation apparatus, and rose-garden symbolism.",
+    "image_metadata_template": {
+      "emblem_id": "rosarium-emblem-001",
+      "filename": "rosarium_emblem-001.jpg",
+      "page_reference": "p. XX",
+      "description": "Brief description of the emblem and its symbolic significance",
+      "depicts": [
+        "King and Queen conjunction",
+        "Mercury distillation",
+        "Rose garden stage"
+      ],
+      "related_concepts": [
+        "conjunction",
+        "distillation",
+        "emblematic-alchemy"
+      ],
+      "scholarly_interpretation": "Brief note on how modern scholars interpret this emblem"
+    },
+    "notes": "Images can be linked to timeline events and concept entries to enhance visual understanding of alchemical operations and symbolism."
+  }
+}
