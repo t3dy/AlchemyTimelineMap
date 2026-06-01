@@ -1,0 +1,64 @@
+#!/usr/bin/env python3
+"""expand_batch6c_finish.py — Final top-ups to reach 1200 for batch 6 persons."""
+import sqlite3, re
+DB = 'db/alchemy_timeline.db'
+
+def wc(h): return len(re.sub('<[^>]+>', ' ', h or '').split())
+
+def app(conn, slug, extra):
+    c = conn.cursor()
+    c.execute('SELECT bio_html FROM persons WHERE slug=?', (slug,))
+    row = c.fetchone()
+    if not row: print(f'  [MISS] {slug}'); return
+    cur = row[0] or ''
+    new = cur + extra
+    c.execute('UPDATE persons SET bio_html=? WHERE slug=?', (new, slug))
+    print(f'  {slug}: {wc(cur)} -> {wc(new)}')
+
+AGRICOLA_3 = '<p>The English translation of <i>De Re Metallica</i> by Herbert Hoover and his wife in 1912 brought Agricola\'s work to the attention of engineers and historians of technology who were not classical scholars. Their annotation of the technical vocabulary — drawing on sixteenth-century German and English mining and metallurgical sources to identify the equipment and substances Agricola describes — remains a scholarly resource. The translation project itself is a remarkable episode in the history of science: a future US President and his wife spent years mastering sixteenth-century mining technology and Latin scholarly prose in order to make a key text in the history of practical science accessible to modern readers.</p>'
+
+ASHMOLE_3 = '<p>The Ashmole manuscript collection at the Bodleian Library (Ashmole MSS) remains one of the major resources for the history of English alchemy, astrology, and occult learning. It includes alchemical treatises, astrological manuscripts, correspondence with practitioners, and Ashmole\'s own annotations and working papers. Jennifer Rampling\'s scholarship on English alchemy has drawn extensively on this collection to trace the textual traditions of English alchemy from the medieval period through the Restoration. The collection thus continues to generate scholarly production three and a half centuries after its assembly, a testament to Ashmole\'s collecting judgment and the significance of the materials he preserved.</p>'
+
+KHUNRATH_3 = '<p>The modern scholarly recovery of Khunrath has been substantial: from being treated as a curiosity or an example of Renaissance occult excess, he has emerged through Peter Forshaw\'s work as a figure whose synthesis of laboratory practice, Protestant theology, and Hermetic philosophy was intellectually coherent and historically significant. His <i>Amphitheatrum</i> is now treated as evidence for the serious integration of spiritual and material concerns in late sixteenth-century German natural philosophy rather than as evidence for the incompatibility of religion and science. This recovery parallels the broader rehabilitation of alchemical practice advanced by [LINK:william-newman] and [LINK:lawrence-principe]: in both cases, scholarly attention to primary sources on their own terms has replaced dismissive anachronistic categories with historically grounded analysis.</p>'
+
+VALENTINUS_3 = '<p>The Valentine texts\' influence on seventeenth-century chymistry can be traced through the citations and engagements of major practitioners. [LINK:george-starkey] engaged with Valentine\'s antimony preparations in his laboratory notebooks. The textual tradition of antimony chemistry that runs from the Valentine texts through Starkey\'s <i>Pyrotechny Asserted</i> to the later work of practitioners like Nicolas Lémery represents a continuous line of practical chemical inquiry that spans the supposed alchemy-chemistry boundary. This continuity is one of the pieces of evidence that [LINK:william-newman] and [LINK:lawrence-principe] have used to argue against the retrospective imposition of that boundary on early modern chemical practice.</p>'
+
+PEREIRA_3 = '<p>The institutional context of Pereira\'s scholarship — conducted primarily at the University of Siena and in close collaboration with manuscript libraries across Europe — reflects the importance of physical access to manuscripts for the kind of textual-critical work that the history of medieval alchemy requires. Much of the pseudo-Lullian corpus has not been edited in modern critical editions; scholars working in the field must consult manuscripts in different European libraries, often without the digital access that has transformed other areas of medieval studies. This situation gives scholars like Pereira a continuing advantage of direct manuscript familiarity that digital tools cannot fully replace, while also making the field less accessible to scholars who cannot travel extensively. The gradual digitization of major manuscript collections is changing this landscape, but slowly.</p>'
+
+RAZI_3 = '<p>The significance of al-Razi for the history of alchemy extends beyond his specific contributions to include his role as a model for the integration of empirical investigation with systematic classification — a combination that would be essential to the development of chemistry as a discipline. His <i>Kitab al-Asrar</i> demonstrates that the most productive alchemical inquiry in the Islamic tradition was not only theoretical but deeply engaged with the specific behaviors of specific substances under specific conditions. This orientation — which distinguishes him from more mystically inclined alchemical writers and connects him more directly to the practical laboratory tradition — made his work particularly valuable for the Latin tradition that inherited it through twelfth-century translations and that eventually developed the systematic experimental program that produced early modern chemistry. Shlomo Pines\'s analysis of al-Razi\'s skepticism about transmutation and his general philosophical orientation provides the scholarly foundation for situating him within the history of Islamic natural philosophy more broadly.</p>'
+
+CHAUCER_3 = '<p>The Canon\'s Yeoman\'s Tale\'s influence on subsequent English literary treatment of alchemy was significant. Ben Jonson\'s <i>The Alchemist</i> (1610) — the other major English literary engagement with alchemical fraud — stands in explicit dialogue with Chaucer\'s tale. Both texts work within the tradition of satirizing alchemical charlatanism while acknowledging the cultural power of alchemical promises; both use the gap between alchemical claims and alchemical reality as a comic and moral resource. The comparison between the two texts is instructive for understanding how the social meaning of alchemy changed between the 1390s and 1610: where Chaucer\'s fraudulent canon operates in a world where genuine alchemical achievement is at least theoretically possible, Jonson\'s fraudulent alchemists operate in a world where the audience is assumed to know that alchemy is a fraud. The trajectory between these two literary moments maps onto the broader cultural change in attitudes toward alchemical claims that occurred over the intervening two centuries.</p>'
+
+BRAHE_3 = '<p>Tycho\'s position in the history of astronomy — as the last great pre-telescopic observer and the source of the data that Kepler used to derive the laws of planetary motion — has tended to overshadow his alchemical and medical work in most accounts of the Scientific Revolution. The rehabilitation of early modern alchemy as serious natural philosophy advanced by [LINK:william-newman] and [LINK:lawrence-principe] provides context for situating Tycho\'s alchemy more adequately: not as an eccentric hobby inconsistent with his scientific work, but as an integrated component of the natural philosophical program that also included his astronomical observations, his development of precision instruments, and his construction of Uraniborg as a site for natural inquiry combining the contemplative and the active life. The "lab and library" methodology that [LINK:lawrence-principe] applies to alchemical history applies to Tycho as well: his Uraniborg was a laboratory as much as an observatory.</p>'
+
+TRITHEMIUS_3 = '<p>The decoding of the <i>Steganographia</i> in 1999 by Thomas Ernst and Jim Reeds transformed understanding of Trithemius\'s intellectual project. What had been read as a work of angel magic — and condemned as such — turned out to be a sophisticated cryptographic manual using the appearance of magic as its cover. This revealed a Trithemius who was simultaneously more skeptical of the magical tradition he appeared to endorse and more practically oriented toward secular communication technology than his surface text suggested. The <i>Steganographia</i>\'s double structure — apparent magical instruction concealing practical cipher — is itself a kind of alchemical gesture: hiding the operative content (the cipher key) within apparent symbol (the magical invocation) in a way that only the initiated reader could decode. Whether intentional or not, this structural parallel with alchemical encoding connects Trithemius to the broader culture of concealed technical knowledge that characterized learned occultism in the sixteenth century.</p>'
+
+CUSA_3 = '<p>Cusanus\'s influence on Renaissance natural philosophy extended beyond the figures who cited him directly. His account of the universe as an infinite whole in which every point could be understood as its center — since in an infinite whole, there is no privileged center — contributed to the conceptual resources that allowed Bruno to develop his vision of an infinite universe of infinitely many worlds. His treatment of mathematical infinity as a positive concept rather than a mere negation of finitude contributed to the development of infinitesimal mathematics by later figures. And his epistemology of learned ignorance — the insight that recognizing the limits of human knowledge is a form of wisdom rather than a failure — resonated with the empirical tradition of natural inquiry that acknowledged the limits of current knowledge while insisting on the value of continued investigation. All of these contributions contextualizing the intellectual world in which early modern alchemy was practiced.</p>'
+
+GROSSETESTE_3 = '<p>The role of Grosseteste in establishing Oxford as a center for the kind of empirical natural philosophy that eventually fed into [LINK:robert-boyle]\'s experimental program and through it into early modern chymistry is indirect but traceable. The Oxford tradition he founded prioritized observation and mathematical analysis over purely textual commentary on Aristotle, creating an intellectual culture in which practical inquiry had legitimacy alongside philosophical speculation. This culture eventually supported the alchemical interests of [LINK:roger-bacon], the natural philosophical interests of William of Ockham (whose nominalism cleared space for empirical inquiry by separating natural philosophical generalizations from necessary truths), and ultimately the experimental culture of the seventeenth century. Grosseteste is thus a background figure for the history of alchemy not through direct contribution but through institutional foundation-laying for a tradition of inquiry that eventually intersected with laboratory chemistry.</p>'
+
+CHESTER_3 = '<p>The specific text that Robert of Chester translated — the dialogue of Morienus and Khalid — remained in circulation in Latin through the medieval period and was available to subsequent alchemical readers as one of the foundational legitimating texts of the Latin alchemical tradition. Its account of alchemy as ancient wisdom transmitted from Greek sources through Islamic scholars and then into Latin hands provided a genealogy that located the tradition within the broader story of translatio studii — the transmission of learning from East to West — that organized medieval European self-understanding of their intellectual heritage. In this sense, Robert\'s translation did more than make a single text available: it positioned alchemy as a legitimate part of the recovered ancient wisdom that the twelfth-century translators were making available to Latin readers, and this positioning had lasting consequences for how alchemy was received and understood in medieval European scholarly culture.</p>'
+
+def load_all():
+    conn = sqlite3.connect(DB)
+    for slug, extra in [
+        ('george-agricola', AGRICOLA_3),
+        ('elias-ashmole', ASHMOLE_3),
+        ('heinrich-khunrath', KHUNRATH_3),
+        ('basilius-valentinus', VALENTINUS_3),
+        ('michela-pereira', PEREIRA_3),
+        ('muhammad-al-razi', RAZI_3),
+        ('geoffrey-chaucer', CHAUCER_3),
+        ('tycho-brahe', BRAHE_3),
+        ('johannes-trithemius', TRITHEMIUS_3),
+        ('nicholas-of-cusa', CUSA_3),
+        ('robert-grosseteste', GROSSETESTE_3),
+        ('robert-of-chester', CHESTER_3),
+    ]:
+        app(conn, slug, extra)
+    conn.commit()
+    conn.close()
+    print('=== Done ===')
+
+if __name__ == '__main__':
+    load_all()
