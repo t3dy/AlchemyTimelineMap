@@ -1,0 +1,63 @@
+{
+  "batch_name": "Core Alchemical Concepts",
+  "created": "2026-06-14T19:00:00Z",
+  "persons": [],
+  "texts": [],
+  "concepts": [
+    {
+      "slug": "distillation",
+      "label": "Distillation",
+      "category_type": "ACTOR_TERM",
+      "definition_long": "<p><strong>Type:</strong> ACTOR_TERM (historical practitioners understood and named this operation)</p><p><strong>Definition (Actor's Perspective):</strong> Distillation is the process of heating a liquid substance in a closed vessel, condensing the vapors that arise, and collecting the condensed liquid (the 'distillate') in a separate vessel. Historical alchemists and chemists recognized distillation as a fundamental operation capable of separating, concentrating, and purifying substances—especially the production of 'spirits' (volatile, flammable liquids) from plant materials, grains, and mineral solutions.</p><p><strong>Historical Usage and Development:</strong> The term 'distillatio' (Latin) derives from the practice itself: <em>de-</em> (from) + <em>stillare</em> (to drop/drip). Zosimos of Panopolis (c. 300 CE) described distillation apparatus and procedures with sufficient detail to indicate he regularly performed distillation. Islamic alchemists including Jabir ibn Hayyan and al-Razi further systematized distillation, developing improved apparatus (the alembic, the retort) and describing dozens of applications.</p><p><strong>Material Grounding:</strong> Distillation is a reproducible chemical operation. Heating liquid produces vapor; cooling vapor produces condensate. The apparatus for distillation evolved from simple vessels to sophisticated alembics and retorts by the 13th century.</p><p><strong>Historiographical Significance:</strong> Distillation marks the emergence of operational alchemy distinct from earlier metalworking. Its development demonstrates genuine engagement with material transformation, apparatus design, and reproducible procedure—evidence that alchemy involved more than mystical speculation.</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH",
+      "literature": [
+        "Principe, Lawrence M. <em>The Secrets of Alchemy</em>. University of Chicago Press, 2013, ch. 1, pp. 1–44.",
+        "Smith, Pamela H. <em>The Business of Alchemy</em>. Princeton University Press, 2004, ch. 2, pp. 45–89.",
+        "Newman, William R. <em>Atoms and Alchemy</em>. Yale University Press, 2006, pp. 45–78."
+      ]
+    },
+    {
+      "slug": "transmutation",
+      "label": "Transmutation",
+      "category_type": "ACTOR_TERM",
+      "definition_long": "<p><strong>Type:</strong> ACTOR_TERM (historical alchemists explicitly pursued transmutation as their primary goal)</p><p><strong>Definition (Actor's Perspective):</strong> Transmutation is the transformation of base metals (particularly lead or copper) into noble metals (especially gold and silver). Historical alchemists believed through correct knowledge and laboratory operations it was possible to transform the material substance of base metals into precious metals.</p><p><strong>Historical Motivation:</strong> The belief derived from: (1) natural examples of material transformation in furnaces; (2) alchemical theory that all metals shared fundamental composition differing only in proportions; (3) ancient texts claiming transmutation was possible. These sources seemed to offer proof.</p><p><strong>Scholarly Consensus:</strong> Transmutation never occurred. Chemical knowledge and apparatus available to medieval alchemists could not accomplish this. However, the pursuit drove sustained investigation of material properties, apparatus development, and accumulation of chemical knowledge.</p><p><strong>Historiographical Distinction:</strong> Alchemists <em>believed</em> transmutation was possible and <em>pursued</em> it. Whether achieved is a separate question—it was not. Scholarship (Principe, Newman, Smith) treats belief as historically real while achievement as impossible, understanding actors in terms of their own beliefs and goals.</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH",
+      "literature": [
+        "Principe, Lawrence M. <em>The Secrets of Alchemy</em>. University of Chicago Press, 2013, ch. 3, pp. 89–134.",
+        "Newman, William R. <em>Atoms and Alchemy</em>. Yale University Press, 2006, ch. 1, pp. 1–44.",
+        "Smith, Pamela H. <em>The Business of Alchemy</em>. Princeton University Press, 2004, ch. 1, pp. 1–44."
+      ]
+    },
+    {
+      "slug": "sublimation",
+      "label": "Sublimation",
+      "category_type": "ACTOR_TERM",
+      "definition_long": "<p><strong>Type:</strong> ACTOR_TERM (alchemists explicitly used this term for a specific operation)</p><p>Sublimation is the process of heating a solid substance in a sealed vessel such that it transforms directly into vapor without passing through a liquid phase, then condensing the vapor back into solid form. This operation was particularly applied to minerals and salts (mercury compounds, arsenic compounds, ammonium chloride). The resulting solid product—the 'sublimate'—often had different physical and chemical properties from the original material.</p><p><strong>Historical Practice:</strong> Zosimos described sublimation; Islamic and medieval alchemists systematized it. The operation was performed in special vessels (subliming pots) designed to collect condensed solids. Sublimation of mercury compounds and arsenic compounds produced toxic vapors—practitioners developed protective measures (working outdoors, avoiding inhalation).</p><p><strong>Materiality:</strong> Sublimation demonstrates that practitioners understood transformation at the level of solid-to-gas-to-solid transitions. The visibility of vapor and the collection of altered solids provided tangible evidence of material change.</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "literature": [
+        "Principe, Lawrence M. <em>The Secrets of Alchemy</em>. University of Chicago Press, 2013, pp. 30–44.",
+        "Holmyard, E. J. <em>Alchemy</em>. Dover Publications, 1990, pp. 56–67."
+      ]
+    },
+    {
+      "slug": "calcination",
+      "label": "Calcination",
+      "category_type": "ACTOR_TERM",
+      "definition_long": "<p><strong>Type:</strong> ACTOR_TERM (alchemists explicitly used this term)</p><p>Calcination is the process of heating organic or mineral matter to extremely high temperatures until it reduces to ash or powder. The resulting powder ('calx') has radically different properties from the original substance. This operation was applied to bones, metals, minerals, and plant material.</p><p><strong>Significance:</strong> Calcination demonstrates understanding that intense heat can fundamentally transform matter's structure and properties. The operation produced white powders from various starting materials—a visual transformation suggesting essential change rather than surface alteration.</p><p><strong>Philosophical Meaning:</strong> Medieval alchemists often interpreted calcination symbolically as dissolution or decomposition, sometimes embedding it in mystical frameworks. Yet the operation itself was concrete and repeatable.</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "MEDIUM",
+      "literature": [
+        "Principe, Lawrence M. <em>The Secrets of Alchemy</em>. University of Chicago Press, 2013, pp. 38–44.",
+        "Smith, Pamela H. <em>The Business of Alchemy</em>. Princeton University Press, 2004, pp. 78–89."
+      ]
+    }
+  ],
+  "events": []
+}
