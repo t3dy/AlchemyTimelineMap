@@ -519,6 +519,7 @@ def generate_event_pages(entity_map):
                t.source_method, t.review_status, t.confidence
         FROM timeline_events t
         LEFT JOIN locations l ON t.location_slug = l.slug
+        WHERE COALESCE(t.is_figure, 0) = 0
         ORDER BY t.date_start_year NULLS LAST
     """)
     events = cursor.fetchall()
@@ -643,7 +644,17 @@ def generate_event_pages(entity_map):
 </html>"""
         write_html_page(SITE_PATH / "events" / f"{slug}.html", html)
 
-    print(f"  [OK] {len(events)} event pages created")
+    # Prune stale event pages left behind by consolidation / deletions.
+    live_slugs = {e["slug"] for e in events}
+    pruned = 0
+    events_dir = SITE_PATH / "events"
+    if events_dir.exists():
+        for f in events_dir.glob("*.html"):
+            if f.stem not in live_slugs:
+                f.unlink()
+                pruned += 1
+
+    print(f"  [OK] {len(events)} event pages created" + (f", {pruned} stale pruned" if pruned else ""))
 
 
 def extract_tags_for_entities(concepts_dict):

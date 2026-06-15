@@ -90,6 +90,33 @@ python scripts/enrich_timeline_events.py --staging_file staging/enriched_events_
 
 ---
 
+## Phase 4b: Consolidate Figure Events (one event per historical figure)
+
+The timeline carries **one canonical "figure event" per historical figure** —
+an index-card preview that links to a single long-form essay (the person page).
+This phase collapses the many duplicate per-figure events into one each.
+
+Run **in this order** (each step depends on the previous):
+
+```bash
+python scripts/merge_duplicate_persons.py      # fold duplicate person records (e.g. muhammad-al-razi -> al-razi)
+python scripts/consolidate_figure_events.py    # build one figure event per figure; snapshots raw_timeline_events
+python scripts/generate_figure_previews.py     # 3-5 sentence index-card preview per figure (MUST follow consolidate)
+python scripts/load_figure_essays.py           # load 3,000-5,000 word essays from staging/figure_essays/<slug>.html
+```
+
+**Idempotent:** `consolidate_figure_events.py` snapshots the pristine event
+table into `raw_timeline_events` on first run and rebuilds the live table from
+that snapshot every run, so the whole sequence is safe to repeat. Because
+consolidation recreates the figure events, **always re-run
+`generate_figure_previews.py` after it.**
+
+**Essays:** one HTML fragment per figure under `staging/figure_essays/<person-slug>.html`
+(3,000-5,000 words, `[LINK:slug]` markup). `load_figure_essays.py` validates word
+count and link slugs before writing to `persons.bio_html`.
+
+---
+
 ## Phase 5: Static Site Generation
 
 ### 6. `scripts/build_site.py`

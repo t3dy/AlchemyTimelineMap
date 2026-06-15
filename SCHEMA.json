@@ -25,6 +25,14 @@
     "person_biography": {
       "field": "bio_html",
       "word_count": { "min": 1200, "max": 2200, "unit": "words" },
+      "figure_essay": {
+        "applies_when": "person is the primary subject of a canonical figure event (timeline_events.is_figure = 1)",
+        "word_count": { "min": 3000, "max": 5000, "unit": "words" },
+        "purpose": "One consolidated long-form essay per historical figure, reached from the figure's single timeline index card. Must cover the figure's chemical/operational advances, the texts they wrote, key relationships and collaborators, and reception — superseding the scattered per-figure events.",
+        "additional_sections_recommended": [
+          { "name": "relationships_and_collaborators", "min_words": 250, "max_words": 450 }
+        ]
+      },
       "required_sections": [
         { "name": "opening_paragraph", "min_words": 200, "max_words": 350 },
         { "name": "works_and_context", "min_words": 250, "max_words": 400 },

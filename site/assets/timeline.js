@@ -72,13 +72,23 @@
 
     const chipsRow = personChips + textChips + conceptChips;
 
-    const summary = truncate(event.summary || event.description || "", 220);
+    // Figure events show the full 3-5 sentence index-card preview and link to
+    // the person's long-form essay; ordinary events show a truncated summary.
+    const isFigure = !!event.is_figure;
+    const summary = isFigure
+      ? (event.card_preview || "")
+      : truncate(event.summary || event.description || "", 220);
+
+    const detailHref = isFigure && event.primary_person_slug
+      ? `persons/${escHtml(event.primary_person_slug)}.html`
+      : `events/${escHtml(event.slug)}.html`;
+    const detailLabel = isFigure ? "Read full essay →" : "Read full entry →";
 
     // Scholarly grounding: display 1-2 sentence citation (if present)
     const scholarlyGrounding = event.scholarly_grounding || "";
 
     return `
-      <article class="timeline-card" data-era="${escHtml(era)}"
+      <article class="timeline-card${isFigure ? " timeline-card--figure" : ""}" data-era="${escHtml(era)}"
         data-persons="${escHtml((event.persons_involved || []).join(","))}"
         data-concepts="${escHtml((event.concepts_involved || []).join(","))}">
         <div class="timeline-card__meta">
@@ -88,7 +98,7 @@
         ${summary ? `<p class="timeline-card__summary">${escHtml(summary)}</p>` : ""}
         ${scholarlyGrounding ? `<p class="timeline-card__scholarly"><em>${escHtml(scholarlyGrounding)}</em></p>` : ""}
         ${chipsRow ? `<div class="timeline-card__chips">${chipsRow}</div>` : ""}
-        <a href="events/${escHtml(event.slug)}.html" class="timeline-card__link">Read full entry →</a>
+        <a href="${detailHref}" class="timeline-card__link">${detailLabel}</a>
       </article>`;
   }
 

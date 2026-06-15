@@ -917,6 +917,17 @@ pre code {
   display: none;
 }
 
+/* Figure cards: one canonical index card per historical figure, styled to
+   read as an index card that opens a long-form essay. */
+.timeline-card--figure {
+  border-left: 4px solid var(--accent-color);
+  background: linear-gradient(180deg, #fffdf7 0%, #fff 60%);
+}
+.timeline-card--figure .timeline-card__summary {
+  font-size: 0.98em;
+  line-height: 1.55;
+}
+
 .timeline-card__meta {
   display: flex;
   align-items: baseline;
