@@ -1,11 +1,11 @@
 {
   "meta": {
-    "total_events": 631,
-    "total_locations": 65,
-    "mapped_events": 631,
+    "total_events": 635,
+    "total_locations": 66,
+    "mapped_events": 635,
     "unmapped_events": 0,
     "validation_passed": true,
-    "generated": "2026-06-29T08:48:06.647547"
+    "generated": "2026-06-29T08:52:04.908290"
   },
   "persons": [
     {
@@ -2362,6 +2362,22 @@
       "confidence": "MEDIUM",
       "created_at": "2026-06-29 15:48:01",
       "concept_tags": []
+    },
+    {
+      "id": 87,
+      "slug": "medulla-alchimiae",
+      "title": "Medulla Alchimiae (Marrow of Alchemy)",
+      "text_type": "TREATISE",
+      "original_language": null,
+      "composition_date": "1476 CE",
+      "composition_year_start": null,
+      "composition_year_end": null,
+      "analysis_html": "<p><em>Medulla Alchimiae</em> (Marrow of Alchemy) is a Latin alchemical treatise composed by George Ripley, Canon of Bridlington (ca. 1415–ca. 1490), with a colophon dated 1476, five years after his more famous poem the Compound of Alchymy. Jennifer M. Rampling, in her study published in <em>Ambix</em> (2008), analyzes the <em>Medulla</em> as a key document for understanding Ripley's alchemical sources and methods, particularly his treatment of pseudo-Lullian alchemy. Rampling identifies the text's principal sources as the pseudo-Lullian corpus (above all the <em>Testamentum</em>, the <em>Epistola accurtationis</em> addressed to King Robert of Sicily, and the <em>Quaestiones</em> from the <em>Liber de secretis naturae seu de quinta essentia</em>), and the works of the obscure alchemist Guido de Montanor, alongside references to Morienus, Roger Bacon, Avicenna, and Geber. References to Raymond Lull in the <em>Medulla</em> 'outnumber those to the philosophers Morienus, Guido de Montanor, Roger Bacon, Avicenna and Geber combined.'</p><p>The <em>Medulla</em> is distinguished from Ripley's <em>Compound</em> by its more theoretical and Lullian orientation: the <em>Compound</em>'s practical 'Twelve Gates' chapter structure, Rampling argues, shows greater influence from Guido de Montanor than from pseudo-Lull, while the <em>Medulla</em> and the Compound's Preface demonstrate the deeper Lullian framework. The contrast between the two texts illustrates Ripley's characteristic practice of drawing simultaneously on multiple alchemical authorities and attempting to reconcile their divergent doctrines. The <em>Medulla</em> was published in William Salmon's English translation in his <em>Medicina Practica</em> (London, 1692) and in Ludwig Combach's edition of Ripley's <em>Opera omnia chemica</em> (Kassel, 1649).</p><p><strong>Modern Scholarship.</strong> Rampling's 2008 study in <em>Ambix</em> is the first systematic analysis of the <em>Medulla</em>'s sources and relationship to Ripley's other authenticated works. For the broader context of Ripley's canonical status and his relationship to the pseudo-Lullian tradition, see also Michela Pereira, <em>The Alchemical Corpus Attributed to Raymond Lull</em> (Warburg Institute, 1989), and Stanton J. Linden, ed., <em>George Ripley's Compound of Alchemy (1591)</em> (Ashgate, 2001).</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "created_at": "2026-06-29 15:51:50",
+      "concept_tags": []
     }
   ],
   "concepts": [
@@ -3587,6 +3603,16 @@
       "region": "Khorasan",
       "modern_name": "Nishapur, Iran",
       "alchemical_significance": null,
+      "key_periods": null
+    },
+    {
+      "slug": "bridlington",
+      "place_name": "Bridlington",
+      "latitude": 54.0833,
+      "longitude": -0.1911,
+      "region": "Yorkshire, England",
+      "modern_name": "Bridlington, East Riding of Yorkshire",
+      "alchemical_significance": "Priory of St. Mary, Bridlington: home of Canon George Ripley (ca. 1415-1490), the most influential English alchemist of the late medieval period",
       "key_periods": null
     }
   ],
@@ -10797,6 +10823,34 @@
       "summary": "c. 1260 CE, Florence: Italian merchant families with alchemical interests establish private laboratories for the pursuit of Operational Chemistry and transmutation, combining courtly patronage with en"
     },
     {
+      "id": 637,
+      "slug": "roger-bacon-discovers-the-secretum-secretorum-and-",
+      "date_label": "ca. 1247 CE",
+      "date_start_year": 1247,
+      "date_end_year": null,
+      "location_slug": "paris",
+      "description": "Around 1247 the Franciscan philosopher Roger Bacon (ca. 1214/1220–ca. 1292), then lecturing at the University of Paris on the traditional topics of scholastic learning, discovered the pseudo-Aristotel",
+      "persons_involved": [
+        "roger-bacon"
+      ],
+      "texts_involved": [
+        "secretum-secretorum"
+      ],
+      "concepts_involved": [
+        "transmutation",
+        "practical-alchemy"
+      ],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH",
+      "created_at": "2026-06-29 15:51:50",
+      "scholarly_grounding": "Edmund Brehm analyzed Roger Bacon's intellectual development and identified the Secretum Secretorum discovery of ca. 1247 as the turning point in his relation to alchemy in 'Roger Bacon's Place in the History of Alchemy' in Ambix vol. 23 no. 1 (1976) pp.53-58.",
+      "place_name": "Paris",
+      "region": "France",
+      "era": "MEDIEVAL",
+      "summary": "Around 1247 the Franciscan philosopher Roger Bacon (ca. 1214/1220–ca. 1292), then lecturing at the University of Paris on the traditional topics of scholastic learning, discovered the pseudo-Aristotel"
+    },
+    {
       "id": 16,
       "slug": "event_oxford_bacon_001",
       "date_label": "c. 1260",
@@ -12515,6 +12569,32 @@
       "summary": "c. 1460, Florence: The Florentine Neoplatonic Academy, under the patronage of the Medici family, begins to incorporate systematic study of alchemical texts, including commentaries on Quintessence and"
     },
     {
+      "id": 638,
+      "slug": "pope-grants-george-ripley-permission-to-study-outs",
+      "date_label": "1458–1459 CE",
+      "date_start_year": 1458,
+      "date_end_year": null,
+      "location_slug": "rome",
+      "description": "A papal letter of 1458–1459, the only surviving contemporary document about George Ripley outside his own writings, granted 'George Ryphey... a canon of the Augustinian monastery or priory of Bitzidli",
+      "persons_involved": [
+        "george-ripley"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "practical-alchemy"
+      ],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH",
+      "created_at": "2026-06-29 15:51:50",
+      "scholarly_grounding": "Jennifer M. Rampling cited and analyzed the papal letter of 1458-59 from the Calendar of Papal Letters XI (1893) in 'Establishing the Canon: George Ripley and his Alchemical Sources' in Ambix vol. 55 no. 3 (2008) pp.189-208.",
+      "place_name": "Rome",
+      "region": "Italy",
+      "era": "EARLY_MODERN",
+      "summary": "A papal letter of 1458–1459, the only surviving contemporary document about George Ripley outside his own writings, granted 'George Ryphey... a canon of the Augustinian monastery or priory of Bitzidli"
+    },
+    {
       "id": 299,
       "slug": "event_renaissance_low_countries_008",
       "date_label": "c. 1464 CE",
@@ -12693,6 +12773,35 @@
       "summary": "c. 1480 CE, Basel: The printing shops of Basel, a major center of Renaissance printing and publishing, produce and circulate printed editions of the Corpus Hermeticum, along with Ficino's commentary a"
     },
     {
+      "id": 639,
+      "slug": "george-ripley-composes-the-compound-of-alchymy-twe",
+      "date_label": "1471 CE",
+      "date_start_year": 1471,
+      "date_end_year": null,
+      "location_slug": "bridlington",
+      "description": "George Ripley (ca. 1415–ca. 1490), Canon Regular of St. Mary's Priory at Bridlington in Yorkshire, composed his Compound of Alchymy, divided into Twelve Gates in 1471 — the date given by its colophon",
+      "persons_involved": [
+        "george-ripley"
+      ],
+      "texts_involved": [
+        "compound-of-alchemies"
+      ],
+      "concepts_involved": [
+        "transmutation",
+        "practical-alchemy",
+        "philosophers-stone"
+      ],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH",
+      "created_at": "2026-06-29 15:51:50",
+      "scholarly_grounding": "Jennifer M. Rampling analyzed the Compound of Alchymy's sources and identified Guido de Montanor's previously unrecognized role in 'Establishing the Canon: George Ripley and his Alchemical Sources' in Ambix vol. 55 no. 3 (2008) pp.189-208.",
+      "place_name": "Bridlington",
+      "region": "Yorkshire, England",
+      "era": "EARLY_MODERN",
+      "summary": "George Ripley (ca. 1415–ca. 1490), Canon Regular of St. Mary's Priory at Bridlington in Yorkshire, composed his Compound of Alchymy, divided into Twelve Gates in 1471 — the date given by its colophon"
+    },
+    {
       "id": 268,
       "slug": "event_renaissance_italy_022",
       "date_label": "c. 1476 CE",
@@ -12740,6 +12849,35 @@
       "region": "Low Countries",
       "era": "EARLY_MODERN",
       "summary": "c. 1480, Antwerp: Antwerp's merchants and scholars engaged actively with alchemical literature and practice as the 15th century closed. The systematic study of Distillation and chemical-experimentatio"
+    },
+    {
+      "id": 640,
+      "slug": "george-ripley-composes-the-medulla-alchimiae",
+      "date_label": "1476 CE",
+      "date_start_year": 1476,
+      "date_end_year": null,
+      "location_slug": "bridlington",
+      "description": "George Ripley composed the Medulla Alchimiae (Marrow of Alchemy) in 1476 — the date given by its colophon — five years after his major poem the Compound of Alchymy. Jennifer M. Rampling, in Ambix (200",
+      "persons_involved": [
+        "george-ripley"
+      ],
+      "texts_involved": [
+        "medulla-alchimiae",
+        "compound-of-alchemies"
+      ],
+      "concepts_involved": [
+        "transmutation",
+        "practical-alchemy"
+      ],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH",
+      "created_at": "2026-06-29 15:51:50",
+      "scholarly_grounding": "Jennifer M. Rampling analyzed the Medulla Alchimiae's sources and relationship to the Compound of Alchymy in 'Establishing the Canon: George Ripley and his Alchemical Sources' in Ambix vol. 55 no. 3 (2008) pp.189-208.",
+      "place_name": "Bridlington",
+      "region": "Yorkshire, England",
+      "era": "EARLY_MODERN",
+      "summary": "George Ripley composed the Medulla Alchimiae (Marrow of Alchemy) in 1476 — the date given by its colophon — five years after his major poem the Compound of Alchymy. Jennifer M. Rampling, in Ambix (200"
     },
     {
       "id": 210,
@@ -19551,6 +19689,7 @@
         "roger-bacon-defends-alchemy-as-legitimate-natural-",
         "event_roger-bacon_biography",
         "event_medieval_universities_003",
+        "roger-bacon-discovers-the-secretum-secretorum-and-",
         "event_oxford_bacon_001",
         "event_bologna_university_001"
       ],
@@ -19707,7 +19846,10 @@
         "digby-backs-hartlibs-universal-laboratory-and-gene"
       ],
       "george-ripley": [
-        "event_george-ripley_biography"
+        "event_george-ripley_biography",
+        "pope-grants-george-ripley-permission-to-study-outs",
+        "george-ripley-composes-the-compound-of-alchymy-twe",
+        "george-ripley-composes-the-medulla-alchimiae"
       ],
       "samuel-norton": [
         "event_samuel-norton_biography"
@@ -20381,6 +20523,10 @@
         "khalid-ibn-yazid-commissions-arabic-translations-o",
         "al-khwarizmi-composes-mafatih-al-ulum-at-bukhara",
         "michael-scot-compiles-ars-alchemie",
+        "roger-bacon-discovers-the-secretum-secretorum-and-",
+        "pope-grants-george-ripley-permission-to-study-outs",
+        "george-ripley-composes-the-compound-of-alchymy-twe",
+        "george-ripley-composes-the-medulla-alchimiae",
         "john-damian-appointed-abbot-of-tungland",
         "pantheus-publishes-ars-transmutationis-metallicae-",
         "pantheus-publishes-voarchadumia-to-circumvent-anti",
@@ -20563,6 +20709,7 @@
         "event_medieval_islam_iberia_033",
         "event_medieval_islam_iberia_034",
         "latin-translation-of-pseudo-avicennas-de-anima-in-",
+        "roger-bacon-discovers-the-secretum-secretorum-and-",
         "event_renaissance_italy_000",
         "event_renaissance_italy_001",
         "event_renaissance_italy_002",
@@ -20587,9 +20734,12 @@
         "event_renaissance_italy_019",
         "henry-vi-grants-royal-alchemy-licenses",
         "event_renaissance_italy_020",
+        "pope-grants-george-ripley-permission-to-study-outs",
         "event_printing_alchemy_001",
         "event_renaissance_italy_021",
+        "george-ripley-composes-the-compound-of-alchymy-twe",
         "event_renaissance_italy_022",
+        "george-ripley-composes-the-medulla-alchimiae",
         "event_renaissance_italy_023",
         "event_renaissance_italy_024",
         "event_alchemy_church_001",
@@ -20851,6 +21001,7 @@
       ],
       "philosophers-stone": [
         "latin-translation-of-pseudo-avicennas-de-anima-in-",
+        "george-ripley-composes-the-compound-of-alchymy-twe",
         "john-damian-establishes-alchemical-laboratory-at-s",
         "alexander-setons-transmutation-demonstrations-in-e",
         "michael-sendivogius-publishes-novum-lumen-chymicum",
