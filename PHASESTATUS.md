@@ -1,7 +1,7 @@
 # ALCHEMYTIMELINEMAP Phase Status
 
-**Updated:** 2026-06-14 (Phase 3A + Batch Loading Session — Persons +2, Texts +1, Concepts +4, Events +2)
-**Current Phase:** PHASE 3A (✅ IN PROGRESS) — 90 PERSONS, 43 TEXTS, 37 CONCEPTS, 600 EVENTS (from 200 markdown files processed)
+**Updated:** 2026-06-29 (Ambix scholarship ingestion — 19 new events, 7 persons, 9 texts from 9 Ambix articles)
+**Current Phase:** PHASE 3A (✅ IN PROGRESS) — 101 PERSONS, 59 TEXTS, 44 CONCEPTS, 621 EVENTS
 
 ---
 

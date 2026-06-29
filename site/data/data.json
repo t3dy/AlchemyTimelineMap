@@ -1,11 +1,11 @@
 {
   "meta": {
-    "total_events": 621,
-    "total_locations": 63,
-    "mapped_events": 621,
+    "total_events": 625,
+    "total_locations": 65,
+    "mapped_events": 625,
     "unmapped_events": 0,
     "validation_passed": true,
-    "generated": "2026-06-29T08:36:53.906041"
+    "generated": "2026-06-29T08:41:46.755710"
   },
   "persons": [
     {
@@ -1332,6 +1332,32 @@
       "confidence": "HIGH",
       "created_at": "2026-06-29 15:36:43",
       "concept_tags": []
+    },
+    {
+      "id": 162,
+      "slug": "al-khwarizmi-encyclopedist",
+      "name": "Abu Abdallah Muhammad ibn Ahmad al-Khwarizmi",
+      "role_primary": "SCHOLAR",
+      "era": "MEDIEVAL",
+      "bio_html": "<p>Abu Abdallah Muhammad ibn Ahmad ibn Yusuf al-Khwarizmi (d. ca. 997) was a tenth-century Arabic encyclopedist and court scribe employed by the Samanid dynasty, best known as the author of the <em>Mafatih al-Ulum</em> (Keys to the Sciences), a systematic reference handbook composed between 976 and 980 for members of the Samanid court at Bukhara. He is entirely distinct from the ninth-century mathematician Abu Ja'far Muhammad ibn Musa al-Khwarizmi (d. ca. 850), from whom the term 'algorithm' derives. Karin C. Ryding, in her study and translation of the alchemical chapter of the <em>Mafatih al-Ulum</em> published in <em>Ambix</em> (1994), describes the encyclopedist al-Khwarizmi as a 'pragmatic encyclopedist' who approached alchemy 'with directness and brevity,' providing copious definitions of technical terms intended to be 'comprehensible to a layman' — that is, to court scribes and secretaries who needed to understand the professional vocabulary of the sciences without being practitioners themselves.</p><p>The <em>Mafatih al-Ulum</em> is organized in two main discourses: the first covers the traditional religious and administrative sciences of Islamic culture; the second covers secular sciences including logic, philosophy, medicine, arithmetic, geometry, astronomy, music, mechanics, and alchemy. The chapter on alchemy (ninth chapter of the second discourse) provides what Ryding identifies as 'a unique and valuable cultural artifact': an 'objective description of medieval alchemy written by a non-alchemist,' designed to elucidate rather than render the subject obscure, and based primarily on the works of the great physician-alchemist Muhammad ibn Zakariya al-Razi (d. 925). The chapter is divided into three sections: apparatus (fifteen instruments including furnace, crucible, cucurbit, alembic, and athanor), substances (metals, spirits, salts, stones, and man-made compounds), and operations (thirteen procedures including sublimation, distillation, calcination, amalgamation, and lixiviation). Al-Khwarizmi was a contemporary of the Samanid vizier Abu al-Hasan Ubayd Allah ibn Ahmad al-Utbi, to whom the <em>Mafatih al-Ulum</em> was dedicated.</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "created_at": "2026-06-29 15:41:43",
+      "concept_tags": []
+    },
+    {
+      "id": 163,
+      "slug": "khalid-ibn-yazid",
+      "name": "Khalid ibn Yazid",
+      "role_primary": "PATRON",
+      "era": "MEDIEVAL",
+      "bio_html": "<p>Khalid ibn Yazid (d. 704) was an Umayyad prince and member of the ruling house of early Islamic Syria who has been associated in medieval sources with the earliest patronage of Arabic alchemy. Mohamed Yahia Haschmi, in his survey of the beginnings of Arab alchemy (<em>Ambix</em>, 1961), summarizes the evidence: according to the tenth-century bibliographer al-Nadim, Khalid was 'the first Muslim to interest himself in alchemy' and commissioned from the Egyptian monk Morienus (Marianus) and others the translation of Greek alchemical texts into Arabic, including a work known as 'Kitab Qaratisul-Hikma' ('The Wisdom of Krates'). Haschmi notes, however, that Julius Ruska disputed whether this translation was in fact made during Khalid's lifetime, rather than attributed to him at a later date. E. J. Holmyard, summarizing the evidence, concluded that Khalid ibn Yazid ordered the first Arabic translations of Greek alchemy texts and that some Arabic alchemical works attributed to him still exist, though none 'have been closely studied.'</p><p>The historical question of Khalid's role in Arabic alchemy is entangled with the broader uncertainty about the origins of the Jabiriyan corpus. Paul Kraus, in his fundamental research, dated the composition of the works attributed to Jabir ibn Hayyan to the second half of the ninth century, which would preclude Jabir from being an eighth-century court alchemist under Harun al-Rashid. If this dating is accepted, Arab alchemy as a literary tradition began later than the traditional accounts suggest, and Khalid's role in commissioning translations becomes even harder to evaluate. Haschmi himself argues against Kraus's late dating, pointing to several pieces of circumstantial evidence — including a poem by al-Akhtal (d. 710) that contains the word 'elixir' — for an early Arabic knowledge of alchemical concepts predating the main Jabiriyan corpus.</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "LOW",
+      "created_at": "2026-06-29 15:41:43",
+      "concept_tags": []
     }
   ],
   "texts": [
@@ -2277,6 +2303,38 @@
       "review_status": "DRAFT",
       "confidence": "HIGH",
       "created_at": "2026-06-29 15:36:43",
+      "concept_tags": []
+    },
+    {
+      "id": 84,
+      "slug": "de-anima-in-arte-alchemiae",
+      "title": "De Anima in Arte Alchemiae (Pseudo-Avicenna)",
+      "text_type": "COMPILATION",
+      "original_language": null,
+      "composition_date": "12th century CE (Latin translation ca. 1226–1235)",
+      "composition_year_start": null,
+      "composition_year_end": null,
+      "analysis_html": "<p><em>De Anima in Arte Alchemiae</em> (On the Soul in the Art of Alchemy) is an Arabic alchemical text composed in twelfth-century Spain, surviving only in a Latin translation made between approximately 1226 and 1235 and falsely attributed to the great physician-philosopher Avicenna (Ibn Sina). Sébastien Moureau, in his study published in <em>Ambix</em> (2009), describes it as 'a significant text in the history of alchemy, as much for the ideas that it introduces into the West as for its influence on medieval thought through authors such as Vincent of Beauvais and Roger Bacon.' The false attribution to Avicenna gave the text enormous prestige in medieval Latin Europe, where Avicenna's medical authority was beyond question; the attribution was contested by Julius Ruska in 1934 and has since been accepted by subsequent scholarship.</p><p><strong>Structure and Doctrine.</strong> The <em>De Anima</em> is divided into a prologue and ten sections (<em>dictiones</em>), preceded by a 'porta elementorum' (gate of the elements) that serves as the theoretical foundation. The work's alchemical doctrine, according to Moureau, is 'entirely based on operations on the four elements': the alchemist must 'reduce hair, blood or eggs to their elements, and isolate one of their essential properties (warmth, coldness, moisture and dryness), so that he can change the proportion of essential properties of the body he wants to transmute into gold or silver.' This isolated essential property — prepared from hair, blood, or eggs — constitutes the elixir. The theoretical framework draws directly on Jabirian sources for its elixir theory and on al-Razi for its classification of materials, demonstrating the deep roots of the text in the Arabic alchemical tradition even as it was transmitted in a Latin compilation.</p><p><strong>Transmission and Influence.</strong> The <em>De Anima</em> influenced Vincent of Beauvais, who incorporated it into his encyclopaedic <em>Speculum Naturale</em>, and Roger Bacon, whose alchemical writings engage extensively with its doctrines. The text was first edited from its manuscript tradition by the Sienese humanist Mino Celsi and published at Basel in 1572 by the printer Pietro Perna, in a collection entitled <em>Artis Chemicae Principes, Avicenna atque Geber</em>, alongside the key works of Geber (the <em>Summa Perfectionis</em>, <em>De Inventione Veritatis</em>, and other texts). Two manuscripts give specific dates of translation: one gives 1226, another 1235, both presumably colophon dates from the original translation process. The text's Arabic original is lost; it is known only through the Latin translation.</p><p><strong>Modern Scholarship.</strong> Julius Ruska established the text's pseudo-Avicennan character in 1934. Subsequent researchers including Georges C. Anawati analyzed its relationship to the Arabic alchemical tradition. Moureau's 2009 article in <em>Ambix</em> provides the most thorough analysis of the text's doctrinal sources, focusing on its debts to both Jabiriyan elixir theory and al-Razi's material classification system.</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "created_at": "2026-06-29 15:41:43",
+      "concept_tags": []
+    },
+    {
+      "id": 85,
+      "slug": "mafatih-al-ulum",
+      "title": "Mafatih al-Ulum (Keys to the Sciences)",
+      "text_type": "ENCYCLOPEDIA",
+      "original_language": null,
+      "composition_date": "ca. 976–980 CE",
+      "composition_year_start": null,
+      "composition_year_end": null,
+      "analysis_html": "<p><em>Mafatih al-Ulum</em> (Keys to the Sciences) is a tenth-century Arabic encyclopaedia composed between 976 and 980 by Abu Abdallah Muhammad ibn Ahmad al-Khwarizmi (d. ca. 997), a court scribe working for the Samanid dynasty at Bukhara. Karin C. Ryding, in her study published in <em>Ambix</em> (1994), identifies the <em>Mafatih al-Ulum</em>'s chapter on alchemy as 'a unique and valuable cultural artifact': an objective description of medieval Islamic alchemy written by a non-alchemist, designed to explain alchemical vocabulary and practice to court secretaries and scribes who required 'definitions and explanations of the burgeoning number of technical terms being coined and employed within the various disciplines of the time.' The work was dedicated to Abu al-Hasan Ubayd Allah ibn Ahmad al-Utbi, vizier to the Samanid ruler Nuh II ibn Mansur (r. 976–997).</p><p><strong>Context and Encyclopedic Tradition.</strong> Ryding situates the <em>Mafatih al-Ulum</em> within a cluster of three major tenth-century Islamic encyclopedic projects that chronicled and categorized the extraordinary intellectual achievement of the Abbasid era: alongside the <em>Fihrist</em> of Ibn al-Nadim (d. 995) and the collective epistles of the Ikhwan al-Safa' ('Brethren of Purity'). Of the three, Ryding describes the <em>Mafatih al-Ulum</em> as 'most closely resembling a practical handbook,' with its focus on definitions and taxonomy rather than historical narrative or philosophical speculation. Stapleton, Azo, and Husain, in their 1927 study published in the <em>Memoirs of the Asiatic Society of Bengal</em>, established that al-Khwarizmi based his alchemical chapter primarily on the works of Muhammad ibn Zakariya al-Razi (d. 925), specifically al-Razi's <em>al-Madkhal al-Talimi</em> (The Instructive Introduction).</p><p><strong>The Alchemy Chapter.</strong> The ninth chapter of the second discourse covers alchemy in three sections: (1) apparatus, listing and describing fifteen instruments including the furnace, crucible, cucurbit, alembic, and athanor (the self-ventilating oven); (2) substances, covering the seven metals (gold, silver, iron, copper, lead, tin, quicksilver), four 'spirits' (sulfur, arsenic, mercury, ammonia), various salts, naturally-occurring stones including gems, and man-made compounds; and (3) thirteen operations, including sublimation/distillation, solution, coagulation, calcination, roasting, oxidation, lixiviation, amalgamation, fixing, and descension. Al-Khwarizmi notes that 'practitioners of this craft call it the Absolute Wisdom' and that they 'speak in symbols' using planetary-metal correspondences while maintaining consistency about the use of the sun to represent gold and the moon to represent silver. The chapter concludes with a description of the elixir and an identification of the forms of the philosophers' stone.</p><p><strong>Significance.</strong> As an 'objective description of medieval alchemy written by a non-alchemist,' the <em>Mafatih al-Ulum</em>'s alchemical chapter provides unmediated evidence for the material culture and operational vocabulary of Islamic alchemy at the height of the Samanid renaissance, without the allegorical obscurity that renders most alchemical texts opaque to outsiders. Ryding's 1994 translation in <em>Ambix</em> provides an updated version of the single earlier Western translation by Stapleton et al. (1927), which has remained largely inaccessible.</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "created_at": "2026-06-29 15:41:43",
       "concept_tags": []
     }
   ],
@@ -3484,6 +3542,26 @@
       "modern_name": "Edinburgh, Scotland",
       "alchemical_significance": null,
       "key_periods": null
+    },
+    {
+      "slug": "bukhara",
+      "place_name": "Bukhara (Samanid capital)",
+      "latitude": 39.7747,
+      "longitude": 64.4286,
+      "region": "Central Asia",
+      "modern_name": "Bukhara, Uzbekistan",
+      "alchemical_significance": null,
+      "key_periods": null
+    },
+    {
+      "slug": "nishapur",
+      "place_name": "Nishapur",
+      "latitude": 36.2133,
+      "longitude": 58.7958,
+      "region": "Khorasan",
+      "modern_name": "Nishapur, Iran",
+      "alchemical_significance": null,
+      "key_periods": null
     }
   ],
   "events": [
@@ -4511,6 +4589,32 @@
       "region": "Iraq",
       "era": "MEDIEVAL",
       "summary": "c. 700 CE, Baghdad: The polymath Jabir ibn Hayyan emerges as a leading figure in the nascent Abbasid scholarly court, where he encounters the Hermetic philosophical traditions preserved in the Corpus"
+    },
+    {
+      "id": 627,
+      "slug": "khalid-ibn-yazid-commissions-arabic-translations-o",
+      "date_label": "ca. 690–704 CE",
+      "date_start_year": 695,
+      "date_end_year": null,
+      "location_slug": "damascus",
+      "description": "Khalid ibn Yazid (d. 704), an Umayyad prince and son of Caliph Yazid I, is described by the tenth-century Arabic bibliographer Ibn al-Nadim in the Fihrist as 'the first Muslim to interest himself in a",
+      "persons_involved": [
+        "khalid-ibn-yazid"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "greek-alchemical-tradition",
+        "practical-alchemy"
+      ],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "LOW",
+      "created_at": "2026-06-29 15:41:43",
+      "scholarly_grounding": "Mohamed Yahia Haschmi surveyed this question and summarized the scholarly debate about its authenticity in 'The Beginning of Arab Alchemy' in Ambix vol. 9 no. 3 (1961) pp.155-161, citing al-Nadim, Ruska (Arabische Alchemisten I, 1924), and Holmyard (Endeavour 1955).",
+      "place_name": "Damascus",
+      "region": "Syria",
+      "era": "MEDIEVAL",
+      "summary": "Khalid ibn Yazid (d. 704), an Umayyad prince and son of Caliph Yazid I, is described by the tenth-century Arabic bibliographer Ibn al-Nadim in the Fihrist as 'the first Muslim to interest himself in a"
     },
     {
       "id": 72,
@@ -6323,6 +6427,34 @@
       "region": "Byzantium",
       "era": "MEDIEVAL",
       "summary": "c. 990 CE, Cairo: Egyptian scholars maintain continuous engagement with alchemical practice and theory, preserving earlier Greek and Arabic traditions while advancing Operational Chemistry and Distill"
+    },
+    {
+      "id": 628,
+      "slug": "al-khwarizmi-composes-mafatih-al-ulum-at-bukhara",
+      "date_label": "ca. 976–980 CE",
+      "date_start_year": 978,
+      "date_end_year": null,
+      "location_slug": "bukhara",
+      "description": "Abu Abdallah Muhammad ibn Ahmad al-Khwarizmi (d. ca. 997), an Arabic court scribe and encyclopedist, composed the Mafatih al-Ulum (Keys to the Sciences) between 976 and 980 for the court of the Samani",
+      "persons_involved": [
+        "al-khwarizmi-encyclopedist"
+      ],
+      "texts_involved": [
+        "mafatih-al-ulum"
+      ],
+      "concepts_involved": [
+        "practical-alchemy",
+        "greek-alchemical-tradition"
+      ],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH",
+      "created_at": "2026-06-29 15:41:43",
+      "scholarly_grounding": "Karin C. Ryding analyzed the alchemical chapter of the Mafatih al-Ulum and provided an English translation in 'Islamic Alchemy According to Al-Khwarizmi' in Ambix vol. 41 no. 3 (1994) pp.121-133.",
+      "place_name": "Bukhara (Samanid capital)",
+      "region": "Central Asia",
+      "era": "MEDIEVAL",
+      "summary": "Abu Abdallah Muhammad ibn Ahmad al-Khwarizmi (d. ca. 997), an Arabic court scribe and encyclopedist, composed the Mafatih al-Ulum (Keys to the Sciences) between 976 and 980 for the court of the Samani"
     },
     {
       "id": 95,
@@ -10420,6 +10552,35 @@
       "region": "Bohemia",
       "era": "MEDIEVAL",
       "summary": "c. 1236 CE, Prague: The newly founded University of Prague incorporates alchemical and natural philosophical instruction from its establishment, influenced by the empiricist approach pioneered by the"
+    },
+    {
+      "id": 629,
+      "slug": "latin-translation-of-pseudo-avicennas-de-anima-in-",
+      "date_label": "ca. 1226–1235 CE",
+      "date_start_year": 1230,
+      "date_end_year": null,
+      "location_slug": "toledo",
+      "description": "An anonymous Latin translator rendered the Arabic De Anima in Arte Alchemiae — an alchemical text composed in twelfth-century Spain and falsely attributed to Avicenna — into Latin at some point betwee",
+      "persons_involved": [
+        "avicenna"
+      ],
+      "texts_involved": [
+        "de-anima-in-arte-alchemiae"
+      ],
+      "concepts_involved": [
+        "greek-alchemical-tradition",
+        "philosophers-stone",
+        "transmutation"
+      ],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "MEDIUM",
+      "created_at": "2026-06-29 15:41:43",
+      "scholarly_grounding": "Sébastien Moureau analyzed the De Anima in Arte Alchemiae's doctrinal sources and significance in 'Some Considerations Concerning the Alchemy of the De anima in arte alchemiae of Pseudo-Avicenna' in Ambix vol. 56 no. 1 (2009) pp.49-56.",
+      "place_name": "Toledo",
+      "region": "Spain",
+      "era": "MEDIEVAL",
+      "summary": "An anonymous Latin translator rendered the Arabic De Anima in Arte Alchemiae — an alchemical text composed in twelfth-century Spain and falsely attributed to Avicenna — into Latin at some point betwee"
     },
     {
       "id": 624,
@@ -15089,6 +15250,33 @@
       "summary": "c. 1576, Antwerp: The 1570s and 1580s represented the apex of Antwerp's political and economic power, with the city's alchemical establishment reaching unprecedented scope. The systematic practice of"
     },
     {
+      "id": 630,
+      "slug": "artis-chemicae-principes-de-anima-in-arte-alchemia",
+      "date_label": "1572 CE",
+      "date_start_year": 1572,
+      "date_end_year": null,
+      "location_slug": "basle",
+      "description": "The Sienese humanist Mino Celsi edited and published the pseudo-Avicennan De Anima in Arte Alchemiae at Basel in 1572, through the printer Pietro Perna, in a collection entitled Artis Chemicae Princip",
+      "persons_involved": [],
+      "texts_involved": [
+        "de-anima-in-arte-alchemiae",
+        "summa-perfectionis"
+      ],
+      "concepts_involved": [
+        "transmutation",
+        "practical-alchemy"
+      ],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH",
+      "created_at": "2026-06-29 15:41:43",
+      "scholarly_grounding": "Sébastien Moureau documented the 1572 Basel edition in 'Some Considerations Concerning the Alchemy of the De anima in arte alchemiae of Pseudo-Avicenna' in Ambix vol. 56 no. 1 (2009) pp.49-56, noting the edition's contents and printer.",
+      "place_name": "Basle (Basel)",
+      "region": "Switzerland",
+      "era": "EARLY_MODERN",
+      "summary": "The Sienese humanist Mino Celsi edited and published the pseudo-Avicennan De Anima in Arte Alchemiae at Basel in 1572, through the printer Pietro Perna, in a collection entitled Artis Chemicae Princip"
+    },
+    {
       "id": 218,
       "slug": "event_medieval_universities_032",
       "date_label": "c. 1584 CE",
@@ -19171,6 +19359,9 @@
         "event_oxford_bacon_001",
         "event_bologna_university_001"
       ],
+      "khalid-ibn-yazid": [
+        "khalid-ibn-yazid-commissions-arabic-translations-o"
+      ],
       "gerard-of-cremona": [
         "event_medieval_byzantium_004",
         "event_medieval_islam_baghdad_persia_004",
@@ -19184,6 +19375,9 @@
         "event_toledo_translation_001",
         "event_medieval_universities_004",
         "event_gerard_toledo_001"
+      ],
+      "al-khwarizmi-encyclopedist": [
+        "al-khwarizmi-composes-mafatih-al-ulum-at-bukhara"
       ],
       "albertus-magnus": [
         "albertus-magnus-integrates-alchemical-knowledge-in",
@@ -19221,7 +19415,8 @@
       ],
       "avicenna": [
         "avicenna-synthesizes-medical-alchemy-and-pharmaceu",
-        "event_avicenna_biography"
+        "event_avicenna_biography",
+        "latin-translation-of-pseudo-avicennas-de-anima-in-"
       ],
       "stephanus-of-alexandria": [
         "stephanus-of-alexandria-documents-chemical-operati",
@@ -20061,6 +20256,24 @@
         "event_medieval_islam_baghdad_persia_038",
         "event_medieval_islam_baghdad_persia_039"
       ],
+      "greek-alchemical-tradition": [
+        "khalid-ibn-yazid-commissions-arabic-translations-o",
+        "al-khwarizmi-composes-mafatih-al-ulum-at-bukhara",
+        "latin-translation-of-pseudo-avicennas-de-anima-in-",
+        "michael-scot-compiles-ars-alchemie"
+      ],
+      "practical-alchemy": [
+        "khalid-ibn-yazid-commissions-arabic-translations-o",
+        "al-khwarizmi-composes-mafatih-al-ulum-at-bukhara",
+        "michael-scot-compiles-ars-alchemie",
+        "john-damian-appointed-abbot-of-tungland",
+        "pantheus-publishes-ars-transmutationis-metallicae-",
+        "pantheus-publishes-voarchadumia-to-circumvent-anti",
+        "artis-chemicae-principes-de-anima-in-arte-alchemia",
+        "françois-aguilon-sj-conducts-alchemy-experiments-a",
+        "walter-raleighs-chemical-laboratory-in-the-tower-o",
+        "athanasius-kirchers-alchemical-laboratory-at-the-c"
+      ],
       "fermentation": [
         "event_medieval_islam_iberia_000",
         "event_medieval_islam_iberia_001",
@@ -20137,6 +20350,7 @@
         "event_medieval_islam_iberia_032",
         "event_medieval_islam_iberia_033",
         "event_medieval_islam_iberia_034",
+        "latin-translation-of-pseudo-avicennas-de-anima-in-",
         "event_renaissance_italy_000",
         "event_renaissance_italy_001",
         "event_renaissance_italy_002",
@@ -20218,6 +20432,7 @@
         "event_early_modern_central_europe_012",
         "event_early_modern_france_012",
         "event_early_modern_spain_portugal_012",
+        "artis-chemicae-principes-de-anima-in-arte-alchemia",
         "event_early_modern_central_europe_013",
         "event_early_modern_france_013",
         "event_early_modern_spain_portugal_013",
@@ -20421,17 +20636,13 @@
         "event_early_modern_england_033",
         "event_early_modern_england_034"
       ],
-      "greek-alchemical-tradition": [
-        "michael-scot-compiles-ars-alchemie"
-      ],
-      "practical-alchemy": [
-        "michael-scot-compiles-ars-alchemie",
-        "john-damian-appointed-abbot-of-tungland",
-        "pantheus-publishes-ars-transmutationis-metallicae-",
-        "pantheus-publishes-voarchadumia-to-circumvent-anti",
-        "françois-aguilon-sj-conducts-alchemy-experiments-a",
-        "walter-raleighs-chemical-laboratory-in-the-tower-o",
-        "athanasius-kirchers-alchemical-laboratory-at-the-c"
+      "philosophers-stone": [
+        "latin-translation-of-pseudo-avicennas-de-anima-in-",
+        "john-damian-establishes-alchemical-laboratory-at-s",
+        "alexander-setons-transmutation-demonstrations-in-e",
+        "michael-sendivogius-publishes-novum-lumen-chymicum",
+        "george-starkey-composes-the-introitus-apertus",
+        "publication-of-the-introitus-apertus-and-its-influ"
       ],
       "experimentation": [
         "event_oxford_bacon_001"
@@ -20640,13 +20851,6 @@
         "event_early_modern_france_032",
         "event_early_modern_france_033",
         "event_early_modern_france_034"
-      ],
-      "philosophers-stone": [
-        "john-damian-establishes-alchemical-laboratory-at-s",
-        "alexander-setons-transmutation-demonstrations-in-e",
-        "michael-sendivogius-publishes-novum-lumen-chymicum",
-        "george-starkey-composes-the-introitus-apertus",
-        "publication-of-the-introitus-apertus-and-its-influ"
       ],
       "occult-philosophy": [
         "event_agrippa_cologne_001"
