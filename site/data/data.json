@@ -1,11 +1,11 @@
 {
   "meta": {
-    "total_events": 625,
+    "total_events": 629,
     "total_locations": 65,
-    "mapped_events": 625,
+    "mapped_events": 629,
     "unmapped_events": 0,
     "validation_passed": true,
-    "generated": "2026-06-29T08:41:46.755710"
+    "generated": "2026-06-29T08:45:34.886667"
   },
   "persons": [
     {
@@ -1357,6 +1357,19 @@
       "review_status": "DRAFT",
       "confidence": "LOW",
       "created_at": "2026-06-29 15:41:43",
+      "concept_tags": []
+    },
+    {
+      "id": 164,
+      "slug": "samuel-hartlib",
+      "name": "Samuel Hartlib",
+      "role_primary": "SCHOLAR",
+      "era": "EARLY_MODERN",
+      "bio_html": "<p>Samuel Hartlib (c. 1600–1662) was a Prussian-born English educational reformer, intelligencer, and patron of natural philosophy who served as the central node of a vast correspondence network connecting natural philosophers, alchemists, chemical physicians, and reformers across England and Europe in the middle decades of the seventeenth century. Betty Jo Dobbs, in her study of Kenelm Digby and alchemy (<em>Ambix</em>, 1973), describes Hartlib as 'primarily interested in educational and religious reform but was perhaps more socially and practically oriented than many reformers,' who 'undertook to be a sort of communications centre for the collection and dissemination of information of all sorts' and attempted unsuccessfully to institutionalize this role as a state-supported Office of Address. He entered England as a student in 1625 and by the 1640s had built up a correspondence that included men of every intellectual persuasion; his daybook (the 'Ephemerides,' 1634–1660) records chemical references as early as 1640. Among his close chemical associates were Robert Boyle, George Starkey, Frederick Clodius (who married Hartlib's daughter and set up a laboratory in Hartlib's back kitchen), and Sir Kenelm Digby. Hartlib maintained contact with Continental chemical developments through the chemist-divine Johann Moriaen in Holland.</p><p>Hartlib's circle hoped that Boyle and Starkey would achieve major breakthroughs in chemical medicine and alchemy through the 1640s and early 1650s, but Hartlib's faith in Starkey declined sharply by 1653–4, while his hopes transferred to Frederick Clodius and later Digby. Hartlib corresponded with the Royal Society's first Secretary, Henry Oldenburg, who was the son-in-law of Hartlib's co-worker John Dury and who after Hartlib's death converted Hartlib's correspondence model into the public format of the <em>Philosophical Transactions</em> (1665). Hartlib's extensive papers — which include inventories of Digby's Gresham College laboratory, records of alchemical processes, correspondence with Boyle, and a daybook tracking developments in chemistry, alchemy, husbandry, and educational reform — are preserved at Sheffield University.</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "created_at": "2026-06-29 15:45:31",
       "concept_tags": []
     }
   ],
@@ -17189,6 +17202,33 @@
       "summary": "c. 1636, Florence: The Florentine Accademia del Cimento, founded under Medici patronage, incorporates systematic experimental studies of alchemical operations, including distillation, sublimation, and"
     },
     {
+      "id": 631,
+      "slug": "kenelm-digby-establishes-alchemical-laboratory-at-",
+      "date_label": "1633–1635 CE",
+      "date_start_year": 1634,
+      "date_end_year": null,
+      "location_slug": "london",
+      "description": "Following the death of his wife Venetia in 1633, Sir Kenelm Digby (1603–1665) withdrew from public life for approximately two years and 'diverted himselfe with his chymistry, and the professors' good",
+      "persons_involved": [
+        "kenelm-digby",
+        "samuel-hartlib"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "practical-alchemy",
+        "chymistry"
+      ],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH",
+      "created_at": "2026-06-29 15:45:31",
+      "scholarly_grounding": "Betty Jo Dobbs reconstructed Digby's Gresham College activities from Aubrey's Lives, Digby's own Of the Vegetation of Plants (1660/1669), and the Hartlib Papers laboratory inventory in 'Studies in the Natural Philosophy of Sir Kenelm Digby Part II: Digby and Alchemy' in Ambix vol. 20 no. 3 (1973) pp.143-163.",
+      "place_name": "London",
+      "region": "England",
+      "era": "EARLY_MODERN",
+      "summary": "Following the death of his wife Venetia in 1633, Sir Kenelm Digby (1603–1665) withdrew from public life for approximately two years and 'diverted himselfe with his chymistry, and the professors' good"
+    },
+    {
       "id": 349,
       "slug": "event_early_modern_central_europe_023",
       "date_label": "c. 1638 CE",
@@ -17440,6 +17480,31 @@
       "summary": "c. 1644 CE, Madrid: The Corpus Hermeticum, the philosophical cornerstone of Renaissance alchemy, continues to circulate in Madrid's scholarly circles, now read within frameworks of critical philology."
     },
     {
+      "id": 632,
+      "slug": "digby-conducts-alchemy-at-winchester-house-during-",
+      "date_label": "1642–1644 CE",
+      "date_start_year": 1643,
+      "date_end_year": null,
+      "location_slug": "london",
+      "description": "In 1642 Parliament imprisoned Sir Kenelm Digby — a Catholic Royalist — at Winchester House, the former episcopal palace of Lancelot Andrewes. Betty Jo Dobbs, in Ambix (1973), reconstructs his activiti",
+      "persons_involved": [
+        "kenelm-digby"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "practical-alchemy"
+      ],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH",
+      "created_at": "2026-06-29 15:45:31",
+      "scholarly_grounding": "Betty Jo Dobbs documented Digby's Winchester House imprisonment and glass bottle work in 'Studies in the Natural Philosophy of Sir Kenelm Digby Part II: Digby and Alchemy' in Ambix vol. 20 no. 3 (1973) pp.143-163, citing Longueville and patent records.",
+      "place_name": "London",
+      "region": "England",
+      "era": "EARLY_MODERN",
+      "summary": "In 1642 Parliament imprisoned Sir Kenelm Digby — a Catholic Royalist — at Winchester House, the former episcopal palace of Lancelot Andrewes. Betty Jo Dobbs, in Ambix (1973), reconstructs his activiti"
+    },
+    {
       "id": 322,
       "slug": "event_renaissance_low_countries_031",
       "date_label": "c. 1648 CE",
@@ -17637,6 +17702,32 @@
       "summary": "c. 1660, Oxford: Robert Boyle pursued experiments with air, salts, acids, and chemical analysis while engaging critically with inherited chymical and corpuscular theories. Lawrence Principe's work has"
     },
     {
+      "id": 633,
+      "slug": "john-evelyn-visits-digby-in-paris-exchange-of-alch",
+      "date_label": "November 1651 CE",
+      "date_start_year": 1651,
+      "date_end_year": null,
+      "location_slug": "paris",
+      "description": "In November 1651 the diarist John Evelyn visited Sir Kenelm Digby in Paris and the two men exchanged chemical preparations, as Evelyn recorded in his Diary: 'I visited with Sir Kenholm Digby with whom",
+      "persons_involved": [
+        "kenelm-digby"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "practical-alchemy",
+        "chymistry"
+      ],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH",
+      "created_at": "2026-06-29 15:45:31",
+      "scholarly_grounding": "Betty Jo Dobbs analyzed Evelyn's account of his Paris visit to Digby, drawing on Evelyn's Diary (ed. E. S. de Beer, 1955, III, 48), in 'Studies in the Natural Philosophy of Sir Kenelm Digby Part II: Digby and Alchemy' in Ambix vol. 20 no. 3 (1973) pp.143-163.",
+      "place_name": "Paris",
+      "region": "France",
+      "era": "EARLY_MODERN",
+      "summary": "In November 1651 the diarist John Evelyn visited Sir Kenelm Digby in Paris and the two men exchanged chemical preparations, as Evelyn recorded in his Diary: 'I visited with Sir Kenholm Digby with whom"
+    },
+    {
       "id": 323,
       "slug": "event_renaissance_low_countries_032",
       "date_label": "c. 1656 CE",
@@ -17784,6 +17875,36 @@
       "region": "Iberia",
       "era": "EARLY_MODERN",
       "summary": "c. 1656 CE, Madrid: Spanish alchemists, increasingly influenced by mechanical philosophy and nascent scientific empiricism, begin reconceptualizing Operational Chemistry in terms of particle motion an"
+    },
+    {
+      "id": 634,
+      "slug": "digby-backs-hartlibs-universal-laboratory-and-gene",
+      "date_label": "1654 CE",
+      "date_start_year": 1654,
+      "date_end_year": null,
+      "location_slug": "london",
+      "description": "During a temporary return to England in 1654, Sir Kenelm Digby met and immediately became an enthusiastic backer of Frederick Clodius, the son-in-law of Samuel Hartlib, who had recently established a",
+      "persons_involved": [
+        "kenelm-digby",
+        "samuel-hartlib",
+        "george-starkey",
+        "robert-boyle"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "chymistry",
+        "practical-alchemy",
+        "iatrochemistry"
+      ],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH",
+      "created_at": "2026-06-29 15:45:31",
+      "scholarly_grounding": "Betty Jo Dobbs documented Digby's backing of the Hartlib universal laboratory scheme from Hartlib's letters to Boyle in 'Studies in the Natural Philosophy of Sir Kenelm Digby Part II: Digby and Alchemy' in Ambix vol. 20 no. 3 (1973) pp.143-163.",
+      "place_name": "London",
+      "region": "England",
+      "era": "EARLY_MODERN",
+      "summary": "During a temporary return to England in 1654, Sir Kenelm Digby met and immediately became an enthusiastic backer of Frederick Clodius, the son-in-law of Samuel Hartlib, who had recently established a"
     },
     {
       "id": 626,
@@ -19407,6 +19528,7 @@
         "george-starkey-joins-the-hartlib-circle-and-collab",
         "event_boyle_chemistry_001",
         "george-starkey-composes-the-introitus-apertus",
+        "digby-backs-hartlibs-universal-laboratory-and-gene",
         "repeal-of-the-english-statute-against-multiplicati"
       ],
       "nicholas-flamel": [
@@ -19456,6 +19578,7 @@
         "event_george-starkey_biography",
         "george-starkey-joins-the-hartlib-circle-and-collab",
         "george-starkey-composes-the-introitus-apertus",
+        "digby-backs-hartlibs-universal-laboratory-and-gene",
         "publication-of-the-introitus-apertus-and-its-influ"
       ],
       "isaac-newton": [
@@ -19503,7 +19626,11 @@
         "event_francis-bacon_biography"
       ],
       "kenelm-digby": [
-        "event_kenelm-digby_biography"
+        "event_kenelm-digby_biography",
+        "kenelm-digby-establishes-alchemical-laboratory-at-",
+        "digby-conducts-alchemy-at-winchester-house-during-",
+        "john-evelyn-visits-digby-in-paris-exchange-of-alch",
+        "digby-backs-hartlibs-universal-laboratory-and-gene"
       ],
       "george-ripley": [
         "event_george-ripley_biography"
@@ -19606,6 +19733,10 @@
       "walter-raleigh": [
         "walter-raleighs-chemical-laboratory-in-the-tower-o",
         "publication-of-raleighs-history-of-the-world"
+      ],
+      "samuel-hartlib": [
+        "kenelm-digby-establishes-alchemical-laboratory-at-",
+        "digby-backs-hartlibs-universal-laboratory-and-gene"
       ],
       "athanasius-kircher": [
         "athanasius-kirchers-alchemical-laboratory-at-the-c"
@@ -20272,6 +20403,10 @@
         "artis-chemicae-principes-de-anima-in-arte-alchemia",
         "françois-aguilon-sj-conducts-alchemy-experiments-a",
         "walter-raleighs-chemical-laboratory-in-the-tower-o",
+        "kenelm-digby-establishes-alchemical-laboratory-at-",
+        "digby-conducts-alchemy-at-winchester-house-during-",
+        "john-evelyn-visits-digby-in-paris-exchange-of-alch",
+        "digby-backs-hartlibs-universal-laboratory-and-gene",
         "athanasius-kirchers-alchemical-laboratory-at-the-c"
       ],
       "fermentation": [
@@ -20550,7 +20685,8 @@
         "paracelsus-composes-paragranum-establishing-chemic",
         "jan-baptist-van-helmont-establishes-experimental-c",
         "walter-raleighs-chemical-laboratory-in-the-tower-o",
-        "george-starkey-joins-the-hartlib-circle-and-collab"
+        "george-starkey-joins-the-hartlib-circle-and-collab",
+        "digby-backs-hartlibs-universal-laboratory-and-gene"
       ],
       "greek-arab-latin": [
         "event_sicily_translation_001"
@@ -20746,8 +20882,11 @@
         "english-statute-against-multiplication-of-metals",
         "publication-of-biringuccios-pirotechnia",
         "michael-sendivogius-publishes-novum-lumen-chymicum",
+        "kenelm-digby-establishes-alchemical-laboratory-at-",
         "george-starkey-joins-the-hartlib-circle-and-collab",
+        "john-evelyn-visits-digby-in-paris-exchange-of-alch",
         "george-starkey-composes-the-introitus-apertus",
+        "digby-backs-hartlibs-universal-laboratory-and-gene",
         "athanasius-kirchers-alchemical-laboratory-at-the-c",
         "publication-of-the-introitus-apertus-and-its-influ",
         "repeal-of-the-english-statute-against-multiplicati"
