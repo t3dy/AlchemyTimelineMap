@@ -1,11 +1,11 @@
 {
   "meta": {
-    "total_events": 618,
+    "total_events": 621,
     "total_locations": 63,
-    "mapped_events": 618,
+    "mapped_events": 621,
     "unmapped_events": 0,
     "validation_passed": true,
-    "generated": "2026-06-29T08:34:01.307692"
+    "generated": "2026-06-29T08:36:53.906041"
   },
   "persons": [
     {
@@ -1293,6 +1293,45 @@
       "confidence": "HIGH",
       "created_at": "2026-06-29 15:33:57",
       "concept_tags": []
+    },
+    {
+      "id": 159,
+      "slug": "michael-scot",
+      "name": "Michael Scot",
+      "role_primary": "TRANSLATOR",
+      "era": "MEDIEVAL",
+      "bio_html": "<p>Michael Scot (ca. 1175 – ca. 1232) was a Scottish scholar, astrologer, translator, and natural philosopher who served at the court of Holy Roman Emperor Frederick II in Sicily and whose name appears in the prologues of the <em>Ars Alchemie</em>, one of the earliest surviving Latin practical alchemy texts. Antony Vinciguerra, in his study of the <em>Ars Alchemie</em> as the first Latin text on practical alchemy (<em>Ambix</em>, 2009), identifies Scot as the compiler or co-compiler of the text: one of the work's prologues opens, 'Ego vero magister Miccael scottus interpretationem aggredior et tibi magno Theophilo gayto saracenorum tecum Tunixe, huius munusculum apporto et secreta nature et verba philosophica que audivi tecum volo alchimiam translatare' — 'I, Master Michael Scot, undertake this translation and bring to you, great Theophilus, master of the Saracens with you at Tunis, this small gift, and wish to translate with you the secret nature and philosophical words that I have heard.' This dedication to a 'Theophilus of Tunis' reflects the Mediterranean cross-cultural milieu of Frederick II's court and the Arabic translation movement in which Scot played a central role.</p><p>Scot was among the most productive Arabic-Latin translators of the thirteenth century. At Toledo and later at the Sicilian court, he translated or assisted in translating the astronomical works of al-Bitruji (Alpetragius), the biological writings of Aristotle with Averroes' commentaries, and a range of other Arabic scientific texts that had no Latin equivalent. Dante placed him in Hell's fourth circle of sorcerers in the <em>Commedia</em>, indicating his reputation as an astrologer-magician across subsequent generations. Vinciguerra's analysis establishes that the <em>Ars Alchemie</em> is largely a compilation, adapting the prologue of Hugo of Santalla's <em>Ars Geomantie</em> (12th century) with alchemical substitutions for astrological terms, and drawing on other Arabic-derived texts including the <em>De Aluminibus et Salibus</em> and the <em>Liber Hermetis</em>. The result, Vinciguerra argues, is the earliest surviving example of a Latin alchemical text organized around theory and practice that is not a direct Arabic translation but rather a Latin compilation from multiple Arabic-derived sources — making Scot's compilation a pivotal moment in the establishment of an autonomous Latin alchemical tradition.</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "MEDIUM",
+      "created_at": "2026-06-29 15:36:43",
+      "concept_tags": []
+    },
+    {
+      "id": 160,
+      "slug": "francois-aguilon",
+      "name": "François Aguilon SJ",
+      "role_primary": "SCHOLAR",
+      "era": "EARLY_MODERN",
+      "bio_html": "<p>François Aguilon SJ (1566–1617), also known as Franciscus Aguilonius, was a Belgian Jesuit mathematician and natural philosopher best known for his major optical treatise <em>Opticorum Libri Sex</em> (Antwerp, 1613), which included illustrations by Peter Paul Rubens. Martha Baldwin, in her study of alchemy in the Society of Jesus in <em>Ambix</em> (1993), recovers an episode from Aguilon's career that is absent from his optical reputation: Jan Baptist van Helmont, writing about 1624 in a text defending himself against heresy charges, claimed to have personally witnessed Aguilon conducting alchemy experiments at the Jesuit College in Antwerp in 1596. According to van Helmont's account, Aguilon had enlisted an artisan goldsmith to teach him manual operations required for transmutation, had conducted 'repeated experiments attempting the transmutation of gold from various forms of silver,' and had used 'glass vessels imprinted with the yellow seal of the Society of Jesus' — a detail that led van Helmont to infer that the experiments 'had not happened without the approval of the Jesuit superiors.'</p><p>Baldwin notes that van Helmont made these claims in the context of defending himself against Jesuit-backed Inquisition charges (1634) and that his hostility to the Society colored his account. Nevertheless, the specific and detailed nature of his testimony, combined with the fact that 'these charges were never refuted by those ecclesiastics involved in his 1634 trial before the Inquisition,' lends some credibility to the account. According to van Helmont, Aguilon ultimately abandoned alchemy — 'dispirited and embarrassed by his lack of success and by the expense of the experiments' — and turned to optics, in which he achieved permanent distinction. The artisan goldsmith Aguilon had employed was dismissed and, according to van Helmont, 'lost his workshop, was forced to earn his livelihood as a soldier and to abandon his wife and children.' The episode illustrates both the existence of alchemical activity within Jesuit institutional contexts and the ambiguous attitudes toward such activity within the Society.</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "MEDIUM",
+      "created_at": "2026-06-29 15:36:43",
+      "concept_tags": []
+    },
+    {
+      "id": 161,
+      "slug": "athanasius-kircher",
+      "name": "Athanasius Kircher SJ",
+      "role_primary": "SCHOLAR",
+      "era": "EARLY_MODERN",
+      "bio_html": "<p>Athanasius Kircher SJ (1602–1680) was a German Jesuit polymath and prolific author, based at the Collegio Romano in Rome from 1634 until his death, whose encyclopedic writings across geology, acoustics, Egyptology, optics, and medicine made him one of the most famous learned men of seventeenth-century Europe. Martha Baldwin, in her study of alchemy in the Society of Jesus (<em>Ambix</em>, 1993), identifies Kircher's published work as evidence of 'an active group of learned men pursuing alchemical projects in the laboratory of the Jesuit Collegio Romano' in the second half of the seventeenth century. Kircher's engagement with alchemy appears in his enormous two-volume <em>Mundus Subterraneus</em> (Amsterdam, 1665), where Baldwin notes he published 'a diatribe on alchemy' placed within a broader encyclopedic discussion of vulcanology, ocean currents, hydraulics, geology, metallurgy, and toxicology. This placement within a much larger work is characteristic of the pattern Baldwin identifies among Jesuit alchemical writers: 'Hoping to present their alchemical studies as part of much broader works on natural philosophy suggests that these Jesuits seemed acutely uncomfortable with being known as alchemists.'</p><p>Kircher collaborated with the German Jesuit Gaspar Schott (1608–1666), who 'later transported his interest to Germany when his superiors reassigned him' and who made 'frequent references to alchemical projects, both his own and those of his correspondents' in his published writings. Kircher's Collegio Romano laboratory served as a hub for European correspondence networks in the natural sciences and in alchemy, with Schott transmitting information about Kircher's experiments and conclusions to a broad readership through his own encyclopedic publications. Beyond alchemy, Kircher was centrally responsible for the development of European Egyptology through his (ultimately erroneous) attempts to decode Egyptian hieroglyphics, and his many publications exercised enormous influence on learned culture across Europe in the mid-seventeenth century.</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "created_at": "2026-06-29 15:36:43",
+      "concept_tags": []
     }
   ],
   "texts": [
@@ -2222,6 +2261,22 @@
       "review_status": "DRAFT",
       "confidence": "HIGH",
       "created_at": "2026-06-29 15:33:57",
+      "concept_tags": []
+    },
+    {
+      "id": 83,
+      "slug": "ars-alchemie",
+      "title": "Ars Alchemie (The Art of Alchemy)",
+      "text_type": "COMPILATION",
+      "original_language": null,
+      "composition_date": "ca. 1230–1240",
+      "composition_year_start": null,
+      "composition_year_end": null,
+      "analysis_html": "<p><em>Ars Alchemie</em> (The Art of Alchemy) is a collection of alchemical recipes composed in the first half of the thirteenth century, associated in its prologue with the Arabic-Latin translator Michael Scot. Antony Vinciguerra, in his study published in <em>Ambix</em> (2009), identifies the <em>Ars Alchemie</em> as 'one of the most ancient Latin alchemical texts that is not translated directly from Arabic,' making it a pivotal document in the emergence of an autonomous Latin alchemical tradition. The text survives in four manuscripts from the late thirteenth to early fourteenth centuries: Palermo, Biblioteca Comunale, Qq A 10 (AD 1320); Oxford, Corpus Christi College 125 (end of 13th century); Cambridge, Gonville and Caius College 181 (AD 1275); and Göttingen, Universitätsbibliothek, Hist. Nat. 75 (14th century). The four manuscripts show so many variants that none appears to be a direct copy of another.</p><p><strong>Content and Theory.</strong> The <em>Ars Alchemie</em> consists of a theoretical part and seven long practical recipes, followed by a detailed list of products and processes. Vinciguerra analyzes the theoretical part as a compilation: the first prologue is an 'itinerant text' found in multiple other manuscripts attached to different works; the second prologue, which includes the attribution to Michael Scot, is adapted from Hugo of Santalla's <em>Ars Geomantie</em> (12th century) with alchemical substitutions made for the original astrological terms — a 'cut and paste' procedure that changed 'astrological expressions to alchemical ones.' The text also draws on the <em>De Aluminibus et Salibus</em>, the <em>Liber Hermetis blchkmkb</em>, and the <em>Liber Dedali</em>. The definition of alchemy offered in the theoretical part is 'short and confusing,' describing it as 'a kind of hot and moist substance possessing the same virtues as the poison of a snake' — evidently taken from the <em>De Aluminibus et Salibus</em>. In contrast, the recipes — seven extended practical procedures for chemical operations on metals, salts, and alums — have attracted more scholarly interest for their specificity and practical orientation.</p><p><strong>Composition and Tradition.</strong> Robert Halleux, in a key scholarly assessment cited by Vinciguerra, identified the <em>Ars Alchemie</em> as 'one of the first Latin attempts to compose an alchemical text divided into theory and practice.' Its mention of the alum of Aleppo as a trade commodity has been connected by David Abulafia to documented thirteenth-century trade routes for that material, providing independent corroboration of its compositional date and geographic context. The text's association with Michael Scot, one of the most productive translators of the Arabic-Latin translation movement, situates it within the broader context of the Toledan and Sicilian translation milieu that conveyed Arabic scientific knowledge to Latin Europe in the twelfth and thirteenth centuries. Scot's dedication of the work to a 'Theophilus of Tunis' — the 'master of the Saracens' — reflects the Mediterranean cross-cultural network in which the text was produced.</p><p><strong>Modern Scholarship.</strong> The three principal manuscripts were edited separately by Charles Homer Haskins (<em>Isis</em>, 1928), Dorothea Singer (<em>Isis</em>, 1929), and Samuel Harrison Thomson (<em>Osiris</em>, 1938). Vinciguerra's 2009 analysis in <em>Ambix</em> represents the most thorough scholarly study of the text's compositional history, sources, and significance as the earliest Latin practical alchemy text produced independently of direct Arabic translation.</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "created_at": "2026-06-29 15:36:43",
       "concept_tags": []
     }
   ],
@@ -10367,6 +10422,34 @@
       "summary": "c. 1236 CE, Prague: The newly founded University of Prague incorporates alchemical and natural philosophical instruction from its establishment, influenced by the empiricist approach pioneered by the"
     },
     {
+      "id": 624,
+      "slug": "michael-scot-compiles-ars-alchemie",
+      "date_label": "ca. 1230–1240 CE",
+      "date_start_year": 1235,
+      "date_end_year": null,
+      "location_slug": "palermo",
+      "description": "Michael Scot (ca. 1175–ca. 1232), the Scottish Arabic-Latin translator serving at the court of Holy Roman Emperor Frederick II, is associated in the prologue of the Ars Alchemie with the compilation o",
+      "persons_involved": [
+        "michael-scot"
+      ],
+      "texts_involved": [
+        "ars-alchemie"
+      ],
+      "concepts_involved": [
+        "greek-alchemical-tradition",
+        "practical-alchemy"
+      ],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "MEDIUM",
+      "created_at": "2026-06-29 15:36:43",
+      "scholarly_grounding": "Antony Vinciguerra analyzed the Ars Alchemie and argued for its status as the first Latin practical alchemy text in 'The Ars Alchemie: the First Latin Text on Practical Alchemy' in Ambix vol. 56 no. 1 (2009) pp.57-67.",
+      "place_name": "Palermo",
+      "region": "Sicily",
+      "era": "MEDIEVAL",
+      "summary": "Michael Scot (ca. 1175–ca. 1232), the Scottish Arabic-Latin translator serving at the court of Holy Roman Emperor Frederick II, is associated in the prologue of the Ars Alchemie with the compilation o"
+    },
+    {
       "id": 190,
       "slug": "event_medieval_universities_004",
       "date_label": "c. 1248 CE",
@@ -15803,6 +15886,33 @@
       "summary": "c. 1600, Bruges: The threshold of the 17th century found Bruges maintaining its archival and intellectual heritage while Antwerp dominated contemporary alchemical activity. The city's libraries contai"
     },
     {
+      "id": 625,
+      "slug": "françois-aguilon-sj-conducts-alchemy-experiments-a",
+      "date_label": "1596 CE",
+      "date_start_year": 1596,
+      "date_end_year": null,
+      "location_slug": "antwerp",
+      "description": "Jan Baptist van Helmont, in a manuscript written ca. 1624 defending himself against heresy charges, reported witnessing alchemy experiments conducted by the Jesuit mathematician François Aguilon (1566",
+      "persons_involved": [
+        "francois-aguilon",
+        "jan-van-helmont"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "practical-alchemy"
+      ],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "MEDIUM",
+      "created_at": "2026-06-29 15:36:43",
+      "scholarly_grounding": "Martha Baldwin analyzed van Helmont's testimony about Aguilon's alchemy in 'Alchemy and the Society of Jesus in the Seventeenth Century: Strange Bedfellows?' in Ambix vol. 40 no. 2 (1993) pp.41-64.",
+      "place_name": "Antwerp",
+      "region": "Low Countries",
+      "era": "EARLY_MODERN",
+      "summary": "Jan Baptist van Helmont, in a manuscript written ca. 1624 defending himself against heresy charges, reported witnessing alchemy experiments conducted by the Jesuit mathematician François Aguilon (1566"
+    },
+    {
       "id": 220,
       "slug": "event_medieval_universities_034",
       "date_label": "c. 1608 CE",
@@ -17488,6 +17598,33 @@
       "summary": "c. 1656 CE, Madrid: Spanish alchemists, increasingly influenced by mechanical philosophy and nascent scientific empiricism, begin reconceptualizing Operational Chemistry in terms of particle motion an"
     },
     {
+      "id": 626,
+      "slug": "athanasius-kirchers-alchemical-laboratory-at-the-c",
+      "date_label": "ca. 1650–1665 CE",
+      "date_start_year": 1655,
+      "date_end_year": null,
+      "location_slug": "rome",
+      "description": "Athanasius Kircher SJ (1602–1680), the German Jesuit polymath at the Collegio Romano in Rome, directed or participated in an active group of learned men pursuing alchemical projects in the laboratory",
+      "persons_involved": [
+        "athanasius-kircher"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "practical-alchemy",
+        "transmutation",
+        "chymistry"
+      ],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "MEDIUM",
+      "created_at": "2026-06-29 15:36:43",
+      "scholarly_grounding": "Martha Baldwin analyzed Kircher's alchemical activities and Jesuit attitudes to alchemy in 'Alchemy and the Society of Jesus in the Seventeenth Century: Strange Bedfellows?' in Ambix vol. 40 no. 2 (1993) pp.41-64.",
+      "place_name": "Rome",
+      "region": "Italy",
+      "era": "EARLY_MODERN",
+      "summary": "Athanasius Kircher SJ (1602–1680), the German Jesuit polymath at the Collegio Romano in Rome, directed or participated in an active group of learned men pursuing alchemical projects in the laboratory"
+    },
+    {
       "id": 590,
       "slug": "rosarium-theatrum-chemicum-1659",
       "date_label": "1659",
@@ -19066,7 +19203,8 @@
       ],
       "jan-van-helmont": [
         "jan-baptist-van-helmont-establishes-experimental-c",
-        "event_jan-van-helmont_biography"
+        "event_jan-van-helmont_biography",
+        "françois-aguilon-sj-conducts-alchemy-experiments-a"
       ],
       "robert-boyle": [
         "robert-boyle-publishes-the-sceptical-chymist-estab",
@@ -19223,6 +19361,9 @@
       "william-backhouse": [
         "event_william-backhouse_biography"
       ],
+      "michael-scot": [
+        "michael-scot-compiles-ars-alchemie"
+      ],
       "marsilio-ficino": [
         "event_renaissance_italy_000",
         "event_renaissance_low_countries_000",
@@ -19261,12 +19402,18 @@
         "event_bruno_london_001",
         "event_bruno_rome_001"
       ],
+      "francois-aguilon": [
+        "françois-aguilon-sj-conducts-alchemy-experiments-a"
+      ],
       "alexander-seton": [
         "alexander-setons-transmutation-demonstrations-in-e"
       ],
       "walter-raleigh": [
         "walter-raleighs-chemical-laboratory-in-the-tower-o",
         "publication-of-raleighs-history-of-the-world"
+      ],
+      "athanasius-kircher": [
+        "athanasius-kirchers-alchemical-laboratory-at-the-c"
       ],
       "heleen-de-jong": [
         "publication-of-heleen-de-jongs-archival-study-of-a"
@@ -20086,6 +20233,7 @@
         "event_early_modern_central_europe_016",
         "event_early_modern_france_016",
         "event_early_modern_spain_portugal_016",
+        "françois-aguilon-sj-conducts-alchemy-experiments-a",
         "event_early_modern_central_europe_017",
         "event_early_modern_france_017",
         "event_early_modern_spain_portugal_017",
@@ -20125,6 +20273,7 @@
         "event_early_modern_central_europe_026",
         "event_early_modern_france_026",
         "event_early_modern_spain_portugal_026",
+        "athanasius-kirchers-alchemical-laboratory-at-the-c",
         "event_early_modern_central_europe_027",
         "event_early_modern_france_027",
         "event_early_modern_spain_portugal_027",
@@ -20272,6 +20421,18 @@
         "event_early_modern_england_033",
         "event_early_modern_england_034"
       ],
+      "greek-alchemical-tradition": [
+        "michael-scot-compiles-ars-alchemie"
+      ],
+      "practical-alchemy": [
+        "michael-scot-compiles-ars-alchemie",
+        "john-damian-appointed-abbot-of-tungland",
+        "pantheus-publishes-ars-transmutationis-metallicae-",
+        "pantheus-publishes-voarchadumia-to-circumvent-anti",
+        "françois-aguilon-sj-conducts-alchemy-experiments-a",
+        "walter-raleighs-chemical-laboratory-in-the-tower-o",
+        "athanasius-kirchers-alchemical-laboratory-at-the-c"
+      ],
       "experimentation": [
         "event_oxford_bacon_001"
       ],
@@ -20376,6 +20537,7 @@
         "michael-sendivogius-publishes-novum-lumen-chymicum",
         "george-starkey-joins-the-hartlib-circle-and-collab",
         "george-starkey-composes-the-introitus-apertus",
+        "athanasius-kirchers-alchemical-laboratory-at-the-c",
         "publication-of-the-introitus-apertus-and-its-influ",
         "repeal-of-the-english-statute-against-multiplicati"
       ],
@@ -20485,12 +20647,6 @@
         "michael-sendivogius-publishes-novum-lumen-chymicum",
         "george-starkey-composes-the-introitus-apertus",
         "publication-of-the-introitus-apertus-and-its-influ"
-      ],
-      "practical-alchemy": [
-        "john-damian-appointed-abbot-of-tungland",
-        "pantheus-publishes-ars-transmutationis-metallicae-",
-        "pantheus-publishes-voarchadumia-to-circumvent-anti",
-        "walter-raleighs-chemical-laboratory-in-the-tower-o"
       ],
       "occult-philosophy": [
         "event_agrippa_cologne_001"
