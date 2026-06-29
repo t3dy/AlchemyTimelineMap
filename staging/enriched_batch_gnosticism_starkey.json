@@ -1,0 +1,106 @@
+{
+  "description": "Events from H. J. Sheppard, Gnosticism and Alchemy (Ambix 1957), and William Newman, Prophecy and Alchemy (Ambix 1990).",
+  "persons": [
+    {
+      "role": "ALCHEMIST",
+      "bio_html": "<p>Bolos of Mendes (fl. ca. 200 BCE) was an Egyptian natural philosopher from the Nile Delta town of Mendes who is regarded by modern scholars as a likely originator of the theoretical tradition in Western alchemy. H. J. Sheppard, in <em>Ambix</em> (1957), draws on Max Wellmann and A. J. Festugiere to identify Bolos as the probable source of both the technical content of the Leiden and Stockholm papyri and the theoretical-practical framework of the text of Pseudo-Demokritos (the <em>Physika kai Mystika</em>). Bolos authored or compiled a work on the tinting of metals entitled <em>Baphika</em> (On Dyeing), one of the earliest systematic attempts to extend traditional Egyptian metallurgical practice toward genuine transmutation through philosophical theory. Bolos also composed texts under the persona of the Greek atomist Democritus, establishing the practice of pseudonymous attributions that would characterize alchemical literature through the medieval period.</p>",
+      "confidence": "MEDIUM",
+      "name": "Bolos of Mendes (Pseudo-Demokritos)",
+      "review_status": "DRAFT",
+      "slug": "bolos-of-mendes",
+      "era": "ANTIQUITY",
+      "source_method": "SCHOLARSHIP_BASED"
+    }
+  ],
+  "concepts": [],
+  "texts": [
+    {
+      "confidence": "MEDIUM",
+      "date_label": "ca. 2nd-4th century CE",
+      "title": "Chrysopoeia of Kleopatra",
+      "format": "PRIMARY_SOURCE",
+      "review_status": "DRAFT",
+      "slug": "chrysopoeia-of-kleopatra",
+      "analysis_html": "<p>The <em>Chrysopoeia of Kleopatra</em> (Gold-Making of Kleopatra) is one of the earliest surviving Greek alchemical texts. H. J. Sheppard, in <em>Ambix</em> (1957), identifies the <em>Chrysopoeia</em> as the earliest known alchemical text containing the Ouroboros symbol -- the serpent devouring its tail -- accompanied by the inscription hen to pan (The All is One). Alongside the Ouroboros is a variant symbol of three concentric circles with the planetary signs for gold, silver, and mercury, accompanied by the axioms: One is the serpent which has its poison according to two compositions; and One is All and through it is All and by it is All. The text also contains fragments of dialogues with mystic themes capable of dual interpretation as either the death and regeneration of the soul or the revivification of metals. Sheppard sees strong Valentinian Gnostic affinities: the eight-rayed star adjacent to the Ouroboros recalls the Valentinian Ogdoad. The <em>Chrysopoeia</em> is known primarily through Berthelot, <em>Collection des anciens alchimistes grecs</em> (Paris, 1888).</p>",
+      "source_method": "SCHOLARSHIP_BASED"
+    },
+    {
+      "confidence": "HIGH",
+      "date_label": "1654-1655 CE",
+      "title": "The Marrow of Alchemy (Eirenaeus Philoponos Philalethes)",
+      "format": "TREATISE",
+      "review_status": "DRAFT",
+      "slug": "marrow-of-alchemy",
+      "analysis_html": "<p><em>The Marrow of Alchemy</em> is an alchemical poem published in two parts in 1654 and 1655, attributed to Eirenaeus Philoponos Philalethes with prefaces bearing anagrams of the name George Stirk (i.e. George Starkey, 1628-1665). William Newman, in <em>Ambix</em> (1990), demonstrates that the <em>Marrow</em> was authored by Starkey himself. The <em>Marrow</em> presents Philoponos Philalethes as a pupil who received the white elixir (capable of transmuting mercury to silver) from a mysterious English-born Cosmopolite -- a figure Newman shows to be a literary invention based on the Sendivogian legend. Newman demonstrates that Starkey derived his antimonial processes from Alexander von Suchten's <em>Mysteria gemina</em>, and these same processes underlie both the <em>Marrow</em> and the <em>Introitus apertus</em>. William Cooper's 1669 English printing of the <em>Introitus</em> created the canonical name Eyrenaeus Philaletha Cosmopolita for Starkey's fictional adept. The <em>Marrow</em> influenced Isaac Newton's alchemical practice.</p>",
+      "source_method": "SCHOLARSHIP_BASED"
+    }
+  ],
+  "created": "2026-06-29",
+  "events": [
+    {
+      "concepts_involved": [
+        "greek-alchemical-tradition",
+        "practical-alchemy",
+        "transmutation"
+      ],
+      "description": "Bolos of Mendes (fl. ca. 200 BCE), an Egyptian natural philosopher and craftsman from the Nile Delta, composed or was associated with a treatise on the tinting of metals entitled <em>Baphika</em> (On Dyeing) and a collection of natural and mystical writings later attributed pseudonymously to Democritus, known as the <em>Physika kai Mystika</em> (Natural and Mystical Matters). H. J. Sheppard, drawing on Max Wellmann and A. J. Festugiere in <em>Ambix</em> (1957), identifies Bolos as probably the first in the field in the development of a theorized practice of transmutation. Wellmann argued that the <em>Baphika</em> may have served as the source of both the technical contents of the papyri and the theory and practice of Pseudo-Demokritos. The Leiden and Stockholm papyri -- compiled ca. 250-350 CE from much earlier records -- are believed to draw from this tradition. From Festugiere's analysis of the Demokritean fragments, Sheppard reconstructs the early alchemical theoretical framework: the Aristotelian doctrine of qualitative change, the Stoic concept of <em>pneuma</em> (spirit) as the animating force of natural processes, and the Stoic <em>spermatikos logos</em> (seminal formula). Together these concepts envision the base metal as one killed (its qualities removed by heat), leaving a dormant seed which, when treated appropriately with warmth and moisture, could regenerate into gold -- the perfection of the mineral world. This theoretical framework, articulated ca. 200 BCE, underlies all subsequent Western alchemy.",
+      "texts_involved": [],
+      "review_status": "REVIEWED",
+      "location_slug": "alexandria",
+      "date_label": "ca. 200 BCE",
+      "persons_involved": [
+        "bolos-of-mendes"
+      ],
+      "source_method": "SCHOLARSHIP_BASED",
+      "confidence": "MEDIUM",
+      "scholarly_grounding": "H. J. Sheppard identified Bolos of Mendes and the Baphika as likely foundational to Greek alchemy, drawing on Wellmann and Festugiere, in Gnosticism and Alchemy in Ambix vol. 6 no. 2 (1957) pp.86-101.",
+      "date_sort": -200,
+      "title": "Bolos of Mendes Composes the Baphika and Physika kai Mystika"
+    },
+    {
+      "concepts_involved": [
+        "greek-alchemical-tradition",
+        "nous",
+        "transmutation"
+      ],
+      "description": "The Valentinian Gnostic sect, active in Alexandria in the first half of the second century CE, adopted alchemical terminology and processes as analogies for their cosmological doctrines. H. J. Sheppard, in <em>Ambix</em> (1957), analyzes F. M. M. Sagnard's study of Valentinian Gnosis to recover the alchemical language embedded in the theological writings reported by Church Fathers Irenaeus (ca. 133-203 CE) and Clement of Alexandria (ca. 155-220 CE). Sagnard identified multiple parallels: the term <em>ebulliens</em> applied to Sophia recalls one of the classical means of separating the pure from the impure; the Spirit (<em>pneuma</em>) signifies in alchemy the product of sublimation; and the Gnostic cosmological terms above and below directly correspond to alchemy's distillation and sublimation processes. Sheppard concludes that the Valentinian sect must have been conversant with alchemical texts compiled no later than ca. 100 CE -- calling to mind the school of Maria the Jewess (fl. ca. 200 CE) with its emphasis on distillation and sublimation. The mutual borrowing between Gnosticism and alchemy forms what Sheppard identifies as the distinctive character of Alexandrian intellectual culture in the first three centuries CE: alchemy and Gnosticism were contemporary in origin, both drawing on Stoicism and Oriental doctrines.",
+      "texts_involved": [],
+      "review_status": "REVIEWED",
+      "location_slug": "alexandria",
+      "date_label": "ca. 130-160 CE",
+      "persons_involved": [
+        "maria-the-jewess"
+      ],
+      "source_method": "SCHOLARSHIP_BASED",
+      "confidence": "HIGH",
+      "scholarly_grounding": "H. J. Sheppard analyzed the Valentinian Gnostics adoption of alchemical language, drawing on Sagnard's study of Valentinian Gnosis, in Gnosticism and Alchemy in Ambix vol. 6 no. 2 (1957) pp.86-101.",
+      "date_sort": 145,
+      "title": "Valentinian Gnostics Adopt Alchemical Language in Theological Writings"
+    },
+    {
+      "concepts_involved": [
+        "transmutation",
+        "chymistry",
+        "philosophers-stone"
+      ],
+      "description": "In 1654 and 1655 <em>The Marrow of Alchemy</em> was published in two parts attributed to Eirenaeus Philoponos Philalethes with prefaces bearing anagrams of the name George Stirk -- the name under which George Starkey (1628-1665), a Harvard-educated New England alchemist, had emigrated to London in 1650 and joined the Samuel Hartlib circle. William Newman, in <em>Ambix</em> (1990), establishes that Starkey was the actual author: in various other texts Starkey signed his name Philoponos Philalethes or Eirenaeus Philoponos Philalethes, and an unpublished manuscript (British Library Sloane 633) has Starkey claiming authorship. The <em>Marrow</em> presents Philoponos Philalethes as a pupil who received the white elixir from a mysterious English-born Cosmopolite -- a figure Newman shows to be a literary invention based on the Sendivogian legend. Newman's analysis shows that Starkey's antimonial processes, derived from Alexander von Suchten's <em>Mysteria gemina</em>, underlie both the <em>Marrow</em> and the <em>Introitus apertus</em>. The narrative that Philalethes received the elixir, tried to multiply it, and lost most of it, echoes the contemporaneous account of Sendivogius squandering Seton's transmutational powder (published in Pierre Borel's <em>Tresor de recherches</em>, 1655). The <em>Marrow</em> influenced Isaac Newton's alchemical reading; William Cooper's 1669 English printing of the <em>Introitus</em> created the canonical name Eyrenaeus Philaletha Cosmopolita for Starkey's fictional adept.",
+      "texts_involved": [
+        "marrow-of-alchemy",
+        "introitus-apertus"
+      ],
+      "review_status": "REVIEWED",
+      "location_slug": "london",
+      "date_label": "1654-1655 CE",
+      "persons_involved": [
+        "george-starkey",
+        "samuel-hartlib"
+      ],
+      "source_method": "SCHOLARSHIP_BASED",
+      "confidence": "HIGH",
+      "scholarly_grounding": "William Newman established Starkey's authorship of The Marrow of Alchemy in Prophecy and Alchemy: The Origin of Eirenaeus Philalethes in Ambix vol. 37 no. 3 (1990) pp.97-115.",
+      "date_sort": 1654,
+      "title": "George Starkey Publishes The Marrow of Alchemy as Eirenaeus Philalethes"
+    }
+  ],
+  "batch_name": "Gnosticism and Greek Alchemy; Starkey Marrow of Alchemy"
+}
