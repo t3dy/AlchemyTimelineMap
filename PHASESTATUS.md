@@ -1,7 +1,7 @@
 # ALCHEMYTIMELINEMAP Phase Status
 
-**Updated:** 2026-06-29 (Ambix scholarship ingestion — 19 new events, 7 persons, 9 texts from 9 Ambix articles)
-**Current Phase:** PHASE 3A (✅ IN PROGRESS) — 101 PERSONS, 59 TEXTS, 44 CONCEPTS, 621 EVENTS
+**Updated:** 2026-06-29 (Ambix scholarship ingestion continued — Helvetius/Vitulus Aureus batch loaded)
+**Current Phase:** PHASE 3A (✅ IN PROGRESS) — 112 PERSONS, 76 TEXTS, 44 CONCEPTS, 662 EVENTS
 
 ---
 
