@@ -1,11 +1,11 @@
 {
   "meta": {
-    "total_events": 662,
+    "total_events": 663,
     "total_locations": 67,
-    "mapped_events": 662,
+    "mapped_events": 663,
     "unmapped_events": 0,
     "validation_passed": true,
-    "generated": "2026-06-29T13:26:31.612528"
+    "generated": "2026-06-29T13:33:21.976438"
   },
   "persons": [
     {
@@ -1489,6 +1489,19 @@
       "confidence": "HIGH",
       "created_at": "2026-06-29 20:24:27",
       "concept_tags": []
+    },
+    {
+      "id": 173,
+      "slug": "thomas-norton",
+      "name": "Thomas Norton of Bristol",
+      "role_primary": "SCHOLAR",
+      "era": "MODERN",
+      "bio_html": "<p>Thomas Norton of Bristol (d. 1513) was one of the most important English alchemical practitioners of the fifteenth century and the author of the <em>Ordinal of Alchemy</em> (1477), a Middle English poem that became, alongside George Ripley's <em>Compound of Alchemy</em> (1471), one of the two canonical texts of fifteenth-century English alchemy. Jennifer M. Rampling, in <em>The Experimental Fire: Inventing English Alchemy, 1300–1700</em> (University of Chicago Press, 2020), identifies the <em>Ordinal</em> as 'the only English work of the fifteenth century to rival Ripley's Compound in posthumous celebrity.' Almost nothing is known about Norton's life outside of what can be inferred from the poem itself. He describes himself as a 'Somerset practitioner' and his great-grandson was Samuel Norton (1548–1604), who served Queen Elizabeth I as an alchemical authority and drew heavily on his great-grandfather's text in his own alchemical Key (1577). In the 'Prohemium' to the <em>Ordinal</em>, Thomas Norton warned against textual corruption: 'And changing of som oone sillable / May make this boke vnprofitable' — a characteristic concern with the accurate transmission of alchemical knowledge. Norton also drew on Chaucer's 'Canon's Yeoman's Tale' as an alchemical authority, indicating his sophisticated reading of English literary tradition. Along with Ripley, Norton was incorporated by Elias Ashmole (1617–1692) into the <em>Theatrum Chemicum Britannicum</em> (London, 1652), which became the preeminent compilation of English alchemical verse and served as the primary vehicle for Norton's posthumous reputation well into the eighteenth century. The modern critical edition of the <em>Ordinal</em> is Thomas Norton's <em>The Ordinal of Alchemy</em>, ed. John Reidy (Oxford: Early English Text Society, 1975).</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "created_at": "2026-06-29 20:32:13",
+      "concept_tags": []
     }
   ],
   "texts": [
@@ -2706,6 +2719,22 @@
       "review_status": "DRAFT",
       "confidence": "HIGH",
       "created_at": "2026-06-29 20:24:27",
+      "concept_tags": []
+    },
+    {
+      "id": 102,
+      "slug": "ordinal-of-alchemy-norton",
+      "title": "Ordinal of Alchemy (Thomas Norton)",
+      "text_type": "TREATISE",
+      "original_language": null,
+      "composition_date": "1477 CE",
+      "composition_year_start": null,
+      "composition_year_end": null,
+      "analysis_html": "<p>The <em>Ordinal of Alchemy</em> (1477) by Thomas Norton of Bristol (d. 1513) is a Middle English poem in seven chapters (treatises) that became one of the two canonical texts of fifteenth-century English alchemy, alongside George Ripley's <em>Compound of Alchemy</em> (1471). Jennifer M. Rampling, in <em>The Experimental Fire: Inventing English Alchemy, 1300–1700</em> (University of Chicago Press, 2020), describes it as 'the only English work of the fifteenth century to rival Ripley's Compound in posthumous celebrity' and notes that, like Ripley's works, it 'was probably also intended for presentation' to a patron, though 'the vital documentary context is lacking.' The poem's 'Prohemium' opens with Norton's characteristic emphasis on the fragility of alchemical texts and the dangers of copying errors: 'And changing of som oone sillable / May make this boke vnprofitable.' Norton drew on Chaucer's 'Canon's Yeoman's Tale' as an authority on alchemical fraud, citing it to illustrate the use of obscure cover names in alchemical writing — an unusually sophisticated integration of literary and practical knowledge. The <em>Ordinal</em> is notable for its extensive warnings against fraudulent practitioners and recipe collections ('Avoide youre bokis writen of receytis, / For al such receptis be ful of deceytis'), and for its characterization of the author's fictional interlocutor Tonsile as a naive practitioner undone by his reliance on such collections. The text circulated widely in manuscript in the fifteenth and sixteenth centuries: manuscripts survive in the British Library and the Bodleian, and at least three manuscript copies were associated with Henry VII. Elias Ashmole (1617–1692) printed the <em>Ordinal</em> in the <em>Theatrum Chemicum Britannicum</em> (London, 1652), which remained the standard text until the critical edition by John Reidy for the Early English Text Society (Oxford, 1975). The <em>Ordinal</em> was frequently cited by Elizabethan and Jacobean English alchemists, who regarded Thomas Norton alongside Ripley as the two pillars of the English alchemical tradition.</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "created_at": "2026-06-29 20:32:13",
       "concept_tags": []
     }
   ],
@@ -13439,6 +13468,35 @@
       "summary": "George Ripley composed the Medulla Alchimiae (Marrow of Alchemy) in 1476 — the date given by its colophon — five years after his major poem the Compound of Alchymy. Jennifer M. Rampling, in Ambix (200"
     },
     {
+      "id": 668,
+      "slug": "thomas-norton-composes-the-ordinal-of-alchemy-in-b",
+      "date_label": "1477 CE",
+      "date_start_year": 1477,
+      "date_end_year": null,
+      "location_slug": "london",
+      "description": "In 1477, the Bristol alchemical practitioner Thomas Norton (d. 1513) completed the Ordinal of Alchemy, a Middle English poem in seven chapters that would become, alongside George Ripley's Compound of",
+      "persons_involved": [
+        "thomas-norton"
+      ],
+      "texts_involved": [
+        "ordinal-of-alchemy-norton"
+      ],
+      "concepts_involved": [
+        "practical-alchemy",
+        "transmutation",
+        "chrysopoeia"
+      ],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH",
+      "created_at": "2026-06-29 20:32:13",
+      "scholarly_grounding": "Jennifer M. Rampling describes the Ordinal of Alchemy as 'the only English work of the fifteenth century to rival Ripley's Compound in posthumous celebrity,' identifies Thomas Norton as a Bristol alchemical practitioner (d. 1513), and notes that the Ordinal was 'probably also intended for presentation' to a patron, in The Experimental Fire: Inventing English Alchemy, 1300–1700 (Chicago: University of Chicago Press, 2020), pp.4, 63, 105–106. See also Rampling, 'The Englishing of Medieval Alchemy,' Ambix 63:3 (2016) pp.268–272.",
+      "place_name": "London",
+      "region": "England",
+      "era": "EARLY_MODERN",
+      "summary": "In 1477, the Bristol alchemical practitioner Thomas Norton (d. 1513) completed the Ordinal of Alchemy, a Middle English poem in seven chapters that would become, alongside George Ripley's Compound of"
+    },
+    {
       "id": 210,
       "slug": "event_medieval_universities_024",
       "date_label": "c. 1488 CE",
@@ -21040,6 +21098,9 @@
         "nicholas-eymerich-composes-directorium-inquisitoru",
         "francisco-peña-publishes-annotated-edition-of-eyme"
       ],
+      "thomas-norton": [
+        "thomas-norton-composes-the-ordinal-of-alchemy-in-b"
+      ],
       "tycho-brahe": [
         "event_early_modern_central_europe_000",
         "event_early_modern_england_000",
@@ -21173,6 +21234,7 @@
         "pope-grants-george-ripley-permission-to-study-outs",
         "george-ripley-composes-the-compound-of-alchymy-twe",
         "george-ripley-composes-the-medulla-alchimiae",
+        "thomas-norton-composes-the-ordinal-of-alchemy-in-b",
         "john-damian-appointed-abbot-of-tungland",
         "pseudo-lullian-de-secretis-naturae-first-printed",
         "pantheus-publishes-ars-transmutationis-metallicae-",
@@ -21267,6 +21329,7 @@
         "george-ripley-composes-the-compound-of-alchymy-twe",
         "event_renaissance_italy_022",
         "george-ripley-composes-the-medulla-alchimiae",
+        "thomas-norton-composes-the-ordinal-of-alchemy-in-b",
         "event_renaissance_italy_023",
         "event_renaissance_italy_024",
         "event_alchemy_church_001",
@@ -22347,6 +22410,10 @@
       "prisca-theologia": [
         "event_florence_hermeticism_001"
       ],
+      "chrysopoeia": [
+        "thomas-norton-composes-the-ordinal-of-alchemy-in-b",
+        "helvetius-witnesses-transmutation-in-the-hague-and"
+      ],
       "kabbalism": [
         "event_pico_florence_001"
       ],
@@ -22521,9 +22588,6 @@
       ],
       "hermetic-art": [
         "event_maier_atalanta_001"
-      ],
-      "chrysopoeia": [
-        "helvetius-witnesses-transmutation-in-the-hague-and"
       ],
       "philosophy-of-alchemy": [
         "rosarium-ferguson-manuscript-18c"
