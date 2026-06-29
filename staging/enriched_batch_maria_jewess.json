@@ -1,0 +1,60 @@
+{
+  "batch_name": "Maria the Jewess, Founding Mother of Alchemy",
+  "created": "2026-06-29",
+  "description": "Events from Raphael Patai, 'Maria the Jewess–Founding Mother of Alchemy' (Ambix, 1982). Documents the life, apparatus, procedures, and doctrines of Maria Hebraea (Maria the Jewess), whom Patai identifies as the earliest non-mythical practitioner of alchemy in the historical record, known through the writings of Zosimus of Panopolis (late 3rd–early 4th century CE).",
+  "persons": [
+    {
+      "slug": "maria-the-jewess",
+      "name": "Maria the Jewess (Maria Hebraea)",
+      "era": "Late Antique",
+      "role": "Alchemist",
+      "bio_html": "<p>Maria the Jewess (Maria Hebraea, fl. ca. 200 CE), also known as Mary the Prophetess, is the earliest non-mythical alchemist known to the historical record. Raphael Patai, in his comprehensive study published in <em>Ambix</em> (1982), identifies her as 'the founding mother of western alchemy,' arguing that the extant documentary evidence places her earlier than all other named practitioners except the entirely mythical figures (Hermes Trismegistus, Isis, and their legendary predecessors). The primary evidence for Maria comes from the writings of Zosimus of Panopolis (fl. late 3rd–early 4th century CE), who quotes her as 'the first' of the ancient authorities and treats her with 'respect bordering on awe,' frequently calling her 'the divine Maria' and citing her as 'the supreme authority in the Great Art.' From the fact that Zosimus treats her as one of 'the ancients,' Patai infers that her floruit should be placed at least two generations before Zosimus, that is, no later than the early third century CE.</p><p>Maria made major contributions to alchemical apparatus. The most famous is the <em>balneum Mariae</em> (water bath or double boiler), still known in French as the <em>bain Marie</em> and in German as the <em>Marienbad</em>. She also invented or described the kerotakis (a metal plate apparatus for treating metals with vapors), the tribikos (a copper three-pronged still), and a range of other furnaces and apparatus described in her treatise <em>On Apparatus and Furnaces</em> (Greek: <em>Kaminographia</em> or <em>Peri Kaminon kai Organon</em>). The tribikos is described in detail in Zosimus's own words: copper tubes 'a little thicker than that of a pastry-cook's copper frying pan,' a cubit and a half long, with three openings fitted to a still-head, glass flasks at the ends 'large and strong so that they may not break with the heat coming from the water in the middle.' Maria described glass vessels as especially valuable 'because they see without touching' and permit the safe manipulation of dangerous materials including mercury, which she called 'the deadly poison, since it dissolves gold.'</p><p>Maria's most famous doctrinal contribution is the axiom that 'one becomes two, two becomes three, and by means of the third the fourth achieves unity; thus two are but one,' which C.G. Jung called 'one of the central axioms of alchemy' that 'runs like a leitmotiv throughout almost the whole of the lifetime of alchemy, extending over more than seventeen centuries.' Patai interprets the axiom as referring to the successive combination of three or four metallic bodies (the tetrasomia: copper, iron, lead, and zinc) that are distinct at the outset and become unified at the end of the operation. Maria also taught that the Great Work must be performed only in the Egyptian month Pharmuthi (March–April), and emphasized the unification of 'male' and 'female' materials as the fundamental alchemical operation. Her religious identity as Jewish is significant in the context of Zosimus's writings, which treat the Jews as 'the repositories of alchemical wisdom.'</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH"
+    }
+  ],
+  "texts": [
+    {
+      "slug": "kaminographia",
+      "title": "Kaminographia (On Apparatus and Furnaces)",
+      "format": "TREATISE",
+      "date_label": "ca. 200 CE",
+      "analysis_html": "<p><em>Kaminographia</em> (On Apparatus and Furnaces, also known under the fuller title <em>Peri Kaminon kai Organon</em>) is an alchemical treatise attributed to Maria the Jewess (Maria Hebraea, fl. ca. 200 CE), preserved only in quotation and paraphrase within the alchemical writings of Zosimus of Panopolis (fl. late 3rd–early 4th century CE). Raphael Patai, in his study of Maria published in <em>Ambix</em> (1982), identifies the <em>Kaminographia</em> as the primary source for Maria's descriptions of alchemical apparatus: Zosimus himself says that 'a great number of constructions of apparatus have been described by Maria; not only those which concern the divine (or: sulphurous) waters, but also many kinds of kerotakis and furnaces,' and states that he is unwilling to provide information on the subject of furnaces because he is 'unable to treat it more authoritatively than was done in that ancient treatise.'</p><p><strong>Content.</strong> The <em>Kaminographia</em>'s most famous passage is the description of the tribikos, a three-pronged copper still that Zosimus quotes directly from Maria's text: copper tubes 'a little thicker than that of a pastry-cook's copper frying pan,' approximately a cubit and a half long, with their openings 'adapted like a nail to the neck of a light receiver' and fitted with glass flasks 'large and strong so that they may not break with the heat coming from the water in the middle.' Maria also described the <em>balneum Mariae</em> (water bath) and the kerotakis, a metal plate apparatus for treating metals with alchemical vapors, as well as numerous other furnaces, distillation vessels, and alchemical apparatus. The treatise also contained procedures for preparing the 'divine water' (vapors of sulphur and arsenical substances) and instructions for the coloration of metals through sequential phases of blackening, whitening, yellowing, and reddening.</p><p><strong>Significance and Survival.</strong> The <em>Kaminographia</em> does not survive as an independent text; it is known entirely through quotations and paraphrases in Zosimus of Panopolis, who appears to have drawn on it extensively for his own treatise on apparatus and furnaces. The apparatus Maria described — particularly the balneum Mariae and the kerotakis — became foundational terms in the Latin and Arabic alchemical traditions, demonstrating the <em>Kaminographia</em>'s extraordinary influence despite the loss of its original text. Berthelot, Lippmann, and Patai are the key modern scholars who have analyzed the <em>Kaminographia</em>'s contents through the Zosimean quotations.</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "MEDIUM"
+    }
+  ],
+  "concepts": [],
+  "events": [
+    {
+      "title": "Maria the Jewess Active as Alchemist in Alexandria",
+      "date_label": "ca. 200 CE",
+      "date_sort": 200,
+      "location_slug": "alexandria",
+      "description": "Maria the Jewess (Maria Hebraea, fl. ca. 200 CE) was active as an alchemist in or near Alexandria in the late second or early third century CE, making her the earliest non-mythical practitioner of alchemy attested in the historical record. Raphael Patai, in <em>Ambix</em> (1982), argues for this dating on the basis of Zosimus of Panopolis's treatment of Maria as 'the first' and as one of 'the ancients': since Zosimus himself wrote in the late third and early fourth centuries CE, and treats Maria with 'respect bordering on awe' as a figure of a considerably earlier generation, Patai assigns her floruit 'at least two generations before Zosimus,' that is, no later than the early third century CE. Maria made fundamental contributions to alchemical apparatus: the <em>balneum Mariae</em> (water bath, still known as <em>bain Marie</em> in French); the tribikos (a copper three-pronged still with glass collection flasks); and the kerotakis (a metal plate apparatus for treating metals with alchemical vapors), all of which are described in her treatise <em>Kaminographia</em> (On Apparatus and Furnaces). She described glass vessels as valuable because 'they see without touching' and permit safe manipulation of mercury, which she called 'the deadly poison.' Her most celebrated doctrinal contribution is the axiom that 'one becomes two, two becomes three, and by means of the third the fourth achieves unity,' which C.G. Jung identified as 'one of the central axioms of alchemy' persisting for over seventeen centuries. Patai reconstructs her doctrines from Zosimus's writings, the seventh-century author Christianos (who quotes her as the 'Hebrew prophetess'), and later references in the Turba Philosophorum (ca. 12th century).",
+      "scholarly_grounding": "Raphael Patai analyzed Maria the Jewess as the founding mother of western alchemy in 'Maria the Jewess–Founding Mother of Alchemy' in Ambix vol. 29 no. 3 (1982) pp.177-197, drawing on the writings of Zosimus of Panopolis and the secondary scholarship of Berthelot, Lippmann, and C.G. Jung.",
+      "persons_involved": ["maria-the-jewess"],
+      "texts_involved": ["kaminographia"],
+      "concepts_involved": ["greek-alchemical-tradition", "practical-alchemy"],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH"
+    },
+    {
+      "title": "Zosimos of Panopolis Quotes Maria the Jewess as 'The First'",
+      "date_label": "ca. 300 CE",
+      "date_sort": 300,
+      "location_slug": "alexandria",
+      "description": "Zosimos of Panopolis (fl. late 3rd–early 4th century CE), the most important early Greek alchemical author, extensively quoted and paraphrased Maria the Jewess throughout his alchemical writings, treating her as the supreme authority in the alchemical tradition and repeatedly calling her 'the divine Maria,' 'the first' of the ancient authors, and the repository of alchemical wisdom. Raphael Patai, in <em>Ambix</em> (1982), identifies Zosimos's writings as the primary source of knowledge about Maria: 'the earliest, most detailed, and most reliable information about Maria the Jewess is contained in the writings of Zosimus.' Zosimos quoted Maria's descriptions of the tribikos (three-pronged copper still) and other apparatus at length, apparently reproducing large portions of her treatise <em>Kaminographia</em> (On Apparatus and Furnaces); he stated that he was unable to treat the subject of furnaces 'more authoritatively than was done in that ancient treatise.' He also quoted her alchemical axioms, including the famous formula 'one becomes two, two becomes three' — which Christianos, the early seventh-century anonymous author, summarized as the 'Hebrew prophetess' saying 'one becomes two, two becomes three, and by means of the third the fourth achieves unity; thus two are but one.' Zosimos's treatment of Maria's knowledge as uniquely authoritative, combined with his general view of the Jews as 'the repositories of alchemical wisdom,' makes his quotations of Maria the single most important vehicle through which her work was preserved and transmitted to subsequent Greek, Arabic, and Latin alchemical traditions.",
+      "scholarly_grounding": "Raphael Patai analyzed Zosimos's quotations of Maria the Jewess in 'Maria the Jewess–Founding Mother of Alchemy' in Ambix vol. 29 no. 3 (1982) pp.177-197.",
+      "persons_involved": ["zosimos-of-panopolis", "maria-the-jewess"],
+      "texts_involved": ["kaminographia"],
+      "concepts_involved": ["greek-alchemical-tradition"],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH"
+    }
+  ]
+}

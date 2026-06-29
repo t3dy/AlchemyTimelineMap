@@ -1,11 +1,11 @@
 {
   "meta": {
-    "total_events": 629,
+    "total_events": 631,
     "total_locations": 65,
-    "mapped_events": 629,
+    "mapped_events": 631,
     "unmapped_events": 0,
     "validation_passed": true,
-    "generated": "2026-06-29T08:45:34.886667"
+    "generated": "2026-06-29T08:48:06.647547"
   },
   "persons": [
     {
@@ -1371,6 +1371,19 @@
       "confidence": "HIGH",
       "created_at": "2026-06-29 15:45:31",
       "concept_tags": []
+    },
+    {
+      "id": 165,
+      "slug": "maria-the-jewess",
+      "name": "Maria the Jewess (Maria Hebraea)",
+      "role_primary": "ALCHEMIST",
+      "era": "LATE_ANTIQUE",
+      "bio_html": "<p>Maria the Jewess (Maria Hebraea, fl. ca. 200 CE), also known as Mary the Prophetess, is the earliest non-mythical alchemist known to the historical record. Raphael Patai, in his comprehensive study published in <em>Ambix</em> (1982), identifies her as 'the founding mother of western alchemy,' arguing that the extant documentary evidence places her earlier than all other named practitioners except the entirely mythical figures (Hermes Trismegistus, Isis, and their legendary predecessors). The primary evidence for Maria comes from the writings of Zosimus of Panopolis (fl. late 3rd–early 4th century CE), who quotes her as 'the first' of the ancient authorities and treats her with 'respect bordering on awe,' frequently calling her 'the divine Maria' and citing her as 'the supreme authority in the Great Art.' From the fact that Zosimus treats her as one of 'the ancients,' Patai infers that her floruit should be placed at least two generations before Zosimus, that is, no later than the early third century CE.</p><p>Maria made major contributions to alchemical apparatus. The most famous is the <em>balneum Mariae</em> (water bath or double boiler), still known in French as the <em>bain Marie</em> and in German as the <em>Marienbad</em>. She also invented or described the kerotakis (a metal plate apparatus for treating metals with vapors), the tribikos (a copper three-pronged still), and a range of other furnaces and apparatus described in her treatise <em>On Apparatus and Furnaces</em> (Greek: <em>Kaminographia</em> or <em>Peri Kaminon kai Organon</em>). The tribikos is described in detail in Zosimus's own words: copper tubes 'a little thicker than that of a pastry-cook's copper frying pan,' a cubit and a half long, with three openings fitted to a still-head, glass flasks at the ends 'large and strong so that they may not break with the heat coming from the water in the middle.' Maria described glass vessels as especially valuable 'because they see without touching' and permit the safe manipulation of dangerous materials including mercury, which she called 'the deadly poison, since it dissolves gold.'</p><p>Maria's most famous doctrinal contribution is the axiom that 'one becomes two, two becomes three, and by means of the third the fourth achieves unity; thus two are but one,' which C.G. Jung called 'one of the central axioms of alchemy' that 'runs like a leitmotiv throughout almost the whole of the lifetime of alchemy, extending over more than seventeen centuries.' Patai interprets the axiom as referring to the successive combination of three or four metallic bodies (the tetrasomia: copper, iron, lead, and zinc) that are distinct at the outset and become unified at the end of the operation. Maria also taught that the Great Work must be performed only in the Egyptian month Pharmuthi (March–April), and emphasized the unification of 'male' and 'female' materials as the fundamental alchemical operation. Her religious identity as Jewish is significant in the context of Zosimus's writings, which treat the Jews as 'the repositories of alchemical wisdom.'</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "created_at": "2026-06-29 15:48:01",
+      "concept_tags": []
     }
   ],
   "texts": [
@@ -2143,22 +2156,6 @@
       "concept_tags": []
     },
     {
-      "id": 73,
-      "slug": "kaminographia",
-      "title": "Kaminographia (On Furnaces and Apparatus)",
-      "text_type": "PRIMARY_SOURCE",
-      "original_language": null,
-      "composition_date": "ca. early 3rd century CE",
-      "composition_year_start": null,
-      "composition_year_end": null,
-      "analysis_html": "<p><em>Kaminographia</em> (Greek: On Furnaces and Apparatus) is a lost or fragmentarily preserved alchemical treatise attributed to Maria the Jewess (fl. ca. early 3rd century CE), the earliest named woman in the Western alchemical tradition. The text survives only in quotations and references embedded in the writings of Zosimos of Panopolis, the major Greek alchemical author of the late third and early fourth centuries CE, who invokes Maria's authority on apparatus and furnace construction repeatedly. Raphael Patai, in his detailed study of Maria as the founding mother of alchemy (<em>Ambix</em>, 1982), reconstructs from Zosimos's citations the scope and significance of the <em>Kaminographia</em> and establishes its central place in the early Greek alchemical tradition.</p><p><strong>Content and Theory.</strong> Patai demonstrates that the <em>Kaminographia</em> addressed the design and use of alchemical furnaces, vessels, and apparatus, providing systematic accounts of equipment central to the operations of heating, distillation, and the preparation of the <em>divine water</em>. Zosimos explicitly declines to supplement what Maria wrote, telling his sister Theosebeia that the ancient treatise on furnaces and apparatus is more authoritative than anything he can add — a remarkable acknowledgment that places Maria's technical knowledge above Zosimos's own considerable expertise. Maria is credited in the Greek alchemical manuscripts with the invention or first systematic description of several key pieces of equipment, including the double-boiler heating device that later bore her name (the <em>bain-marie</em> or <em>balneum Mariae</em>) and the three-armed still (the <em>tribikos</em>).</p><p><strong>Composition and Textual Tradition.</strong> The original <em>Kaminographia</em> is not preserved as an independent text. Patai's reconstruction relies on quotations in Zosimos's various treatises, where Maria appears as a primary authority alongside Pseudo-Democritus. The evidence indicates that by Zosimos's time (ca. 300 CE), Maria's works were already treated as ancient classics of the Great Art. The manuscript tradition of the Greek alchemical corpus preserves fragments attributed to Maria under various titles, though the <em>Kaminographia</em> proper is attested only through Zosimos's references. Berthelot and Ruelle's <em>Collection des anciens alchimistes grecs</em> (1887–1888) gathered these fragments.</p><p><strong>Modern Scholarship.</strong> Patai's 1982 article provides the fullest modern account of the <em>Kaminographia</em> and Maria's role in the Greek alchemical tradition. He situates Maria's contributions within the practical, apparatus-focused dimension of early alchemy, arguing that her technical innovations — particularly in heating equipment — represent genuine advances in laboratory practice grounded in systematic experimentation. Lawrence Principe, in <em>The Secrets of Alchemy</em> (2013), confirms the practical importance of the vessel and furnace designs attributed to Maria, noting that the bain-marie principle represents a durable contribution to laboratory technique that persisted through the history of chemistry. The <em>Kaminographia</em> thus stands as evidence that the earliest stratum of Greek alchemy included systematic technical treatises on apparatus, alongside the more philosophical and symbolic texts with which the tradition is more often associated.</p>",
-      "source_method": "SCHOLARSHIP_BASED",
-      "review_status": "DRAFT",
-      "confidence": "MEDIUM",
-      "created_at": "2026-06-29 14:52:19",
-      "concept_tags": []
-    },
-    {
       "id": 74,
       "slug": "kitab-al-nukhab",
       "title": "Kitab al-Nukhab (The Compendium)",
@@ -2348,6 +2345,22 @@
       "review_status": "DRAFT",
       "confidence": "HIGH",
       "created_at": "2026-06-29 15:41:43",
+      "concept_tags": []
+    },
+    {
+      "id": 86,
+      "slug": "kaminographia",
+      "title": "Kaminographia (On Apparatus and Furnaces)",
+      "text_type": "TREATISE",
+      "original_language": null,
+      "composition_date": "ca. 200 CE",
+      "composition_year_start": null,
+      "composition_year_end": null,
+      "analysis_html": "<p><em>Kaminographia</em> (On Apparatus and Furnaces, also known under the fuller title <em>Peri Kaminon kai Organon</em>) is an alchemical treatise attributed to Maria the Jewess (Maria Hebraea, fl. ca. 200 CE), preserved only in quotation and paraphrase within the alchemical writings of Zosimus of Panopolis (fl. late 3rd–early 4th century CE). Raphael Patai, in his study of Maria published in <em>Ambix</em> (1982), identifies the <em>Kaminographia</em> as the primary source for Maria's descriptions of alchemical apparatus: Zosimus himself says that 'a great number of constructions of apparatus have been described by Maria; not only those which concern the divine (or: sulphurous) waters, but also many kinds of kerotakis and furnaces,' and states that he is unwilling to provide information on the subject of furnaces because he is 'unable to treat it more authoritatively than was done in that ancient treatise.'</p><p><strong>Content.</strong> The <em>Kaminographia</em>'s most famous passage is the description of the tribikos, a three-pronged copper still that Zosimus quotes directly from Maria's text: copper tubes 'a little thicker than that of a pastry-cook's copper frying pan,' approximately a cubit and a half long, with their openings 'adapted like a nail to the neck of a light receiver' and fitted with glass flasks 'large and strong so that they may not break with the heat coming from the water in the middle.' Maria also described the <em>balneum Mariae</em> (water bath) and the kerotakis, a metal plate apparatus for treating metals with alchemical vapors, as well as numerous other furnaces, distillation vessels, and alchemical apparatus. The treatise also contained procedures for preparing the 'divine water' (vapors of sulphur and arsenical substances) and instructions for the coloration of metals through sequential phases of blackening, whitening, yellowing, and reddening.</p><p><strong>Significance and Survival.</strong> The <em>Kaminographia</em> does not survive as an independent text; it is known entirely through quotations and paraphrases in Zosimus of Panopolis, who appears to have drawn on it extensively for his own treatise on apparatus and furnaces. The apparatus Maria described — particularly the balneum Mariae and the kerotakis — became foundational terms in the Latin and Arabic alchemical traditions, demonstrating the <em>Kaminographia</em>'s extraordinary influence despite the loss of its original text. Berthelot, Lippmann, and Patai are the key modern scholars who have analyzed the <em>Kaminographia</em>'s contents through the Zosimean quotations.</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "MEDIUM",
+      "created_at": "2026-06-29 15:48:01",
       "concept_tags": []
     }
   ],
@@ -3607,6 +3620,34 @@
       "summary": "c. 200 CE, Alexandria: The alchemist Zosimos of Panopolis, a Greek metallurgist and proto-chemist of the Hellenistic tradition, begins synthesizing Egyptian metallurgical practice with Hermetic philos"
     },
     {
+      "id": 635,
+      "slug": "maria-the-jewess-active-as-alchemist-in-alexandria",
+      "date_label": "ca. 200 CE",
+      "date_start_year": 200,
+      "date_end_year": null,
+      "location_slug": "alexandria",
+      "description": "Maria the Jewess (Maria Hebraea, fl. ca. 200 CE) was active as an alchemist in or near Alexandria in the late second or early third century CE, making her the earliest non-mythical practitioner of alc",
+      "persons_involved": [
+        "maria-the-jewess"
+      ],
+      "texts_involved": [
+        "kaminographia"
+      ],
+      "concepts_involved": [
+        "greek-alchemical-tradition",
+        "practical-alchemy"
+      ],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH",
+      "created_at": "2026-06-29 15:48:01",
+      "scholarly_grounding": "Raphael Patai analyzed Maria the Jewess as the founding mother of western alchemy in 'Maria the Jewess–Founding Mother of Alchemy' in Ambix vol. 29 no. 3 (1982) pp.177-197, drawing on the writings of Zosimus of Panopolis and the secondary scholarship of Berthelot, Lippmann, and C.G. Jung.",
+      "place_name": "Alexandria",
+      "region": "Egypt",
+      "era": "LATE_ANTIQUE",
+      "summary": "Maria the Jewess (Maria Hebraea, fl. ca. 200 CE) was active as an alchemist in or near Alexandria in the late second or early third century CE, making her the earliest non-mythical practitioner of alc"
+    },
+    {
       "id": 42,
       "slug": "event_late_antique_egypt_syria_001",
       "date_label": "c. 215 CE",
@@ -3842,6 +3883,34 @@
       "region": "Egypt",
       "era": "LATE_ANTIQUE",
       "summary": "c. 305 CE, Cairo: As Zosimos of Panopolis approaches the end of his productive years, his work on Distillation and Operational Chemistry continues to circulate and influence younger alchemists through"
+    },
+    {
+      "id": 636,
+      "slug": "zosimos-of-panopolis-quotes-maria-the-jewess-as-th",
+      "date_label": "ca. 300 CE",
+      "date_start_year": 300,
+      "date_end_year": null,
+      "location_slug": "alexandria",
+      "description": "Zosimos of Panopolis (fl. late 3rd–early 4th century CE), the most important early Greek alchemical author, extensively quoted and paraphrased Maria the Jewess throughout his alchemical writings, trea",
+      "persons_involved": [
+        "zosimos-of-panopolis",
+        "maria-the-jewess"
+      ],
+      "texts_involved": [
+        "kaminographia"
+      ],
+      "concepts_involved": [
+        "greek-alchemical-tradition"
+      ],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH",
+      "created_at": "2026-06-29 15:48:01",
+      "scholarly_grounding": "Raphael Patai analyzed Zosimos's quotations of Maria the Jewess in 'Maria the Jewess–Founding Mother of Alchemy' in Ambix vol. 29 no. 3 (1982) pp.177-197.",
+      "place_name": "Alexandria",
+      "region": "Egypt",
+      "era": "LATE_ANTIQUE",
+      "summary": "Zosimos of Panopolis (fl. late 3rd–early 4th century CE), the most important early Greek alchemical author, extensively quoted and paraphrased Maria the Jewess throughout his alchemical writings, trea"
     },
     {
       "id": 2,
@@ -19413,12 +19482,17 @@
         "event_late_antique_egypt_syria_006",
         "event_zosimos_001",
         "event_late_antique_egypt_syria_007",
+        "zosimos-of-panopolis-quotes-maria-the-jewess-as-th",
         "event_zosimos_002",
         "event_late_antique_egypt_syria_008",
         "event_late_antique_egypt_syria_009",
         "zosimos-of-panopolis-writes-foundational-alchemica",
         "stephanus-of-alexandria-documents-chemical-operati",
         "event_zosimos-of-panopolis_biography"
+      ],
+      "maria-the-jewess": [
+        "maria-the-jewess-active-as-alchemist-in-alexandria",
+        "zosimos-of-panopolis-quotes-maria-the-jewess-as-th"
       ],
       "hermes-trismegistus": [
         "event_hermes_greece_001",
@@ -20294,6 +20368,31 @@
         "event_early_modern_spain_portugal_039",
         "event_enlightenment_chemistry_001"
       ],
+      "greek-alchemical-tradition": [
+        "maria-the-jewess-active-as-alchemist-in-alexandria",
+        "zosimos-of-panopolis-quotes-maria-the-jewess-as-th",
+        "khalid-ibn-yazid-commissions-arabic-translations-o",
+        "al-khwarizmi-composes-mafatih-al-ulum-at-bukhara",
+        "latin-translation-of-pseudo-avicennas-de-anima-in-",
+        "michael-scot-compiles-ars-alchemie"
+      ],
+      "practical-alchemy": [
+        "maria-the-jewess-active-as-alchemist-in-alexandria",
+        "khalid-ibn-yazid-commissions-arabic-translations-o",
+        "al-khwarizmi-composes-mafatih-al-ulum-at-bukhara",
+        "michael-scot-compiles-ars-alchemie",
+        "john-damian-appointed-abbot-of-tungland",
+        "pantheus-publishes-ars-transmutationis-metallicae-",
+        "pantheus-publishes-voarchadumia-to-circumvent-anti",
+        "artis-chemicae-principes-de-anima-in-arte-alchemia",
+        "françois-aguilon-sj-conducts-alchemy-experiments-a",
+        "walter-raleighs-chemical-laboratory-in-the-tower-o",
+        "kenelm-digby-establishes-alchemical-laboratory-at-",
+        "digby-conducts-alchemy-at-winchester-house-during-",
+        "john-evelyn-visits-digby-in-paris-exchange-of-alch",
+        "digby-backs-hartlibs-universal-laboratory-and-gene",
+        "athanasius-kirchers-alchemical-laboratory-at-the-c"
+      ],
       "sublimation": [
         "event_zosimos_002",
         "event_medieval_islam_baghdad_persia_000",
@@ -20386,28 +20485,6 @@
         "event_medieval_islam_baghdad_persia_037",
         "event_medieval_islam_baghdad_persia_038",
         "event_medieval_islam_baghdad_persia_039"
-      ],
-      "greek-alchemical-tradition": [
-        "khalid-ibn-yazid-commissions-arabic-translations-o",
-        "al-khwarizmi-composes-mafatih-al-ulum-at-bukhara",
-        "latin-translation-of-pseudo-avicennas-de-anima-in-",
-        "michael-scot-compiles-ars-alchemie"
-      ],
-      "practical-alchemy": [
-        "khalid-ibn-yazid-commissions-arabic-translations-o",
-        "al-khwarizmi-composes-mafatih-al-ulum-at-bukhara",
-        "michael-scot-compiles-ars-alchemie",
-        "john-damian-appointed-abbot-of-tungland",
-        "pantheus-publishes-ars-transmutationis-metallicae-",
-        "pantheus-publishes-voarchadumia-to-circumvent-anti",
-        "artis-chemicae-principes-de-anima-in-arte-alchemia",
-        "françois-aguilon-sj-conducts-alchemy-experiments-a",
-        "walter-raleighs-chemical-laboratory-in-the-tower-o",
-        "kenelm-digby-establishes-alchemical-laboratory-at-",
-        "digby-conducts-alchemy-at-winchester-house-during-",
-        "john-evelyn-visits-digby-in-paris-exchange-of-alch",
-        "digby-backs-hartlibs-universal-laboratory-and-gene",
-        "athanasius-kirchers-alchemical-laboratory-at-the-c"
       ],
       "fermentation": [
         "event_medieval_islam_iberia_000",
