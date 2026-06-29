@@ -95,6 +95,7 @@ def init_site_structure():
     (SITE_PATH / "persons").mkdir(exist_ok=True)
     (SITE_PATH / "texts").mkdir(exist_ok=True)
     (SITE_PATH / "concepts").mkdir(exist_ok=True)
+    (SITE_PATH / "processes").mkdir(exist_ok=True)
     (SITE_PATH / "events").mkdir(exist_ok=True)
     (SITE_PATH / "data").mkdir(exist_ok=True)
     (SITE_PATH / "assets").mkdir(exist_ok=True)
@@ -134,6 +135,7 @@ def generate_index_html():
             <li><a href="persons/">Persons</a></li>
             <li><a href="texts/">Texts</a></li>
             <li><a href="concepts/">Concepts</a></li>
+            <li><a href="processes/">Processes</a></li>
         </ul>
     </nav>
 
@@ -186,6 +188,7 @@ def generate_timeline_html():
         <ul>
             <li><a href="./">Home</a></li>
             <li><a href="map.html">Map</a></li>
+            <li><a href="processes/">Processes</a></li>
         </ul>
     </nav>
 
@@ -263,6 +266,7 @@ def generate_map_html():
         <ul>
             <li><a href="./">Home</a></li>
             <li><a href="timeline.html">Timeline</a></li>
+            <li><a href="processes/">Processes</a></li>
         </ul>
     </nav>
 
@@ -315,6 +319,7 @@ def generate_persons_pages(entity_map):
         <ul>
             <li><a href="../">Home</a></li>
             <li><a href="./">Persons</a></li>
+            <li><a href="../processes/">Processes</a></li>
         </ul>
     </nav>
 
@@ -376,6 +381,7 @@ def generate_texts_pages(entity_map):
         <ul>
             <li><a href="../">Home</a></li>
             <li><a href="./">Texts</a></li>
+            <li><a href="../processes/">Processes</a></li>
         </ul>
     </nav>
 
@@ -416,9 +422,26 @@ def generate_concepts_pages(entity_map):
     cursor.execute("SELECT slug, label, category_type, definition_short FROM concepts")
     concepts = cursor.fetchall()
 
+    # Map concept_slug -> (process_slug, process_name) for reciprocal "process essay" links.
+    process_by_concept = {}
+    try:
+        for row in cursor.execute(
+            "SELECT slug, name, concept_slug FROM processes WHERE concept_slug IS NOT NULL"
+        ):
+            process_by_concept[row["concept_slug"]] = (row["slug"], row["name"])
+    except sqlite3.OperationalError:
+        pass  # processes table not yet loaded; concept pages build without the link
+
     for concept in concepts:
         slug = concept["slug"]
         definition_html = convert_links_to_html(concept["definition_short"], entity_map)
+        process_link = ""
+        if slug in process_by_concept:
+            p_slug, p_name = process_by_concept[slug]
+            process_link = (
+                f'<p class="concept-process-link">See the process essay: '
+                f'<a class="dh-link" href="../processes/{p_slug}.html">{p_name}</a></p>'
+            )
         html = f"""<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -436,6 +459,7 @@ def generate_concepts_pages(entity_map):
         <ul>
             <li><a href="../">Home</a></li>
             <li><a href="./">Concepts</a></li>
+            <li><a href="../processes/">Processes</a></li>
         </ul>
     </nav>
 
@@ -446,6 +470,7 @@ def generate_concepts_pages(entity_map):
             <div class="definition">
                 {definition_html}
             </div>
+            {process_link}
         </article>
 
         <div id="related-persons"></div>
@@ -465,6 +490,227 @@ def generate_concepts_pages(entity_map):
 
     conn.close()
     print(f"  [OK] {len(concepts)} concepts pages created")
+
+
+ZODIAC_LABELS = {
+    "ARIES": "Aries", "TAURUS": "Taurus", "GEMINI": "Gemini", "CANCER": "Cancer",
+    "LEO": "Leo", "VIRGO": "Virgo", "LIBRA": "Libra", "SCORPIO": "Scorpio",
+    "SAGITTARIUS": "Sagittarius", "CAPRICORN": "Capricorn", "AQUARIUS": "Aquarius",
+    "PISCES": "Pisces",
+}
+
+
+def generate_processes_index():
+    """Generate processes/index.html — card grid of alchemical processes."""
+    print("\nGenerating processes/index.html...")
+    conn = sqlite3.connect(DB_PATH)
+    conn.row_factory = sqlite3.Row
+    cursor = conn.cursor()
+    cursor.execute("""
+        SELECT slug, name, sequence_order, is_canonical_twelve, zodiac_sign,
+               zodiac_glyph, short_description, concept_slug
+        FROM processes
+        ORDER BY sequence_order
+    """)
+    rows = cursor.fetchall()
+    conn.close()
+
+    canonical = [r for r in rows if r["is_canonical_twelve"]]
+    extras = [r for r in rows if not r["is_canonical_twelve"]]
+
+    def card(p):
+        glyph = p["zodiac_glyph"] or ""
+        zodiac = ZODIAC_LABELS.get(p["zodiac_sign"], "") if p["zodiac_sign"] else ""
+        glyph_html = (
+            f'<div class="process-card__glyph" title="{zodiac}" aria-label="{zodiac}">{glyph}</div>'
+            if glyph else '<div class="process-card__glyph process-card__glyph--none" aria-hidden="true">&#9679;</div>'
+        )
+        zodiac_html = f'<div class="process-card__zodiac">{zodiac}</div>' if zodiac else ""
+        return f"""
+            <a class="process-card" href="{p['slug']}.html">
+                {glyph_html}
+                <div class="process-card__body">
+                    <h3 class="process-card__name">{p['name']}</h3>
+                    {zodiac_html}
+                    <p class="process-card__desc">{p['short_description']}</p>
+                    <span class="process-card__more">Read the essay &rarr;</span>
+                </div>
+            </a>"""
+
+    canonical_cards = "".join(card(p) for p in canonical)
+    extras_cards = "".join(card(p) for p in extras)
+
+    html = f"""<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alchemical Processes | ALCHEMYTIMELINEMAP</title>
+    <link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+    <header>
+        <h1><a href="../">ALCHEMYTIMELINEMAP</a> &mdash; Processes</h1>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="../">Home</a></li>
+            <li><a href="../timeline.html">Timeline</a></li>
+            <li><a href="../map.html">Map</a></li>
+            <li><a href="../persons/">Persons</a></li>
+            <li><a href="../texts/">Texts</a></li>
+            <li><a href="../concepts/">Concepts</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <section>
+            <h2>The Twelve Alchemical Processes</h2>
+            <p>Alchemists described their work as a sequence of <em>operations</em> performed upon
+            matter. In an early-modern tradition of cryptographic correspondence, Dom Antoine-Joseph
+            Pernety, in his <i>Dictionnaire mytho-hermetique</i> (1758), keyed twelve of these operations
+            each to a sign of the zodiac, from Calcination under Aries to Projection under Pisces. The
+            mapping below follows Pernety&rsquo;s order.</p>
+            <p><strong>A note on interpretation.</strong> Pernety&rsquo;s twelve are <em>related to but
+            distinct from</em> the twelve &ldquo;gates&rdquo; of George Ripley&rsquo;s <i>Compound of
+            Alchemy</i> (1471): Pernety substitutes Fixation, Digestion and Distillation and drops
+            Conjunction, Putrefaction, Cibation and Exaltation &mdash; the four Ripley gates listed below
+            under &ldquo;Other Major Processes.&rdquo; The zodiacal scheme was one author&rsquo;s
+            correspondence system, not a fixed doctrine: writers gave different sequences and names. The
+            operations themselves, however, name real laboratory practices, and where one is treated
+            analytically elsewhere its card links onward to the concept page. Beliefs about transmutation
+            are reported here as history; nothing on this page implies that transmutation succeeded.</p>
+        </section>
+
+        <section>
+            <h2>The Twelve (mapped to the zodiac)</h2>
+            <div class="process-grid">{canonical_cards}
+            </div>
+        </section>
+
+        <section>
+            <h2>Other Major Processes</h2>
+            <p>Operations central to the alchemical corpus that fall outside Pernety&rsquo;s
+            twelve-sign list &mdash; several are gates in Ripley&rsquo;s scheme.</p>
+            <div class="process-grid">{extras_cards}
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p><a href="../">Back to home</a></p>
+    </footer>
+</body>
+</html>"""
+
+    write_html_page(SITE_PATH / "processes" / "index.html", html)
+    print(f"  [OK] processes/index.html created ({len(canonical)} canonical + {len(extras)} extras)")
+
+
+def generate_processes_pages(entity_map):
+    """Generate processes/[slug].html essay pages."""
+    print("Generating processes/ essay pages...")
+    conn = sqlite3.connect(DB_PATH)
+    conn.row_factory = sqlite3.Row
+    cursor = conn.cursor()
+    cursor.execute("""
+        SELECT slug, name, is_canonical_twelve, zodiac_sign, zodiac_glyph,
+               short_description, essay_html, references_html, concept_slug,
+               review_status, confidence
+        FROM processes
+        ORDER BY sequence_order
+    """)
+    processes = cursor.fetchall()
+
+    concept_labels = {c["slug"]: c["label"] for c in cursor.execute("SELECT slug, label FROM concepts")}
+    conn.close()
+
+    for p in processes:
+        slug = p["slug"]
+        glyph = p["zodiac_glyph"] or ""
+        zodiac = ZODIAC_LABELS.get(p["zodiac_sign"], "") if p["zodiac_sign"] else ""
+        essay_html = convert_links_to_html(p["essay_html"] or "", entity_map)
+        references_html = p["references_html"] or ""
+
+        glyph_header = (
+            f'<span class="process-page__glyph" title="{zodiac}">{glyph}</span>' if glyph else ""
+        )
+        zodiac_meta = (
+            f'<p class="process-page__zodiac">Zodiacal correspondence (Pernety, 1758): '
+            f'<strong>{zodiac}</strong> {glyph}</p>' if zodiac else ""
+        )
+
+        concept_link = ""
+        if p["concept_slug"] and p["concept_slug"] in concept_labels:
+            concept_link = (
+                f'<p class="process-page__seealso">See also the concept page: '
+                f'<a class="dh-link" href="../concepts/{p["concept_slug"]}.html">'
+                f'{concept_labels[p["concept_slug"]]}</a></p>'
+            )
+
+        references_section = ""
+        if references_html:
+            references_section = f"""
+            <section class="related-section">
+                <h3>Scholarly Sources &amp; Texts</h3>
+                {references_html}
+            </section>"""
+
+        review = p["review_status"] or "DRAFT"
+        confidence = p["confidence"] or "MEDIUM"
+
+        html = f"""<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{p['name']} | ALCHEMYTIMELINEMAP</title>
+    <link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+    <header>
+        <h1><a href="../">ALCHEMYTIMELINEMAP</a> &mdash; {p['name']}</h1>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="../">Home</a></li>
+            <li><a href="./">&larr; Processes</a></li>
+            <li><a href="../concepts/">Concepts</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <article class="process-page">
+            <div class="process-page__header">
+                {glyph_header}
+                <h2>{p['name']}</h2>
+            </div>
+            {zodiac_meta}
+            <p class="process-page__lead">{p['short_description']}</p>
+            {concept_link}
+
+            <div class="process-page__body">
+                {essay_html}
+            </div>
+            {references_section}
+
+            <footer class="event-page__provenance">
+                <small>Source method: <strong>AI_ASSISTED</strong> &nbsp;|&nbsp; Review status:
+                <strong>{review}</strong> &nbsp;|&nbsp; Confidence: <strong>{confidence}</strong></small>
+            </footer>
+        </article>
+    </main>
+
+    <footer>
+        <p><a href="./">&larr; All processes</a> &nbsp;|&nbsp; <a href="../">Home</a></p>
+    </footer>
+</body>
+</html>"""
+        write_html_page(SITE_PATH / "processes" / f"{slug}.html", html)
+
+    print(f"  [OK] {len(processes)} process essay pages created")
 
 
 def era_from_year(year):
@@ -607,6 +853,7 @@ def generate_event_pages(entity_map):
             <li><a href="../">Home</a></li>
             <li><a href="../timeline.html">← Timeline</a></li>
             <li><a href="../map.html">Map</a></li>
+            <li><a href="../processes/">Processes</a></li>
         </ul>
     </nav>
 
@@ -927,6 +1174,8 @@ def build_site():
     generate_persons_pages(entity_map)
     generate_texts_pages(entity_map)
     generate_concepts_pages(entity_map)
+    generate_processes_index()
+    generate_processes_pages(entity_map)
     generate_event_pages(entity_map)
     export_json_data()
 

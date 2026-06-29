@@ -125,6 +125,38 @@ CREATE TABLE concepts (
 
 ---
 
+### processes
+
+The "Twelve Alchemical Processes" (mapped to the zodiac in the early-modern correspondence tradition) plus other major operations. Each process is presented as an index card and a long-form essay page. A process may link to an existing `concepts` row via `concept_slug`; the process page carries the narrative essay and bibliography, while the concept page carries the analytical definition.
+
+```sql
+CREATE TABLE processes (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    slug TEXT UNIQUE NOT NULL,
+    name TEXT NOT NULL,
+    sequence_order INTEGER,              -- display order: 1-12 canonical (zodiac order), then extras
+    is_canonical_twelve INTEGER NOT NULL DEFAULT 0,  -- 1 = one of the twelve zodiac-mapped processes
+    zodiac_sign TEXT CHECK(zodiac_sign IN (
+        'ARIES','TAURUS','GEMINI','CANCER','LEO','VIRGO',
+        'LIBRA','SCORPIO','SAGITTARIUS','CAPRICORN','AQUARIUS','PISCES'
+    )),
+    zodiac_glyph TEXT,                   -- Unicode glyph, e.g. U+2648 Aries; NULL for non-canonical
+    short_description TEXT NOT NULL,     -- 3-6 sentences (index card)
+    essay_html TEXT,                     -- long-form essay (Historical Development / Textual Tradition / Modern Scholarship)
+    references_html TEXT,                -- DGWE bibliography
+    concept_slug TEXT,                   -- optional FK to concepts(slug)
+    source_method TEXT NOT NULL CHECK(source_method IN ('MANUAL', 'AI_ASSISTED', 'SCHOLARSHIP_BASED')),
+    review_status TEXT NOT NULL CHECK(review_status IN ('DRAFT', 'REVIEWED', 'VERIFIED')),
+    confidence TEXT NOT NULL CHECK(confidence IN ('HIGH', 'MEDIUM', 'LOW')),
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    FOREIGN KEY (concept_slug) REFERENCES concepts(slug)
+);
+```
+
+**Provenance note:** the zodiac–process correspondence is an attested early-modern *cryptographic* scheme (Dom Antoine-Joseph Pernety, *Dictionnaire mytho-hermétique*, 1758). Pernety's twelve operations are **related to but distinct from** George Ripley's twelve "gates" in the *Compound of Alchemy* (1471): Ripley's gates are Calcination, Solution, Separation, Conjunction, Putrefaction, Congelation, Cibation, Sublimation, Fermentation, Exaltation, Multiplication, Projection, whereas Pernety substitutes Fixation, Digestion and Distillation and drops Conjunction, Putrefaction, Cibation and Exaltation (the four Ripley gates carried here as non-canonical "other major processes"). The scheme is **not** universal alchemical doctrine — different authors gave different sequences. Pages must attribute the scheme to its source and never imply transmutation was real.
+
+---
+
 ### locations
 
 Cities and regions with geographic coordinates for map display.
@@ -183,6 +215,7 @@ See `SCHEMA.json` for machine-readable authority. All CHECK constraints enforce 
 
 ```
 era: ANTIQUITY | LATE_ANTIQUE | MEDIEVAL | RENAISSANCE | EARLY_MODERN | MODERN
+zodiac_sign: ARIES | TAURUS | GEMINI | CANCER | LEO | VIRGO | LIBRA | SCORPIO | SAGITTARIUS | CAPRICORN | AQUARIUS | PISCES
 role_primary: ALCHEMIST | CHEMIST | SCHOLAR | PHILOSOPHER | PHYSICIAN | TRANSLATOR | MATHEMATICIAN | POET | PATRON | CLERICAL
 text_type: PRIMARY_SOURCE | COMMENTARY | COMPILATION | TREATISE | SCHOLARSHIP | ENCYCLOPEDIA
 category_type: ACTOR_TERM | ANALYST_TERM
@@ -202,6 +235,7 @@ source_method: MANUAL | AI_ASSISTED | SCHOLARSHIP_BASED
 | `persons` | 100+ | Alchemists, chemists, scholars |
 | `texts` | 50+ | Treatises, scholarship, compilations |
 | `concepts` | 30+ | Chemical operations, theories |
+| `processes` | 17 | Twelve zodiac-mapped processes + major extras |
 | `locations` | 20+ | Cities, regions with coordinates |
 
 ---

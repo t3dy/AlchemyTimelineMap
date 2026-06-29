@@ -72,6 +72,27 @@
       ]
     },
 
+    "process": {
+      "field_short": "short_description",
+      "field_essay": "essay_html",
+      "short_description_sentences": { "min": 3, "max": 6, "unit": "sentences" },
+      "essay_word_count": { "min": 400, "max": 2000, "unit": "words", "note": "DRAFT essays may be shorter; target on expansion" },
+      "required_essay_sections": [
+        "Historical Development",
+        "Textual Tradition",
+        "Modern Scholarship"
+      ],
+      "bibliography": { "min_refs": 3, "max_refs": 12, "format": "DGWE" },
+      "validation_rules": [
+        "short_description must be 3-6 sentences of plain scholarly prose",
+        "zodiac_sign required when is_canonical_twelve is true; null otherwise",
+        "concept_slug, when present, must exist in concepts table",
+        "attribution of any zodiac correspondence must name its source (e.g. Pernety 1758) — never presented as universal alchemical doctrine",
+        "no endorsement of transmutation; report historical belief only",
+        "bibliography in DGWE format"
+      ]
+    },
+
     "concept_definition": {
       "field_short": "definition_short",
       "field_long": "definition_long",
@@ -123,6 +144,10 @@
     "operation": {
       "values": ["DISTILLATION", "SUBLIMATION", "CALCINATION", "FERMENTATION", "CRYSTALLIZATION", "DISSOLUTION", "COAGULATION", "PUTREFACTION", "CIRCULATION"],
       "description": "Alchemical or chemical operation. Used for concept filtering."
+    },
+    "zodiac_sign": {
+      "values": ["ARIES", "TAURUS", "GEMINI", "CANCER", "LEO", "VIRGO", "LIBRA", "SCORPIO", "SAGITTARIUS", "CAPRICORN", "AQUARIUS", "PISCES"],
+      "description": "Zodiac sign mapped to a canonical alchemical process. Correspondence per Pernety, Dictionnaire mytho-hermetique (1758). Pernety's twelve operations are RELATED TO BUT DISTINCT FROM George Ripley's twelve gates (1471): Pernety substitutes Fixation, Digestion, Distillation and drops Conjunction, Putrefaction, Cibation, Exaltation. Only the canonical twelve processes carry a zodiac_sign."
     },
     "confidence": {
       "values": ["HIGH", "MEDIUM", "LOW"],
