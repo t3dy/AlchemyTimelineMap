@@ -5,7 +5,7 @@
     "mapped_events": 602,
     "unmapped_events": 0,
     "validation_passed": true,
-    "generated": "2026-06-29T07:52:41.348742"
+    "generated": "2026-06-29T08:19:20.327329"
   },
   "persons": [
     {
@@ -179,19 +179,6 @@
       "review_status": "DRAFT",
       "confidence": "MEDIUM",
       "created_at": "2026-05-23 01:50:28",
-      "concept_tags": []
-    },
-    {
-      "id": 21,
-      "slug": "muhammad-al-razi",
-      "name": "Muhammad al-Razi",
-      "role_primary": "CHEMIST",
-      "era": "MEDIEVAL",
-      "bio_html": "<p>Muhammad al-Razi — as a separate database entry from the more fully documented [LINK:al-razi] (Abu Bakr Muhammad ibn Zakariyya al-Razi, c. 854–925 CE, known in Latin as Rhazes) — represents a stub record that should be understood in relation to the comprehensive entry for Al-Razi (Rhazes). The historical figure, Abu Bakr Muhammad ibn Zakariyya al-Razi, was a Persian physician, philosopher, and alchemist active in Ray (Persia) and Baghdad, and is one of the most important figures in the history of Islamic medicine and of practical alchemy. His <i>Kitāb al-Asrār</i> (<i>Book of Secrets</i>) provided the most systematic practical manual of laboratory alchemy in the Arabic tradition, cataloguing operations, apparatus, and substances with a precision unmatched in earlier alchemical literature. For full scholarly context, see the entry for [LINK:al-razi].</p>\n\n<h2>Literature</h2>\n<p>Principe, Lawrence M. <i>The Secrets of Alchemy</i>. University of Chicago Press, 2013.<br>\nUllmann, Manfred. <i>Die Natur- und Geheimwissenschaften im Islam</i>. Brill, 1972.</p>",
-      "source_method": "AI_ASSISTED",
-      "review_status": "DRAFT",
-      "confidence": "MEDIUM",
-      "created_at": "2026-05-23 04:52:45",
       "concept_tags": []
     },
     {
@@ -841,8 +828,8 @@
       "id": 119,
       "slug": "paracelsus",
       "name": "Paracelsus",
-      "role_primary": "SCHOLAR",
-      "era": "MODERN",
+      "role_primary": "PHYSICIAN",
+      "era": "RENAISSANCE",
       "bio_html": "<p>Paracelsus, born Theophrastus Bombastus von Hohenheim (1493/94–1541), was a revolutionary Swiss physician, alchemist, and natural philosopher whose radical rejection of Galenic medical orthodoxy and whose integration of alchemy with pharmaceutical preparation fundamentally altered both medicine and alchemy in the Renaissance. Active across Switzerland, Germany, Austria, and various European courts from the 1520s until his death, Paracelsus became one of the most celebrated and controversial figures of the early modern period, vilified by medical establishment figures and revered by practitioners seeking alternatives to traditional medicine. His insistence that alchemy's true purpose was the production of medicines (*iatrochemistry*) rather than the transmutation of metals, combined with his demand for empirical observation and precise chemical preparation, represented a genuine departure from medieval alchemy and established a lineage of physician-alchemists that would dominate Renaissance and early modern medical practice. Though many of Paracelsus's specific medical theories were mistaken and his chemical explanations of disease reflect the limitations of his era's natural philosophy, his emphasis on laboratory practice, reproducible procedures, and empirically verifiable results anticipated early modern experimental science and ensured that when alchemy fell into disrepute in the 17th century, its operational methods survived transformed into emerging modern chemistry.</p>\n\n<h2>Works and Intellectual Context</h2>\n\n<p>Paracelsus's surviving writings comprise treatises on medicine (*Paragranum*, *Archidoxies*), natural philosophy (*Cosmology*, *Astronomy*), theology and mysticism (*Philosophical Prologue*), and alchemy (*Aurora Consurgens* attribution disputed). These works synthesized medieval scholasticism, Islamic alchemy and medicine, classical natural philosophy, and Renaissance Neoplatonism into a distinctive and highly idiosyncratic synthesis that explicitly rejected Aristotelian natural philosophy and medieval scholastic orthodoxy. Paracelsus famously declared that \"nature is the best physician\" and that learning should come from nature itself rather than from ancient books—a radical claim for an era when medical education was entirely textual and authority-dependent. He had studied medicine at Italian universities and had engaged with contemporary medical alchemy, but his true education, he claimed, came from practical experience in mining operations (where he observed mineral chemistry), from observation of disease and treatment in clinical practice, and from direct engagement with alchemical operations. Paracelsus grounded his philosophy in the principle of *Signatura Rerum* (signature of things)—the belief that nature's forms reveal their virtues and that substances could be identified and their medicinal properties discovered through careful observation of their appearance and properties. A red mineral bearing similarity to blood might remedy bloodletting disorders; a plant resembling an organ might heal that organ. This doctrine, though often dismissed by later science as superstitious, drove systematic experimentation with mineral and plant extracts and led to genuine pharmaceutical discoveries. Paracelsus integrated alchemy with medicine through the doctrine of *Quintessence*—the purified, concentrated essence of a substance obtained through distillation and repeated processing. Rather than pursuing transmutation of base metals into gold (which Paracelsus regarded as futile), he pursued extraction and refinement of essential virtues from plants, minerals, and animal products for medicinal use.</p>\n\n<h2>Alchemical Theory and Laboratory Practice</h2>\n\n<p>Paracelsus's contribution to alchemy was fundamentally reorientational: he redirected the discipline's energies from metallic transmutation toward pharmaceutical production while maintaining the essential operations and theoretical frameworks that defined medieval alchemical practice. Distillation remained central—Paracelsus was obsessed with the separation of substances by heating and condensation, the production of volatile essences and refined products. Calcination, the reduction of materials to ash and ultimate constituents, remained a foundational operation. Fermentation, precipitation, crystallization—all the traditional alchemical operations retained their centrality in Paracelsian practice, but the goal was no longer the philosopher's stone but rather the *universal medicine*, the quintessence capable of healing any disease. Paracelsus drew heavily on medieval alchemical texts, particularly works in the [LINK:summa-perfectionis] tradition and the [LINK:emerald-tablet]], but recontextualized them toward medical application. The operations described in medieval texts became, in Paracelsian framework, procedures for producing medicinal quintessences. The theoretical principles (the transformation of matter, the manipulation of the four qualities) applied equally to metals or minerals or plants—Paracelsus saw the alchemical principles as fundamentally universal. His laboratory practice generated numerous pharmaceutical preparations. The *Archidoxies* describe specific procedures: extraction of vitriol from mineral sources, distillation of aromatic oils, preparation of tinctures and extracts through fermentation and maceration. These were not purely theoretical—they were reproducible procedures producing observable, testable results. Paracelsus emphasized the importance of precision in measurement and procedure: the heating must be controlled; the distillation apparatus must be properly constructed; the proportions must be exact. This emphasis on reproducibility and precision distinguished Paracelsian practice from folk alchemy or mystical speculation and aligned it with emerging standards of experimental practice.</p>\n\n<h2>Transmission and Reception</h2>\n\n<p>Paracelsus's immediate influence was limited. His idiosyncratic Latin, his explicit rejection of academic authority, and his radical claims made him simultaneously celebrated by reformers and vilified by medical establishment figures. The medical faculties of European universities initially resisted Paracelsian medicine; traditional Galenic practitioners viewed Paracelsus as a charlatan and heretic. However, after Paracelsus's death, his students and followers preserved and published his writings, often in garbled or interpolated versions that sometimes obscured his original meanings. By the late 16th century, Paracelsian medicine was being institutionalized in German and English universities, competing directly with Galenic orthodoxy. The Paracelsian movement (including figures like Jan van Helmont, who developed further [LINK:iatrochemistry]]) developed distinctive doctrines about the primacy of chemical pharmacy and the role of spiritual understanding in natural philosophy. Renaissance alchemists engaged extensively with Paracelsus: [LINK:michael-maier] referenced him explicitly in emblem works; emblem books incorporated Paracelsian symbolism and medical alchemy themes; the early modern alchemical corpus is saturated with Paracelsian concepts of vital principles and chemical medicine. By the 17th century, however, Paracelsus's mystical philosophy fell increasingly into disrepute even as his emphasis on chemical pharmacy was absorbed into emerging chemistry. The distinction between Paracelsus-the-mystic (scorned by mechanistic philosophers of the Scientific Revolution) and Paracelsus-the-chemist (respected by experimental practitioners and early modern chemists like Robert Boyle and Isaac Newton) became institutionalized in historical interpretation.</p>\n\n<h2>Scholarly Debates</h2>\n\n<p>Modern scholarship on Paracelsus divides on several fundamental questions with significant historiographical implications. Bruce T. Moran argues that Paracelsus represented a cultural shift toward craft knowledge and experiential learning that legitimized artisanal practice within intellectual hierarchies—in Moran's interpretation, Paracelsus's influence derives primarily from his valorization of hands-on practical engagement over textual authority. Other scholars (Allen G. Debus, 1992) emphasize continuity with medieval alchemy and Islamic medicine, arguing that Paracelsus systematized and reoriented rather than fundamentally revolutionized the tradition. Recent work (Tara Nummedal, 2007) examines Paracelsus through the lens of patronage networks and courtly politics, showing how patronage and political positioning enabled his authority and shaped which of his ideas circulated. Debate continues regarding authorship and chronology of attributed texts: many \"Paracelsian\" works were composed by students or later followers, and distinguishing authentic Paracelsus from Paracelsian tradition remains fraught. The relationship between Paracelsus's mysticism (his emphasis on spiritual understanding, his engagement with Christian theology, his acceptance of invisible spiritual forces) and his practical chemistry remains contested: was his mystical philosophy essential to driving his pharmaceutical innovations, or was it incidental orpost-hoc rationalization of practical success? Did Paracelsus's spiritual commitments make his medicine better or merely reflect the supernatural metaphysics of his era? This question shapes how historians position Paracelsus within narratives of scientific revolution and the emergence of modern science. Some scholars credit Paracelsus as a genuine precursor to modern experimental chemistry; others argue that his commitment to spiritual principles fundamentally separated him from modern scientific approach.</p>\n\n<h2>Literature</h2>\n\n<p>Debus, Allen G. *The Chemical Philosophy: Paracelsian Science and Medicine in the Sixteenth and Seventeenth Centuries*. Dover, 1992.</p>\n\n<p>Gundersen, Dag. *The Idea of Proof in Alchemy: From John of Rupescissa to Robert Boyle*. Ashgate, 2008.</p>\n\n<p>Moran, Bruce T. *Paracelsus: An Alchemical Life*. Reaktion Books, 2015.</p>\n\n<p>Nummedal, Tara. *Alchemy and Authority in the Holy Roman Empire*. University of Chicago Press, 2007.</p>\n\n<p>Principe, Lawrence M. *The Secrets of Alchemy*. University of Chicago Press, 2013.</p>\n\n<p>Smith, Pamela H. *The Business of Alchemy: Science and Culture in the Holy Roman Empire*. Princeton University Press, 2006.</p>\n\n<p>Timmermann, Achim, ed. *Knotted in Gold: Material Culture, Transmission, and Transformation in Medieval Alchemy*. De Gruyter, 2017.</p>",
       "source_method": "SCHOLARSHIP_BASED",
       "review_status": "DRAFT",
@@ -856,8 +843,8 @@
       "id": 120,
       "slug": "jan-van-helmont",
       "name": "Jan Baptist van Helmont",
-      "role_primary": "SCHOLAR",
-      "era": "MODERN",
+      "role_primary": "PHYSICIAN",
+      "era": "EARLY_MODERN",
       "bio_html": "<p>Jan Baptist van Helmont (1579–1644) was a Flemish physician, natural philosopher, and alchemist whose systematic investigations of material transformation through chemical operation established new standards for experimental chemistry. Van Helmont rejected the Galenic humoral theory and Aristotelian natural philosophy dominant in universities, instead grounding medical practice and natural philosophy in careful observation of chemical processes and material change.</p><p>Van Helmont's intellectual contribution was revolutionary. He argued that all matter was ultimately composed of water (rather than Aristotle's four elements or Paracelsus's three principles) and that transformation occurred through chemical operation rather than elemental alteration. He demonstrated this through precise experimental work: he weighed materials before and after operations, recorded changes in weight and properties, and drew conclusions from quantitative observation. His famous willow tree experiment (planting a tree in measured soil and observing its growth) demonstrated that water, not soil, was the source of plant mass—a fundamental contribution to understanding plant physiology.</p><p>Van Helmont's alchemical work was sophisticated. He conducted extensive distillations, extractions, and fermentations, documenting procedures with precision sufficient for replication. He prepared medicines through chemical operation and investigated the properties of volatile substances produced by distillation and fermentation. His recognition that gases (what he called 'spiritus sylvestris' or wild spirits) were distinct material substances—neither liquid nor solid—was conceptually important for later chemistry.</p><p>Van Helmont's medical practice integrated chemical pharmacy with careful patient observation. He claimed success in treating diseases through chemically prepared remedies, grounding medical authority not in ancient texts but in demonstrated efficacy. This combination of chemical operation with medical practice influenced later physicians and apothecaries who recognized chemistry's utility in pharmaceutical preparation.</p><p>Van Helmont's significance for the history of chemistry is immense. His insistence on quantitative observation, his recognition of distinct material substances (gases), his rejection of ancient authority in favor of empirical verification—all anticipated the practices of 18th-century chemistry. His work represents a crucial transition: from alchemy as comprehensive natural philosophy toward chemistry as disciplined investigation of material transformation. Modern historians including Pamela Smith recognize van Helmont as a pivotal figure whose experimental rigor and material focus shaped the emergence of modern chemistry.</p>",
       "source_method": "SCHOLARSHIP_BASED",
       "review_status": "DRAFT",
@@ -869,8 +856,8 @@
       "id": 121,
       "slug": "robert-boyle",
       "name": "Robert Boyle",
-      "role_primary": "SCHOLAR",
-      "era": "MODERN",
+      "role_primary": "CHEMIST",
+      "era": "EARLY_MODERN",
       "bio_html": "<p>Robert Boyle (1627–1691) was an Irish natural philosopher whose experimental investigations of gases, vacuums, and chemical reactions established new standards for experimental rigor and helped establish chemistry as a disciplined natural science. Boyle synthesized alchemy's operational knowledge with the emerging mechanical philosophy, creating a framework in which chemical operation revealed fundamental properties of matter.</p><p>Boyle's significance lies in his systematic experimental method and his articulation of what became known as 'corpuscular' theory—the idea that matter consisted of tiny particles (corpuscles) whose arrangement and interactions explained observable properties. He demonstrated this through precisely designed experiments: his law relating pressure and volume of gases (Boyle's Law), his investigations of the nature of vacuum, his careful studies of combustion and chemical reaction. These experiments, rigorously controlled and carefully documented, set new standards for what constituted legitimate natural philosophical inquiry.</p><p>Boyle's approach to alchemy was sophisticated. He rejected transmutation claims he could not verify experimentally, yet he engaged seriously with alchemical texts and chemical operations. His work synthesized the operational knowledge accumulated through medieval and Renaissance alchemy with the mathematical and experimental rigor of emerging mechanical philosophy. He recognized that chemical operation revealed true properties of matter—not because it achieved transmutation, but because it demonstrated how matter could be decomposed, recombined, and transformed according to mechanical principles.</p><p>Boyle's laboratory practice was extensive. His preserved notebooks document hundreds of experiments with distillations, extractions, reactions, and observations of color changes, precipitations, and other chemical phenomena. He emphasized the importance of replication—experiments should be repeatable and verifiable by other investigators. This emphasis on public verification and replicability distinguished his approach from alchemical secrecy.</p><p>Boyle's influence on the development of chemistry was profound. His establishment of experimental method as the foundation of natural philosophy, his recognition of chemical substances as distinct entities with measurable properties, his articulation of mechanical principles underlying chemical change—all shaped how chemistry developed in the 18th century. His work represents the culmination of alchemy's transformation into chemistry: the retention of operational sophistication combined with new mathematical rigor, empirical verification, and philosophical clarity about the nature of matter.</p>",
       "source_method": "SCHOLARSHIP_BASED",
       "review_status": "DRAFT",
@@ -882,8 +869,8 @@
       "id": 122,
       "slug": "isaac-newton",
       "name": "Isaac Newton",
-      "role_primary": "SCHOLAR",
-      "era": "MODERN",
+      "role_primary": "MATHEMATICIAN",
+      "era": "EARLY_MODERN",
       "bio_html": "<p>Isaac Newton (1643–1727) was an English mathematician, physicist, and natural philosopher whose laws of motion and gravity established the mathematical foundations of classical mechanics. While Newton is primarily remembered for his achievements in mathematics and physics, his extensive alchemical investigations—documented in thousands of pages of notes and experimental records—reveal a figure deeply engaged with chemical operation and material transformation throughout his career.</p><p>Newton's engagement with alchemy is historically significant not because he achieved transmutation (he did not) but because it demonstrates how a preeminent natural philosopher could maintain serious engagement with alchemical investigation while simultaneously developing mathematical mechanics. Newton's alchemical work was not separate from his physics—he sought unified understanding of material nature, investigating how particles of matter interacted through forces and how chemical operations revealed these interactions.</p><p>Newton's alchemical notes, studied extensively by historians including William Newman, reveal engagement with texts by Jabir ibn Hayyan, Paracelsus, and van Helmont. He conducted distillations, fermentations, and other operations, documenting results carefully. His alchemical investigations focused on understanding the composition of matter and the forces governing material interaction. His corpuscular theory—matter composed of discrete particles interacting through forces—represented an attempt to understand both mechanical and chemical phenomena within unified framework.</p><p>Newton's significance for chemistry specifically lies in his influence on 18th-century theoretical chemistry. His articulation of matter as composed of particles interacting through mathematical forces provided conceptual framework in which chemical phenomena could be understood mechanically. His insistence on quantitative measurement and mathematical description influenced how chemists increasingly approached their discipline. Yet his own alchemical metaphysics—involving spiritual forces and occult properties—proved sterile for chemistry's development.</p><p>Modern historians treat Newton's alchemy as evidence of the complex intellectual landscape of late 17th-century natural philosophy, where investigation of material properties could simultaneously involve mechanical explanation and mystical speculation. His work bridges alchemy and emerging chemistry: retaining alchemical operational sophistication while attempting to subordinate it to mechanical and mathematical principles.</p>",
       "source_method": "SCHOLARSHIP_BASED",
       "review_status": "DRAFT",
@@ -931,24 +918,11 @@
       "concept_tags": []
     },
     {
-      "id": 126,
-      "slug": "zosimos-panopolis",
-      "name": "Zosimos of Panopolis",
-      "role_primary": "SCHOLAR",
-      "era": "MODERN",
-      "bio_html": "<p>Zosimos of Panopolis (c. 250–c. 420 CE) was a Late Antique Egyptian alchemist whose surviving writings constitute the oldest extant systematic account of chemical operations in the Western tradition. Working in Panopolis (modern Akhmim) in Upper Egypt during the late 3rd and early 4th centuries, Zosimos documented distillation, sublimation, and fermentation with unprecedented technical detail, describing apparatus, procedures, and observable results in ways that later practitioners could follow and replicate.</p><p>Zosimos's work marks a watershed in the history of chemistry. Rather than purely allegorical or mystical accounts, his descriptions of distillation columns, heating methods, and material transformations reveal a practitioner deeply engaged in reproducible laboratory operations. He describes the preparation of mercury compounds, the distillation of plant essences, and the fermentation of grain—operations grounded in material results rather than theoretical speculation. His understanding of how heat, time, and containment vessels affected chemical transformation demonstrates genuine experimental sophistication.</p><p>The philosophical framework Zosimos imposed on his operations was complex. He embedded chemical procedures within a cosmological and spiritual system, interpreting transmutation as both a material and spiritual process. He invoked divine knowledge and visionary insight, yet his descriptions remain precise and actionable. This combination—exact procedural description paired with mystical or spiritual interpretation—became characteristic of the alchemical tradition throughout the medieval period.</p><p>Zosimos's intellectual debts are debated by modern scholars. Lawrence Principe argues he drew on Greek natural philosophy (Aristotelian theory of matter), Egyptian practical knowledge of metalworking and dyeing, and possibly Babylonian cuneiform sources on minerals and their transformation. His work represents a synthesis of practical craft knowledge with Hellenistic natural philosophy, creating what Principe calls 'learned alchemy'—alchemy integrated into systematic natural inquiry rather than isolated craft practice.</p><p>The transmission of Zosimos's work is historically significant. His texts survived in Greek manuscripts, were incorporated into Arabic alchemical compilations (especially in works attributed to Jabir ibn Hayyan), and eventually reached the medieval Latin West through translations. However, later copyists and commentators fragmented his works, added mystical interpretations, and sometimes obscured his original procedural clarity. Modern scholarship has recovered his texts and established his centrality to understanding how alchemy emerged as a disciplined practice grounded in material reality.</p>",
-      "source_method": "SCHOLARSHIP_BASED",
-      "review_status": "REVIEWED",
-      "confidence": "HIGH",
-      "created_at": "2026-06-14 10:50:47",
-      "concept_tags": []
-    },
-    {
       "id": 127,
       "slug": "jabir-ibn-hayyan",
       "name": "Jabir ibn Hayyan",
-      "role_primary": "SCHOLAR",
-      "era": "MODERN",
+      "role_primary": "ALCHEMIST",
+      "era": "MEDIEVAL",
       "bio_html": "<p>Jabir ibn Hayyan (c. 721–c. 815), known in the Latin West as Geber, was an 8th-century Perso-Arabian alchemist, physician, and natural philosopher whose works profoundly influenced both Islamic and European alchemy. Active primarily in Kufa and Baghdad during the Abbasid flowering, Jabir synthesized Hellenistic natural philosophy (transmitted through Syria and Persia), Egyptian practical knowledge (via Zosimos and related texts), and Persian-Indian craft traditions into a comprehensive system of material transformation.</p><p>Jabir's intellectual contribution was revolutionary. Unlike Zosimos, who organized his work around specific operations, Jabir attempted to systematize alchemy theoretically. He posited that all metals consisted of mercury and sulfur in different proportions—a 'Sulfur-Mercury Theory' that later became foundational to alchemical metallurgy. This theory was not purely mystical: it provided a explanatory framework for why heating, distillation, and combination of materials produced observable changes in metal properties. Jabir's approach integrated observation, theory, and reproducible procedure.</p><p>Jabir's laboratory practice was sophisticated. He described over 100 chemical operations and the manufacture of apparatus: furnaces with temperature regulation, retorts, alembics, and distillation columns. He documented the preparation of corrosive distillates (likely including mineral acids), crystallization of salts, and the production of colored compounds. His descriptions of how to recognize successful operations—changes in color, smell, physical properties—demonstrate engagement with material results. Modern historians including William Newman argue that Jabir's 'Summa Perfectionis' represents genuine operational chemistry rather than allegory.</p><p>The corpus attributed to Jabir is vast and of disputed authenticity. Later Islamic alchemists wrote under his name, and medieval Latin translators often conflated multiple authors. The pseudo-Geber texts (particularly the 'Summa Perfectionis') transmitted to Europe represent both authentic Jabir and later accretions. Separating genuine from apocryphal remains a scholarly challenge, yet the 'Summa Perfectionis' demonstrates the level of chemical sophistication available to medieval European alchemists through Jabir's transmission.</p><p>Jabir's influence on Islamic alchemy was immediate and lasting. Subsequent Islamic alchemists engaged with his theoretical framework, modified his operations, and expanded his pharmacological applications. His influence on medieval Latin alchemy was equally profound: the 'Summa Perfectionis' became a foundational text for 13th- and 14th-century European alchemists including Roger Bacon and Albertus Magnus. Through Jabir, Zosimian operational knowledge was preserved, systematized, and transmitted to the medieval West.</p>",
       "source_method": "SCHOLARSHIP_BASED",
       "review_status": "REVIEWED",
@@ -960,8 +934,8 @@
       "id": 128,
       "slug": "al-razi",
       "name": "Abu Bakr Muhammad al-Razi",
-      "role_primary": "SCHOLAR",
-      "era": "MODERN",
+      "role_primary": "PHYSICIAN",
+      "era": "MEDIEVAL",
       "bio_html": "<p>Abu Bakr Muhammad al-Razi (854–925), known in the Latin West as Rhazes, was a Persian physician, natural philosopher, and alchemist whose contributions to practical chemistry and pharmaceutical preparation were internationally recognized. Based primarily in Baghdad and Ray (Rhages), al-Razi combined medical practice with systematic investigation of material transformation, positioning alchemy not as mystical transmutation but as the practical foundation of pharmacy and medicine.</p><p>Al-Razi's significance lies in his reorientation of alchemy toward medical and pharmaceutical applications. His surviving treatises document the preparation of medicinal compounds, the extraction of active principles from plants and minerals, and the distillation of spirits for therapeutic use. He described the classification of substances by their properties (hot, cold, dry, moist), the combination of ingredients to counterbalance excess, and the verification of pharmaceutical effectiveness through empirical observation. This pragmatic approach treated alchemy as a discipline essential to healing.</p><p>Al-Razi's laboratory knowledge was extensive. He described the preparation of mineral acids (sulfuric, nitric, and hydrochloric), the manufacture of corrosive and dissolving solutions, and the distillation of aromatic essences. His descriptions of apparatus and procedures were precise enough that modern chemists have successfully replicated his operations. His 'Book of the Secret of Secrets' outlined distillation techniques for spirit production and material separation—techniques foundational to later pharmaceutical chemistry.</p><p>Al-Razi's intellectual stance diverged from Jabir's theoretical ambition. Rather than proposing universal theories of matter composition, al-Razi focused on observable material properties and their practical applications. His work exemplifies what historians call 'experimental empiricism'—the systematic testing of materials, observation of results, and modification of procedure based on outcomes. This approach aligned alchemy more closely with craft practice and medical empiricism than with natural philosophy.</p><p>Al-Razi's medical reputation in the Islamic world was extraordinary. His clinical observations on diseases (particularly smallpox and measles) were medically innovative, and his integration of alchemy into pharmaceutical preparation made him an authority physicians across the Islamic world consulted. His transmission to the Latin West, particularly his medical treatises, established him as an authority European physicians referenced through the medieval and early modern periods. The association of alchemy with medicine became institutionalized partly through al-Razi's model.</p>",
       "source_method": "SCHOLARSHIP_BASED",
       "review_status": "REVIEWED",
@@ -973,8 +947,8 @@
       "id": 129,
       "slug": "al-kindi",
       "name": "Al-Kindi",
-      "role_primary": "SCHOLAR",
-      "era": "MODERN",
+      "role_primary": "PHILOSOPHER",
+      "era": "MEDIEVAL",
       "bio_html": "<p>Al-Kindi (801–873), known in the Latin West as Alkindus, was an influential 9th-century Islamic philosopher and natural scientist whose work integrated Greek natural philosophy (Aristotle, Euclid, Ptolemy) with Islamic theological concerns. Though not primarily an alchemist, al-Kindi's writings on matter, transformation, and the intelligibility of nature profoundly influenced how Islamic and later European alchemists understood their theoretical foundations.</p><p>Al-Kindi's importance for alchemy lay in his attempt to reconcile Aristotelian natural philosophy with Islamic theology. He engaged with questions about the nature of matter, the possibility of substantial change, and the limits of human knowledge and intervention in nature. His treatment of causation—how change occurs and what agents produce transformation—provided philosophical scaffolding for understanding alchemical operations. For medieval alchemists, al-Kindi's arguments that God governed natural change through created secondary causes justified the pursuit of material transformation as an investigation of divine providence.</p><p>Al-Kindi wrote on pharmacology, the classification of substances, and the preparation of medicinal compounds. His integration of Greek medical theory with Islamic pharmaceutical practice influenced how later physicians and alchemists understood the relationships between chemical operation and therapeutic effect. His emphasis on the mathematical and geometric properties of matter anticipated later developments in corpuscular theory.</p><p>Al-Kindi's persecution by later caliphs and the suppression of some of his works limited his direct influence on Islamic alchemy, but his intellectual legacy persisted through students and textual transmission. His greater influence emerged in the medieval Latin West, where Alkindus became an authoritative voice on natural philosophy integrated with theology. European alchemists cited al-Kindi to justify their work as compatible with religious orthodoxy—a crucial rhetorical move in a Christianized intellectual environment.</p>",
       "source_method": "SCHOLARSHIP_BASED",
       "review_status": "DRAFT",
@@ -983,24 +957,11 @@
       "concept_tags": []
     },
     {
-      "id": 130,
-      "slug": "gerard-cremona",
-      "name": "Gerard of Cremona",
-      "role_primary": "SCHOLAR",
-      "era": "MODERN",
-      "bio_html": "<p>Gerard of Cremona (1114–1187) was an Italian scholar and prolific translator whose work transmitting Arabic scientific and philosophical texts into Latin fundamentally reshaped European intellectual culture in the 12th century. Based primarily in Toledo after its Christian conquest in 1085, Gerard worked in a multicultural translation center where Jewish, Muslim, and Christian scholars collaborated to make Arabic learning accessible to the Latin West.</p><p>Gerard's significance for alchemy specifically lies in his translation of Jabir's works, particularly the 'Summa Perfectionis,' and al-Razi's chemical and pharmaceutical treatises. Through Gerard's translations, European scholars first encountered systematic accounts of distillation, sublimation, and the material operations that constituted the practical core of Islamic alchemy. His precise, technical translations preserved the procedural content of the Arabic originals, allowing European practitioners to attempt to replicate operations described centuries earlier in Baghdad.</p><p>Gerard translated over 70 major works—including Aristotle's physics and metaphysics, Euclid's geometry, Ptolemy's astronomy, and medical treatises by Galen and Ibn Sina. This massive translation enterprise created the intellectual infrastructure for the medieval European reception of Greek natural philosophy mediated through Islamic scholarship. Alchemy, as part of this broader natural philosophical corpus, gained legitimacy and accessibility through Gerard's work.</p><p>Gerard's translation method was sophisticated. Rather than slavish word-for-word rendition, he aimed for conceptual accuracy, sometimes restructuring text to achieve clarity in Latin. For technical and chemical treatises, this meant finding Latin technical vocabulary for Arabic chemical terms—a challenge since Latin had limited scientific vocabulary. His decisions about how to render Arabic terms into Latin sometimes obscured the original meaning, yet his translations made alchemical knowledge accessible to scholars who could not read Arabic.</p><p>The impact of Gerard's translations on 13th-century European alchemy was profound. Roger Bacon, Albertus Magnus, and other major medieval alchemists worked directly from Gerard's translations. His work made systematic chemical knowledge available to the Latin West and established translation as a crucial vehicle for knowledge transfer. Later Renaissance scholars built on Gerard's foundation, but his pioneering translations remain foundational to understanding how Islamic alchemy became European alchemy.</p>",
-      "source_method": "SCHOLARSHIP_BASED",
-      "review_status": "REVIEWED",
-      "confidence": "HIGH",
-      "created_at": "2026-06-14 10:50:47",
-      "concept_tags": []
-    },
-    {
       "id": 131,
       "slug": "roger-bacon",
       "name": "Roger Bacon",
-      "role_primary": "SCHOLAR",
-      "era": "MODERN",
+      "role_primary": "PHILOSOPHER",
+      "era": "MEDIEVAL",
       "bio_html": "<p>Roger Bacon (c. 1214–1294), an English Franciscan friar and natural philosopher, was one of the most significant medieval advocates for experiential learning and systematic observation, whose engagement with alchemical texts and advocacy for practical experimentation influenced the development of both alchemy and natural philosophy in medieval Europe. Active primarily at Oxford University and later in various Franciscan communities, Bacon integrated alchemical knowledge with scholastic philosophy and mathematics, arguing that true understanding of nature required direct experience with material processes rather than reliance on ancient authorities. Though Bacon did not publish comprehensive alchemical treatises, his scattered references to alchemy in works like the *Opus Majus* (c. 1268) and the *Opus Tertium* (c. 1267) establish him as a figure who took alchemical operations seriously as legitimate knowledge, grounding his advocacy for experimental method in concrete examples drawn from alchemical practice. Bacon's influence on the medieval reassessment of alchemy was indirect but profound: by defending the epistemological validity of practical, sensory engagement with material transformation, he provided philosophical legitimacy to the alchemist's laboratory as a site of genuine knowledge production, not merely superstitious speculation.</p>\n\n<h2>Works and Intellectual Context</h2>\n\n<p>Bacon's major philosophical works—the *Opus Majus*, *Opus Minus*, and *Opus Tertium*—were written during his period of greatest productivity in the 1260s and represented an ambitious attempt to reorganize all human knowledge around the principle of experiential verification. Bacon had encountered alchemical texts through [LINK:gerard-of-cremona]'s translations and through direct contact with Islamic natural philosophy. He was familiar with works attributed to [LINK:jabir-ibn-hayyan], with medical treatises incorporating alchemical pharmacy, and with mathematical and optical treatises that drew on alchemical experiments in glass-making and lens production. His *Opus Majus* begins with a systematic critique of the sources of human error: dependence on ancient authority without verification; reliance on custom and opinion; emotional reasoning; and ignorance combined with conceit. Against these, Bacon proposes *experientia*—direct experimental verification through sensory observation and mathematical measurement. Alchemy, he argues, exemplifies this method: the alchemist observing the color changes accompanying chemical reactions, the heat generated by calcination, the condensation of vapors in distillation—these sensory observations constitute genuine knowledge, not mere conjecture. Bacon grounds this philosophy in Neoplatonic metaphysics (derived from Arabic sources like Al-Ghazali) in which the material world reflects divine order and thus rewards careful study. For Bacon, understanding the transmutation of metals (whether or not it was literally possible) required understanding the properties of substances, the effects of heat and moisture, the behavior of vapors—knowledge that could only be acquired through sustained experimentation.</p>\n\n<h2>Alchemical Significance</h2>\n\n<p>Bacon's philosophical defense of experimentation directly engaged with alchemical practice and reasoning. In the *Opus Majus*, he discusses specific alchemical operations: the production of alkalis through wood ash and water; the dissolution of metals in acids; the distillation of oils and essences; the calcination of minerals. These examples are not ornamental—they constitute the core evidence for Bacon's epistemological argument. When Bacon claims that true natural philosophy must be grounded in observation and experiment, he illustrates this claim with alchemical examples because alchemy *already embodies this principle*. The alchemist heating mercury and sulfur together in a sealed vessel, expecting transformation, is engaged in the experimental method Bacon advocates for all natural philosophy. Bacon notably does not dismiss transmutation as impossible; rather, he treats it as an open question requiring systematic investigation. He suggests that if metals can be dissolved and recombined, if base metals can be refined through repeated distillation and sublimation, then transmutation might be achievable through proper procedure—but this achievement would depend entirely on precise observation and reproducible technique. Bacon's framing thus legitimates alchemical inquiry as philosophically respectable while simultaneously establishing the evidentiary standards such inquiry must meet. In this sense, Bacon anticipated the modern scientific attitude toward alchemy: taking practitioners' material practices seriously while remaining agnostic about their metaphysical claims.</p>\n\n<h2>Transmission and Reception</h2>\n\n<p>Bacon's *Opus Majus* circulated in limited manuscript form during his lifetime and gained broader circulation after his death, particularly in French university libraries. The work was never printed in the medieval period but was studied carefully by Renaissance scholars interested in the history of logic and natural philosophy. In the 14th century, Bacon's defense of experimentation was cited by alchemists seeking to position their discipline within legitimate natural philosophy—[LINK:arnaud-de-villanova] and other physician-alchemists drew on Baconian arguments to justify their pursuit of alchemical pharmacy. By the Renaissance, Bacon was recognized as a precursor to the experimental method, a status he maintained through the early modern period. Francis Bacon (no relation), the early modern advocate for inductive method and systematic experimentation, likely drew on Roger Bacon's example when constructing his own account of the history of natural philosophy. However, Roger Bacon's specific advocacy for alchemy became less visible in later periods: as alchemy itself became increasingly disreputable in the 17th and 18th centuries, the connection between Bacon's epistemology and alchemical practice was downplayed. Modern scholarship (notably in the work of Paul Kraus and recent studies by scholars like Michela Pereira) has recovered Bacon's serious engagement with alchemy, revealing that his philosophical arguments were not merely rhetorical scaffolding but genuine engagement with the evidentiary status of alchemical knowledge.</p>\n\n<h2>Scholarly Debates</h2>\n\n<p>A significant scholarly question concerns the extent and nature of Bacon's actual knowledge of alchemical practice. Did he conduct experiments himself, or was his knowledge purely textual? The surviving manuscripts provide no clear evidence that Bacon maintained a laboratory. Some scholars argue that Bacon's references to alchemical operations are merely illustrative—he uses alchemy as an example of the experimental method without deep practical involvement. Others contend that his detailed knowledge of specific procedures suggests at least some direct acquaintance with alchemical work, either through observation or through close collaboration with practitioners. A related debate concerns Bacon's assessment of transmutation. Did he genuinely believe transmutation was possible, or was he merely creating philosophical space for alchemists to pursue their work? The surviving texts are ambiguous: Bacon neither asserts transmutation as fact nor dismisses it as impossible; he insists only that proper investigation requires experience and measurement. Some historians (Newman, 2006) read this as genuine agnosticism; others suggest that Bacon's framing allowed him to defend alchemical practice while distancing himself from transmutational claims. A third debate, more historiographical, concerns Bacon's relationship to later scientific method. Some scholars credit Bacon as a genuine precursor to Francis Bacon and the scientific revolution; others argue that Roger Bacon's philosophy remained embedded in scholastic and Neoplatonic frameworks and did not represent a fundamental departure from medieval thinking. This debate shapes how historians position Bacon within narratives of scientific progress and the origins of experimental method.</p>\n\n<h2>Literature</h2>\n\n<p>Bacon, Roger. *Opus Majus*. Translated by Robert Belle Burke. University of Pennsylvania Press, 1928.</p>\n\n<p>Crowley, Theodore, ed. *Roger Bacon: The Problem of the Soul in His Philosophical Commentaries*. American Maritain Society, 1950.</p>\n\n<p>Hackett, Jeremiah. *Roger Bacon and the Sciences: Commemorative Essays*. Brill, 1997.</p>\n\n<p>Kraus, Paul. *Jábir ibn Hayyân: Essai sur l'Histoire des Idées Scientifiques dans l'Islam*. Institut Français, 1935.</p>\n\n<p>Lindberg, David C., ed. *Roger Bacon's Philosophy of Nature*. Oxford University Press, 1983.</p>\n\n<p>Newman, William R. *Atoms and Alchemy: Chymistry and the Transformation of Matter in the Early Modern Period*. University of Chicago Press, 2006.</p>\n\n<p>Pereira, Michela. *The Alchemical Corpus Attributed to Ray Lull*. Brill, 2007.</p>",
       "source_method": "SCHOLARSHIP_BASED",
       "review_status": "DRAFT",
@@ -1012,8 +973,8 @@
       "id": 132,
       "slug": "albertus-magnus",
       "name": "Albertus Magnus",
-      "role_primary": "SCHOLAR",
-      "era": "MODERN",
+      "role_primary": "PHILOSOPHER",
+      "era": "MEDIEVAL",
       "bio_html": "<p>Albertus Magnus (c. 1200–1280), known as Albert the Great, was a German-born Dominican friar, natural philosopher, and polymath whose integration of Aristotelian natural philosophy with alchemical and pharmaceutical knowledge made him one of the most influential intellectuals of the 13th century. Based at the University of Paris and later at Cologne, Albertus engaged with the full corpus of Aristotle's physics and metaphysics while simultaneously investigating practical alchemy and material transformation.</p><p>Albertus's distinctive contribution was demonstrating that alchemical knowledge was compatible with, and enriching to, Aristotelian philosophy. He engaged seriously with the <em>Summa Perfectionis</em>, treating Jabir as an authoritative source on matter composition and material change. Albertus's philosophical framework—drawing on Aristotelian hylomorphism (matter-form) and the four elements—provided theoretical grounding for understanding how alchemical operations produced substantial change in materials.</p><p>Albertus wrote extensively on minerals, metals, and pharmaceutical compounds. His treatises on alchemy and natural philosophy demonstrate that medieval scholars could engage with material operations at a sophisticated technical level while maintaining philosophical rigor. He described distillation, sublimation, and other operations with clarity sufficient for replication, integrating these operations within theoretical discussion of matter and change.</p><p>Albertus's intellectual authority was immense. His student Thomas Aquinas became perhaps the greatest medieval theologian; other students populated European universities as masters of philosophy. Through this network, Albertus's integration of alchemy into scholastic natural philosophy became influential. His work established precedent that alchemical knowledge was legitimate subject matter for university study.</p><p>Albertus also engaged with practical medicine and pharmacy. His recognition that alchemical operations were essential to pharmaceutical preparation—particularly distillation for extracting active principles and preparing medicinal spirits—helped establish alchemy's practical utility within medical education.</p>",
       "source_method": "SCHOLARSHIP_BASED",
       "review_status": "DRAFT",
@@ -1025,22 +986,9 @@
       "id": 133,
       "slug": "thomas-aquinas",
       "name": "Thomas Aquinas",
-      "role_primary": "SCHOLAR",
-      "era": "MODERN",
+      "role_primary": "PHILOSOPHER",
+      "era": "MEDIEVAL",
       "bio_html": "<p>Thomas Aquinas (c. 1225–1274) was an Italian Dominican friar and the most influential medieval theologian, whose synthesis of Aristotelian natural philosophy with Christian theology shaped intellectual discourse across Europe. While not primarily an alchemist, Aquinas engaged with questions about the nature of matter, substantial change, and transformation that were central to alchemical theory.</p><p>Aquinas's significance for alchemy lies in his theoretical framework for understanding transformation. His treatment of substantial change—how matter could undergo fundamental alteration while maintaining existence—provided philosophical justification for alchemical operations. Aquinas argued that Aristotelian hylomorphism (composition of matter and form) explained how substances could transform: change in form (while matter remained) constituted substantial change. This framework made alchemical transformation intellectually respectable within scholasticism.</p><p>Aquinas also addressed the question of whether humans could manipulate nature through art and operation. His distinction between natural and artificial processes, and his affirmation that human craft could legitimately work with and extend natural operations, provided theological support for alchemical practice. If God had granted humans rational knowledge and skill, using that skill to transform materials through legitimate operations was not transgression but proper human activity.</p><p>Though Aquinas did not write extensively on alchemy specifically, his philosophical framework—transmitted through Dominican schools across Europe—shaped how medieval scholars understood the legitimate intellectual and spiritual status of alchemical investigation. His influence on late medieval alchemy was thus profound if indirect.</p>",
-      "source_method": "SCHOLARSHIP_BASED",
-      "review_status": "DRAFT",
-      "confidence": "MEDIUM",
-      "created_at": "2026-06-14 10:50:50",
-      "concept_tags": []
-    },
-    {
-      "id": 134,
-      "slug": "ramon-llull",
-      "name": "Ramon Llull",
-      "role_primary": "SCHOLAR",
-      "era": "MODERN",
-      "bio_html": "<p>Ramon Llull (c. 1232–1315) was a Catalan philosopher, mystic, and alchemist whose attempts to systematize knowledge through combinatorial logic ('Ars Combinatoria') influenced both medieval and early modern alchemy. Llull spent decades developing a universal system of knowledge that would integrate all disciplines, including alchemy, through systematic combination of fundamental concepts and principles.</p><p>Llull engaged directly with alchemical texts and problems. He wrote treatises on alchemy, attempting to apply his combinatorial method to alchemical theory and operation. His approach was to identify fundamental alchemical principles and then explore all possible combinations and transformations systematically. This method represented an attempt to rationalize alchemy—to move beyond inherited texts and empirical trial-and-error toward systematic philosophical deduction of alchemical truth.</p><p>Though Llull's actual alchemical achievements were limited, his intellectual project—treating alchemy as a discipline susceptible to systematic and rational investigation—was influential. Later alchemists including Paracelsus were aware of Llull's work and his ambition to systematize hermetic knowledge appealed to Renaissance alchemists attempting to integrate alchemy into coherent natural philosophy.</p><p>Llull's significance also lies in his assertion that alchemy was compatible with Christian theology and philosophy. His mystical framework interpreted alchemical transformation in terms of spiritual development and divine operation in nature—interpretations that allowed alchemy to flourish in religiously conservative medieval intellectual environments.</p>",
       "source_method": "SCHOLARSHIP_BASED",
       "review_status": "DRAFT",
       "confidence": "MEDIUM",
@@ -1090,8 +1038,8 @@
       "id": 138,
       "slug": "avicenna",
       "name": "Avicenna",
-      "role_primary": "SCHOLAR",
-      "era": "MODERN",
+      "role_primary": "PHYSICIAN",
+      "era": "MEDIEVAL",
       "bio_html": "<p>Avicenna (980–1037), known in the Islamic world as Ibn Sina, was a Persian polymath whose philosophical, medical, and alchemical writings profoundly influenced both Islamic and European thought. His comprehensive medical text, the <em>Canon of Medicine</em>, became the standard medical authority in European universities and synthesized Greek medical theory with Islamic pharmaceutical knowledge, including extensive discussion of chemical preparation of medicines through distillation and refinement. While Avicenna was not primarily an alchemist, his integration of alchemy and pharmacy into medical education elevated the status of chemical knowledge within institutional medicine. His philosophical framework, grounded in Aristotelian metaphysics, provided theoretical support for understanding material transformation through natural principles. Avicenna's influence on European medical education was immense: his <em>Canon</em> remained the primary medical textbook in universities through the seventeenth century, and his emphasis on pharmaceutical chemistry contributed to the legitimation of alchemy within medical schools.</p>",
       "source_method": "SCHOLARSHIP_BASED",
       "review_status": "DRAFT",
@@ -1116,8 +1064,8 @@
       "id": 140,
       "slug": "johann-rudolph-glauber",
       "name": "Johann Rudolph Glauber",
-      "role_primary": "SCHOLAR",
-      "era": "MODERN",
+      "role_primary": "CHEMIST",
+      "era": "EARLY_MODERN",
       "bio_html": "<p>Johann Rudolph Glauber (1604–1670) was a German-Dutch chemist and alchemist whose experimental investigations of mineral acids and salts represent a crucial transition from alchemy toward modern chemistry. Working in Amsterdam and Cologne during a period of intense alchemical and commercial activity, Glauber conducted systematic experiments with mineral salt preparations, documenting the production of distinctive crystalline compounds with reproducible properties. His discovery of what became known as Glauber's salt (sodium sulfate decahydrate) exemplifies the period's fusion of alchemical ambition with genuine chemical discovery. Glauber's emphasis on producing commercially valuable compounds rather than pursuing transmutation shifted the focus of alchemy toward practical chemical manufacture, demonstrating how alchemical methods could generate economically significant innovations. His work influenced the emergence of chemical manufacturing in early modern Europe and contributed to the transformation of alchemy into applied chemistry.</p>",
       "source_method": "SCHOLARSHIP_BASED",
       "review_status": "DRAFT",
@@ -1129,8 +1077,8 @@
       "id": 141,
       "slug": "nicholas-flamel",
       "name": "Nicholas Flamel",
-      "role_primary": "SCHOLAR",
-      "era": "MODERN",
+      "role_primary": "ALCHEMIST",
+      "era": "MEDIEVAL",
       "bio_html": "<p>Nicholas Flamel (c. 1330–1418), a Parisian scribe and alleged alchemist, became one of the most famous figures in medieval and Renaissance alchemy through a combination of genuine historical records and elaborate legend. The historical Flamel was a successful merchant and book dealer who became wealthy and was known for philanthropic activities in Paris. The legendary Flamel—through the elaborate pseudo-biography composed by later alchemists—became famous as the discoverer of the Philosopher's Stone and the secret of transmutation. Whether Flamel engaged in actual alchemical work remains historically uncertain; modern scholarship emphasizes the legendary dimensions of his reputation. Nevertheless, his name became synonymous with alchemical success, and later alchemists attributed to him sophisticated philosophical texts claiming to detail the transmutational procedures. Flamel's example demonstrates how historical and legendary dimensions of alchemy became intertwined in early modern thought.</p>",
       "source_method": "SCHOLARSHIP_BASED",
       "review_status": "DRAFT",
@@ -1142,8 +1090,8 @@
       "id": 142,
       "slug": "hunayn-ibn-ishaq",
       "name": "Hunayn ibn Ishaq",
-      "role_primary": "SCHOLAR",
-      "era": "MODERN",
+      "role_primary": "TRANSLATOR",
+      "era": "MEDIEVAL",
       "bio_html": "<p>Hunayn ibn Ishaq (809–873), known to medieval Europeans as Johannitius, was a preeminent Nestorian Christian physician and scholar whose comprehensive syntheses of Greek medical knowledge with Islamic pharmaceutical practice profoundly influenced both Islamic and European medicine. Working primarily in Baghdad during the height of the Abbasid Caliphate, Hunayn engaged extensively with alchemical and pharmaceutical literature, producing systematic treatises on compound medicines and chemical pharmacy. His most influential work, the <em>Ten Treatises on Ophthalmology</em>, demonstrated the application of chemical knowledge to medical practice, while his <em>Book of the Ten Treatises on Medicine</em> integrated pharmaceutical alchemy into medical education. Hunayn's emphasis on empirical verification and careful observation of material properties elevated the status of pharmaceutical chemistry within medicine. His works were translated into Arabic, Persian, Hebrew, and later Latin, becoming foundational authorities for medical education across Islamic lands and medieval Europe.</p>",
       "source_method": "SCHOLARSHIP_BASED",
       "review_status": "DRAFT",
@@ -1152,24 +1100,11 @@
       "concept_tags": []
     },
     {
-      "id": 143,
-      "slug": "stephen-of-alexandria",
-      "name": "Stephanus of Alexandria",
-      "role_primary": "SCHOLAR",
-      "era": "MODERN",
-      "bio_html": "<p>Stephanus of Alexandria (fl. c. 610–640) was a late antique alchemist and natural philosopher whose treatises represent the transition from Zosimosian alchemy to Islamic and Byzantine traditions. Working in Alexandria during the tumultuous period of Persian and Arab invasions, Stephanus documented chemical operations and theoretical frameworks that would influence both Byzantine and Islamic alchemy. His surviving works demonstrate engagement with Zosimos's texts and the broader Hermetic and Neoplatonic philosophical frameworks. Stephanus emphasized the physical reality of alchemical operations while integrating them within mystical and cosmological systems. His work represents a crucial moment in the transmission of alchemy from late antique Alexandria to the medieval Islamic world, bridging the gap between [LINK:zosimos-of-panopolis] and [LINK:jabir-ibn-hayyan].</p>",
-      "source_method": "SCHOLARSHIP_BASED",
-      "review_status": "DRAFT",
-      "confidence": "MEDIUM",
-      "created_at": "2026-06-14 10:55:47",
-      "concept_tags": []
-    },
-    {
       "id": 144,
       "slug": "thaddeus-the-physician",
       "name": "Thaddeus the Physician",
-      "role_primary": "SCHOLAR",
-      "era": "MODERN",
+      "role_primary": "PHYSICIAN",
+      "era": "MEDIEVAL",
       "bio_html": "<p>Thaddeus of Bologna (c. 1100–1165) was a medieval Italian physician whose integration of Islamic alchemical and pharmaceutical knowledge into European medical practice helped establish the legitimacy of chemical pharmacy within university medicine. Working at the University of Bologna during the period of intense translation and transmission of Islamic medical texts, Thaddeus engaged with pharmaceutical alchemy and chemical preparation of medicines. His medical treatises incorporate discussion of distillation, sublimation, and chemical refinement of medicinal substances, demonstrating how Islamic operational alchemy was being absorbed into European medical education. Thaddeus represents the crucial moment when pharmaceutical alchemy became embedded in university curricula and recognized as an essential component of medical knowledge.</p>",
       "source_method": "SCHOLARSHIP_BASED",
       "review_status": "DRAFT",
@@ -6420,7 +6355,7 @@
       "location_slug": "alexandria",
       "description": "Zosimos of Panopolis (c. 250–c. 420) documents his alchemical operations with unprecedented technical precision, describing distillation apparatus, heating procedures, and chemical transformations. Hi",
       "persons_involved": [
-        "zosimos-panopolis"
+        "zosimos-of-panopolis"
       ],
       "texts_involved": [],
       "concepts_involved": [
@@ -6473,7 +6408,7 @@
       "location_slug": "toledo",
       "description": "In multicultural Toledo, where Christian, Jewish, and Muslim scholars collaborate in translation, Gerard of Cremona translates Jabir's alchemical treatises (including the Summa Perfectionis) and al-Ra",
       "persons_involved": [
-        "gerard-cremona",
+        "gerard-of-cremona",
         "jabir-ibn-hayyan",
         "al-razi"
       ],
@@ -8317,7 +8252,7 @@
       "location_slug": "alexandria",
       "description": "Life and work of Muhammad al-Razi. Author of Kitab al-Asrar (Book of Secrets); developed systematic laboratory manual",
       "persons_involved": [
-        "muhammad-al-razi"
+        "al-razi"
       ],
       "texts_involved": [],
       "concepts_involved": [],
@@ -18511,6 +18446,7 @@
         "event_zosimos_002",
         "event_late_antique_egypt_syria_008",
         "event_late_antique_egypt_syria_009",
+        "zosimos-of-panopolis-writes-foundational-alchemica",
         "stephanus-of-alexandria-documents-chemical-operati",
         "event_zosimos-of-panopolis_biography"
       ],
@@ -18545,6 +18481,7 @@
         "event_al_razi_ray_001",
         "event_al_razi_pharmacy_001",
         "gerard-of-cremona-translates-jabirs-works-into-lat",
+        "event_muhammad-al-razi_biography",
         "event_medieval_universities_001"
       ],
       "al-kindi": [
@@ -18581,16 +18518,11 @@
         "event_medieval_latin_monasteries_004",
         "event_medieval_islam_baghdad_persia_014",
         "event_medieval_islam_baghdad_persia_019",
+        "gerard-of-cremona-translates-jabirs-works-into-lat",
         "event_gerard-of-cremona_biography",
         "event_toledo_translation_001",
         "event_medieval_universities_004",
         "event_gerard_toledo_001"
-      ],
-      "zosimos-panopolis": [
-        "zosimos-of-panopolis-writes-foundational-alchemica"
-      ],
-      "gerard-cremona": [
-        "gerard-of-cremona-translates-jabirs-works-into-lat"
       ],
       "albertus-magnus": [
         "albertus-magnus-integrates-alchemical-knowledge-in",
@@ -18631,9 +18563,6 @@
       ],
       "hunayn-ibn-ishaq": [
         "hunayn-ibn-ishaq-synthesizes-greek-medicine-with-i"
-      ],
-      "muhammad-al-razi": [
-        "event_muhammad-al-razi_biography"
       ],
       "muhammad-ibn-umail": [
         "event_muhammad-ibn-umail_biography"
