@@ -1,7 +1,7 @@
 # ALCHEMYTIMELINEMAP Phase Status
 
-**Updated:** 2026-06-29 (Continued Ambix ingestion: Biringuccio + Lazarus Ercker metallurgists, Kleopatra the Alchemist, Olympiodoros of Alexandria, Heliodoros Byzantine alchemical poems)
-**Current Phase:** PHASE 3A (✅ IN PROGRESS) — 120 PERSONS, 80 TEXTS, 44 CONCEPTS, 671 EVENTS
+**Updated:** 2026-06-29 (Continued Ambix ingestion: Guido de Montanor, Scala philosophorum, Ouroboros concept, Vegetable Stone, Practical Exegesis, Decknamen — 6 new entries from Rampling 2008, Sheppard 1962, Rampling 2014)
+**Current Phase:** PHASE 3A (✅ IN PROGRESS) — 121 PERSONS, 81 TEXTS, 48 CONCEPTS, 671 EVENTS
 
 ---
 

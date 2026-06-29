@@ -5,7 +5,7 @@
     "mapped_events": 671,
     "unmapped_events": 0,
     "validation_passed": true,
-    "generated": "2026-06-29T13:52:31.938231"
+    "generated": "2026-06-29T14:04:37.695000"
   },
   "persons": [
     {
@@ -1593,6 +1593,19 @@
       "confidence": "MEDIUM",
       "created_at": "2026-06-29 20:52:26",
       "concept_tags": []
+    },
+    {
+      "id": 181,
+      "slug": "guido-de-montanor",
+      "name": "Guido de Montanor",
+      "role_primary": "SCHOLAR",
+      "era": "MODERN",
+      "bio_html": "<p>Guido de Montanor (fl. ca. 15th century) was a medieval alchemical authority — one of the most obscure yet influential figures in the Latin alchemical tradition — whose work formed the primary structural and doctrinal source for George Ripley's <em>Compound of Alchymy</em> (1471), the most celebrated English alchemical poem. Jennifer M. Rampling, in <em>Ambix</em> (2008), describes Guido as 'one of the most elusive of alchemical authorities, of whom virtually nothing is known, from the country of his birth to the century in which he was born.' His name — sometimes given as Guidonis Magni de Monte — was noted in a single papal letter of 1458-1459 involving Ripley, and he may well have been roughly contemporaneous with the English Canon, although a marginal note in a 1588 manuscript states only that 'Guido erat coetaneus Riplaii' (Guido was a contemporary of Ripley). Ripley himself, citing him in both the <em>Compound</em> and the <em>Medulla Alchimiae</em>, described Guido as 'a philosopher of Greece,' while Michael Maier (1568–1622), writing in the <em>Symbola aurae mensae</em> (1617), concluded he was 'without doubt a Frenchman,' and Condeesyanus's 1625 edition of his <em>De arte chymica</em> took the same view.</p><p>The works attributed to Guido include the <em>Scala philosophorum</em> (Ladder of the Philosophers), also known as the <em>Scalae Sapientiae</em> or the 'Twelve Steps,' which Rampling demonstrates was the immediate source for Ripley's 'Twelve Gates'; the <em>Notabilia Guidonis Montaynor</em> (British Library MS Sloane 3744), a collection of extracts; and the <em>De arte chymica</em>, a longer work of which only fragments survived until Hermann Condeesyanus printed a version in the <em>Harmoniae imperscrutabilis Chymico-Philosophicae</em> (Frankfurt, 1625). A German-language text, <em>Thesaurus chymiatricus, oder lange verborgener Schatz der Chymie</em> (Halle, 1623), attributed to Guido Magni de Monte, may represent a translation of a lost practica. The manuscripts of Guido's works circulated in England during the second half of the fifteenth century alongside pseudo-Lullian alchemical compendia, and were annotated by scholars including John Dee (who owned Oxford, Corpus Christi College MS 136, a compendium containing Guido's recipes). Despite his enormous influence on Ripley — and through Ripley on the entire English alchemical tradition — Guido's reputation was thoroughly eclipsed by that of his most famous reader, and it was only through Rampling's close analysis of manuscript relationships that the structural debt of the 'Twelve Gates' to the twelve <em>grados</em> of the <em>Scala philosophorum</em> was established.</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "MEDIUM",
+      "created_at": "2026-06-29 20:56:55",
+      "concept_tags": []
     }
   ],
   "texts": [
@@ -2875,6 +2888,22 @@
       "confidence": "HIGH",
       "created_at": "2026-06-29 20:42:30",
       "concept_tags": []
+    },
+    {
+      "id": 106,
+      "slug": "scala-philosophorum",
+      "title": "Scala philosophorum (Ladder of the Philosophers)",
+      "text_type": "TREATISE",
+      "original_language": null,
+      "composition_date": "ca. 15th century (first print: 1550)",
+      "composition_year_start": null,
+      "composition_year_end": null,
+      "analysis_html": "<p>The <em>Scala philosophorum</em> (Ladder of the Philosophers), also transmitted under the titles <em>Scalae Sapientiae</em> (Twelve Steps) and attributed at various times to Ramon Lull ('Raymundi Lulli Scala Sapientiae') or anonymously, is a Latin alchemical treatise divided into twelve <em>grados</em> (steps) whose structure and doctrine formed the direct source for George Ripley's <em>Compound of Alchymy</em> (1471), the most celebrated English alchemical poem. Jennifer M. Rampling, in her foundational study in <em>Ambix</em> (2008), demonstrates that the twelve 'gates' of Ripley's Compound — from Calcination through to Projection — correspond exactly to the twelve steps of the <em>Scala</em>, and that Ripley 'translated chunks of his exemplar's Latin prose more or less directly into Middle English verse, struggling at times to tailor his text to the straitjacket of rhyme royal.' Ripley attributed the <em>Scala</em> to <a href=\"../persons/guido-de-montanor.html\">Guido de Montanor</a>, and this attribution was subsequently confirmed by Michael Maier in the <em>Symbola aurae mensae</em> (1617), though the connection between Guido and the Scala had previously gone unnoticed because manuscript copies of the text are either anonymous or attributed to Lull.</p><p>The <em>Scala philosophorum</em> opens with a lengthy preface quoting chapter 64 of the pseudo-Lullian <em>Testamentum</em> in full (beginning 'Ut dicit venerabilis Raymundus Lulii'), which explains why many manuscript copies were falsely attributed to Lull; Ripley did not use this Lullian preface, turning directly to the main body of twelve alchemical steps. The work treats, in sequence, all twelve standard operations of medieval Latin alchemy — calcination, dissolution, separation, conjunction, putrefaction, congelation, cibation, sublimation, fermentation, exaltation, multiplication, and projection — using the framework of sulphur-mercury theory, the four elements and their qualities, and the concept of philosophical mercury as the universal medium of transmutation. The fermentation doctrine of the <em>Scala</em> differed significantly from pseudo-Lullian teaching (which required gold or silver as ferment), and Rampling shows that Ripley's handling of this doctrinal tension — ultimately following Raymond over Guido on fermentation, while following the Scala's structure for everything else — is one of the key features of the <em>Compound</em>'s intellectual originality.</p><p>The <em>Scala philosophorum</em> was first printed anonymously in 1550 (<em>De Alchimia opuscula</em>, Frankfurt) and again in 1610 (<em>Artis Avriferae</em>, Basel, vol. II), and was incorporated in full into Johann Daniel Mylius's <em>Philosophia reformata</em> (Frankfurt, 1622), where it appears as Liber I, Pars IV, accompanied by a famous sequence of engravings depicting the twelve alchemical processes. The earliest surviving manuscript copy known to Rampling is Cambridge, Trinity College MS O.8.9; the full unabridged text also survives in three manuscripts at the Bibliotheca Universitaria di Bologna. The work was edited with attribution to Guido in Jean-Jacques Manget's <em>Bibliotheca chemica curiosa</em> (Geneva, 1702), vol. II, p.134.</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "created_at": "2026-06-29 20:56:55",
+      "concept_tags": []
     }
   ],
   "concepts": [
@@ -3449,6 +3478,58 @@
       "review_status": "DRAFT",
       "confidence": "HIGH",
       "created_at": "2026-06-29 14:52:22"
+    },
+    {
+      "id": 77,
+      "slug": "ouroboros",
+      "label": "Ouroboros",
+      "category_type": "ACTOR_TERM",
+      "definition_short": null,
+      "definition_long": "<p>The Ouroboros (from Greek oura, 'tail' + boros, 'devouring') — a serpent or dragon depicted in the act of devouring its own tail — is one of the most ancient and widespread symbols in Greek and later European alchemy, where it principally signified the unity of matter, the cyclic and endless character of the alchemical work, and the capacity of matter to transform and regenerate itself. In the alchemical context the Ouroboros carried the inscription <em>hen to pan</em> (One is the All), tracing the principle of unity-in-diversity from the pre-Socratic philosopher Xenophanes of Colophon (ca. 570–460 BCE) through Stoic natural philosophy and Gnostic cosmology into the practical-mystical framework of Hellenistic alchemy. H. J. Sheppard, in <em>Ambix</em> (1962), traces the symbol's origin from ancient Egyptian cosmogony — the Pyramid Texts of the 6th Dynasty (ca. 2350–2250 BCE) depict a 'Provider of Attributes serpent with its many coils' as the creative spirit giving essence to all things — and follows it through Babylonian astrology (draco caelestis, the celestial dragon of the Chaldaeans), Gnostic serpent symbolism (particularly the Ophite and Valentinian sects), and apocryphal Christian texts before it appears in the alchemical tradition.</p><p>The earliest alchemical occurrence of the Ouroboros appears in the <a href=\"../texts/physika-kai-mystika.html\">Chrysopoeia (Gold-Making) of Kleopatra</a> (ca. 3rd–4th century CE), preserved in the Greek alchemical manuscript Marcianus 299 (folio 188v), where a simple serpent-devouring-its-tail figure bears the inscription <em>hen to pan</em> in its centre. A more elaborate version in the same manuscript consists of three concentric circles enclosing the planetary symbols for gold, silver, and mercury, with the outer ring bearing the inscription 'One is All and through it is All, and to it All, and if it has not All, All is nothing' and the inner ring 'One is the Serpent having its venom according to two compositions' — the 'two compositions' referring to the sulphur-mercury duality of alchemical theory. In the <a href=\"../persons/zosimos-of-panopolis.html\">Visions of Zosimos of Panopolis</a> (ca. 300 CE), the Ouroboros symbolizes the sacrificial and regenerative dimension of the alchemical work: a priest undergoes death, dismemberment, and transformation into spirit (pneuma), in an exact parallel with the self-devouring serpent, which C. G. Jung analyzed as representing the unity of the prima and ultima materia in alchemy. In later Latin and vernacular alchemy the Ouroboros image was also assimilated to the Green Dragon or 'Green Lion' and to the killing and revivification of metals in the alchemical opus, as in the sixth parable of the <em>Splendor Solis</em> and Michael Maier's <em>Atalanta Fugiens</em> (1617). Sheppard, in <em>Ambix</em> (1957), argues that the Gnostic serpent symbolism — particularly the Ophites' identification of the serpent with Christ, the principle of pneuma, and the circle of outer darkness surrounding the world (Pistis Sophia) — was directly adopted by alchemists working in Hellenistic Alexandria, producing the characteristically dual, simultaneously material and spiritual, quality of alchemical symbolism that pervades Western alchemy through the Renaissance and beyond.</p>",
+      "operation_type": null,
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "created_at": "2026-06-29 21:00:22"
+    },
+    {
+      "id": 78,
+      "slug": "vegetable-stone",
+      "label": "Vegetable Stone",
+      "category_type": "ACTOR_TERM",
+      "definition_short": null,
+      "definition_long": "<p>The vegetable stone (<em>lapis vegetabilis</em>) is a category of alchemical elixir, distinct from the transmutational mineral stone and the animal stone, that predominates in the English pseudo-Lullian alchemical tradition from the fifteenth century through the seventeenth century. Jennifer M. Rampling, in <em>Osiris</em> (2014), identifies the vegetable stone as a medicinal elixir that 'does not contain toxic corrosives' and was thought capable of curing sickness and prolonging human life; unlike the mineral stone, which aimed at the transmutation of base metals into gold, the vegetable stone operated through 'vegetable' solvents — principally distilled wine, vinegar, and tartar — rather than mineral acids. The three-stone framework (mineral, vegetable, animal) derives from the pseudo-Aristotelian <em>Secretum secretorum</em> and recurs in the pseudo-Lullian <em>Epistola accurtationis</em>; it formed the structural framework of <a href=\"../persons/george-ripley.html\">George Ripley</a>'s <em>Medulla alchimiae</em> (1476), in which three separate chapters describe the preparation of each stone from its respective starting materials.</p><p>In Ripley's system, the vegetable stone was made from 'sericon' — a Deckname for calcined red lead (minium) — dissolved in distilled wine vinegar to form lead acetate, which was then distilled to yield an extremely volatile 'stinking menstruum' (<em>menstruum foetens</em>). Rampling traces how the identity of sericon — and thus the practical basis of the vegetable stone — was repeatedly reinterpreted by successive generations of English alchemists: Elizabethan practitioners including Clement Draper and Thomas Potter substituted copper and other metallic bodies; from the mid-sixteenth century, antimony increasingly displaced lead as the preferred prime matter for sericonian vegetable stone recipes, a transformation driven by the Paracelsian pharmacological interest in antimony preparations; and by the seventeenth century, George Starkey (writing as Eirenaeus Philalethes) developed an explicitly antimonial approach that eclipsed the original lead-based method. This trajectory exemplifies Rampling's concept of 'practical exegesis': the feedback loop by which practitioners maintained the authority of past adepts while adapting their actual practice to new materials. The term 'vegetable stone' continued in circulation in English alchemical writing well into the seventeenth century; it appears in the works of Samuel Norton (d. 1604), Elias Ashmole (1617–1692), and the printed Ripley corpus published by Ludwig Combach in 1649.</p>",
+      "operation_type": null,
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "created_at": "2026-06-29 21:04:32"
+    },
+    {
+      "id": 79,
+      "slug": "practical-exegesis",
+      "label": "Practical Exegesis",
+      "category_type": "ANALYST_TERM",
+      "definition_short": null,
+      "definition_long": "<p>Practical exegesis is a historiographical concept introduced by Jennifer M. Rampling in her study 'Transmuting Sericon: Alchemy as Practical Exegesis in Early Modern England' (<em>Osiris</em> 29:1, 2014) to describe the 'feedback loop' by which early modern alchemical practitioners reinterpreted the inherited textual tradition in light of their own experimental findings, then fed those findings back into the authoritative texts through glossing, annotation, transcription, and copying. Rampling defines it as 'a kind of practical exegesis, in which specific processes and products have been reinterpreted to accommodate such considerations as availability of materials and compatibility with the practitioner's own empirical observations.' The resulting process was not merely passive transmission but active reinterpretation: practitioners modified recipes to fit practical findings, reframed practices to fit established tropes, and reidentified cover names (Decknamen) to match new materials — all while maintaining the outward appearance of fidelity to their predecessors.</p><p>The paradigm case Rampling traces is the history of sericon, a Deckname (cover name) in the English pseudo-Lullian tradition: originally denoting calcined red lead in <a href=\"../persons/george-ripley.html\">George Ripley</a>'s <em>Medulla alchimiae</em> (1476), sericon was progressively reinterpreted as copper, antimony, and other metallic bodies by successive generations of readers, each of whom found the authoritative language compatible with their own preferred materials. The retention of authoritative language — the same Decknamen, the same textual citations — served to mask these practical interventions, making practical exegesis an invisible yet historically significant driver of change in alchemical practice over two centuries. Rampling situates this concept within the broader problem of reading alchemical texts across time: since many texts were printed long after their 'life cycle' began, modern readings may unwittingly be shaped by sixteenth- or seventeenth-century glossators who had already reinterpreted the original meaning.</p>",
+      "operation_type": null,
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "created_at": "2026-06-29 21:04:32"
+    },
+    {
+      "id": 80,
+      "slug": "decknamen",
+      "label": "Decknamen (Cover Names)",
+      "category_type": "ANALYST_TERM",
+      "definition_short": null,
+      "definition_long": "<p>Decknamen (singular Deckname; from German, 'cover names') is a scholarly term for the encoded or pseudonymous names systematically used by alchemical writers to disguise the true identity of the materials, substances, and processes described in their texts. The term was introduced into the modern history of alchemy principally by William R. Newman, who discussed it in detail in his article 'Decknamen or Pseudochemical Language? Eirenaeus Philalethes and Carl Jung' (<em>Revue d'Histoire des Sciences</em> 49, 1996). Newman showed that alchemy's apparent obscurity often reflects a deliberate system of cover names rather than mystical allegory: substances like 'sericon,' 'green lion,' 'adrop,' 'red lion,' 'vitriol,' and 'venus' referred consistently (if not always uniformly) to identifiable chemical materials, and that unpacking these Decknamen makes it possible to reconstruct actual alchemical procedures from seemingly impenetrable texts.</p><p>Jennifer M. Rampling, in <em>Osiris</em> (2014), extends Newman's concept by showing that Decknamen were not static referents but were themselves subject to reinterpretation over time through the process of 'practical exegesis': the same term — such as sericon in the Ripley tradition — could shift from denoting red lead in a 15th-century manuscript to denoting antimony in a 17th-century printed edition, as successive readers glossed and adapted texts in light of their own practical experience and contemporary chemical fashions. The resulting 'uncoupling' of textual accounts from their original traditions means that the printed versions of alchemical texts most accessible to modern scholars may represent substantially reinterpreted versions of the original material. Decknamen are thus both an obstacle to historical interpretation (requiring unpacking before procedures can be identified) and an index of change in alchemical practice over time (since shifts in their meaning mark points where practitioners diverged from their sources). The scholarly method of decoding Decknamen through comparative analysis of manuscripts, laboratory reconstruction, and early modern lexicons (such as Martin Ruland's <em>Lexicon Alchemiae</em>, Frankfurt, 1612) has been central to the revival of serious laboratory-history approaches to alchemy since the 1980s.</p>",
+      "operation_type": null,
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "created_at": "2026-06-29 21:04:32"
     }
   ],
   "locations": [
