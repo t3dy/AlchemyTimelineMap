@@ -1,11 +1,11 @@
 {
   "meta": {
-    "total_events": 602,
-    "total_locations": 62,
-    "mapped_events": 602,
+    "total_events": 609,
+    "total_locations": 63,
+    "mapped_events": 609,
     "unmapped_events": 0,
     "validation_passed": true,
-    "generated": "2026-06-29T08:19:20.327329"
+    "generated": "2026-06-29T08:25:00.166748"
   },
   "persons": [
     {
@@ -2133,6 +2133,22 @@
       "confidence": "HIGH",
       "created_at": "2026-06-29 14:52:26",
       "concept_tags": []
+    },
+    {
+      "id": 79,
+      "slug": "pirotechnia",
+      "title": "De la Pirotechnia",
+      "text_type": "TREATISE",
+      "original_language": null,
+      "composition_date": "1540",
+      "composition_year_start": null,
+      "composition_year_end": null,
+      "analysis_html": "<p><em>De la Pirotechnia</em> (1540) by Vannoccio Biringuccio (1480–1539) is the earliest systematic printed work on metallurgy and technical chemistry, published posthumously in Venice by Curtio Navo under the auspices of the Pope, the Holy Roman Emperor, and the Venetian Senate. Erwin F. Lange, in his study of alchemy and sixteenth-century metallurgists in <em>Ambix</em> (1966), identifies the <em>Pirotechnia</em> as the foundational text of a distinct tradition of practical, observation-based metallurgical writing that developed alongside and in contrast to the allegorical, secretive style of the alchemical literature of the same period.</p><p><strong>Content and Theory.</strong> Biringuccio's treatise covers the identification and assaying of ores; the smelting, refining, and alloying of gold, silver, copper, lead, tin, iron, mercury, and antimony; the preparation of mineral acids, saltpetre, and gunpowder; and technological processes of distillation, bell-casting, and wire-drawing. The treatment is notable for its freedom from the mystical and symbolic vocabulary of alchemy: Biringuccio describes operations in terms of observable phenomena and practical outcomes, not in the veiled allegorical language characteristic of the alchemical tradition. Lange notes that while the <em>Pirotechnia</em> uses Aristotelian theoretical categories — as expected for the period — its orientation is fundamentally empirical and technological rather than speculative or transformative in the alchemical sense.</p><p><strong>Composition and Textual Tradition.</strong> Biringuccio died in 1539 before the work appeared. It was published in 1540 in Venice and subsequently issued in Italian, French, and English editions; the first satisfactory English translation was produced by Cyril Stanley Smith and Martha Teach Gnudi for the American Institute of Mining and Metallurgical Engineers (1942; reprinted 1959). The <em>Pirotechnia</em> appeared the same year as the first edition of Vesalius's <em>De Humani Corporis Fabrica</em> and three years before Copernicus's <em>De Revolutionibus</em>, situating it within a broader sixteenth-century transformation of empirical knowledge in the natural sciences. Pamela H. Smith, in <em>The Body of the Artisan</em> (2004), situates texts like the <em>Pirotechnia</em> within the broader category of artisanal epistemology — the claim that hands-on craft experience generates reliable natural knowledge distinct from, and potentially superior to, purely theoretical learning.</p><p><strong>Modern Scholarship.</strong> Lange's analysis in <em>Ambix</em> (1966) situates the <em>Pirotechnia</em> within a sixteenth-century group of metallurgical writers — including Lazarus Ercker and Georg Agricola — whose critical engagement with alchemical claims contributed to the gradual differentiation of practical chemistry from transmutational alchemy over the course of the sixteenth and seventeenth centuries.</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "created_at": "2026-06-29 15:24:56",
+      "concept_tags": []
     }
   ],
   "concepts": [
@@ -3327,6 +3343,16 @@
       "longitude": 54.3,
       "region": "Islamic Middle East",
       "modern_name": null,
+      "alchemical_significance": null,
+      "key_periods": null
+    },
+    {
+      "slug": "edinburgh",
+      "place_name": "Edinburgh (Stirling)",
+      "latitude": 55.9533,
+      "longitude": -3.1883,
+      "region": "Scotland",
+      "modern_name": "Edinburgh, Scotland",
       "alchemical_significance": null,
       "key_periods": null
     }
@@ -11537,6 +11563,33 @@
       "summary": "c. 1408, Bruges: Intellectual networks connecting Bruges to Italy brought renewed interest in the philosophical frameworks of Pico della Mirandola, whose synthesis of Cabala, Neoplatonism, and alchemi"
     },
     {
+      "id": 608,
+      "slug": "english-statute-against-multiplication-of-metals",
+      "date_label": "1404 CE",
+      "date_start_year": 1404,
+      "date_end_year": null,
+      "location_slug": "london",
+      "description": "The English Parliament under Henry IV enacted the Statute of 1403–4 (5 Hen. 4), which declared that 'none from henceforth shall use to multiply Gold or Silver, nor use the Craft of Multiplication: And",
+      "persons_involved": [
+        "isaac-newton",
+        "robert-boyle"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "chymistry"
+      ],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH",
+      "created_at": "2026-06-29 15:24:56",
+      "scholarly_grounding": "D. Geoghegan documented the statute and its consequences in 'A Licence of Henry VI to Practise Alchemy' in Ambix vol. 6 (1957) pp.10-17.",
+      "place_name": "London",
+      "region": "England",
+      "era": "EARLY_MODERN",
+      "summary": "The English Parliament under Henry IV enacted the Statute of 1403–4 (5 Hen. 4), which declared that 'none from henceforth shall use to multiply Gold or Silver, nor use the Craft of Multiplication: And"
+    },
+    {
       "id": 204,
       "slug": "event_medieval_universities_018",
       "date_label": "c. 1416 CE",
@@ -11988,6 +12041,29 @@
       "region": "Low Countries",
       "era": "EARLY_MODERN",
       "summary": "c. 1456, Bruges: By mid-century, Bruges had established stable scribal networks producing copies of alchemical texts for an expanding reading public of merchants, clerics, and educated amateurs. The s"
+    },
+    {
+      "id": 609,
+      "slug": "henry-vi-grants-royal-alchemy-licenses",
+      "date_label": "ca. 1452–1456 CE",
+      "date_start_year": 1453,
+      "date_end_year": null,
+      "location_slug": "london",
+      "description": "Despite the 1404 statute making alchemical multiplication a felony without royal license, Henry VI granted Letters Patent to John Fauceby, John Kyrkeby, and John Rayny, permitting them to practice alc",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation"
+      ],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH",
+      "created_at": "2026-06-29 15:24:56",
+      "scholarly_grounding": "D. Geoghegan analyzed this document (MS. Museum 84, Museum of the History of Science, Oxford) in 'A Licence of Henry VI to Practise Alchemy' in Ambix vol. 6 (1957) pp.10-17.",
+      "place_name": "London",
+      "region": "England",
+      "era": "EARLY_MODERN",
+      "summary": "Despite the 1404 statute making alchemical multiplication a felony without royal license, Henry VI granted Letters Patent to John Fauceby, John Kyrkeby, and John Rayny, permitting them to practice alc"
     },
     {
       "id": 208,
@@ -12658,6 +12734,30 @@
       "summary": "c. 1504, Bruges: Bruges entered the 16th century with an established tradition of alchemical scholarship and practice, though commercial and political dominance increasingly accrued to Antwerp. Practi"
     },
     {
+      "id": 610,
+      "slug": "john-damian-establishes-alchemical-laboratory-at-s",
+      "date_label": "ca. 1501–1513 CE",
+      "date_start_year": 1502,
+      "date_end_year": null,
+      "location_slug": "edinburgh",
+      "description": "John Damian, a French or Italian physician and alchemist attracted to the Scottish court of James IV, established an alchemical laboratory at Stirling Castle under active royal patronage. John Read, i",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "philosophers-stone",
+        "quintessence"
+      ],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH",
+      "created_at": "2026-06-29 15:24:56",
+      "scholarly_grounding": "John Read analyzed the Accounts of the Lord High Treasurer of Scotland (1473–1513) in 'Alchemy Under James IV of Scotland' in Ambix vol. 2 no. 2 (1938) pp.60-67.",
+      "place_name": "Edinburgh (Stirling)",
+      "region": "Scotland",
+      "era": "EARLY_MODERN",
+      "summary": "John Damian, a French or Italian physician and alchemist attracted to the Scottish court of James IV, established an alchemical laboratory at Stirling Castle under active royal patronage. John Read, i"
+    },
+    {
       "id": 212,
       "slug": "event_medieval_universities_026",
       "date_label": "c. 1512 CE",
@@ -12809,6 +12909,29 @@
       "region": "Italy",
       "era": "EARLY_MODERN",
       "summary": "c. 1508, Florence: The Florentine artist and natural philosopher Leonardo da Vinci engages seriously with alchemical theory and practice, recording detailed observations on distillation, mineral trans"
+    },
+    {
+      "id": 611,
+      "slug": "john-damian-appointed-abbot-of-tungland",
+      "date_label": "1504 CE",
+      "date_start_year": 1504,
+      "date_end_year": null,
+      "location_slug": "edinburgh",
+      "description": "In March 1503–4, the Accounts of the Lord High Treasurer of Scotland record that James IV appointed his court alchemist John Damian as Abbot of Tungland in Galloway, explicitly to provide him with an",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "practical-alchemy"
+      ],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH",
+      "created_at": "2026-06-29 15:24:56",
+      "scholarly_grounding": "John Read documented this appointment from the Accounts of the Lord High Treasurer of Scotland in 'Alchemy Under James IV of Scotland' in Ambix vol. 2 no. 2 (1938) pp.60-67.",
+      "place_name": "Edinburgh (Stirling)",
+      "region": "Scotland",
+      "era": "EARLY_MODERN",
+      "summary": "In March 1503–4, the Accounts of the Lord High Treasurer of Scotland record that James IV appointed his court alchemist John Damian as Abbot of Tungland in Galloway, explicitly to provide him with an"
     },
     {
       "id": 25,
@@ -13861,6 +13984,34 @@
       "summary": "c. 1544, Antwerp: Antwerp's dominance as a center for practical alchemy reached its height during the mid-16th century, with the city hosting practitioners, patrons, and scholars from across Europe. T"
     },
     {
+      "id": 612,
+      "slug": "publication-of-biringuccios-pirotechnia",
+      "date_label": "1540 CE",
+      "date_start_year": 1540,
+      "date_end_year": null,
+      "location_slug": "venice",
+      "description": "Vannoccio Biringuccio's De la Pirotechnia (Venice, 1540), published posthumously by Curtio Navo under auspices of the Pope, the Holy Roman Emperor, and the Venetian Senate, appeared as the first syste",
+      "persons_involved": [
+        "george-agricola"
+      ],
+      "texts_involved": [
+        "pirotechnia"
+      ],
+      "concepts_involved": [
+        "operational-chemistry",
+        "chymistry"
+      ],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH",
+      "created_at": "2026-06-29 15:24:56",
+      "scholarly_grounding": "Erwin F. Lange analyzed the Pirotechnia in 'Alchemy and the Sixteenth Century Metallurgists' in Ambix vol. 13 no. 2 (1966) pp.92-95.",
+      "place_name": "Venice",
+      "region": "Italy",
+      "era": "EARLY_MODERN",
+      "summary": "Vannoccio Biringuccio's De la Pirotechnia (Venice, 1540), published posthumously by Curtio Navo under auspices of the Pope, the Holy Roman Emperor, and the Venetian Senate, appeared as the first syste"
+    },
+    {
       "id": 489,
       "slug": "event_paracelsus_legacy_001",
       "date_label": "c. 1550",
@@ -14234,6 +14385,32 @@
       "region": "Low Countries",
       "era": "EARLY_MODERN",
       "summary": "c. 1560, Antwerp: The mid-16th century confirmed Antwerp's unprecedented dominance in European alchemy, with the city hosting not only practitioners but also a rapidly expanding literature on practica"
+    },
+    {
+      "id": 613,
+      "slug": "publication-of-agricolas-de-re-metallica",
+      "date_label": "1556 CE",
+      "date_start_year": 1556,
+      "date_end_year": null,
+      "location_slug": "basle",
+      "description": "Georg Agricola's De Re Metallica (Basel, 1556), published by Froben shortly after the author's death, constituted the most comprehensive sixteenth-century treatment of mining, assaying, and metallurgi",
+      "persons_involved": [
+        "george-agricola"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "operational-chemistry",
+        "artisanal-epistemology"
+      ],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH",
+      "created_at": "2026-06-29 15:24:56",
+      "scholarly_grounding": "Erwin F. Lange analyzed De Re Metallica within the anti-alchemical metallurgical tradition in 'Alchemy and the Sixteenth Century Metallurgists' in Ambix vol. 13 no. 2 (1966) pp.92-95.",
+      "place_name": "Basle (Basel)",
+      "region": "Switzerland",
+      "era": "EARLY_MODERN",
+      "summary": "Georg Agricola's De Re Metallica (Basel, 1556), published by Froben shortly after the author's death, constituted the most comprehensive sixteenth-century treatment of mining, assaying, and metallurgi"
     },
     {
       "id": 336,
@@ -17617,6 +17794,33 @@
       "summary": "c. 1686 CE, Lisbon: Portuguese natural philosophers and chemists participate in the intellectual networks radiating from the scientific societies and academies of northern Europe. The prestige of expe"
     },
     {
+      "id": 614,
+      "slug": "repeal-of-the-english-statute-against-multiplicati",
+      "date_label": "1689 CE",
+      "date_start_year": 1689,
+      "date_end_year": null,
+      "location_slug": "london",
+      "description": "The English Statute of 5 Henry IV (1403–4), which had made the multiplication of gold and silver a felony without royal license, was formally repealed in 1689. D. Geoghegan, in Ambix (1957), notes tha",
+      "persons_involved": [
+        "robert-boyle",
+        "isaac-newton"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "chymistry",
+        "transmutation"
+      ],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH",
+      "created_at": "2026-06-29 15:24:56",
+      "scholarly_grounding": "D. Geoghegan documented the repeal and Boyle's role in 'A Licence of Henry VI to Practise Alchemy' in Ambix vol. 6 (1957) pp.10-17, citing Newton's letter to Locke of 2 August 1692.",
+      "place_name": "London",
+      "region": "England",
+      "era": "EARLY_MODERN",
+      "summary": "The English Statute of 5 Henry IV (1403–4), which had made the multiplication of gold and silver a felony without royal license, was formally repealed in 1689. D. Geoghegan, in Ambix (1957), notes tha"
+    },
+    {
       "id": 358,
       "slug": "event_early_modern_central_europe_032",
       "date_label": "c. 1692 CE",
@@ -18547,7 +18751,9 @@
       "robert-boyle": [
         "robert-boyle-publishes-the-sceptical-chymist-estab",
         "event_robert-boyle_biography",
-        "event_boyle_chemistry_001"
+        "english-statute-against-multiplication-of-metals",
+        "event_boyle_chemistry_001",
+        "repeal-of-the-english-statute-against-multiplicati"
       ],
       "nicholas-flamel": [
         "nicholas-flamel-begins-career-as-parisian-book-mer",
@@ -18596,7 +18802,9 @@
       ],
       "isaac-newton": [
         "event_isaac-newton_biography",
-        "event_newton_alchemy_001"
+        "english-statute-against-multiplication-of-metals",
+        "event_newton_alchemy_001",
+        "repeal-of-the-english-statute-against-multiplicati"
       ],
       "theosebeia": [
         "event_theosebeia_biography"
@@ -18608,7 +18816,9 @@
         "event_wilhelm-homberg_biography"
       ],
       "george-agricola": [
-        "event_george-agricola_biography"
+        "event_george-agricola_biography",
+        "publication-of-biringuccios-pirotechnia",
+        "publication-of-agricolas-de-re-metallica"
       ],
       "democritus": [
         "event_democritus_biography"
@@ -19190,6 +19400,7 @@
         "event_medieval_universities_029",
         "event_early_modern_england_007",
         "event_early_modern_spain_portugal_007",
+        "publication-of-biringuccios-pirotechnia",
         "event_renaissance_italy_031",
         "event_early_modern_england_008",
         "event_early_modern_spain_portugal_008",
@@ -19197,6 +19408,7 @@
         "event_early_modern_england_009",
         "event_early_modern_spain_portugal_009",
         "event_renaissance_italy_032",
+        "publication-of-agricolas-de-re-metallica",
         "event_early_modern_england_010",
         "event_early_modern_spain_portugal_010",
         "event_renaissance_italy_033",
@@ -19458,12 +19670,14 @@
         "event_renaissance_italy_011",
         "event_renaissance_italy_012",
         "event_renaissance_italy_013",
+        "english-statute-against-multiplication-of-metals",
         "event_renaissance_italy_014",
         "event_renaissance_italy_015",
         "event_renaissance_italy_016",
         "event_renaissance_italy_017",
         "event_renaissance_italy_018",
         "event_renaissance_italy_019",
+        "henry-vi-grants-royal-alchemy-licenses",
         "event_renaissance_italy_020",
         "event_printing_alchemy_001",
         "event_renaissance_italy_021",
@@ -19588,6 +19802,7 @@
         "event_early_modern_central_europe_031",
         "event_early_modern_france_031",
         "event_early_modern_spain_portugal_031",
+        "repeal-of-the-english-statute-against-multiplicati",
         "event_early_modern_central_europe_032",
         "event_early_modern_france_032",
         "event_early_modern_spain_portugal_032",
@@ -19746,6 +19961,7 @@
         "event_renaissance_italy_023",
         "event_renaissance_italy_024",
         "event_renaissance_italy_025",
+        "john-damian-establishes-alchemical-laboratory-at-s",
         "event_renaissance_italy_026",
         "event_renaissance_italy_027",
         "event_renaissance_italy_028",
@@ -19812,6 +20028,11 @@
         "event_renaissance_low_countries_032",
         "event_renaissance_low_countries_033",
         "event_renaissance_low_countries_034"
+      ],
+      "chymistry": [
+        "english-statute-against-multiplication-of-metals",
+        "publication-of-biringuccios-pirotechnia",
+        "repeal-of-the-english-statute-against-multiplicati"
       ],
       "hermeticism": [
         "event_florence_hermeticism_001",
@@ -19912,6 +20133,12 @@
         "event_early_modern_france_033",
         "event_early_modern_france_034"
       ],
+      "philosophers-stone": [
+        "john-damian-establishes-alchemical-laboratory-at-s"
+      ],
+      "practical-alchemy": [
+        "john-damian-appointed-abbot-of-tungland"
+      ],
       "occult-philosophy": [
         "event_agrippa_cologne_001"
       ],
@@ -19928,6 +20155,10 @@
         "rosarium-printing-frankfurt-1550",
         "rosarium-telle-edition-1992"
       ],
+      "artisanal-epistemology": [
+        "publication-of-agricolas-de-re-metallica",
+        "event_making_knowing_001"
+      ],
       "cosmology": [
         "event_bruno_paris_001"
       ],
@@ -19935,9 +20166,6 @@
         "event_tycho_ven_001"
       ],
       "tacit-knowledge": [
-        "event_making_knowing_001"
-      ],
-      "artisanal-epistemology": [
         "event_making_knowing_001"
       ],
       "artisanal-knowledge": [
