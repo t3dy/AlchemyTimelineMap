@@ -1,11 +1,11 @@
 {
   "meta": {
-    "total_events": 669,
+    "total_events": 671,
     "total_locations": 67,
-    "mapped_events": 669,
+    "mapped_events": 671,
     "unmapped_events": 0,
     "validation_passed": true,
-    "generated": "2026-06-29T13:42:43.606730"
+    "generated": "2026-06-29T13:52:31.938231"
   },
   "persons": [
     {
@@ -1540,6 +1540,58 @@
       "review_status": "DRAFT",
       "confidence": "HIGH",
       "created_at": "2026-06-29 20:42:30",
+      "concept_tags": []
+    },
+    {
+      "id": 177,
+      "slug": "vannoccio-biringuccio",
+      "name": "Vannoccio Biringuccio",
+      "role_primary": "SCHOLAR",
+      "era": "MODERN",
+      "bio_html": "<p>Vannoccio Biringuccio (1480–1539) was a Sienese metallurgist, mining engineer, and technical writer whose <em>De la Pirotechnia</em> (Venice, 1540) was the first comprehensive printed treatise on metallurgy and practical chemistry in European history. Born in Siena and closely associated with the Petrucci family that dominated that city's politics, Biringuccio traveled widely in Italy and Germany during his career, visiting mining operations, foundries, and metallurgical installations across Central Europe. He spent his final years in Rome as head of the Papal foundry and munitions works — an appointment that reflected both the practical importance of his knowledge and the growing role of technical expertise in early modern statecraft and warfare.</p><p><em>De la Pirotechnia</em>, published posthumously by Curtio Navo in Venice in 1540 under the auspices of the Pope, the Holy Roman Emperor, and the Venetian Senate, described in unprecedented detail the assaying, reducing, and alloying of metals including gold, silver, copper, lead, tin, iron, mercury, and antimony; the preparation of mineral acids, saltpetre, and gunpowder; and a wide range of metallurgical processes from distillation to bell-casting, wire-drawing, and coin-minting. Erwin F. Lange, in <em>Ambix</em> (1966), identifies Biringuccio as one of the earliest scientific writers to systematically critique the transmutational claims of alchemy on empirical grounds: he devoted twelve pages of the <em>Pirotechnia</em> to the subject, arguing from observation and experiment that he had been 'unable to observe any cases where alchemists became rich because of the practice,' and noting that while alchemy's methods were futile for producing gold, they had yielded valuable results in medicinals, dyestuffs, and other useful substances. This balanced critique — rejecting gold-making while crediting ancillary chemical achievements — anticipates the attitude toward alchemy taken by later chemists including Robert Boyle. The <em>Pirotechnia</em> appeared in Italian, French, and English, with the first reliable English translation by Cyril Stanley Smith and Martha Teach Gnudi published in 1942 and reprinted by Basic Books in 1959.</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "created_at": "2026-06-29 20:45:44",
+      "concept_tags": []
+    },
+    {
+      "id": 178,
+      "slug": "lazarus-ercker",
+      "name": "Lazarus Ercker",
+      "role_primary": "SCHOLAR",
+      "era": "MODERN",
+      "bio_html": "<p>Lazarus Ercker (d. 1593) was a German metallurgist and mining administrator in the service of Rudolf II, Holy Roman Emperor, who served as chief superintendent of the mines in the kingdom of Bohemia and authored the most important sixteenth-century treatise on assaying and ore-testing. Ercker worked alongside Rudolf II's other court scholars and specialists, including the astronomers Tycho Brahe and Johannes Kepler, in the environment of Prague's intellectually cosmopolitan court. Erwin F. Lange, in <em>Ambix</em> (1966), identifies Ercker as the third of the major sixteenth-century metallurgists after Biringuccio and Agricola, and notes that his work 'might well be considered an important forerunner of books dealing with chemical quantitative analysis.' His approach was strictly empirical: Ercker declined to discuss alchemical transmutation beyond dismissing 'the cements used by the philosophers and alchemists to change copper to silver and silver to gold' with the terse observation that he would 'leave them for what they were worth' and deal only with 'processes and procedures which had been thoroughly tested and could be relied upon.'</p><p>His principal work, <em>Beschreibung Allerfürnemsten Mineralischen Erzt-und Bergwerkarten</em> (Description of the Foremost Mineral Ores and Mining Operations), first published in Prague in the German language, went through multiple editions and translations, with an early English translation by Sir John Pettus in 1683 considered unreliable. The modern scholarly translation by Anneliese G. Sisco and Cyril Stanley Smith, published by the University of Chicago Press in 1951 as <em>Lazarus Ercker's Treatise on Ores and Assaying</em>, made Ercker's work accessible to modern scholars. The work is notable for its practical instructions not only in the assaying of gold, silver, copper, and other metals, but also in the construction of precision instruments including the analytical balance — which Ercker described fashioning from a sword blade — and standardized sets of weights, reflecting the early modern concern with quantitative measurement in metallurgical and chemical practice.</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "created_at": "2026-06-29 20:45:44",
+      "concept_tags": []
+    },
+    {
+      "id": 179,
+      "slug": "kleopatra-the-alchemist",
+      "name": "Kleopatra the Alchemist",
+      "role_primary": "SCHOLAR",
+      "era": "MODERN",
+      "bio_html": "<p>Kleopatra the Alchemist (fl. ca. 3rd–4th century CE) was one of the earliest female practitioners identified in the Greek alchemical corpus and the reputed author of the <em>Chrysopoeia of Kleopatra</em> (Gold-Making of Kleopatra) and the <em>Dialogue of Kleopatra and the Philosophers</em>. She should not be confused with the historical Cleopatra VII, queen of Egypt (69–30 BCE); F. Sherwood Taylor, in the founding article of <em>Ambix</em> (1937), identifies her as one of a group of early female alchemists — alongside <a href=\"../persons/maria-the-jewess.html\">Maria the Jewess</a>, Theosebeia the sister of Zosimos, and Paphnutia the Virgin — active in Alexandria and Egypt in the first three centuries of the Common Era.</p><p>The <em>Chrysopoeia of Kleopatra</em> is among the oldest surviving Greek alchemical texts and consists principally of a page of symbolic drawings transmitted in the Greek alchemical manuscript Marcianus 299 and its derivatives. Its central symbols — the Ouroboros (the self-devouring serpent) inscribed with <em>hen to pan</em> (The All is One), and symbols for gold, silver, and mercury — have been the subject of extensive scholarly commentary. The <em>Dialogue of Kleopatra and the Philosophers</em> is a more substantial mystical-alchemical text in which Kleopatra is interrogated by Ostanes and other philosophers about the nature of the sacred art. Taylor identifies this text as among the most important sources for the mystical-regenerative symbolism of Greek alchemy: it describes the 'blessed waters' visiting 'the corpses lying in Hades,' the 'medicine of Life' rousing them from sleep, and the cloud of vapors rising from the sea — imagery that simultaneously describes alchemical distillation and spiritual resurrection. The attribution of the <em>Chrysopoeia</em> and the <em>Dialogue</em> to a single historical author named Kleopatra cannot be verified, but Taylor regards both texts as representative of an early stratum of Greek alchemy that predates Zosimos of Panopolis (fl. ca. 300 CE), to whom they were known. The <em>Chrysopoeia</em> is preserved in the Greek alchemical manuscript tradition edited by Berthelot, <em>Collection des Alchimistes Grecs</em> (Paris, 1888).</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "MEDIUM",
+      "created_at": "2026-06-29 20:52:26",
+      "concept_tags": []
+    },
+    {
+      "id": 180,
+      "slug": "olympiodoros-of-alexandria",
+      "name": "Olympiodoros of Alexandria (Alchemist)",
+      "role_primary": "SCHOLAR",
+      "era": "MODERN",
+      "bio_html": "<p>Olympiodoros of Alexandria (fl. ca. 425 CE) was a Neoplatonist philosopher and commentator on Aristotle who also wrote alchemical works, making him one of the most important transitional figures in the Greek alchemical tradition between Zosimos of Panopolis (fl. ca. 300 CE) and Stephanos of Alexandria (fl. ca. 620 CE). F. Sherwood Taylor, in <em>Ambix</em> (1937), places Olympiodoros among the major authorities on Greek alchemy cited by Stephanos and the later Byzantine commentators, identifying him as the earliest author to quote and systematize the symbolic literature on the 'Egg in the Pyramid' — the alchemical symbolism in which the world-egg, described by Heroies (a legendary source), is equated with the universe and its 'golden hair.' Olympiodoros quotes an impressive range of earlier Greek alchemical authorities including Zosimos, Synesius, and fragments of the lost works of Hermes Trismegistos and Maria the Jewess, making his work a major witness to the early Greek alchemical corpus, much of which is now lost in its original form.</p><p>Olympiodoros should be distinguished from Olympiodoros the Younger (ca. 495–570 CE), a later Neoplatonist commentator on Aristotle who wrote extensive surviving philosophical commentaries. The identification of the alchemical Olympiodoros with either the earlier or later figure of that name has been a matter of scholarly debate. His surviving alchemical writings are preserved in Berthelot's <em>Collection des Alchimistes Grecs</em> (Paris, 1888) and include commentary on Zosimos's <em>On the Letter Omega</em> and a systematic discussion of alchemical symbolism including the planet-metal correspondences and the symbolism of the egg. C. A. Browne, in <em>Ambix</em> (1946), identifies Olympiodoros as a source for Stephanos of Alexandria's nine lectures on the Great and Sacred Art, which were the foundational text of Byzantine alchemy in the 7th century.</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "MEDIUM",
+      "created_at": "2026-06-29 20:52:26",
       "concept_tags": []
     }
   ],
@@ -5363,6 +5415,29 @@
       "region": "Iraq",
       "era": "MEDIEVAL",
       "summary": "c. 724 CE, Baghdad: The philosopher Al-Kindi (al-Kindy), then a rising intellectual at the Abbasid court of Caliph Hisham, begins his inquiries into the nature of matter and causation. Though primaril"
+    },
+    {
+      "id": 676,
+      "slug": "heliodoros-composes-four-byzantine-alchemical-poem",
+      "date_label": "ca. 715–720 CE",
+      "date_start_year": 717,
+      "date_end_year": null,
+      "location_slug": "constantinople",
+      "description": "Around 715–720 CE, a Byzantine author — conventionally identified as Heliodoros by virtue of the four poems' close relationship to his style — composed four alchemical poems attributed to the personae",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [
+        "hermeticism"
+      ],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH",
+      "created_at": "2026-06-29 20:52:26",
+      "scholarly_grounding": "C. A. Browne identifies four Byzantine alchemical poems (attributed to Heliodoros, Theophrastos, Hierotheos, and Archelaos) as a single composition dating to ca. 715-720 CE based on their dedication to Theodosios III (r. 715-717), their close relationship to Stephanos of Alexandria's nine lectures on the Sacred Art, and the unity of authorship demonstrated by Goldschmidt, in 'Rhetorical and Religious Aspects of Greek Alchemy,' Ambix 2:3-4 (1946) pp.129-137. See also E. Goldschmidt, Heliodori Carmina Quattuor (Religionsgeschichtliche Versuche und Vorarbeiten XIX, 2, Giessen, 1923). F. Sherwood Taylor, 'The Origins of Greek Alchemy,' Ambix 1:1 (1937) pp.30-47, identifies Stephanos and Heliodoros as defining the late Greek alchemical tradition.",
+      "place_name": "Constantinople",
+      "region": "Byzantium",
+      "era": "MEDIEVAL",
+      "summary": "Around 715–720 CE, a Byzantine author — conventionally identified as Heliodoros by virtue of the four poems' close relationship to his style — composed four alchemical poems attributed to the personae"
     },
     {
       "id": 74,
@@ -16420,6 +16495,32 @@
       "summary": "On 1 April 1573, Anna Maria Zieglerin (d. 1575), an alchemical practitioner at the court of Duke Julius of Braunschweig-Wolfenbüttel, submitted to the Duke a twenty-page manuscript of alchemical recip"
     },
     {
+      "id": 675,
+      "slug": "lazarus-ercker-publishes-treatise-on-ores-and-assa",
+      "date_label": "ca. 1574 CE",
+      "date_start_year": 1574,
+      "date_end_year": null,
+      "location_slug": "prague",
+      "description": "Around 1574, Lazarus Ercker (d. 1593), chief superintendent of the mines in the kingdom of Bohemia under Holy Roman Emperor Rudolf II, published his Beschreibung Allerfürnemsten Mineralischen Erzt-und",
+      "persons_involved": [
+        "lazarus-ercker"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "chymistry",
+        "practical-alchemy"
+      ],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH",
+      "created_at": "2026-06-29 20:45:44",
+      "scholarly_grounding": "Erwin F. Lange identifies Lazarus Ercker and his Beschreibung Allerfürnemsten Mineralischen Erzt-und Bergwerkarten (Prague, ca. 1574) as the third of the major sixteenth-century metallurgists and their work as representative of an empirical tradition opposed to alchemical transmutation, in 'Alchemy and the Sixteenth Century Metallurgists,' Ambix 13:2 (1966) pp.92-95. See also Anneliese G. Sisco and Cyril Stanley Smith, Lazarus Ercker's Treatise on Ores and Assaying (Chicago: University of Chicago Press, 1951).",
+      "place_name": "Prague",
+      "region": "Bohemia",
+      "era": "EARLY_MODERN",
+      "summary": "Around 1574, Lazarus Ercker (d. 1593), chief superintendent of the mines in the kingdom of Bohemia under Holy Roman Emperor Rudolf II, published his Beschreibung Allerfürnemsten Mineralischen Erzt-und"
+    },
+    {
       "id": 218,
       "slug": "event_medieval_universities_032",
       "date_label": "c. 1584 CE",
@@ -21392,6 +21493,9 @@
         "anna-zieglerin-presents-lions-blood-recipe-to-duke",
         "execution-of-anna-zieglerin-at-wolfenbüttel-for-so"
       ],
+      "lazarus-ercker": [
+        "lazarus-ercker-publishes-treatise-on-ores-and-assa"
+      ],
       "francois-aguilon": [
         "françois-aguilon-sj-conducts-alchemy-experiments-a"
       ],
@@ -21507,6 +21611,7 @@
         "thomas-charnock-composes-breviary-of-natural-philo",
         "thomas-charnock-petitions-elizabeth-i-to-practice-",
         "artis-chemicae-principes-de-anima-in-arte-alchemia",
+        "lazarus-ercker-publishes-treatise-on-ores-and-assa",
         "francisco-peña-publishes-annotated-edition-of-eyme",
         "ralph-rabbards-publishes-first-vernacular-alchemic",
         "françois-aguilon-sj-conducts-alchemy-experiments-a",
@@ -22377,6 +22482,21 @@
         "event_medieval_islam_baghdad_persia_038",
         "event_medieval_islam_baghdad_persia_039"
       ],
+      "hermeticism": [
+        "heliodoros-composes-four-byzantine-alchemical-poem",
+        "event_florence_hermeticism_001",
+        "event_ficino_translation_001",
+        "event_basle_printing_001",
+        "event_pico_florence_001",
+        "event_bruno_paris_001",
+        "event_bruno_london_001",
+        "event_bruno_rome_001",
+        "publication-of-raleighs-history-of-the-world",
+        "publication-of-fama-fraternitatis-at-kassel-first-",
+        "publication-of-confessio-fraternitatis-at-kassel-s",
+        "publication-of-chemical-wedding-of-christian-rosen",
+        "staricius-publishes-first-paracelsian-theological-"
+      ],
       "fermentation": [
         "event_medieval_islam_iberia_000",
         "event_medieval_islam_iberia_001",
@@ -22648,6 +22768,7 @@
         "john-damian-attempts-to-fly-from-stirling-castle-b",
         "publication-of-biringuccios-pirotechnia",
         "anna-zieglerin-presents-lions-blood-recipe-to-duke",
+        "lazarus-ercker-publishes-treatise-on-ores-and-assa",
         "van-helmont-graduates-from-louvain-and-converts-to",
         "martin-del-rio-sj-publishes-disquisitionum-magicar",
         "michael-sendivogius-publishes-novum-lumen-chymicum",
@@ -22666,20 +22787,6 @@
         "vierordt-presents-speculum-sapientiae-manuscript-t",
         "repeal-of-the-english-statute-against-multiplicati",
         "speculum-sapientiae-published-in-quadratum-alchymi"
-      ],
-      "hermeticism": [
-        "event_florence_hermeticism_001",
-        "event_ficino_translation_001",
-        "event_basle_printing_001",
-        "event_pico_florence_001",
-        "event_bruno_paris_001",
-        "event_bruno_london_001",
-        "event_bruno_rome_001",
-        "publication-of-raleighs-history-of-the-world",
-        "publication-of-fama-fraternitatis-at-kassel-first-",
-        "publication-of-confessio-fraternitatis-at-kassel-s",
-        "publication-of-chemical-wedding-of-christian-rosen",
-        "staricius-publishes-first-paracelsian-theological-"
       ],
       "prisca-theologia": [
         "event_florence_hermeticism_001"

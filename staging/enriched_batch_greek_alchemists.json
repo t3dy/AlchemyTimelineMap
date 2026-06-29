@@ -1,0 +1,45 @@
+{
+  "batch_name": "Greek Alchemist Women and Commentators: Kleopatra, Olympiodoros",
+  "created": "2026-06-29",
+  "description": "Person entries for Kleopatra the Alchemist (fl. ca. 3rd-4th century CE) and Olympiodoros of Alexandria (fl. ca. 425 CE), two significant figures in the Greek alchemical tradition. Based on F. Sherwood Taylor, 'The Origins of Greek Alchemy,' Ambix 1:1 (1937) pp.30-47; and C. A. Browne, 'Rhetorical and Religious Aspects of Greek Alchemy,' Ambix 2:3-4 (1946) pp.129-137.",
+  "persons": [
+    {
+      "slug": "kleopatra-the-alchemist",
+      "name": "Kleopatra the Alchemist",
+      "era": "LATE_ANTIQUE",
+      "role": "PRACTITIONER",
+      "bio_html": "<p>Kleopatra the Alchemist (fl. ca. 3rd–4th century CE) was one of the earliest female practitioners identified in the Greek alchemical corpus and the reputed author of the <em>Chrysopoeia of Kleopatra</em> (Gold-Making of Kleopatra) and the <em>Dialogue of Kleopatra and the Philosophers</em>. She should not be confused with the historical Cleopatra VII, queen of Egypt (69–30 BCE); F. Sherwood Taylor, in the founding article of <em>Ambix</em> (1937), identifies her as one of a group of early female alchemists — alongside <a href=\"../persons/maria-the-jewess.html\">Maria the Jewess</a>, Theosebeia the sister of Zosimos, and Paphnutia the Virgin — active in Alexandria and Egypt in the first three centuries of the Common Era.</p><p>The <em>Chrysopoeia of Kleopatra</em> is among the oldest surviving Greek alchemical texts and consists principally of a page of symbolic drawings transmitted in the Greek alchemical manuscript Marcianus 299 and its derivatives. Its central symbols — the Ouroboros (the self-devouring serpent) inscribed with <em>hen to pan</em> (The All is One), and symbols for gold, silver, and mercury — have been the subject of extensive scholarly commentary. The <em>Dialogue of Kleopatra and the Philosophers</em> is a more substantial mystical-alchemical text in which Kleopatra is interrogated by Ostanes and other philosophers about the nature of the sacred art. Taylor identifies this text as among the most important sources for the mystical-regenerative symbolism of Greek alchemy: it describes the 'blessed waters' visiting 'the corpses lying in Hades,' the 'medicine of Life' rousing them from sleep, and the cloud of vapors rising from the sea — imagery that simultaneously describes alchemical distillation and spiritual resurrection. The attribution of the <em>Chrysopoeia</em> and the <em>Dialogue</em> to a single historical author named Kleopatra cannot be verified, but Taylor regards both texts as representative of an early stratum of Greek alchemy that predates Zosimos of Panopolis (fl. ca. 300 CE), to whom they were known. The <em>Chrysopoeia</em> is preserved in the Greek alchemical manuscript tradition edited by Berthelot, <em>Collection des Alchimistes Grecs</em> (Paris, 1888).</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "MEDIUM"
+    },
+    {
+      "slug": "olympiodoros-of-alexandria",
+      "name": "Olympiodoros of Alexandria (Alchemist)",
+      "era": "LATE_ANTIQUE",
+      "role": "SCHOLAR",
+      "bio_html": "<p>Olympiodoros of Alexandria (fl. ca. 425 CE) was a Neoplatonist philosopher and commentator on Aristotle who also wrote alchemical works, making him one of the most important transitional figures in the Greek alchemical tradition between Zosimos of Panopolis (fl. ca. 300 CE) and Stephanos of Alexandria (fl. ca. 620 CE). F. Sherwood Taylor, in <em>Ambix</em> (1937), places Olympiodoros among the major authorities on Greek alchemy cited by Stephanos and the later Byzantine commentators, identifying him as the earliest author to quote and systematize the symbolic literature on the 'Egg in the Pyramid' — the alchemical symbolism in which the world-egg, described by Heroies (a legendary source), is equated with the universe and its 'golden hair.' Olympiodoros quotes an impressive range of earlier Greek alchemical authorities including Zosimos, Synesius, and fragments of the lost works of Hermes Trismegistos and Maria the Jewess, making his work a major witness to the early Greek alchemical corpus, much of which is now lost in its original form.</p><p>Olympiodoros should be distinguished from Olympiodoros the Younger (ca. 495–570 CE), a later Neoplatonist commentator on Aristotle who wrote extensive surviving philosophical commentaries. The identification of the alchemical Olympiodoros with either the earlier or later figure of that name has been a matter of scholarly debate. His surviving alchemical writings are preserved in Berthelot's <em>Collection des Alchimistes Grecs</em> (Paris, 1888) and include commentary on Zosimos's <em>On the Letter Omega</em> and a systematic discussion of alchemical symbolism including the planet-metal correspondences and the symbolism of the egg. C. A. Browne, in <em>Ambix</em> (1946), identifies Olympiodoros as a source for Stephanos of Alexandria's nine lectures on the Great and Sacred Art, which were the foundational text of Byzantine alchemy in the 7th century.</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "MEDIUM"
+    }
+  ],
+  "texts": [],
+  "concepts": [],
+  "events": [
+    {
+      "title": "Heliodoros Composes Four Byzantine Alchemical Poems in Imitation of Stephanos",
+      "date_label": "ca. 715–720 CE",
+      "date_sort": 717,
+      "location_slug": "constantinople",
+      "description": "Around 715–720 CE, a Byzantine author — conventionally identified as Heliodoros by virtue of the four poems' close relationship to his style — composed four alchemical poems attributed to the personae of Heliodoros, Theophrastos, Hierotheos, and Archelaos. C. A. Browne, in <em>Ambix</em> (1946), demonstrates from close analysis of metre, language, and style that all four poems were composed by a single author, as first argued by Reinesius (1634) and later confirmed by Goldschmidt in his critical edition (<em>Heliodori Carmina Quattuor</em>, Giessen, 1923). The poem attributed to Heliodoros contains a dedicatory title to 'Theodosios the Great King,' which Browne identifies with Theodosios III (r. 715–717), allowing the poems to be dated to approximately that period. The four poems are essentially metrical paraphrases of portions of Stephanos of Alexandria's nine lectures on the Great and Sacred Art (ca. 620–640 CE), and Browne identifies them as the medium through which the rhetorical and religious conventions of Stephanos's alchemical prose — the prayers, invocations, moralizations, and allegorical comparisons — were crystallized into a form that had lasting influence on alchemical writing in Latin, English, French, German, Italian, and other European languages throughout the medieval and early modern periods. The poem of Archelaos, translated by Browne in his article, provides a systematic exposition of the philosophical basis of Greek alchemy as understood in Byzantium ca. 715: the alchemical process is explained in terms of the soul-body-spirit triad, the four elements and their qualities, and the death and resurrection of matter, all framed within an explicitly Christian ascetic and prayerful ethic, ending with a doxology to the Trinity. The manuscript tradition of these poems accompanies those of Stephanos in European library collections; the alchemical poems are also edited in Fabricius, <em>Bibliotheca Graeca</em> VIII (1802) and in Goldschmidt's critical edition.",
+      "scholarly_grounding": "C. A. Browne identifies four Byzantine alchemical poems (attributed to Heliodoros, Theophrastos, Hierotheos, and Archelaos) as a single composition dating to ca. 715-720 CE based on their dedication to Theodosios III (r. 715-717), their close relationship to Stephanos of Alexandria's nine lectures on the Sacred Art, and the unity of authorship demonstrated by Goldschmidt, in 'Rhetorical and Religious Aspects of Greek Alchemy,' Ambix 2:3-4 (1946) pp.129-137. See also E. Goldschmidt, Heliodori Carmina Quattuor (Religionsgeschichtliche Versuche und Vorarbeiten XIX, 2, Giessen, 1923). F. Sherwood Taylor, 'The Origins of Greek Alchemy,' Ambix 1:1 (1937) pp.30-47, identifies Stephanos and Heliodoros as defining the late Greek alchemical tradition.",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": ["hermeticism"],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH"
+    }
+  ]
+}

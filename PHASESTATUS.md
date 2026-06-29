@@ -1,7 +1,7 @@
 # ALCHEMYTIMELINEMAP Phase Status
 
-**Updated:** 2026-06-29 (Continued Ambix ingestion: John Damian flight event, Rosicrucian manifestos Fama/Confessio/Chemical Wedding + Andreae, Thomas Charnock + Breviary)
-**Current Phase:** PHASE 3A (✅ IN PROGRESS) — 116 PERSONS, 80 TEXTS, 44 CONCEPTS, 669 EVENTS
+**Updated:** 2026-06-29 (Continued Ambix ingestion: Biringuccio + Lazarus Ercker metallurgists, Kleopatra the Alchemist, Olympiodoros of Alexandria, Heliodoros Byzantine alchemical poems)
+**Current Phase:** PHASE 3A (✅ IN PROGRESS) — 120 PERSONS, 80 TEXTS, 44 CONCEPTS, 671 EVENTS
 
 ---
 
