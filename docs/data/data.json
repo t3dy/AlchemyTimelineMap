@@ -1,11 +1,11 @@
 {
   "meta": {
-    "total_events": 609,
+    "total_events": 614,
     "total_locations": 63,
-    "mapped_events": 609,
+    "mapped_events": 614,
     "unmapped_events": 0,
     "validation_passed": true,
-    "generated": "2026-06-29T08:25:00.166748"
+    "generated": "2026-06-29T08:29:39.916209"
   },
   "persons": [
     {
@@ -357,7 +357,7 @@
       "slug": "michael-sendivogius",
       "name": "Michael Sendivogius",
       "role_primary": "ALCHEMIST",
-      "era": "MEDIEVAL",
+      "era": "EARLY_MODERN",
       "bio_html": "<p>Michael Sendivogius (Michał Sędziwój; 1566–1636) was a Polish nobleman, diplomat, and alchemist who composed one of the most influential alchemical texts of the early seventeenth century, the <i>Novum Lumen Chymicum</i> (<i>A New Light of Alchemy</i>, published 1604 in Prague), and whose central doctrine — that the \"food of life\" animating all living things, including metals, was an aerial salt or nitre — may have contributed to later discussions of atmospheric air and combustion. Born in the Kraków region and educated at the Jagiellonian University, Sendivogius moved in the court circles of Rudolf II in Prague, one of the major centers of alchemical activity in the late sixteenth and early seventeenth centuries, and served as a diplomat for the Polish-Lithuanian Commonwealth. His alchemical career intersected with the imprisonment and supposed rescue of the Scots alchemist Alexander Seton (who allegedly possessed the Philosophers' Stone), a story that became part of the Sendivogius legend.</p>\n\n<h2>Works and Doctrine</h2>\n<p>The <i>Novum Lumen Chymicum</i>, composed as a dialogue between Mercury and the alchemist, presents Sendivogius's central doctrine of a universal \"aerial nitre\" or celestial salt that descends from the heavens, is incorporated into all living beings and into metals as they grow underground, and constitutes the animating principle that the alchemist must capture and concentrate to achieve the Great Work. This aerial nitre — sometimes identified with the \"food of life\" mentioned in scriptural texts about divine sustenance — provided a theoretical framework for understanding both the generation of metals in the earth and the alchemist's ability to accelerate or redirect this process. The text was enormously popular: it went through numerous editions and was translated into English, German, French, and other languages, making Sendivogius one of the most-read alchemical authors of the seventeenth century. [LINK:isaac-newton] read and annotated Sendivogius extensively.</p>\n\n<p>Lawrence Principe has argued that Sendivogius's aerial nitre doctrine represents a genuinely original theoretical contribution to alchemical natural philosophy, not merely a rehashing of earlier sources. The idea that a specific component of atmospheric air is the active principle in combustion and in the sustenance of life anticipates, in structure if not in chemical specificity, the later discovery of oxygen by Carl Wilhelm Scheele and Joseph Priestley. Whether this represents a genuine intellectual precursor or a coincidental structural similarity has been debated; Principe argues for cautious acknowledgment of the similarity without teleological interpretation.</p>\n\n<h2>Scholarly Debates</h2>\n<p>The biographical legend surrounding Sendivogius — including the Seton connection and claims of personal alchemical success — has been difficult to evaluate because the primary sources are largely seventeenth-century accounts that conflate legend and fact. Lawrence Principe's research in <i>The Secrets of Alchemy</i> provides the most reliable modern account of what can be established historically. The question of Sendivogius's relationship to Seton and whether the <i>Novum Lumen</i> was partly derived from texts Sendivogius obtained from Seton has also been examined. The broader question of the relationship between Sendivogius's aerial nitre and early pneumatic chemistry is treated in histories of chemistry, including those by William Newman and Lawrence Principe.</p>\n\n<h2>Literature</h2>\n<p>Bugaj, Roman. <i>Michal Sedziwój (1566–1636): Zycie i Pisma</i>. Ossolineum, 1968.<br>\nNewman, William R. <i>Newton the Alchemist</i>. Princeton University Press, 2019.<br>\nPrincipe, Lawrence M. <i>The Secrets of Alchemy</i>. University of Chicago Press, 2013.<br>\nSzydlo, Zbigniew. <i>Water Which Does Not Wet Hands: The Alchemy of Michael Sendivogius</i>. Polish Academy of Sciences, 1994.</p>",
       "source_method": "AI_ASSISTED",
       "review_status": "DRAFT",
@@ -1267,6 +1267,19 @@
       "confidence": "HIGH",
       "created_at": "2026-06-29 14:52:26",
       "concept_tags": []
+    },
+    {
+      "id": 157,
+      "slug": "alexander-seton",
+      "name": "Alexander Seton",
+      "role_primary": "ALCHEMIST",
+      "era": "EARLY_MODERN",
+      "bio_html": "<p>Alexander Seton (d. 1604), sometimes identified as 'Alexander Sidonius' or 'the Cosmopolite,' was a Scottish alchemist who became one of the most legendary figures in early modern alchemy through a series of theatrical transmutation demonstrations performed before learned witnesses across continental Europe in 1602–1604. William Newman, in his study of the origin of Eirenaeus Philalethes in <em>Ambix</em> (1990), reconstructs the legend of Seton primarily through contemporary sources including the account of Johann Dienheim, a physician of Freiburg, who described in detail a transmutation of lead to gold performed by Seton in Basel in the summer of 1603 before himself and Jacob Zwinger, a Basel physician. Dienheim describes Seton as a shy, elderly man 'with a chestnut-brown beard cut in the French fashion, and dressed in a black silk tunic.'</p><p>Contemporary sources describe Seton as performing similar demonstrations under various names — Hirschberger, Gustenhofer, Justenhofer — across the Holy Roman Empire, earning him the epithet 'the Cosmopolite' from his reported tendency to claim he had travelled the whole world. According to the widely circulated account recorded by Pierre Borel in his <em>Tresor de recherches et antiquitez gauloises</em> (1655), citing a letter from 'Monsieur des Noyers' dated 1651, Seton was eventually imprisoned and tortured by the Duke of Saxony after revealing possession of the Philosopher's Stone. The Polish nobleman Michael Sendivogius devised a stratagem to free him, but Seton died shortly after his escape, supposedly leaving Sendivogius his wife, the manuscript of the <em>Novum Lumen Chymicum</em>, and some of the transmutational powder.</p><p>Newman demonstrates, through detailed source analysis, that by the mid-seventeenth century the story of Alexander Seton had been elaborated into a complex legend that directly influenced George Starkey's creation of the literary personage of 'Eirenaeus Philalethes.' Starkey, in composing <em>The Marrow of Alchemy</em> (1654–1655), created a fictional 'Cosmopolite' figure modeled on the Seton-Sendivogius legend, complete with the narrative of receiving transmutational powder, failing to multiply it, and falling into poverty — patterns drawn directly from the Seton mythology. The Seton legend thus played a foundational role in shaping the most influential stratum of seventeenth-century alchemical literature.</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "MEDIUM",
+      "created_at": "2026-06-29 15:29:35",
+      "concept_tags": []
     }
   ],
   "texts": [
@@ -2148,6 +2161,38 @@
       "review_status": "DRAFT",
       "confidence": "HIGH",
       "created_at": "2026-06-29 15:24:56",
+      "concept_tags": []
+    },
+    {
+      "id": 80,
+      "slug": "novum-lumen-chymicum",
+      "title": "Novum Lumen Chymicum (A New Light of Alchemy)",
+      "text_type": "TREATISE",
+      "original_language": null,
+      "composition_date": "1604",
+      "composition_year_start": null,
+      "composition_year_end": null,
+      "analysis_html": "<p><em>Novum Lumen Chymicum</em> (A New Light of Alchemy), also known as <em>De Lapide Philosophorum Tractatus Duodecim</em>, was first published simultaneously in Prague and Frankfurt in 1604, under the anagram 'Divi Leschi Genus Amo' for its author, the Polish nobleman and court alchemist Michael Sendivogius (1566–1636). It became one of the most widely read alchemical works of the seventeenth and eighteenth centuries, going through more than fifty editions in five languages before 1797, according to Zbigniew Szydlo's analysis of Sendivogius's chemical theory in <em>Ambix</em> (1993). William Newman, in his study of the origin of Eirenaeus Philalethes in <em>Ambix</em> (1990), documents the enormous influence of the <em>Novum Lumen Chymicum</em> on the alchemical culture of seventeenth-century Europe, including the circle of Samuel Hartlib and its members Robert Boyle and George Starkey.</p><p><strong>Content and Theory.</strong> Szydlo's analysis in <em>Ambix</em> (1993) identifies the central chemical innovation of the <em>Novum Lumen Chymicum</em> as its theory of aerial nitre: Sendivogius argued that the vital principle of life and growth was an aerial, hidden nourishment drawn from the atmosphere by plants and animals alike — a 'central nitre' or 'food of life' that organized and sustained natural processes. This represented a significant departure from purely Paracelsian frameworks: while Sendivogius's point of departure was Paracelsian salt-sulphur-mercury theory, his focus on nitre as the fundamental active agent in aerial processes — connecting life, nutrition, and chemical change — constituted a distinctive theoretical contribution. Szydlo argues that Sendivogius's nitre theory placed him in a significant position in the history of chemical philosophy between Paracelsus and the oxygen-related discoveries of Priestley and Lavoisier.</p><p><strong>Composition and Attribution.</strong> Contemporary and subsequent controversies surrounded the authorship of the <em>Novum Lumen Chymicum</em>. According to the legend recorded by des Noyers (1651) and amplified by later writers, Sendivogius obtained the text from Alexander Seton, a dying Scottish alchemist who left him the manuscript. Newman's analysis demonstrates that this claim was widely believed in the second half of the seventeenth century, but is almost certainly a legend: no reliable evidence supports Seton's authorship, and the attributed dates of composition conflict with the documented chronology of Sendivogius's life and publications. Szydlo's attribution to Sendivogius himself is consistent with the chemical-theoretical content of the work, which integrates Sendivogius's documented engagement with nitre, air, and vital chemistry.</p><p><strong>Modern Scholarship.</strong> The <em>Novum Lumen Chymicum</em> has attracted increasing scholarly attention as a pivotal document in the history of chemical philosophy. Szydlo's study identifies it as an important precursor to subsequent theories connecting aerial chemistry and vital processes. Lawrence Principe, in <em>The Secrets of Alchemy</em> (2013), situates the <em>Novum Lumen</em> within the broader transformation of alchemical discourse in the early seventeenth century. William Newman and Lawrence Principe, in <em>Alchemy Tried in the Fire</em> (2002), discuss its influence on Starkey and through Starkey on Newton.</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "created_at": "2026-06-29 15:29:35",
+      "concept_tags": []
+    },
+    {
+      "id": 81,
+      "slug": "introitus-apertus",
+      "title": "Introitus Apertus ad Occlusum Regis Palatium (Open Entrance to the Shut Palace of the King)",
+      "text_type": "TREATISE",
+      "original_language": null,
+      "composition_date": "1667 (composed 1651–1654)",
+      "composition_year_start": null,
+      "composition_year_end": null,
+      "analysis_html": "<p><em>Introitus Apertus ad Occlusum Regis Palatium</em> (Open Entrance to the Shut Palace of the King) is an alchemical treatise attributed to 'Eirenaeus Philalethes,' published in Amsterdam in 1667 and soon translated into English (by William Cooper, London, 1669), German, and Spanish. William Newman, in his definitive source-critical study in <em>Ambix</em> (1990), proves that the actual author was the New England alchemist George Starkey (1628–1665), demonstrating through comparison of the <em>Introitus</em> with Starkey's Latin letters to Robert Boyle (3 January and 3 February 1651/2, Royal Society Library) that the processes described in the <em>Introitus</em> are identical to those Starkey independently described to Boyle. Newman shows that the <em>Introitus</em> was composed between 1651 and 1654, was circulated in manuscript before its printed publication, and went through at least eight different Latin editions between 1667 and 1749.</p><p><strong>Content and Theory.</strong> The <em>Introitus</em> is a systematic exposition of the preparation of the Philosopher's Stone through a series of laboratory operations centered on antimony and mercury. J. F. Hertodt von Todtenfeldt, writing in the <em>Ephemerides</em> of the Academia Naturae Curiosorum, interpreted the symbolic language of the <em>Introitus</em> as describing the preparation of 'regulus martis' (metallic antimony reduced by iron) as the starting material for the Stone — a reading Newman confirms through comparison with Starkey's letters to Boyle. The 'fiery dragon' of the <em>Introitus</em> is iron; the 'magnet' is antimony sulphide; the 'twin doves of Diana' are silver. The treatise uses the elaborate symbolic vocabulary of the alchemical tradition to describe what Newman identifies as genuine, traceable chemical procedures.</p><p><strong>Influence and Reception.</strong> Newman documents the <em>Introitus</em>'s extraordinary reception: the Danish scholar Olaus Borrichius reported in 1697 that Philalethes' <em>Introitus</em> was considered 'by the whole family of chemists' to be among 'their classics'. The work had a profound influence on Isaac Newton's alchemical laboratory practice: Newton transcribed and worked from a 'Key' or 'Clavis' that appears in Starkey's English letter to Boyle (spring 1651) and forms the basis of the <em>Introitus</em>'s central procedures. Newton incorporated Philalethan processes into his own alchemical notebooks, making the <em>Introitus</em> one of the most significant conduits between the Hartlib circle's experimental alchemy and Newton's later laboratory work.</p><p><strong>Modern Scholarship.</strong> Newman's 1990 article represents the definitive proof of Starkey's authorship. Newman subsequently published, with Lawrence Principe, the critical study <em>Alchemy Tried in the Fire</em> (2002), which situates Starkey within the history of 'chymistry' in the seventeenth century and analyzes the <em>Introitus</em>'s laboratory procedures in the context of contemporary chemical practice. Principe's <em>The Secrets of Alchemy</em> (2013) discusses Starkey and the Philalethan corpus as exemplifying the transition from traditional alchemy to what contemporaries called 'chymistry' in the later seventeenth century.</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "created_at": "2026-06-29 15:29:35",
       "concept_tags": []
     }
   ],
@@ -15850,6 +15895,33 @@
       "summary": "c. 1610, Frankfurt: The Frankfurt book fair and nearby printing centers created a commercial network through which emblematic and chymical books circulated, including the milieu that soon made Atalant"
     },
     {
+      "id": 615,
+      "slug": "alexander-setons-transmutation-demonstrations-in-e",
+      "date_label": "1602–1604 CE",
+      "date_start_year": 1603,
+      "date_end_year": null,
+      "location_slug": "basle",
+      "description": "Alexander Seton, a Scottish alchemist known as 'the Cosmopolite,' performed a series of transmutation demonstrations before learned witnesses across continental Europe between 1602 and 1604, claiming",
+      "persons_involved": [
+        "alexander-seton",
+        "michael-sendivogius"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "philosophers-stone"
+      ],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "MEDIUM",
+      "created_at": "2026-06-29 15:29:35",
+      "scholarly_grounding": "William Newman analyzed Seton's legend and its literary consequences in 'Prophecy and Alchemy: The Origin of Eirenaeus Philalethes' in Ambix vol. 37 no. 3 (1990) pp.97-115.",
+      "place_name": "Basle (Basel)",
+      "region": "Switzerland",
+      "era": "EARLY_MODERN",
+      "summary": "Alexander Seton, a Scottish alchemist known as 'the Cosmopolite,' performed a series of transmutation demonstrations before learned witnesses across continental Europe between 1602 and 1604, claiming"
+    },
+    {
       "id": 317,
       "slug": "event_renaissance_low_countries_026",
       "date_label": "c. 1608 CE",
@@ -15872,6 +15944,35 @@
       "region": "Low Countries",
       "era": "EARLY_MODERN",
       "summary": "c. 1608, Antwerp: The early 17th century found Antwerp maintaining its preeminence despite the beginning of the city's long political and economic decline. The systematic practice of Distillation and"
+    },
+    {
+      "id": 616,
+      "slug": "michael-sendivogius-publishes-novum-lumen-chymicum",
+      "date_label": "1604 CE",
+      "date_start_year": 1604,
+      "date_end_year": null,
+      "location_slug": "prague",
+      "description": "Michael Sendivogius (1566–1636), a Polish nobleman and court alchemist serving Emperor Rudolf II, published his De Lapide Philosophorum Tractatus Duodecim — soon known as the Novum Lumen Chymicum — si",
+      "persons_involved": [
+        "michael-sendivogius"
+      ],
+      "texts_involved": [
+        "novum-lumen-chymicum"
+      ],
+      "concepts_involved": [
+        "paracelsian-alchemy",
+        "philosophers-stone",
+        "chymistry"
+      ],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH",
+      "created_at": "2026-06-29 15:29:35",
+      "scholarly_grounding": "Zbigniew Szydlo analyzed the Novum Lumen Chymicum and Sendivogius's nitre theory in 'The Alchemy of Michael Sendivogius: His Central Nitre Theory' in Ambix vol. 40 no. 3 (1993) pp.129-146. William Newman discussed the Seton legend and the Sendivogian context in 'Prophecy and Alchemy' in Ambix vol. 37 no. 3 (1990) pp.97-115.",
+      "place_name": "Prague",
+      "region": "Bohemia",
+      "era": "EARLY_MODERN",
+      "summary": "Michael Sendivogius (1566–1636), a Polish nobleman and court alchemist serving Emperor Rudolf II, published his De Lapide Philosophorum Tractatus Duodecim — soon known as the Novum Lumen Chymicum — si"
     },
     {
       "id": 344,
@@ -17052,6 +17153,33 @@
       "summary": "c. 1652, Florence: The Grand Ducal laboratory, having operated continuously for nearly a century, closes as new chemical and mechanical philosophies render the hermetic-alchemical synthesis increasing"
     },
     {
+      "id": 617,
+      "slug": "george-starkey-joins-the-hartlib-circle-and-collab",
+      "date_label": "1650–1651 CE",
+      "date_start_year": 1650,
+      "date_end_year": null,
+      "location_slug": "london",
+      "description": "George Starkey (1628–1665), a New England-born alchemist who had taken bachelor's and master's degrees at Harvard College (B.A. 1646, M.A. ca. 1650), migrated to London in 1650 and was quickly integra",
+      "persons_involved": [
+        "george-starkey",
+        "robert-boyle"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "chymistry",
+        "iatrochemistry"
+      ],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH",
+      "created_at": "2026-06-29 15:29:35",
+      "scholarly_grounding": "William Newman reconstructed Starkey's participation in the Hartlib Circle from Hartlib's Ephemerides and Starkey's letters to Boyle in 'Prophecy and Alchemy: The Origin of Eirenaeus Philalethes' in Ambix vol. 37 no. 3 (1990) pp.97-115.",
+      "place_name": "London",
+      "region": "England",
+      "era": "EARLY_MODERN",
+      "summary": "George Starkey (1628–1665), a New England-born alchemist who had taken bachelor's and master's degrees at Harvard College (B.A. 1646, M.A. ca. 1650), migrated to London in 1650 and was quickly integra"
+    },
+    {
       "id": 498,
       "slug": "event_boyle_chemistry_001",
       "date_label": "c. 1660",
@@ -17099,6 +17227,35 @@
       "region": "Low Countries",
       "era": "EARLY_MODERN",
       "summary": "c. 1656, Antwerp: The mid-17th century found Antwerp's once-preeminent position in European alchemy effectively superseded by the rise of new centers in England, France, and the German states. Neverth"
+    },
+    {
+      "id": 618,
+      "slug": "george-starkey-composes-the-introitus-apertus",
+      "date_label": "1651–1654 CE",
+      "date_start_year": 1652,
+      "date_end_year": null,
+      "location_slug": "london",
+      "description": "Between 1651 and 1654, George Starkey (1628–1665) composed the Introitus Apertus ad Occlusum Regis Palatium (Open Entrance to the Shut Palace of the King) under the pseudonym 'Anonymous Philalethes,'",
+      "persons_involved": [
+        "george-starkey",
+        "robert-boyle"
+      ],
+      "texts_involved": [
+        "introitus-apertus"
+      ],
+      "concepts_involved": [
+        "chymistry",
+        "philosophers-stone"
+      ],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH",
+      "created_at": "2026-06-29 15:29:35",
+      "scholarly_grounding": "William Newman proved Starkey's authorship through comparison of the Introitus with Starkey's letters to Boyle in 'Prophecy and Alchemy: The Origin of Eirenaeus Philalethes' in Ambix vol. 37 no. 3 (1990) pp.97-115.",
+      "place_name": "London",
+      "region": "England",
+      "era": "EARLY_MODERN",
+      "summary": "Between 1651 and 1654, George Starkey (1628–1665) composed the Introitus Apertus ad Occlusum Regis Palatium (Open Entrance to the Shut Palace of the King) under the pseudonym 'Anonymous Philalethes,'"
     },
     {
       "id": 352,
@@ -17472,6 +17629,35 @@
       "region": "Iberia",
       "era": "EARLY_MODERN",
       "summary": "c. 1668 CE, Madrid: Spanish chemists and alchemists, now fluent in mechanical philosophy and corpuscular theory, interpret Operational Chemistry through frameworks emphasizing atomic composition and m"
+    },
+    {
+      "id": 619,
+      "slug": "publication-of-the-introitus-apertus-and-its-influ",
+      "date_label": "1667 CE",
+      "date_start_year": 1667,
+      "date_end_year": null,
+      "location_slug": "amsterdam",
+      "description": "The Introitus Apertus ad Occlusum Regis Palatium, attributed to 'Eirenaeus Philalethes,' was published in Amsterdam in 1667, twelve years after its composition and two years after its actual author Ge",
+      "persons_involved": [
+        "george-starkey",
+        "isaac-newton"
+      ],
+      "texts_involved": [
+        "introitus-apertus"
+      ],
+      "concepts_involved": [
+        "chymistry",
+        "philosophers-stone"
+      ],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH",
+      "created_at": "2026-06-29 15:29:35",
+      "scholarly_grounding": "William Newman documented the Introitus's publication history, reception, and influence on Newton in 'Prophecy and Alchemy: The Origin of Eirenaeus Philalethes' in Ambix vol. 37 no. 3 (1990) pp.97-115.",
+      "place_name": "Amsterdam",
+      "region": "Low Countries",
+      "era": "EARLY_MODERN",
+      "summary": "The Introitus Apertus ad Occlusum Regis Palatium, attributed to 'Eirenaeus Philalethes,' was published in Amsterdam in 1667, twelve years after its composition and two years after its actual author Ge"
     },
     {
       "id": 325,
@@ -18752,7 +18938,9 @@
         "robert-boyle-publishes-the-sceptical-chymist-estab",
         "event_robert-boyle_biography",
         "english-statute-against-multiplication-of-metals",
+        "george-starkey-joins-the-hartlib-circle-and-collab",
         "event_boyle_chemistry_001",
+        "george-starkey-composes-the-introitus-apertus",
         "repeal-of-the-english-statute-against-multiplicati"
       ],
       "nicholas-flamel": [
@@ -18798,12 +18986,16 @@
         "publication-of-heleen-de-jongs-archival-study-of-a"
       ],
       "george-starkey": [
-        "event_george-starkey_biography"
+        "event_george-starkey_biography",
+        "george-starkey-joins-the-hartlib-circle-and-collab",
+        "george-starkey-composes-the-introitus-apertus",
+        "publication-of-the-introitus-apertus-and-its-influ"
       ],
       "isaac-newton": [
         "event_isaac-newton_biography",
         "english-statute-against-multiplication-of-metals",
         "event_newton_alchemy_001",
+        "publication-of-the-introitus-apertus-and-its-influ",
         "repeal-of-the-english-statute-against-multiplicati"
       ],
       "theosebeia": [
@@ -18830,7 +19022,9 @@
         "event_mary-the-prophetess_biography"
       ],
       "michael-sendivogius": [
-        "event_michael-sendivogius_biography"
+        "event_michael-sendivogius_biography",
+        "alexander-setons-transmutation-demonstrations-in-e",
+        "michael-sendivogius-publishes-novum-lumen-chymicum"
       ],
       "robert-fludd": [
         "event_robert-fludd_biography"
@@ -18932,6 +19126,9 @@
         "event_bruno_paris_001",
         "event_bruno_london_001",
         "event_bruno_rome_001"
+      ],
+      "alexander-seton": [
+        "alexander-setons-transmutation-demonstrations-in-e"
       ],
       "heleen-de-jong": [
         "publication-of-heleen-de-jongs-archival-study-of-a"
@@ -19754,6 +19951,7 @@
         "event_early_modern_spain_portugal_017",
         "event_renaissance_italy_038",
         "event_alchemy_print_001",
+        "alexander-setons-transmutation-demonstrations-in-e",
         "event_early_modern_central_europe_018",
         "event_early_modern_france_018",
         "event_early_modern_spain_portugal_018",
@@ -19845,7 +20043,8 @@
       ],
       "iatrochemistry": [
         "paracelsus-composes-paragranum-establishing-chemic",
-        "jan-baptist-van-helmont-establishes-experimental-c"
+        "jan-baptist-van-helmont-establishes-experimental-c",
+        "george-starkey-joins-the-hartlib-circle-and-collab"
       ],
       "greek-arab-latin": [
         "event_sicily_translation_001"
@@ -20032,6 +20231,10 @@
       "chymistry": [
         "english-statute-against-multiplication-of-metals",
         "publication-of-biringuccios-pirotechnia",
+        "michael-sendivogius-publishes-novum-lumen-chymicum",
+        "george-starkey-joins-the-hartlib-circle-and-collab",
+        "george-starkey-composes-the-introitus-apertus",
+        "publication-of-the-introitus-apertus-and-its-influ",
         "repeal-of-the-english-statute-against-multiplicati"
       ],
       "hermeticism": [
@@ -20134,7 +20337,11 @@
         "event_early_modern_france_034"
       ],
       "philosophers-stone": [
-        "john-damian-establishes-alchemical-laboratory-at-s"
+        "john-damian-establishes-alchemical-laboratory-at-s",
+        "alexander-setons-transmutation-demonstrations-in-e",
+        "michael-sendivogius-publishes-novum-lumen-chymicum",
+        "george-starkey-composes-the-introitus-apertus",
+        "publication-of-the-introitus-apertus-and-its-influ"
       ],
       "practical-alchemy": [
         "john-damian-appointed-abbot-of-tungland"
@@ -20186,6 +20393,9 @@
       ],
       "pharmaceutical-preparation": [
         "event_tycho_laboratory_001"
+      ],
+      "paracelsian-alchemy": [
+        "michael-sendivogius-publishes-novum-lumen-chymicum"
       ],
       "rosicrucian": [
         "event_maier_court_001"
