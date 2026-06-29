@@ -1382,3 +1382,18 @@ pre code {
     color: #0066cc;
   }
 }
+
+/* --- enrichment: itinerary & connections (added 2026-06-29) --- */
+.itinerary, .connections { margin-top: 1.5rem; }
+.itinerary-list { padding-left: 1.4rem; }
+.itinerary-list li { margin: 0.5rem 0; }
+.itin-year { color: #6b5a3e; font-size: 0.9em; }
+.itin-what { color: #444; font-size: 0.95em; }
+.connections-list { list-style: none; padding-left: 0; }
+.connections-list li { margin: 0.35rem 0; }
+.rel-type { display:inline-block; min-width: 9.5em; font-variant: small-caps; color:#5a3c1d; font-weight:600; }
+.evidence { font-size: 0.72em; text-transform: uppercase; letter-spacing:.04em; border:1px solid #bbb; border-radius:999px; padding:1px 7px; color:#666; margin-left:4px; }
+.evidence-attested { border-color:#4a7; color:#2a6; }
+.evidence-inferred { border-style: dashed; border-color:#c84; color:#a63; }
+.evidence-approximate { border-style: dashed; border-color:#b94; color:#964; }
+.draft-note { font-size:0.82em; color:#888; }

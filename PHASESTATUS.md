@@ -1,7 +1,7 @@
 # ALCHEMYTIMELINEMAP Phase Status
 
-**Updated:** 2026-06-29 (Ambix scholarship ingestion continued — Helvetius/Vitulus Aureus batch loaded)
-**Current Phase:** PHASE 3A (✅ IN PROGRESS) — 112 PERSONS, 76 TEXTS, 44 CONCEPTS, 662 EVENTS
+**Updated:** 2026-06-29 (Continued Ambix ingestion: John Damian flight event, Rosicrucian manifestos Fama/Confessio/Chemical Wedding + Andreae, Thomas Charnock + Breviary)
+**Current Phase:** PHASE 3A (✅ IN PROGRESS) — 116 PERSONS, 80 TEXTS, 44 CONCEPTS, 669 EVENTS
 
 ---
 

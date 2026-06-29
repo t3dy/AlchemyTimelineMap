@@ -1,0 +1,35 @@
+{
+  "batch_name": "John Damian and Alchemy at the Court of James IV of Scotland",
+  "created": "2026-06-29",
+  "description": "Person entry and flight event for John Damian, court alchemist and physician to King James IV of Scotland (r. 1488-1513), based on John Read, 'Alchemy Under James IV of Scotland,' Ambix 2:2 (1938) pp.60-67. Read draws on the Accounts of the Lord High Treasurer of Scotland (1473-1513), Bishop John Lesley's History of Scotland from 1436 to 1561 (Edinburgh, 1830), and William Dunbar's satirical poem 'The Fenyeit Freir of Tungland.' The most celebrated episode is Damian's attempt to fly from Stirling Castle to Paris using wings made of feathers (ca. 1507).",
+  "persons": [
+    {
+      "slug": "john-damian",
+      "name": "John Damian (Abbot of Tungland)",
+      "era": "EARLY_MODERN",
+      "role": "PRACTITIONER",
+      "bio_html": "<p>John Damian (fl. 1501–1513), known also as 'the French physician' (<em>Franch leich</em>) and later as 'Maister Johne,' was the principal court alchemist and physician to King James IV of Scotland (r. 1488–1513) and one of the most extraordinary figures in the history of early modern alchemy. A foreigner — probably Italian or French in origin — Damian was attracted to the Scottish court where he established an alchemical laboratory in Stirling Castle, sponsored by James IV and documented in remarkable detail in the Accounts of the Lord High Treasurer of Scotland (1501–1513). John Read, in <em>Ambix</em> (1938), draws on these accounts to show that Damian received substantial financial support for his work on the <em>quinta essencia</em> (quintessence), including funds for materials (gold, silver, quicksilver, aqua vitae, alum, cinnabar, antimony), laboratory apparatus (alembics, furnaces, cauldrons), and wages for furnace-keepers and 'ministers.' On 12 March 1503-4, James IV rewarded Damian by appointing him Abbot of Tungland in Galloway, providing him with an ecclesiastical income to sustain his alchemical work — an episode memorably lampooned by the court poet William Dunbar, who had hoped for the appointment himself. In 1507, Damian achieved historical fame of a different kind when, equipped with wings fashioned from feathers, he attempted to fly from the battlements of Stirling Castle to Paris. He fell immediately into a dung heap and broke his thigh bone; he ascribed the failure to the presence of hen feathers in his wings, which, he argued, 'coveted the midden and not the skies' rather than soaring heavenward like eagle feathers. Dunbar celebrated the episode in his sardonic poem <em>The Fenyeit Freir of Tungland</em>. On 8 September 1508, Damian received from James IV 'a licence to pass out of the realm and remain in what place he pleases … during the space of five years,' probably to visit Continental alchemical centres and acquire manuscripts and materials. He returned to Scotland in 1512; the Lord High Treasurer's accounts record continued work on the quintessence at Stirling Castle through 1513. On 9 September 1513, James IV died at the Battle of Flodden, bringing the crown's investment in alchemy at Stirling to an abrupt end.</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH"
+    }
+  ],
+  "texts": [],
+  "concepts": [],
+  "events": [
+    {
+      "title": "John Damian Attempts to Fly from Stirling Castle Battlements to Paris",
+      "date_label": "ca. 1507 CE",
+      "date_sort": 1507,
+      "location_slug": "edinburgh",
+      "description": "Around 1507, John Damian — court alchemist and physician to King James IV of Scotland (r. 1488–1513) and Abbot of Tungland since 1503-4 — equipped himself with a pair of wings fashioned from feathers and attempted to fly from the battlements of Stirling Castle to Paris. The attempt ended immediately: he fell into the dung heap ('midden') at the foot of the castle wall and broke his thigh bone. John Read, in <em>Ambix</em> (1938), records that Damian undauntedly attributed his failure not to the impossibility of human flight but to a material defect: the wings had contained hen feathers, which, partaking of the earthly nature of hens, 'coveted the midden and not the skies.' Had the wings been made exclusively of eagle feathers, he argued, they would have possessed a natural tendency to soar upward toward the element of fire. The episode was celebrated in one of the most famous satirical poems of early modern Scotland: William Dunbar's <em>The Fenyeit Freir of Tungland</em> ('The Feigned Friar of Tungland, how he fell in the mire flying to Turkey-land'), which mocks the entire sequence — Damian's failed alchemy, his improbable appointment as abbot, and his catastrophic flight. Bishop John Lesley, in his <em>History of Scotland from 1436 to 1561</em> (1570; published Edinburgh, 1830), records the incident straightforwardly: 'This Abbott tuik in hand to fliew ith wingis; and to that effect he caust mak ane pair of wingis of fedderis … bot shortlie he fell to the ground and brak his thee bane.' The Accounts of the Lord High Treasurer of Scotland document that Damian's work in the Stirling laboratory continued through 1508 despite the fracture, with James IV reportedly playing cards and dice with his recovering alchemist at unusually high stakes. Read notes that, unlike the many court alchemists who received execution or imprisonment for failure, Damian was treated throughout with royal generosity, suggesting that James IV regarded him as a sincere experimenter rather than a charlatan.",
+      "scholarly_grounding": "John Read documented John Damian's attempted flight from Stirling Castle battlements and the subsequent account by Bishop Lesley and satirical poem by William Dunbar, in 'Alchemy Under James IV of Scotland,' Ambix 2:2 (1938) pp.60-67, drawing on the Accounts of the Lord High Treasurer of Scotland (vols. 1-9, Edinburgh, 1877-1916), Bishop John Lesley, History of Scotland from 1436 to 1561 (Edinburgh, 1830), and the Poems of William Dunbar (Scottish Text Society, 1893).",
+      "persons_involved": ["john-damian"],
+      "texts_involved": [],
+      "concepts_involved": ["practical-alchemy", "chymistry"],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH"
+    }
+  ]
+}

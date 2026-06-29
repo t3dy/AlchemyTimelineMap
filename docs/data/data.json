@@ -1,11 +1,11 @@
 {
   "meta": {
-    "total_events": 663,
+    "total_events": 669,
     "total_locations": 67,
-    "mapped_events": 663,
+    "mapped_events": 669,
     "unmapped_events": 0,
     "validation_passed": true,
-    "generated": "2026-06-29T13:33:21.976438"
+    "generated": "2026-06-29T13:42:43.606730"
   },
   "persons": [
     {
@@ -1502,6 +1502,45 @@
       "confidence": "HIGH",
       "created_at": "2026-06-29 20:32:13",
       "concept_tags": []
+    },
+    {
+      "id": 174,
+      "slug": "john-damian",
+      "name": "John Damian (Abbot of Tungland)",
+      "role_primary": "SCHOLAR",
+      "era": "MODERN",
+      "bio_html": "<p>John Damian (fl. 1501–1513), known also as 'the French physician' (<em>Franch leich</em>) and later as 'Maister Johne,' was the principal court alchemist and physician to King James IV of Scotland (r. 1488–1513) and one of the most extraordinary figures in the history of early modern alchemy. A foreigner — probably Italian or French in origin — Damian was attracted to the Scottish court where he established an alchemical laboratory in Stirling Castle, sponsored by James IV and documented in remarkable detail in the Accounts of the Lord High Treasurer of Scotland (1501–1513). John Read, in <em>Ambix</em> (1938), draws on these accounts to show that Damian received substantial financial support for his work on the <em>quinta essencia</em> (quintessence), including funds for materials (gold, silver, quicksilver, aqua vitae, alum, cinnabar, antimony), laboratory apparatus (alembics, furnaces, cauldrons), and wages for furnace-keepers and 'ministers.' On 12 March 1503-4, James IV rewarded Damian by appointing him Abbot of Tungland in Galloway, providing him with an ecclesiastical income to sustain his alchemical work — an episode memorably lampooned by the court poet William Dunbar, who had hoped for the appointment himself. In 1507, Damian achieved historical fame of a different kind when, equipped with wings fashioned from feathers, he attempted to fly from the battlements of Stirling Castle to Paris. He fell immediately into a dung heap and broke his thigh bone; he ascribed the failure to the presence of hen feathers in his wings, which, he argued, 'coveted the midden and not the skies' rather than soaring heavenward like eagle feathers. Dunbar celebrated the episode in his sardonic poem <em>The Fenyeit Freir of Tungland</em>. On 8 September 1508, Damian received from James IV 'a licence to pass out of the realm and remain in what place he pleases … during the space of five years,' probably to visit Continental alchemical centres and acquire manuscripts and materials. He returned to Scotland in 1512; the Lord High Treasurer's accounts record continued work on the quintessence at Stirling Castle through 1513. On 9 September 1513, James IV died at the Battle of Flodden, bringing the crown's investment in alchemy at Stirling to an abrupt end.</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "created_at": "2026-06-29 20:35:08",
+      "concept_tags": []
+    },
+    {
+      "id": 175,
+      "slug": "johann-valentin-andreae",
+      "name": "Johann Valentin Andreae",
+      "role_primary": "SCHOLAR",
+      "era": "MODERN",
+      "bio_html": "<p>Johann Valentin Andreae (1586–1654) was a Lutheran theologian, educator, and writer born in Herrenberg, Württemberg, who is now widely recognized as the author of <em>Chymische Hochzeit Christiani Rosencreutz anno 1459</em> (Chemical Wedding of Christian Rosencreutz, Strasbourg, 1616), the third and most literary of the three foundational Rosicrucian manifestoes. Andreae studied theology and the natural sciences at the University of Tübingen, where he participated in a circle of scholars deeply interested in Paracelsian medicine, mathematics, and utopian reform — the same milieu that produced the manuscript versions of the Rosicrucian manifestoes circulating from about 1610 onward. Carlos Gilly, in his foundational study <em>Cimelia Rhodostaurotica</em> (Amsterdam, 1995), documents Andreae's deep involvement with this circle and argues persuasively that Andreae participated in the composition of all three manifestoes, though the exact authorship of the <em>Fama</em> and <em>Confessio</em> remains disputed. Roland Edighoffer, in <em>Rose-Croix et société idéale selon Johann Valentin Andreae</em> (Paris, 1982), provides the most thorough analysis of Andreae's intellectual and theological contribution to the Rosicrucian movement, demonstrating its integration of Lutheran spirituality, Paracelsian natural philosophy, and humanist educational ideals.</p><p>Andreae later claimed that the <em>Chemical Wedding</em> was a <em>ludibrium</em> — a jest or play — written as a student exercise around 1605–1608 and subsequently published without his complete intention. This distancing from the Rosicrucian movement, which Andreae undertook as early as 1619 in his <em>Turris Babel</em>, has been variously interpreted: some scholars (following Yates) see it as a strategic retreat after the failure of the Rosicrucian utopian project with the defeat of the Winter King Frederick V at the Battle of White Mountain (1620); others (including John Warwick Montgomery) take it more literally as evidence that Andreae regarded the Rosicrucian enthusiasm as a dangerous misunderstanding of his allegorical intentions. After the Thirty Years' War, Andreae became a court chaplain in Stuttgart and Bebenhausen and devoted himself to reform of education and social institutions through his <em>Christianopolis</em> (1619) and other utopian works. His significance in the history of alchemy is inseparable from his role in shaping the Rosicrucian movement, which gave alchemical and medical reform aspirations a new institutional and symbolic framework in the early seventeenth century.</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "created_at": "2026-06-29 20:40:57",
+      "concept_tags": []
+    },
+    {
+      "id": 176,
+      "slug": "thomas-charnock",
+      "name": "Thomas Charnock",
+      "role_primary": "SCHOLAR",
+      "era": "MODERN",
+      "bio_html": "<p>Thomas Charnock (1524/6–1581) was the most important English alchemical poet and practitioner of the mid-sixteenth century, and a central figure in the tradition of English vernacular alchemy that ran from Thomas Norton's <em>Ordinal of Alchemy</em> (1477) through George Ripley's <em>Compound of Alchymy</em> (1471) and eventually into the seventeenth century compilations of Elias Ashmole. Jennifer M. Rampling, in <em>The Experimental Fire: Inventing English Alchemy, 1300–1700</em> (University of Chicago Press, 2020), identifies Charnock alongside the courtier-scholars John Dee (1527–1609) and Richard Eden as one of the practitioners who most energetically sought royal patronage from Elizabeth I, both as personal advancement and as a vehicle for the reform of English natural philosophy.</p><p>Born in Faversham in Kent, Charnock later moved to Somerset near his wife's hometown of Stockland Bristol. He described himself as an 'unlettered scholar' and an unlicensed medical practitioner — a status that placed him below the socially elevated alchemical philosophers like Dee but that he sought to overcome through his command of the English alchemical tradition. Charnock's deepest literary model was Thomas Norton's <em>Ordinal of Alchemy</em>, which shaped both the autobiographical style and the narrative structure of his own principal work, the <em>Breviary of Natural Philosophy</em> (finished 1 January 1557/8). Unlike Ripley's more doctrinally focused verse, the <em>Breviary</em> is characterized by anecdote, 'racy narrative,' and personal reminiscence: it recounts Charnock's alchemical education, his experiments, and his interactions with patrons and rivals in a manner more akin to autobiography than to formal alchemical instruction. Rampling notes that 'Charnock's preference for anecdote and racy narrative also characterizes his Booke Dedicated unto the Queenes Maiestie' (written winter 1565/6), a lengthy petition to Elizabeth I in which he volunteered to be confined within the Tower of London as surety for his pledge to manufacture the Philosophers' Stone — a proposal that was set aside when William Cecil was investigating the claims of the Flemish alchemist Cornelius de Lannoy.</p><p>Charnock's <em>Enigma ad alchimiae</em> (1572), added to the waste spaces of a fifteenth-century compendium now at Trinity College Library Cambridge (MS O.2.16), was copied by Elias Ashmole and published in the <em>Theatrum Chemicum Britannicum</em> (London, 1652) along with the <em>Breviary</em>, giving Charnock a posthumous reputation as one of the canonical English alchemical poets. F. Sherwood Taylor, in his foundational article in <em>Ambix</em> (1946), provided the first systematic account of Charnock's life and works; Alan Pritchard's study in <em>Ambix</em> (1979) described the discovery and contents of the 'Booke Dedicated unto the Queenes Maiestie' (British Library, MS Lansdowne 703). Charnock's significance for the history of alchemy lies in his role as a practitioner who worked at the intersection of vernacular literary tradition and experimental practice, transmitting and reinterpreting the medieval English alchemical canon for Elizabethan audiences.</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "created_at": "2026-06-29 20:42:30",
+      "concept_tags": []
     }
   ],
   "texts": [
@@ -2735,6 +2774,54 @@
       "review_status": "DRAFT",
       "confidence": "HIGH",
       "created_at": "2026-06-29 20:32:13",
+      "concept_tags": []
+    },
+    {
+      "id": 103,
+      "slug": "fama-fraternitatis",
+      "title": "Fama Fraternitatis Rosae Crucis",
+      "text_type": "PRIMARY_SOURCE",
+      "original_language": null,
+      "composition_date": "1614 CE",
+      "composition_year_start": null,
+      "composition_year_end": null,
+      "analysis_html": "<p><em>Fama Fraternitatis R.C., oder Brüderschaft des Hochlöblichen Ordens des Rosenkreutzes</em> (Fame of the Fraternity of the Rosy Cross) is the first of the three foundational Rosicrucian documents, published at Kassel in 1614 as an appendix to a German translation of Trajano Boccalini's Italian satire <em>Ragguagli di Parnaso</em> (Dispatches from Parnassus). Written in German, the <em>Fama</em> announces the existence of a secret Brotherhood of the Rosy Cross founded, it claims, by the fictional Christian Rosenkreutz (C.R.C.), who had traveled to the Middle East, Morocco, and Spain in the early fifteenth century, learning wisdom from Islamic sages, before returning to Germany to establish the Brotherhood with a small group of disciples. The <em>Fama</em> calls upon the learned men of Europe to recognize the dawning of a new age of universal reform encompassing religion, science, and society, and invites sympathizers to make contact with the Brotherhood — while providing no means of actually doing so. Carlos Gilly, in <em>Cimelia Rhodostaurotica</em> (Amsterdam, 1995), documents that the <em>Fama</em> circulated in manuscript versions from about 1610 onward, generating an enormous response before its publication; hundreds of pamphlets, responses, and letters were written by people hoping to make contact with the Brethren. The alchemical dimension of the <em>Fama</em> is present but not primary: Christian Rosenkreutz is described as having acquired knowledge of the <em>Mysterium Magnum</em> and of the correspondence between macrocosm and microcosm — characteristically Paracelsian formulations — and the Brotherhood is oriented toward healing and spiritual regeneration rather than transmutation of metals. The <em>Fama</em> is deeply Lutheran in character: it attacks the Pope as Antichrist and the alchemists who 'boast of the great name of alchemy' without true understanding. Lawrence Principe, in <em>The Secrets of Alchemy</em> (2013), notes that the Rosicrucian manifestoes drew on Paracelsian natural philosophy while subordinating chemical practice to spiritual and religious goals. Frances Yates, in <em>The Rosicrucian Enlightenment</em> (1972), placed the Rosicrucian movement within a broader Hermetic and neoplatonic current that she traced from the Italian Renaissance through John Dee and Bruno to the early seventeenth century; this reading has been substantially qualified by subsequent scholars including Principe, Gilly, and Hanegraaff, who emphasize the Lutheran-Paracelsian rather than Hermetic character of the manifestoes. The authorship of the <em>Fama</em> and <em>Confessio</em> remains uncertain; Gilly and others credit Johann Valentin Andreae's circle at Tübingen, particularly Tobias Hess and Christoph Besold, as the likely authors or co-authors.</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "created_at": "2026-06-29 20:40:57",
+      "concept_tags": []
+    },
+    {
+      "id": 104,
+      "slug": "confessio-fraternitatis",
+      "title": "Confessio Fraternitatis Rosae Crucis",
+      "text_type": "PRIMARY_SOURCE",
+      "original_language": null,
+      "composition_date": "1615 CE",
+      "composition_year_start": null,
+      "composition_year_end": null,
+      "analysis_html": "<p><em>Confessio Fraternitatis R.C., ad Eruditos Europae</em> (Confession of the Fraternity of the Rosy Cross, to the Learned of Europe) is the second of the three foundational Rosicrucian documents, published at Kassel in 1615 as a companion piece to the <em>Fama Fraternitatis</em>. Written in Latin (unlike the German <em>Fama</em>) and addressed explicitly to the learned men of Europe, the <em>Confessio</em> elaborates the theological and cosmological framework of the Brotherhood with greater explicitness than its predecessor. It attacks Aristotelian natural philosophy and promises a new philosophy grounded in direct observation of nature — a Paracelsian and reformist program. The <em>Confessio</em> makes its Lutheran Protestant character more explicit than the <em>Fama</em>, attacking the Pope directly and framing the Brotherhood's reform mission within an apocalyptic Protestant eschatology: God is described as revealing His secrets at the dawning of a new age, and the Brethren are presented as instruments of this divine disclosure. Carlos Gilly, in <em>Cimelia Rhodostaurotica</em> (Amsterdam, 1995), documents the <em>Confessio</em>'s place within the manuscript tradition of the Rosicrucian documents and its relationship to the reformist networks of the Tübingen circle. The <em>Confessio</em> is more explicit than the <em>Fama</em> on the alchemical dimensions of the Brotherhood's knowledge: it promises that the Brethren possess the <em>Philosophia Hermética</em> and know how to transmute metals, but insists that transmutation is only a minor aspect of their knowledge and not the primary goal. Lawrence Principe, in <em>The Secrets of Alchemy</em> (2013), notes the <em>Confessio</em>'s careful positioning of alchemical knowledge as real but subordinate to the spiritual and theological mission of the Brotherhood — a characteristically Paracelsian subordination of material operations to spiritual goals. The authorship of the <em>Confessio</em>, like that of the <em>Fama</em>, is uncertain; Gilly credits the Tübingen circle including Tobias Hess, Christoph Besold, and Johann Valentin Andreae.</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "created_at": "2026-06-29 20:40:57",
+      "concept_tags": []
+    },
+    {
+      "id": 105,
+      "slug": "breviary-of-natural-philosophy",
+      "title": "Breviary of Natural Philosophy (Thomas Charnock)",
+      "text_type": "TREATISE",
+      "original_language": null,
+      "composition_date": "finished 1 January 1557/8",
+      "composition_year_start": null,
+      "composition_year_end": null,
+      "analysis_html": "<p>The <em>Breviary of Natural Philosophy</em> (finished 1 January 1557/8) is the principal alchemical work of Thomas Charnock (1524/6–1581), an English vernacular poem in the tradition of Thomas Norton's <em>Ordinal of Alchemy</em> (1477) and the most important English alchemical verse composition of the mid-sixteenth century. Jennifer M. Rampling, in <em>The Experimental Fire: Inventing English Alchemy, 1300–1700</em> (University of Chicago Press, 2020), describes it as a poem 'that differs from Blomfield's Blossoms in its autobiographical and discursive style, which takes Norton's Ordinal as its model rather than Ripley's more doctrinally focused Compound.' Charnock's preference for 'anecdote and racy narrative' distinguishes the <em>Breviary</em> from earlier English alchemical verse: it recounts his alchemical education, his practical experiments, his encounters with patrons and rivals, and his relationship to the tradition of Norton and Ripley in a manner more akin to confession and autobiography than to systematic instruction in alchemical theory. F. Sherwood Taylor, in his foundational article in <em>Ambix</em> (1946), identified the <em>Breviary</em> as a key document for understanding mid-sixteenth-century English alchemical practice and the social networks within which it operated.</p><p>The <em>Breviary</em> was composed in Somerset and circulated in manuscript before being published posthumously by Elias Ashmole (1617–1692) in the <em>Theatrum Chemicum Britannicum</em> (London, 1652), which served as the primary vehicle for Charnock's posthumous reputation. Ashmole's edition gave the <em>Breviary</em> canonical status alongside the works of Ripley and Norton as a monument of English alchemical verse. In the <em>Breviary</em>, Charnock positions himself as the latest in a distinguished English alchemical lineage, drawing on Norton's Ordinal as a literary and intellectual model while claiming personal experience of practical alchemical operations. Like Norton, Charnock was preoccupied with the reliability of alchemical texts and the problem of fraudulent practitioners; his autobiographical method allows him to frame these concerns through personal narrative rather than abstract instruction.</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "created_at": "2026-06-29 20:42:30",
       "concept_tags": []
     }
   ],
@@ -14115,6 +14202,32 @@
       "summary": "c. 1510 CE, Cologne: The German humanist and natural philosopher Henry Cornelius Agrippa, working in Cologne's cosmopolitan intellectual environment, begins formulating his comprehensive system of Mag"
     },
     {
+      "id": 669,
+      "slug": "john-damian-attempts-to-fly-from-stirling-castle-b",
+      "date_label": "ca. 1507 CE",
+      "date_start_year": 1507,
+      "date_end_year": null,
+      "location_slug": "edinburgh",
+      "description": "Around 1507, John Damian — court alchemist and physician to King James IV of Scotland (r. 1488–1513) and Abbot of Tungland since 1503-4 — equipped himself with a pair of wings fashioned from feathers",
+      "persons_involved": [
+        "john-damian"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "practical-alchemy",
+        "chymistry"
+      ],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH",
+      "created_at": "2026-06-29 20:35:08",
+      "scholarly_grounding": "John Read documented John Damian's attempted flight from Stirling Castle battlements and the subsequent account by Bishop Lesley and satirical poem by William Dunbar, in 'Alchemy Under James IV of Scotland,' Ambix 2:2 (1938) pp.60-67, drawing on the Accounts of the Lord High Treasurer of Scotland (vols. 1-9, Edinburgh, 1877-1916), Bishop John Lesley, History of Scotland from 1436 to 1561 (Edinburgh, 1830), and the Poems of William Dunbar (Scottish Text Society, 1893).",
+      "place_name": "Edinburgh (Stirling)",
+      "region": "Scotland",
+      "era": "EARLY_MODERN",
+      "summary": "Around 1507, John Damian — court alchemist and physician to King James IV of Scotland (r. 1488–1513) and Abbot of Tungland since 1503-4 — equipped himself with a pair of wings fashioned from feathers"
+    },
+    {
       "id": 305,
       "slug": "event_renaissance_low_countries_014",
       "date_label": "c. 1512 CE",
@@ -15827,6 +15940,34 @@
       "summary": "c. 1560 CE, Madrid: At mid-century, Madrid's university faculties formalize the teaching of alchemical theory alongside medicine and natural philosophy. Professors lecture on the principles of Operati"
     },
     {
+      "id": 673,
+      "slug": "thomas-charnock-composes-breviary-of-natural-philo",
+      "date_label": "1 January 1558 CE",
+      "date_start_year": 1558,
+      "date_end_year": null,
+      "location_slug": "london",
+      "description": "On 1 January 1557/8, Thomas Charnock (1524/6–1581) of Faversham, Kent and Somerset finished his Breviary of Natural Philosophy, the most important English alchemical verse composition of the mid-sixte",
+      "persons_involved": [
+        "thomas-charnock"
+      ],
+      "texts_involved": [
+        "breviary-of-natural-philosophy"
+      ],
+      "concepts_involved": [
+        "practical-alchemy",
+        "chrysopoeia"
+      ],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH",
+      "created_at": "2026-06-29 20:42:30",
+      "scholarly_grounding": "Jennifer M. Rampling identifies Thomas Charnock as finishing the Breviary of Natural Philosophy on 1 January 1557/8, describes its autobiographical and discursive style as distinct from Ripley and closer to Norton's Ordinal, and notes its publication in the Theatrum Chemicum Britannicum (1652), in The Experimental Fire: Inventing English Alchemy, 1300–1700 (Chicago: University of Chicago Press, 2020), pp.230–252. See also F. Sherwood Taylor, 'Thomas Charnock,' Ambix 2:3–4 (1946) pp.148–176.",
+      "place_name": "London",
+      "region": "England",
+      "era": "EARLY_MODERN",
+      "summary": "On 1 January 1557/8, Thomas Charnock (1524/6–1581) of Faversham, Kent and Somerset finished his Breviary of Natural Philosophy, the most important English alchemical verse composition of the mid-sixte"
+    },
+    {
       "id": 279,
       "slug": "event_renaissance_italy_033",
       "date_label": "c. 1564 CE",
@@ -15998,6 +16139,32 @@
       "region": "Low Countries",
       "era": "EARLY_MODERN",
       "summary": "c. 1568, Bruges: The later 16th century saw Bruges preserve an important historical archive of alchemical manuscripts and knowledge even as the city's economic and intellectual prominence declined. Th"
+    },
+    {
+      "id": 674,
+      "slug": "thomas-charnock-petitions-elizabeth-i-to-practice-",
+      "date_label": "1565–1566 CE",
+      "date_start_year": 1565,
+      "date_end_year": null,
+      "location_slug": "london",
+      "description": "In the winter of 1565/6, Thomas Charnock (1524/6–1581) composed his Booke Dedicated unto the Queenes Maiestie (British Library, MS Lansdowne 703), a lengthy petition to Queen Elizabeth I in which he r",
+      "persons_involved": [
+        "thomas-charnock"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "practical-alchemy",
+        "chrysopoeia"
+      ],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH",
+      "created_at": "2026-06-29 20:42:30",
+      "scholarly_grounding": "Jennifer M. Rampling documents Thomas Charnock's petition to Elizabeth I to practice alchemy in the Tower of London (winter 1565/6), his Booke Dedicated unto the Queenes Maiestie (British Library, MS Lansdowne 703), and the context of Elizabethan alchemical patronage in The Experimental Fire: Inventing English Alchemy, 1300–1700 (Chicago: University of Chicago Press, 2020), pp.230–252. See also Alan Pritchard, 'Thomas Charnock's Book Dedicated to Queen Elizabeth,' Ambix 26:1 (1979) pp.56–73.",
+      "place_name": "London",
+      "region": "England",
+      "era": "EARLY_MODERN",
+      "summary": "In the winter of 1565/6, Thomas Charnock (1524/6–1581) composed his Booke Dedicated unto the Queenes Maiestie (British Library, MS Lansdowne 703), a lengthy petition to Queen Elizabeth I in which he r"
     },
     {
       "id": 280,
@@ -17861,6 +18028,62 @@
       "summary": "Sir Walter Raleigh's History of the World, composed during his imprisonment in the Tower of London and published in April 1614, contained a systematic engagement with alchemy, Hermeticism, and neo-Pla"
     },
     {
+      "id": 670,
+      "slug": "publication-of-fama-fraternitatis-at-kassel-first-",
+      "date_label": "1614 CE",
+      "date_start_year": 1614,
+      "date_end_year": null,
+      "location_slug": "kassel",
+      "description": "In 1614, the Fama Fraternitatis R.C., oder Brüderschaft des Hochlöblichen Ordens des Rosenkreutzes (Fame of the Fraternity of the Rosy Cross) was published at Kassel by the printer Wilhelm Wessel, app",
+      "persons_involved": [
+        "johann-valentin-andreae"
+      ],
+      "texts_involved": [
+        "fama-fraternitatis"
+      ],
+      "concepts_involved": [
+        "hermeticism",
+        "chymistry"
+      ],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH",
+      "created_at": "2026-06-29 20:40:57",
+      "scholarly_grounding": "Carlos Gilly documents the publication of the Fama Fraternitatis (Kassel, 1614) and its manuscript transmission from ca. 1610, in Cimelia Rhodostaurotica: Die Rosenkreuzer im Spiegel der zwischen 1610 und 1660 entstandenen Handschriften und Drucke (Amsterdam: In de Pelikaan, 1995). See also Frances Yates, The Rosicrucian Enlightenment (London: Routledge & Kegan Paul, 1972), and Lawrence Principe, The Secrets of Alchemy (Chicago: University of Chicago Press, 2013), pp.147-151.",
+      "place_name": "Kassel",
+      "region": "Germany",
+      "era": "EARLY_MODERN",
+      "summary": "In 1614, the Fama Fraternitatis R.C., oder Brüderschaft des Hochlöblichen Ordens des Rosenkreutzes (Fame of the Fraternity of the Rosy Cross) was published at Kassel by the printer Wilhelm Wessel, app"
+    },
+    {
+      "id": 671,
+      "slug": "publication-of-confessio-fraternitatis-at-kassel-s",
+      "date_label": "1615 CE",
+      "date_start_year": 1615,
+      "date_end_year": null,
+      "location_slug": "kassel",
+      "description": "In 1615, the Confessio Fraternitatis R.C., ad Eruditos Europae (Confession of the Fraternity of the Rosy Cross, to the Learned of Europe) was published at Kassel as the companion manifesto to the Fama",
+      "persons_involved": [
+        "johann-valentin-andreae"
+      ],
+      "texts_involved": [
+        "confessio-fraternitatis"
+      ],
+      "concepts_involved": [
+        "hermeticism",
+        "chymistry"
+      ],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH",
+      "created_at": "2026-06-29 20:40:57",
+      "scholarly_grounding": "Carlos Gilly documents the publication of the Confessio Fraternitatis (Kassel, 1615) and its manuscript tradition, in Cimelia Rhodostaurotica: Die Rosenkreuzer im Spiegel der zwischen 1610 und 1660 entstandenen Handschriften und Drucke (Amsterdam: In de Pelikaan, 1995). See also Frances Yates, The Rosicrucian Enlightenment (London: Routledge & Kegan Paul, 1972), pp.42-58, and Lawrence Principe, The Secrets of Alchemy (Chicago: University of Chicago Press, 2013), pp.147-151.",
+      "place_name": "Kassel",
+      "region": "Germany",
+      "era": "EARLY_MODERN",
+      "summary": "In 1615, the Confessio Fraternitatis R.C., ad Eruditos Europae (Confession of the Fraternity of the Rosy Cross, to the Learned of Europe) was published at Kassel as the companion manifesto to the Fama"
+    },
+    {
       "id": 33,
       "slug": "event_maier_atalanta_001",
       "date_label": "c. 1618",
@@ -17912,6 +18135,35 @@
       "region": "Italy",
       "era": "EARLY_MODERN",
       "summary": "c. 1620, Florence: The Grand Ducal laboratory continues systematic research into mineral transformation and metal refinement, now employing increasingly sophisticated experimental protocols derived fr"
+    },
+    {
+      "id": 672,
+      "slug": "publication-of-chemical-wedding-of-christian-rosen",
+      "date_label": "1616 CE",
+      "date_start_year": 1616,
+      "date_end_year": null,
+      "location_slug": "strasbourg",
+      "description": "In 1616, Chymische Hochzeit Christiani Rosencreutz anno 1459 (Chemical Wedding of Christian Rosencreutz in the Year 1459) was published at Strasbourg from the press of Lazarus Zetzner. The work is an",
+      "persons_involved": [
+        "johann-valentin-andreae"
+      ],
+      "texts_involved": [
+        "chemical-wedding-of-christian-rosencreutz"
+      ],
+      "concepts_involved": [
+        "hermeticism",
+        "chymistry",
+        "chrysopoeia"
+      ],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH",
+      "created_at": "2026-06-29 20:40:57",
+      "scholarly_grounding": "Carlos Gilly documents the publication of the Chemical Wedding (Strasbourg, 1616) by Lazarus Zetzner and its relationship to the Rosicrucian manuscript tradition, in Cimelia Rhodostaurotica (Amsterdam: In de Pelikaan, 1995). See also Roland Edighoffer, Rose-Croix et société idéale selon Johann Valentin Andreae (Paris: Arma Artis, 1982); Frances Yates, The Rosicrucian Enlightenment (London: Routledge, 1972); Lawrence Principe, The Secrets of Alchemy (Chicago: University of Chicago Press, 2013), pp.147-151.",
+      "place_name": "Strasbourg",
+      "region": "France/Alsace",
+      "era": "EARLY_MODERN",
+      "summary": "In 1616, Chymische Hochzeit Christiani Rosencreutz anno 1459 (Chemical Wedding of Christian Rosencreutz in the Year 1459) was published at Strasbourg from the press of Lazarus Zetzner. The work is an"
     },
     {
       "id": 346,
@@ -21117,6 +21369,9 @@
         "event_early_modern_spain_portugal_002",
         "event_agrippa_writing_001"
       ],
+      "john-damian": [
+        "john-damian-attempts-to-fly-from-stirling-castle-b"
+      ],
       "johannes-augurellus": [
         "augurellus-publishes-chrysopoeia-dedicated-to-pope"
       ],
@@ -21128,6 +21383,10 @@
         "event_bruno_paris_001",
         "event_bruno_london_001",
         "event_bruno_rome_001"
+      ],
+      "thomas-charnock": [
+        "thomas-charnock-composes-breviary-of-natural-philo",
+        "thomas-charnock-petitions-elizabeth-i-to-practice-"
       ],
       "anna-zieglerin": [
         "anna-zieglerin-presents-lions-blood-recipe-to-duke",
@@ -21145,6 +21404,11 @@
       "walter-raleigh": [
         "walter-raleighs-chemical-laboratory-in-the-tower-o",
         "publication-of-raleighs-history-of-the-world"
+      ],
+      "johann-valentin-andreae": [
+        "publication-of-fama-fraternitatis-at-kassel-first-",
+        "publication-of-confessio-fraternitatis-at-kassel-s",
+        "publication-of-chemical-wedding-of-christian-rosen"
       ],
       "samuel-hartlib": [
         "kenelm-digby-establishes-alchemical-laboratory-at-",
@@ -21236,9 +21500,12 @@
         "george-ripley-composes-the-medulla-alchimiae",
         "thomas-norton-composes-the-ordinal-of-alchemy-in-b",
         "john-damian-appointed-abbot-of-tungland",
+        "john-damian-attempts-to-fly-from-stirling-castle-b",
         "pseudo-lullian-de-secretis-naturae-first-printed",
         "pantheus-publishes-ars-transmutationis-metallicae-",
         "pantheus-publishes-voarchadumia-to-circumvent-anti",
+        "thomas-charnock-composes-breviary-of-natural-philo",
+        "thomas-charnock-petitions-elizabeth-i-to-practice-",
         "artis-chemicae-principes-de-anima-in-arte-alchemia",
         "francisco-peña-publishes-annotated-edition-of-eyme",
         "ralph-rabbards-publishes-first-vernacular-alchemic",
@@ -22378,11 +22645,15 @@
       ],
       "chymistry": [
         "english-statute-against-multiplication-of-metals",
+        "john-damian-attempts-to-fly-from-stirling-castle-b",
         "publication-of-biringuccios-pirotechnia",
         "anna-zieglerin-presents-lions-blood-recipe-to-duke",
         "van-helmont-graduates-from-louvain-and-converts-to",
         "martin-del-rio-sj-publishes-disquisitionum-magicar",
         "michael-sendivogius-publishes-novum-lumen-chymicum",
+        "publication-of-fama-fraternitatis-at-kassel-first-",
+        "publication-of-confessio-fraternitatis-at-kassel-s",
+        "publication-of-chemical-wedding-of-christian-rosen",
         "kenelm-digby-establishes-alchemical-laboratory-at-",
         "trimarchi-publishes-disputationes-defending-alchem",
         "george-starkey-joins-the-hartlib-circle-and-collab",
@@ -22405,6 +22676,9 @@
         "event_bruno_london_001",
         "event_bruno_rome_001",
         "publication-of-raleighs-history-of-the-world",
+        "publication-of-fama-fraternitatis-at-kassel-first-",
+        "publication-of-confessio-fraternitatis-at-kassel-s",
+        "publication-of-chemical-wedding-of-christian-rosen",
         "staricius-publishes-first-paracelsian-theological-"
       ],
       "prisca-theologia": [
@@ -22412,6 +22686,9 @@
       ],
       "chrysopoeia": [
         "thomas-norton-composes-the-ordinal-of-alchemy-in-b",
+        "thomas-charnock-composes-breviary-of-natural-philo",
+        "thomas-charnock-petitions-elizabeth-i-to-practice-",
+        "publication-of-chemical-wedding-of-christian-rosen",
         "helvetius-witnesses-transmutation-in-the-hague-and"
       ],
       "kabbalism": [
