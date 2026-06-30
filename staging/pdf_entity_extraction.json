@@ -1,0 +1,598 @@
+{
+  "extraction_date": "2026-06-14T04:11:59.007336",
+  "total_files": 85,
+  "extraction_results": {
+    "[Ambix 1937-may vol. 1 iss. 1] The Origins of Greek Alchemy{Sherwood Taylor, F.}(1937 May)[10.1179_amb.1937.1.1.30]{35434367} libgen.li.md": {
+      "status": "success",
+      "persons_found": 1,
+      "texts_found": 2,
+      "concepts_found": 9,
+      "working_note": "staging\\pdf_working_notes\\note_[Ambix 1937-may vol. 1 iss. 1] The Origins of Greek Alchemy{Sherwood Taylor, F.}(1937 May)[10.1179_amb.1937.1.1.30]{35434367} libgen.li.md"
+    },
+    "[Ambix 1938-jun vol. 2 iss. 1] Alchemy During the First Half of the Sixteenth Century{Thorndike, Lynn}(1938 June)[10.1179_amb.1938.2.1.26]{58870187} libgen.li.md": {
+      "status": "success",
+      "persons_found": 7,
+      "texts_found": 1,
+      "concepts_found": 6,
+      "working_note": "staging\\pdf_working_notes\\note_[Ambix 1938-jun vol. 2 iss. 1] Alchemy During the First Half of the Sixteenth Century{Thorndike, Lynn}(1938 June)[10.1179_amb.1938.2.1.26]{58870187} libgen.li.md"
+    },
+    "[Ambix 1938-mar vol. 1 iss. 3] Al-Rāzī and Alchemy{Heym, Gerard}(1938 March)[10.1179_amb.1938.1.3.184]{58421108} libgen.li.md": {
+      "status": "error",
+      "error": "'charmap' codec can't encode character '\\u0101' in position 42: character maps to <undefined>"
+    },
+    "[Ambix 1938-sep vol. 2 iss. 2] Alchemy Under James IV Of Scotland 1{Read, John}(1938 September)[10.1179_amb.1938.2.2.60]{59286555} libgen.li.md": {
+      "status": "success",
+      "persons_found": 0,
+      "texts_found": 1,
+      "concepts_found": 8,
+      "working_note": "staging\\pdf_working_notes\\note_[Ambix 1938-sep vol. 2 iss. 2] Alchemy Under James IV Of Scotland 1{Read, John}(1938 September)[10.1179_amb.1938.2.2.60]{59286555} libgen.li.md"
+    },
+    "[Ambix 1946-dec vol. 2 iss. 3-4] Rhetorical and Religious Aspects of Greek Alchemy{Browne, C. A.}(1946 December)[10.1179_amb.1946.2.3-4.129]{45276956} libgen.li.md": {
+      "status": "success",
+      "persons_found": 1,
+      "texts_found": 1,
+      "concepts_found": 1,
+      "working_note": "staging\\pdf_working_notes\\note_[Ambix 1946-dec vol. 2 iss. 3-4] Rhetorical and Religious Aspects of Greek Alchemy{Browne, C. A.}(1946 December)[10.1179_amb.1946.2.3-4.129]{45276956} libgen.li.md"
+    },
+    "[Ambix 1957-aug vol. 6 iss. 1] A Licence of Henry VI to Practise Alchemy{Geoghegan, D.}(1957 August)[10.1179_amb.1957.6.1.10]{58569781} libgen.li.md": {
+      "status": "success",
+      "persons_found": 3,
+      "texts_found": 4,
+      "concepts_found": 4,
+      "working_note": "staging\\pdf_working_notes\\note_[Ambix 1957-aug vol. 6 iss. 1] A Licence of Henry VI to Practise Alchemy{Geoghegan, D.}(1957 August)[10.1179_amb.1957.6.1.10]{58569781} libgen.li.md"
+    },
+    "[Ambix 1957-dec vol. 6 iss. 2] Gnosticism and Alchemy{Sheppard, H. J.}(1957 December)[10.1179_amb.1957.6.2.86]{56291141} libgen.li.md": {
+      "status": "success",
+      "persons_found": 5,
+      "texts_found": 13,
+      "concepts_found": 13,
+      "working_note": "staging\\pdf_working_notes\\note_[Ambix 1957-dec vol. 6 iss. 2] Gnosticism and Alchemy{Sheppard, H. J.}(1957 December)[10.1179_amb.1957.6.2.86]{56291141} libgen.li.md"
+    },
+    "[Ambix 1958-aug vol. 6 iss. 3] Egg Symbolism in Alchemy{Sheppard, H. J.}(1958 August)[10.1179_amb.1958.6.3.140]{32586991} libgen.li.md": {
+      "status": "success",
+      "persons_found": 2,
+      "texts_found": 11,
+      "concepts_found": 9,
+      "working_note": "staging\\pdf_working_notes\\note_[Ambix 1958-aug vol. 6 iss. 3] Egg Symbolism in Alchemy{Sheppard, H. J.}(1958 August)[10.1179_amb.1958.6.3.140]{32586991} libgen.li.md"
+    },
+    "[Ambix 1959-feb vol. 7 iss. 1] The Redemption Theme and Hellenistic Alchemy{Sheppard, H. J.}(1959 February)[10.1179_amb.1959.7.1.42]{32619375} libgen.li.md": {
+      "status": "success",
+      "persons_found": 0,
+      "texts_found": 3,
+      "concepts_found": 8,
+      "working_note": "staging\\pdf_working_notes\\note_[Ambix 1959-feb vol. 7 iss. 1] The Redemption Theme and Hellenistic Alchemy{Sheppard, H. J.}(1959 February)[10.1179_amb.1959.7.1.42]{32619375} libgen.li.md"
+    },
+    "[Ambix 1961-oct vol. 9 iss. 3] The Beginning of Arab Alchemy{Haschmi, Mohamed Yahia}(1961 October)[10.1179_amb.1961.9.3.155]{45244713} libgen.li.md": {
+      "status": "success",
+      "persons_found": 1,
+      "texts_found": 16,
+      "concepts_found": 5,
+      "working_note": "staging\\pdf_working_notes\\note_[Ambix 1961-oct vol. 9 iss. 3] The Beginning of Arab Alchemy{Haschmi, Mohamed Yahia}(1961 October)[10.1179_amb.1961.9.3.155]{45244713} libgen.li.md"
+    },
+    "[Ambix 1962-jun vol. 10 iss. 2] The Ouroboros and the Unity of Matter in Alchemy_ A Study in Origins{Sheppard, H. J.}(1962 June)[10.1179_amb.1962.10.2.83]{57382180} libgen.li.md": {
+      "status": "success",
+      "persons_found": 2,
+      "texts_found": 17,
+      "concepts_found": 10,
+      "working_note": "staging\\pdf_working_notes\\note_[Ambix 1962-jun vol. 10 iss. 2] The Ouroboros and the Unity of Matter in Alchemy_ A Study in Origins{Sheppard, H. J.}(1962 June)[10.1179_amb.1962.10.2.83]{57382180} libgen.li.md"
+    },
+    "[Ambix 1966-jun vol. 13 iss. 2] ALCHEMY AND THE SIXTEENTH CENTURY METALLURGISTS{LANGE, ERWIN F.}(1966 June)[10.1179_amb.2013.13.2.004]{58898558} libgen.li.md": {
+      "status": "success",
+      "persons_found": 5,
+      "texts_found": 2,
+      "concepts_found": 5,
+      "working_note": "staging\\pdf_working_notes\\note_[Ambix 1966-jun vol. 13 iss. 2] ALCHEMY AND THE SIXTEENTH CENTURY METALLURGISTS{LANGE, ERWIN F.}(1966 June)[10.1179_amb.2013.13.2.004]{58898558} libgen.li.md"
+    },
+    "[Ambix 1966-oct vol. 13 iss. 3] Alchemy and Natural Magic in Raleigh&_039_s “History of the World”{Rattansi, P. M.}(1966 October)[10.1179_amb.1966.13.3.122]{60702914} libgen.li.md": {
+      "status": "success",
+      "persons_found": 10,
+      "texts_found": 21,
+      "concepts_found": 11,
+      "working_note": "staging\\pdf_working_notes\\note_[Ambix 1966-oct vol. 13 iss. 3] Alchemy and Natural Magic in Raleigh&_039_s “History of the World”{Rattansi, P. M.}(1966 October)[10.1179_amb.1966.13.3.122]{60702914} libgen.li.md"
+    },
+    "[Ambix 1973-nov vol. 20 iss. 3] Studies in the Natural Philosophy of Sir Kenelm Digby Part II. Digby and Alchemy{Dobbs, Betty Jo}(1973 November)[10.1179_amb.1973.20.3.143]{35783430} libgen.li.md": {
+      "status": "success",
+      "persons_found": 12,
+      "texts_found": 24,
+      "concepts_found": 12,
+      "working_note": "staging\\pdf_working_notes\\note_[Ambix 1973-nov vol. 20 iss. 3] Studies in the Natural Philosophy of Sir Kenelm Digby Part II. Digby and Alchemy{Dobbs, Betty Jo}(1973 November)[10.1179_amb.1973.20.3.143]{35783430} libgen.li.md"
+    },
+    "[Ambix 1975-jul vol. 22 iss. 2] Alchemy and Greene&_039_s Friar Bacon and Friar Bungay{Veach Sadler, Lynn}(1975 July)[10.1179_amb.1975.22.2.111]{58773237} libgen.li.md": {
+      "status": "success",
+      "persons_found": 2,
+      "texts_found": 29,
+      "concepts_found": 14,
+      "working_note": "staging\\pdf_working_notes\\note_[Ambix 1975-jul vol. 22 iss. 2] Alchemy and Greene&_039_s Friar Bacon and Friar Bungay{Veach Sadler, Lynn}(1975 July)[10.1179_amb.1975.22.2.111]{58773237} libgen.li.md"
+    },
+    "[Ambix 1976-mar vol. 23 iss. 1] Roger Bacon&_039_s Place in the History of Alchemy{Brehm, Edmund}(1976 March)[10.1179_000269876790223568]{55797549} libgen.li.md": {
+      "status": "success",
+      "persons_found": 2,
+      "texts_found": 4,
+      "concepts_found": 9,
+      "working_note": "staging\\pdf_working_notes\\note_[Ambix 1976-mar vol. 23 iss. 1] Roger Bacon&_039_s Place in the History of Alchemy{Brehm, Edmund}(1976 March)[10.1179_000269876790223568]{55797549} libgen.li.md"
+    },
+    "[Ambix 1976-nov vol. 23 iss. 3] Early Terms for Elixir Hitherto Unrecognized in Greek Alchemy{Mahdihassan, S.}(1976 November)[10.1179_amb.1976.23.3.129]{35787764} libgen.li.md": {
+      "status": "success",
+      "persons_found": 0,
+      "texts_found": 15,
+      "concepts_found": 5,
+      "working_note": "staging\\pdf_working_notes\\note_[Ambix 1976-nov vol. 23 iss. 3] Early Terms for Elixir Hitherto Unrecognized in Greek Alchemy{Mahdihassan, S.}(1976 November)[10.1179_amb.1976.23.3.129]{35787764} libgen.li.md"
+    },
+    "[Ambix 1977-nov vol. 24 iss. 3] Elixirs of Mineral Orgin in Greek Alchemy{Mahdihassan, S.}(1977 November)[10.1179_amb.1977.24.3.133]{45227268} libgen.li.md": {
+      "status": "success",
+      "persons_found": 0,
+      "texts_found": 12,
+      "concepts_found": 8,
+      "working_note": "staging\\pdf_working_notes\\note_[Ambix 1977-nov vol. 24 iss. 3] Elixirs of Mineral Orgin in Greek Alchemy{Mahdihassan, S.}(1977 November)[10.1179_amb.1977.24.3.133]{45227268} libgen.li.md"
+    },
+    "[Ambix 1982-nov vol. 29 iss. 3] Maria the Jewess–Founding Mother of Alchemy{Patai, Raphael}(1982 November)[10.1179_amb.1982.29.3.177]{55667008} libgen.li.md": {
+      "status": "success",
+      "persons_found": 13,
+      "texts_found": 30,
+      "concepts_found": 14,
+      "working_note": "staging\\pdf_working_notes\\note_[Ambix 1982-nov vol. 29 iss. 3] Maria the Jewess–Founding Mother of Alchemy{Patai, Raphael}(1982 November)[10.1179_amb.1982.29.3.177]{55667008} libgen.li.md"
+    },
+    "[Ambix 1984-nov vol. 31 iss. 3] Alchemy and Eschatology in Seventeenth-Century Poetry{Linden, Stanton J.}(1984 November)[10.1179_amb.1984.31.3.102]{41363541} libgen.li.md": {
+      "status": "success",
+      "persons_found": 7,
+      "texts_found": 30,
+      "concepts_found": 23,
+      "working_note": "staging\\pdf_working_notes\\note_[Ambix 1984-nov vol. 31 iss. 3] Alchemy and Eschatology in Seventeenth-Century Poetry{Linden, Stanton J.}(1984 November)[10.1179_amb.1984.31.3.102]{41363541} libgen.li.md"
+    },
+    "[Ambix 1985-nov vol. 32 iss. 3] Alchemy and Melancholy in Medieval and Renaissance Thought_ a Query into the Mystical Basis of th...{Brann, Noel L.}(1985 November)[10.1179_amb.1985.32.3.127]{35340246} libgen.li.md": {
+      "status": "success",
+      "persons_found": 4,
+      "texts_found": 30,
+      "concepts_found": 16,
+      "working_note": "staging\\pdf_working_notes\\note_[Ambix 1985-nov vol. 32 iss. 3] Alchemy and Melancholy in Medieval and Renaissance Thought_ a Query into the Mystical Basis of th...{Brann, Noel L.}(1985 November)[10.1179_amb.1985.32.3.127]{35340246} libgen.li.md"
+    },
+    "[Ambix 1987-mar vol. 34 iss. 1] Democritus and the Beginnings of Greek Alchemy{Hershbell, Jackson P.}(1987 March)[10.1179_amb.1987.34.1.5]{48054376} libgen.li.md": {
+      "status": "success",
+      "persons_found": 1,
+      "texts_found": 30,
+      "concepts_found": 3,
+      "working_note": "staging\\pdf_working_notes\\note_[Ambix 1987-mar vol. 34 iss. 1] Democritus and the Beginnings of Greek Alchemy{Hershbell, Jackson P.}(1987 March)[10.1179_amb.1987.34.1.5]{48054376} libgen.li.md"
+    },
+    "[Ambix 1987-nov vol. 34 iss. 3] Alchemy and the World of Science_ an Intellectual Biography of Frank Sherwood Taylor{Simcock, A. V.}(1987 November)[10.1179_amb.1987.34.3.121]{55667015} libgen.li.md": {
+      "status": "success",
+      "persons_found": 7,
+      "texts_found": 30,
+      "concepts_found": 7,
+      "working_note": "staging\\pdf_working_notes\\note_[Ambix 1987-nov vol. 34 iss. 3] Alchemy and the World of Science_ an Intellectual Biography of Frank Sherwood Taylor{Simcock, A. V.}(1987 November)[10.1179_amb.1987.34.3.121]{55667015} libgen.li.md"
+    },
+    "[Ambix 1990-mar vol. 37 iss. 1] The Study of Spiritual Alchemy_ Mysticism, Gold-Making, and Esoteric Hermeneutics{Merkur, Daniel}(1990 March)[10.1179_amb.1990.37.1.35]{34608532} libgen.li.md": {
+      "status": "success",
+      "persons_found": 2,
+      "texts_found": 25,
+      "concepts_found": 13,
+      "working_note": "staging\\pdf_working_notes\\note_[Ambix 1990-mar vol. 37 iss. 1] The Study of Spiritual Alchemy_ Mysticism, Gold-Making, and Esoteric Hermeneutics{Merkur, Daniel}(1990 March)[10.1179_amb.1990.37.1.35]{34608532} libgen.li.md"
+    },
+    "[Ambix 1990-nov vol. 37 iss. 3] Prophecy and Alchemy_ The Origin of Eirenaeus Philalethes{Newman, William}(1990 November)[10.1179_amb.1990.37.3.97]{64088585} libgen.li.md": {
+      "status": "success",
+      "persons_found": 2,
+      "texts_found": 30,
+      "concepts_found": 8,
+      "working_note": "staging\\pdf_working_notes\\note_[Ambix 1990-nov vol. 37 iss. 3] Prophecy and Alchemy_ The Origin of Eirenaeus Philalethes{Newman, William}(1990 November)[10.1179_amb.1990.37.3.97]{64088585} libgen.li.md"
+    },
+    "[Ambix 1993-jul vol. 40 iss. 2] Alchemy and the Society of Jesus in the Seventeenth Century_ Strange Bedfellows_{Baldwin, Martha}(1993 July)[10.1179_amb.1993.40.2.41]{55759764} libgen.li.md": {
+      "status": "success",
+      "persons_found": 10,
+      "texts_found": 4,
+      "concepts_found": 12,
+      "working_note": "staging\\pdf_working_notes\\note_[Ambix 1993-jul vol. 40 iss. 2] Alchemy and the Society of Jesus in the Seventeenth Century_ Strange Bedfellows_{Baldwin, Martha}(1993 July)[10.1179_amb.1993.40.2.41]{55759764} libgen.li.md"
+    },
+    "[Ambix 1993-nov vol. 40 iss. 3] The Alchemy of Michael Sendivogius_ His Central Nitre Theory{Szydło, Zbigniew}(1993 November)[10.1179_amb.1993.40.3.129]{59066579} libgen.li.md": {
+      "status": "success",
+      "persons_found": 4,
+      "texts_found": 7,
+      "concepts_found": 12,
+      "working_note": "staging\\pdf_working_notes\\note_[Ambix 1993-nov vol. 40 iss. 3] The Alchemy of Michael Sendivogius_ His Central Nitre Theory{Szydło, Zbigniew}(1993 November)[10.1179_amb.1993.40.3.129]{59066579} libgen.li.md"
+    },
+    "[Ambix 1994-nov vol. 41 iss. 3] Islamic Alchemy According to Al-Khwarizmi{Ryding, Karin C.}(1994 November)[10.1179_amb.1994.41.3.121]{35941439} libgen.li.md": {
+      "status": "success",
+      "persons_found": 3,
+      "texts_found": 5,
+      "concepts_found": 13,
+      "working_note": "staging\\pdf_working_notes\\note_[Ambix 1994-nov vol. 41 iss. 3] Islamic Alchemy According to Al-Khwarizmi{Ryding, Karin C.}(1994 November)[10.1179_amb.1994.41.3.121]{35941439} libgen.li.md"
+    },
+    "[Ambix 2004-nov vol. 51 iss. 3] Alchemy and the Renaissance Commentary Tradition on Meteorologica ...{Martin, Craig}(2004 November)[10.1179_amb.2004.51.3.245]{36476583} libgen.li.md": {
+      "status": "success",
+      "persons_found": 8,
+      "texts_found": 4,
+      "concepts_found": 8,
+      "working_note": "staging\\pdf_working_notes\\note_[Ambix 2004-nov vol. 51 iss. 3] Alchemy and the Renaissance Commentary Tradition on Meteorologica ...{Martin, Craig}(2004 November)[10.1179_amb.2004.51.3.245]{36476583} libgen.li.md"
+    },
+    "[Ambix 2007-mar vol. 54 iss. 1] Alchemy and Early Modern Chemistry_ Papers from Ambix . Edited by Allen G. D...{Clucas, Stephen}(2007 March)[10.1179_174582307X169890]{48790620} libgen.li.md": {
+      "status": "success",
+      "persons_found": 2,
+      "texts_found": 0,
+      "concepts_found": 4,
+      "working_note": "staging\\pdf_working_notes\\note_[Ambix 2007-mar vol. 54 iss. 1] Alchemy and Early Modern Chemistry_ Papers from Ambix . Edited by Allen G. D...{Clucas, Stephen}(2007 March)[10.1179_174582307X169890]{48790620} libgen.li.md"
+    },
+    "[Ambix 2008-nov vol. 55 iss. 3] Establishing the Canon_ George Ripley and his Alchemical Sources{Rampling, Jennifer M.}(2008 November)[10.1179_174582308x358114]{36095848} libgen.li.md": {
+      "status": "success",
+      "persons_found": 14,
+      "texts_found": 0,
+      "concepts_found": 10,
+      "working_note": "staging\\pdf_working_notes\\note_[Ambix 2008-nov vol. 55 iss. 3] Establishing the Canon_ George Ripley and his Alchemical Sources{Rampling, Jennifer M.}(2008 November)[10.1179_174582308x358114]{36095848} libgen.li.md"
+    },
+    "[Ambix 2009-mar vol. 56 iss. 1] Some Considerations Concerning the Alchemy of the De anima in arte alchemiae...{Moureau, Sébastien}(2009 March)[10.1179_174582309X405228]{35786539} libgen.li.md": {
+      "status": "success",
+      "persons_found": 5,
+      "texts_found": 0,
+      "concepts_found": 8,
+      "working_note": "staging\\pdf_working_notes\\note_[Ambix 2009-mar vol. 56 iss. 1] Some Considerations Concerning the Alchemy of the De anima in arte alchemiae...{Moureau, Sébastien}(2009 March)[10.1179_174582309X405228]{35786539} libgen.li.md"
+    },
+    "[Ambix 2009-mar vol. 56 iss. 1] The Ars alchemie _ the First Latin Text on Practical Alchemy{Vinciguerra, Antony}(2009 March)[10.1179_174582309X405237]{49076540} libgen.li.md": {
+      "status": "success",
+      "persons_found": 2,
+      "texts_found": 0,
+      "concepts_found": 4,
+      "working_note": "staging\\pdf_working_notes\\note_[Ambix 2009-mar vol. 56 iss. 1] The Ars alchemie _ the First Latin Text on Practical Alchemy{Vinciguerra, Antony}(2009 March)[10.1179_174582309X405237]{49076540} libgen.li.md"
+    },
+    "[Ambix 2009-nov vol. 56 iss. 3] Textual Alchemy_ The Transformation of Pseudo-Albertus Magnus&_039_s Semita Recta...{Grund, Peter}(2009 November)[10.1179_000269809x12529013496257]{36853483} libgen.li.md": {
+      "status": "success",
+      "persons_found": 4,
+      "texts_found": 0,
+      "concepts_found": 12,
+      "working_note": "staging\\pdf_working_notes\\note_[Ambix 2009-nov vol. 56 iss. 3] Textual Alchemy_ The Transformation of Pseudo-Albertus Magnus&_039_s Semita Recta...{Grund, Peter}(2009 November)[10.1179_000269809x12529013496257]{36853483} libgen.li.md"
+    },
+    "[Ambix 2010-jul vol. 57 iss. 2] The Catalogue of the Ripley Corpus_ Alchemical Writings Attributed to George Ripley (d. ca. 1490){Rampling, Jennifer M.}(2010 July)[10.1179_174582310X12719003720322]{48774049} libgen.li.md": {
+      "status": "success",
+      "persons_found": 20,
+      "texts_found": 0,
+      "concepts_found": 16,
+      "working_note": "staging\\pdf_working_notes\\note_[Ambix 2010-jul vol. 57 iss. 2] The Catalogue of the Ripley Corpus_ Alchemical Writings Attributed to George Ripley (d. ca. 1490){Rampling, Jennifer M.}(2010 July)[10.1179_174582310X12719003720322]{48774049} libgen.li.md"
+    },
+    "[Ambix 2011-nov vol. 58 iss. 3] Some Recent Developments in the Historiography of Alchemy{Martinón-Torres, Marcos}(2011 November)[10.1179_174582311X13129418299063]{48352086} libgen.li.md": {
+      "status": "success",
+      "persons_found": 8,
+      "texts_found": 0,
+      "concepts_found": 10,
+      "working_note": "staging\\pdf_working_notes\\note_[Ambix 2011-nov vol. 58 iss. 3] Some Recent Developments in the Historiography of Alchemy{Martinón-Torres, Marcos}(2011 November)[10.1179_174582311X13129418299063]{48352086} libgen.li.md"
+    },
+    "[Ambix 2013-aug vol. 60 iss. 3] Alchemy in Early Modern England The Arch-Conjuror of England. John Dee ...{Hedesan, Georgiana}(2013 August)[10.1179_0002698013Z.00000000034]{48965692} libgen.li.md": {
+      "status": "success",
+      "persons_found": 0,
+      "texts_found": 0,
+      "concepts_found": 1,
+      "working_note": "staging\\pdf_working_notes\\note_[Ambix 2013-aug vol. 60 iss. 3] Alchemy in Early Modern England The Arch-Conjuror of England. John Dee ...{Hedesan, Georgiana}(2013 August)[10.1179_0002698013Z.00000000034]{48965692} libgen.li.md"
+    },
+    "[Ambix 2013-feb vol. 60 iss. 1] New Developments for Ambix{Rampling, Jennifer M.}(2013 February)[10.1179_0002698012z.00000000023]{48620257} libgen.li.md": {
+      "status": "success",
+      "persons_found": 0,
+      "texts_found": 0,
+      "concepts_found": 2,
+      "working_note": "staging\\pdf_working_notes\\note_[Ambix 2013-feb vol. 60 iss. 1] New Developments for Ambix{Rampling, Jennifer M.}(2013 February)[10.1179_0002698012z.00000000023]{48620257} libgen.li.md"
+    },
+    "[Ambix 2014-oct 27 vol. 61 iss. 4] Reviews{Martelli, Matteo_ Timmermann, Anke_ Cislo, Amy Eisen_ Simon, Jonathan_ Vijvers, Willem_ Laszlo, P}...(2014 October 27)[10.1179_0002698014z.00000000067]{49488240} libgen.li.md": {
+      "status": "success",
+      "persons_found": 7,
+      "texts_found": 0,
+      "concepts_found": 3,
+      "working_note": "staging\\pdf_working_notes\\note_[Ambix 2014-oct 27 vol. 61 iss. 4] Reviews{Martelli, Matteo_ Timmermann, Anke_ Cislo, Amy Eisen_ Simon, Jonathan_ Vijvers, Willem_ Laszlo, P}...(2014 October 27)[10.1179_0002698014z.00000000067]{49488240} libgen.li.md"
+    },
+    "[Ambix 2015-oct 02 vol. 62 iss. 4] Chemical Knowledge in Transit{Alfonso-Goldfarb, Ana Maria_ Chang, Hasok_ Ferraz, Marcia H. M._ Rampling, Jennifer M._ Waisse, S}...(2015 October 02)[10.1080_00026980.2015.1129852]{57.md": {
+      "status": "success",
+      "persons_found": 1,
+      "texts_found": 0,
+      "concepts_found": 3,
+      "working_note": "staging\\pdf_working_notes\\note_[Ambix 2015-oct 02 vol. 62 iss. 4] Chemical Knowledge in Transit{Alfonso-Goldfarb, Ana Maria_ Chang, Hasok_ Ferraz, Marcia H. M._ Rampling, Jennifer M._ Waisse, S}...(2015 October 02)[10.1080_00026980.2015.1129852]{57.md"
+    },
+    "[Ambix 2016-jul 02 vol. 63 iss. 3] The Englishing of Medieval Alchemy{Rampling, Jennifer M.}(2016 July 02)[10.1080_00026980.2016.1256108]{69187244} libgen.li.md": {
+      "status": "success",
+      "persons_found": 2,
+      "texts_found": 0,
+      "concepts_found": 3,
+      "working_note": "staging\\pdf_working_notes\\note_[Ambix 2016-jul 02 vol. 63 iss. 3] The Englishing of Medieval Alchemy{Rampling, Jennifer M.}(2016 July 02)[10.1080_00026980.2016.1256108]{69187244} libgen.li.md"
+    },
+    "[Ambix 2017-oct 02 vol. 64 iss. 4] The Future of the History of Chemistry{Rampling, Jennifer M.}(2017 October 02)[10.1080_00026980.2017.1434970]{75381680} libgen.li.md": {
+      "status": "success",
+      "persons_found": 3,
+      "texts_found": 0,
+      "concepts_found": 4,
+      "working_note": "staging\\pdf_working_notes\\note_[Ambix 2017-oct 02 vol. 64 iss. 4] The Future of the History of Chemistry{Rampling, Jennifer M.}(2017 October 02)[10.1080_00026980.2017.1434970]{75381680} libgen.li.md"
+    },
+    "[Ambix 2018-apr 03 vol. 65 iss. 2] The Duke, the Soldier of Fortune, and a Rosicrucian Legacy_ Exploring the Roles of Manuscripts in...{Zuber, Mike A.}(2018 April 03)[10.1080_00026980.2018.1471778]{75785124} libgen.li.md": {
+      "status": "success",
+      "persons_found": 16,
+      "texts_found": 0,
+      "concepts_found": 5,
+      "working_note": "staging\\pdf_working_notes\\note_[Ambix 2018-apr 03 vol. 65 iss. 2] The Duke, the Soldier of Fortune, and a Rosicrucian Legacy_ Exploring the Roles of Manuscripts in...{Zuber, Mike A.}(2018 April 03)[10.1080_00026980.2018.1471778]{75785124} libgen.li.md"
+    },
+    "[Ambix 2018-jul 03 vol. 65 iss. 3] Alchemy and the Mendicant Orders of Late Medieval and Early Modern Europe{Campbell, Andrew_ Gianfrancesco, Lorenza_ Tarrant, Neil}(2018 July 03)[10.1080_00026980.2018.1512778]{784569.md": {
+      "status": "success",
+      "persons_found": 3,
+      "texts_found": 0,
+      "concepts_found": 10,
+      "working_note": "staging\\pdf_working_notes\\note_[Ambix 2018-jul 03 vol. 65 iss. 3] Alchemy and the Mendicant Orders of Late Medieval and Early Modern Europe{Campbell, Andrew_ Gianfrancesco, Lorenza_ Tarrant, Neil}(2018 July 03)[10.1080_00026980.2018.1512778]{784569.md"
+    },
+    "[Ambix 2020-jan 02 vol. 67 iss. 1] Cross and Crucible_ Alchemy in the Theology of Paracelsus{Gantenbein, Urs Leo}(2020 January 02)[10.1080_00026980.2020.1723944]{86849607} libgen.li.md": {
+      "status": "success",
+      "persons_found": 6,
+      "texts_found": 0,
+      "concepts_found": 7,
+      "working_note": "staging\\pdf_working_notes\\note_[Ambix 2020-jan 02 vol. 67 iss. 1] Cross and Crucible_ Alchemy in the Theology of Paracelsus{Gantenbein, Urs Leo}(2020 January 02)[10.1080_00026980.2020.1723944]{86849607} libgen.li.md"
+    },
+    "[Ambix 2020-sep 18 vol. 67 iss. 4] The Historic Role of Alchemy in the Holy Roman Empire{Janacek, Bruce}(2020 September 18)[10.1080_00026980.2020.1806518]{89370298} libgen.li.md": {
+      "status": "success",
+      "persons_found": 0,
+      "texts_found": 0,
+      "concepts_found": 2,
+      "working_note": "staging\\pdf_working_notes\\note_[Ambix 2020-sep 18 vol. 67 iss. 4] The Historic Role of Alchemy in the Holy Roman Empire{Janacek, Bruce}(2020 September 18)[10.1080_00026980.2020.1806518]{89370298} libgen.li.md"
+    },
+    "[Ambix 2021-jul 3 vol. 68 iss. 2-3] The Influence of Louvain Teaching on Jan Baptist Van Helmont’s Adoption of Paracelsianism and Alc...{Hedesan, Georgiana D. (author)}(2021 July 3, Informa UK Limited)[10.1080_0002698.md": {
+      "status": "success",
+      "persons_found": 20,
+      "texts_found": 0,
+      "concepts_found": 9,
+      "working_note": "staging\\pdf_working_notes\\note_[Ambix 2021-jul 3 vol. 68 iss. 2-3] The Influence of Louvain Teaching on Jan Baptist Van Helmont’s Adoption of Paracelsianism and Alc...{Hedesan, Georgiana D. (author)}(2021 July 3, Informa UK Limited)[10.1080_0002698.md"
+    },
+    "[BJHS Themes 2020-dec 08 vol. 5] Reading alchemically_ guides to â__philosophicalâ__ practice in early modern England{Rampling, Jennifer M.}(2020 December 08)[10.1017_bjt.2020.3]{90919177} libgen.li.md": {
+      "status": "success",
+      "persons_found": 9,
+      "texts_found": 0,
+      "concepts_found": 7,
+      "working_note": "staging\\pdf_working_notes\\note_[BJHS Themes 2020-dec 08 vol. 5] Reading alchemically_ guides to â__philosophicalâ__ practice in early modern England{Rampling, Jennifer M.}(2020 December 08)[10.1017_bjt.2020.3]{90919177} libgen.li.md"
+    },
+    "[Early Science and Medicine vol. 17 iss. 5] Introduction Alchemy on the Fringes_ Communication and Practice at the Peripheries of Early Moder...{Bobory, Dóra_ Rampling, Jennifer M.}(2012)[10.1163_15733823-175000A1]{48.md": {
+      "status": "success",
+      "persons_found": 12,
+      "texts_found": 5,
+      "concepts_found": 9,
+      "working_note": "staging\\pdf_working_notes\\note_[Early Science and Medicine vol. 17 iss. 5] Introduction Alchemy on the Fringes_ Communication and Practice at the Peripheries of Early Moder...{Bobory, Dóra_ Rampling, Jennifer M.}(2012)[10.1163_15733823-175000A1]{48.md"
+    },
+    "[Early Science and Medicine vol. 17 iss. 5] Transmission and Transmutation_ George Ripley and the Place of English Alchemy in Early Modern Eu...{Rampling, Jennifer M.}(2012)[10.1163_15733823-175000a2]{54826431} libgen.md": {
+      "status": "success",
+      "persons_found": 20,
+      "texts_found": 0,
+      "concepts_found": 10,
+      "working_note": "staging\\pdf_working_notes\\note_[Early Science and Medicine vol. 17 iss. 5] Transmission and Transmutation_ George Ripley and the Place of English Alchemy in Early Modern Eu...{Rampling, Jennifer M.}(2012)[10.1163_15733823-175000a2]{54826431} libgen.md"
+    },
+    "[Early Science and Medicine vol. 18 iss. 1-2] Depicting the Medieval Alchemical Cosmos{Rampling, Jennifer M.}(2013)[10.1163_15733823-0003A0003]{49261483} libgen.li.md": {
+      "status": "success",
+      "persons_found": 10,
+      "texts_found": 30,
+      "concepts_found": 19,
+      "working_note": "staging\\pdf_working_notes\\note_[Early Science and Medicine vol. 18 iss. 1-2] Depicting the Medieval Alchemical Cosmos{Rampling, Jennifer M.}(2013)[10.1163_15733823-0003A0003]{49261483} libgen.li.md"
+    },
+    "[Guide to imagery] J. Paul Getty Museum._Battistini, Matilde - Astrology, Magic, and Alchemy in Art (2007) - libgen.li.md": {
+      "status": "success",
+      "persons_found": 4,
+      "texts_found": 0,
+      "concepts_found": 8,
+      "working_note": "staging\\pdf_working_notes\\note_[Guide to imagery] J. Paul Getty Museum._Battistini, Matilde - Astrology, Magic, and Alchemy in Art (2007) - libgen.li.md"
+    },
+    "[Journal of the History of Ideas vol. 69 iss. 3] A Virtuoso’s History_ Antiquarianism and the Transmission of Knowledge in the Alchemical Studies ...{Bruce Janacek,}(2008)[10.1353_jhi.0.0007]{27654108} libgen.li.md": {
+      "status": "success",
+      "persons_found": 8,
+      "texts_found": 0,
+      "concepts_found": 6,
+      "working_note": "staging\\pdf_working_notes\\note_[Journal of the History of Ideas vol. 69 iss. 3] A Virtuoso’s History_ Antiquarianism and the Transmission of Knowledge in the Alchemical Studies ...{Bruce Janacek,}(2008)[10.1353_jhi.0.0007]{27654108} libgen.li.md"
+    },
+    "[Kritikon Litterarum 2014-jan 01 vol. 41 iss. 1-2] Nicolas de Villiers, sieur de Chandoux. Lettres sur l’or potable, suivies du traité De la connais...{Gagnon, Claude}(2014 January 01)[10.1515_kl-2014-0006]{46775182} .md": {
+      "status": "success",
+      "persons_found": 0,
+      "texts_found": 0,
+      "concepts_found": 0,
+      "working_note": "staging\\pdf_working_notes\\note_[Kritikon Litterarum 2014-jan 01 vol. 41 iss. 1-2] Nicolas de Villiers, sieur de Chandoux. Lettres sur l’or potable, suivies du traité De la connais...{Gagnon, Claude}(2014 January 01)[10.1515_kl-2014-0006]{46775182} .md"
+    },
+    "[Metascience 2021-jul vol. 30 iss. 2] Alchemical reading in action_ Jennifer M. Rampling_ The experimental fire_ inventing English alch...{Rampling, Jennifer M. (author)}(2021 July, Springer Science and Business Media.md": {
+      "status": "success",
+      "persons_found": 0,
+      "texts_found": 0,
+      "concepts_found": 8,
+      "working_note": "staging\\pdf_working_notes\\note_[Metascience 2021-jul vol. 30 iss. 2] Alchemical reading in action_ Jennifer M. Rampling_ The experimental fire_ inventing English alch...{Rampling, Jennifer M. (author)}(2021 July, Springer Science and Business Media.md"
+    },
+    "[Metascience 2021-jul vol. 30 iss. 2] Playing with (experimental) fire_ Jennifer M. Rampling_ The experimental fire_ inventing English ...{Clucas, Stephen (author)}(2021 July, Springer Science and Business Media LLC)[.md": {
+      "status": "success",
+      "persons_found": 5,
+      "texts_found": 0,
+      "concepts_found": 4,
+      "working_note": "staging\\pdf_working_notes\\note_[Metascience 2021-jul vol. 30 iss. 2] Playing with (experimental) fire_ Jennifer M. Rampling_ The experimental fire_ inventing English ...{Clucas, Stephen (author)}(2021 July, Springer Science and Business Media LLC)[.md"
+    },
+    "[Metascience 2021-jul vol. 30 iss. 2] Rampling and the Ripley Corpus_ Jennifer M. Rampling_ The experimental fire_ inventing English al...{Newman, William R. (author)}(2021 July, Springer Science and Business Media LL.md": {
+      "status": "success",
+      "persons_found": 1,
+      "texts_found": 0,
+      "concepts_found": 3,
+      "working_note": "staging\\pdf_working_notes\\note_[Metascience 2021-jul vol. 30 iss. 2] Rampling and the Ripley Corpus_ Jennifer M. Rampling_ The experimental fire_ inventing English al...{Newman, William R. (author)}(2021 July, Springer Science and Business Media LL.md"
+    },
+    "[Nature 2012-oct 31 vol. 491 iss. 7422] History_ Realms of gold{Rampling, Jennifer}(2012 October 31)[10.1038_491038a]{70198936} libgen.li.md": {
+      "status": "success",
+      "persons_found": 2,
+      "texts_found": 0,
+      "concepts_found": 8,
+      "working_note": "staging\\pdf_working_notes\\note_[Nature 2012-oct 31 vol. 491 iss. 7422] History_ Realms of gold{Rampling, Jennifer}(2012 October 31)[10.1038_491038a]{70198936} libgen.li.md"
+    },
+    "[Nature 2014-apr 02 vol. 508 iss. 7494] Tudor technology_ Shakespeare and science{Rampling, Jennifer}(2014 April 02)[10.1038_508039a]{29587256} libgen.li.md": {
+      "status": "success",
+      "persons_found": 0,
+      "texts_found": 0,
+      "concepts_found": 1,
+      "working_note": "staging\\pdf_working_notes\\note_[Nature 2014-apr 02 vol. 508 iss. 7494] Tudor technology_ Shakespeare and science{Rampling, Jennifer}(2014 April 02)[10.1038_508039a]{29587256} libgen.li.md"
+    },
+    "[Nature 2015-apr 08 vol. 520 iss. 7546] History_ Women at the edge of science{Rampling, Jennifer}(2015 April 08)[10.1038_520154a]{45125642} libgen.li.md": {
+      "status": "success",
+      "persons_found": 0,
+      "texts_found": 0,
+      "concepts_found": 2,
+      "working_note": "staging\\pdf_working_notes\\note_[Nature 2015-apr 08 vol. 520 iss. 7546] History_ Women at the edge of science{Rampling, Jennifer}(2015 April 08)[10.1038_520154a]{45125642} libgen.li.md"
+    },
+    "[Nature 2015-nov 11 vol. 527 iss. 7577] History of science_ Trial by gender{Rampling, Jennifer}(2015 November 11)[10.1038_527164a]{57077537} libgen.li.md": {
+      "status": "success",
+      "persons_found": 0,
+      "texts_found": 0,
+      "concepts_found": 1,
+      "working_note": "staging\\pdf_working_notes\\note_[Nature 2015-nov 11 vol. 527 iss. 7577] History of science_ Trial by gender{Rampling, Jennifer}(2015 November 11)[10.1038_527164a]{57077537} libgen.li.md"
+    },
+    "[Nature 2019-jan 29 vol. 565 iss. 7741] More than 2,000 years of elements_ a prehistory of the periodic table{Rampling, Jennifer}(2019 January 29)[10.1038_d41586-019-00289-5]{82987209} libgen.li.md": {
+      "status": "success",
+      "persons_found": 3,
+      "texts_found": 0,
+      "concepts_found": 4,
+      "working_note": "staging\\pdf_working_notes\\note_[Nature 2019-jan 29 vol. 565 iss. 7741] More than 2,000 years of elements_ a prehistory of the periodic table{Rampling, Jennifer}(2019 January 29)[10.1038_d41586-019-00289-5]{82987209} libgen.li.md"
+    },
+    "[Nuncius vol. 26 iss. 2] Greek Alchemists at Work_ &_039_Alchemical Laboratory&_039_ in the Greco-Roman Egypt{Martelli, Matteo}(2011)[10.1163_182539111x596630]{54826675} libgen.li.md": {
+      "status": "success",
+      "persons_found": 13,
+      "texts_found": 0,
+      "concepts_found": 9,
+      "working_note": "staging\\pdf_working_notes\\note_[Nuncius vol. 26 iss. 2] Greek Alchemists at Work_ &_039_Alchemical Laboratory&_039_ in the Greco-Roman Egypt{Martelli, Matteo}(2011)[10.1163_182539111x596630]{54826675} libgen.li.md"
+    },
+    "[Nuncius vol. 9 iss. 2] Alchimie etPhilosophieàla Renaissance, sous la direction de Jean-Claude Margolin et Sylvain Matto...{PEREIRA, MICHELA}(1994)[10.1163_182539184x01125]{55258850} libgen.li.md": {
+      "status": "success",
+      "persons_found": 1,
+      "texts_found": 0,
+      "concepts_found": 0,
+      "working_note": "staging\\pdf_working_notes\\note_[Nuncius vol. 9 iss. 2] Alchimie etPhilosophieàla Renaissance, sous la direction de Jean-Claude Margolin et Sylvain Matto...{PEREIRA, MICHELA}(1994)[10.1163_182539184x01125]{55258850} libgen.li.md"
+    },
+    "[Osiris 2014-jan vol. 29 iss. 1] Transmuting Sericon_ Alchemy as “Practical Exegesis” in Early Modern England{Rampling, Jennifer M.}(2014 January)[10.1086_678094]{52077604} libgen.li.md": {
+      "status": "success",
+      "persons_found": 6,
+      "texts_found": 0,
+      "concepts_found": 12,
+      "working_note": "staging\\pdf_working_notes\\note_[Osiris 2014-jan vol. 29 iss. 1] Transmuting Sericon_ Alchemy as “Practical Exegesis” in Early Modern England{Rampling, Jennifer M.}(2014 January)[10.1086_678094]{52077604} libgen.li.md"
+    },
+    "[Princeton Legacy Library] Raphael Patai - The Jewish Alchemists_ A History and Source Book (2014, Princeton University Press) - libgen.li.md": {
+      "status": "success",
+      "persons_found": 20,
+      "texts_found": 30,
+      "concepts_found": 29,
+      "working_note": "staging\\pdf_working_notes\\note_[Princeton Legacy Library] Raphael Patai - The Jewish Alchemists_ A History and Source Book (2014, Princeton University Press) - libgen.li.md"
+    },
+    "[Sixteenth Century Journal 2006-oct 01 vol. 37 iss. 3] Horsing around_ Framing Alchemy in the Manuscript Illustrations of the &quot_Splendor Solis&quot_{Sandy Feinstein}(2006 October 01)[10.2307_20477987]{33976464} li.md": {
+      "status": "success",
+      "persons_found": 4,
+      "texts_found": 7,
+      "concepts_found": 7,
+      "working_note": "staging\\pdf_working_notes\\note_[Sixteenth Century Journal 2006-oct 01 vol. 37 iss. 3] Horsing around_ Framing Alchemy in the Manuscript Illustrations of the &quot_Splendor Solis&quot_{Sandy Feinstein}(2006 October 01)[10.2307_20477987]{33976464} li.md"
+    },
+    "[Storia della scienza] Matteo Martelli - L'alchimista antico. Dall'Egitto greco-romano a Bisanzio (2019, Editrice Bibliografica) - libgen.li.md": {
+      "status": "success",
+      "persons_found": 20,
+      "texts_found": 0,
+      "concepts_found": 8,
+      "working_note": "staging\\pdf_working_notes\\note_[Storia della scienza] Matteo Martelli - L'alchimista antico. Dall'Egitto greco-romano a Bisanzio (2019, Editrice Bibliografica) - libgen.li.md"
+    },
+    "[Studies in History and Philosophy of Science Part A 2012-sep vol. 43 iss. 3] John Dee and the alchemists_ Practising and promoting English alchemy in the Holy Roman Empire{Rampling, Jennifer M.}(2012 September)[10.10.md": {
+      "status": "success",
+      "persons_found": 13,
+      "texts_found": 0,
+      "concepts_found": 10,
+      "working_note": "staging\\pdf_working_notes\\note_[Studies in History and Philosophy of Science Part A 2012-sep vol. 43 iss. 3] John Dee and the alchemists_ Practising and promoting English alchemy in the Holy Roman Empire{Rampling, Jennifer M.}(2012 September)[10.10.md"
+    },
+    "[Studies in History and Philosophy of Science Part A 2012-sep vol. 43 iss. 3] John Dee and the sciences_ early modern networks of knowledge{Rampling, Jennifer M.}(2012 September)[10.1016_j.shpsa.2011.12.001]{30970415}.md": {
+      "status": "success",
+      "persons_found": 9,
+      "texts_found": 0,
+      "concepts_found": 3,
+      "working_note": "staging\\pdf_working_notes\\note_[Studies in History and Philosophy of Science Part A 2012-sep vol. 43 iss. 3] John Dee and the sciences_ early modern networks of knowledge{Rampling, Jennifer M.}(2012 September)[10.1016_j.shpsa.2011.12.001]{30970415}.md"
+    },
+    "[Synthesis] Jennifer M. Rampling - The Experimental Fire_ Inventing English Alchemy, 1300–1700 (2020, University of Chicago Press) - libgen.li.md": {
+      "status": "success",
+      "persons_found": 20,
+      "texts_found": 0,
+      "concepts_found": 25,
+      "working_note": "staging\\pdf_working_notes\\note_[Synthesis] Jennifer M. Rampling - The Experimental Fire_ Inventing English Alchemy, 1300–1700 (2020, University of Chicago Press) - libgen.li.md"
+    },
+    "[Technology and Culture vol. 51 iss. 2] Alchemy and Authority in the Holy Roman Empire (review){Jennifer Rampling,}(2010)[10.1353_tech.0.0477]{85259496} libgen.li.md": {
+      "status": "success",
+      "persons_found": 2,
+      "texts_found": 0,
+      "concepts_found": 3,
+      "working_note": "staging\\pdf_working_notes\\note_[Technology and Culture vol. 51 iss. 2] Alchemy and Authority in the Holy Roman Empire (review){Jennifer Rampling,}(2010)[10.1353_tech.0.0477]{85259496} libgen.li.md"
+    },
+    "[The Library 2019-jun 01 vol. 20 iss. 2] The Place of MS Sloane 3703 Among Early- Modern English Translations of the French Paraphrase of ...{Bienias, Barbara}(2019 June 01)[10.1093_library_20.2.224]{82045399} libgen..md": {
+      "status": "success",
+      "persons_found": 12,
+      "texts_found": 0,
+      "concepts_found": 1,
+      "working_note": "staging\\pdf_working_notes\\note_[The Library 2019-jun 01 vol. 20 iss. 2] The Place of MS Sloane 3703 Among Early- Modern English Translations of the French Paraphrase of ...{Bienias, Barbara}(2019 June 01)[10.1093_library_20.2.224]{82045399} libgen..md"
+    },
+    "[The Modern Language Review 2009-apr vol. 104 iss. 2] Mystical Metal of Gold_ Essays on Alchemy and Renaissance Cultureby Stanton J. Linden{Review by_ Jennifer Rampling}(2009 April)[10.2307_25654869]{53494139} libgen..md": {
+      "status": "success",
+      "persons_found": 4,
+      "texts_found": 2,
+      "concepts_found": 2,
+      "working_note": "staging\\pdf_working_notes\\note_[The Modern Language Review 2009-apr vol. 104 iss. 2] Mystical Metal of Gold_ Essays on Alchemy and Renaissance Cultureby Stanton J. Linden{Review by_ Jennifer Rampling}(2009 April)[10.2307_25654869]{53494139} libgen..md"
+    },
+    "Alkimia_Operativa_and_Alkimia_Speculativa._Some_Modern_Controversies.md": {
+      "status": "success",
+      "persons_found": 18,
+      "texts_found": 0,
+      "concepts_found": 14,
+      "working_note": "staging\\pdf_working_notes\\note_Alkimia_Operativa_and_Alkimia_Speculativa._Some_Modern_Controversies.md"
+    },
+    "Arthur Edward Waite - The Turba Philosophorum_ Or Assembly of the Sages - Called Also the Book of Truth in the Art and the Third Pythagorical Synod. (1896, George Redway) - libgen.li.md": {
+      "status": "success",
+      "persons_found": 1,
+      "texts_found": 0,
+      "concepts_found": 13,
+      "working_note": "staging\\pdf_working_notes\\note_Arthur Edward Waite - The Turba Philosophorum_ Or Assembly of the Sages - Called Also the Book of Truth in the Art and the Third Pythagorical Synod. (1896, George Redway) - libgen.li.md"
+    },
+    "Ebers, Georg [Editor] - Papyros Ebers_ Das Hermetische Buch über die Arzneimittel der alten Ägypter in hieratischer Schrift (Band 2)_ Glossar und Text (1875) - libgen.li.md": {
+      "status": "success",
+      "persons_found": 1,
+      "texts_found": 0,
+      "concepts_found": 0,
+      "working_note": "staging\\pdf_working_notes\\note_Ebers, Georg [Editor] - Papyros Ebers_ Das Hermetische Buch über die Arzneimittel der alten Ägypter in hieratischer Schrift (Band 2)_ Glossar und Text (1875) - libgen.li.md"
+    },
+    "Filosofia meditativa. Alchimia e meditazione{Gerhard Dorn}(2001, Edizioni Arkeios){106430984} libgen.li.md": {
+      "status": "success",
+      "persons_found": 1,
+      "texts_found": 22,
+      "concepts_found": 0,
+      "working_note": "staging\\pdf_working_notes\\note_Filosofia meditativa. Alchimia e meditazione{Gerhard Dorn}(2001, Edizioni Arkeios){106430984} libgen.li.md"
+    },
+    "MA_Thesis_Through_the_Alchemical_Looking.md": {
+      "status": "success",
+      "persons_found": 20,
+      "texts_found": 3,
+      "concepts_found": 24,
+      "working_note": "staging\\pdf_working_notes\\note_MA_Thesis_Through_the_Alchemical_Looking.md"
+    },
+    "Michelspacher's Mountain of the Adepts - Peter Bindon.md": {
+      "status": "success",
+      "persons_found": 0,
+      "texts_found": 0,
+      "concepts_found": 2,
+      "working_note": "staging\\pdf_working_notes\\note_Michelspacher's Mountain of the Adepts - Peter Bindon.md"
+    },
+    "Photiades - Count Cagliostro (2005, Taylor & Francis Group) - libgen.li.md": {
+      "status": "success",
+      "persons_found": 20,
+      "texts_found": 12,
+      "concepts_found": 11,
+      "working_note": "staging\\pdf_working_notes\\note_Photiades - Count Cagliostro (2005, Taylor & Francis Group) - libgen.li.md"
+    },
+    "Splendor solis_alchemical treatises of Solomon Trismosin ... including 22 allegorical pictures re...{Judith Crispin}(2010){113715582} libgen.li.md": {
+      "status": "success",
+      "persons_found": 7,
+      "texts_found": 6,
+      "concepts_found": 17,
+      "working_note": "staging\\pdf_working_notes\\note_Splendor solis_alchemical treatises of Solomon Trismosin ... including 22 allegorical pictures re...{Judith Crispin}(2010){113715582} libgen.li.md"
+    },
+    "Stephan_Michelspacher_in_DIVINE_WISDOM_D.md": {
+      "status": "success",
+      "persons_found": 4,
+      "texts_found": 0,
+      "concepts_found": 18,
+      "working_note": "staging\\pdf_working_notes\\note_Stephan_Michelspacher_in_DIVINE_WISDOM_D.md"
+    },
+    "Szonyi-2003-Maier-libre.md": {
+      "status": "success",
+      "persons_found": 0,
+      "texts_found": 0,
+      "concepts_found": 0,
+      "working_note": "staging\\pdf_working_notes\\note_Szonyi-2003-Maier-libre.md"
+    },
+    "The_Jabirian_Kitab_al_Nukhab_and_Teachin.md": {
+      "status": "success",
+      "persons_found": 7,
+      "texts_found": 0,
+      "concepts_found": 11,
+      "working_note": "staging\\pdf_working_notes\\note_The_Jabirian_Kitab_al_Nukhab_and_Teachin.md"
+    }
+  }
+}

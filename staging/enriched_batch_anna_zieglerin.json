@@ -1,0 +1,49 @@
+{
+  "batch_name": "Anna Zieglerin and the Lion's Blood: Female Alchemy in the Holy Roman Empire",
+  "created": "2026-06-29",
+  "description": "Events from Bruce Janacek's essay review of Tara Nummedal's Anna Zieglerin and the Lion's Blood: Alchemy and End Times in Reformation Germany (University of Pennsylvania Press, 2019), in Ambix vol. 67 no. 4 (2020) pp.1-8. Covers Anna Zieglerin's alchemical career at the court of Duke Julius of Braunschweig-Wolfenbüttel (1571-1575) and her execution in February 1575.",
+  "persons": [
+    {
+      "slug": "anna-zieglerin",
+      "name": "Anna Maria Zieglerin",
+      "era": "EARLY_MODERN",
+      "role": "PRACTITIONER",
+      "bio_html": "<p>Anna Maria Zieglerin (d. 7 February 1575), known as Anna Zieglerin, was a female alchemist active at the court of Duke Julius of Braunschweig-Wolfenbüttel between 1571 and 1575, and is one of the most fully documented women practitioners in early modern European alchemy. Almost nothing certain is known of her origins: according to her husband, Heinrich Schombach, Anna was born by emergency caesarean section after her mother fell through ice and died; instead of a wet nurse, Anna was reportedly 'nourished entirely with a tincture and was specially purified thereby.' Whether or not these stories reflect actual events, they provided Anna with a narrative of alchemical purification from birth that she associated with her own inability to menstruate — a fact that she and her companion Philipp Sömmering explicitly compared to the purity of the Virgin Mary. Anna came to Wolfenbüttel in 1571 with her husband and the alchemist Philipp Sömmering, having previously been associated with the disaster of the Grumbach Feud at Gotha, in which Duke Johann Friedrich II had been persuaded by a peasant boy (Hänschen) claiming angelic inspiration to rebel against the Holy Roman Emperor, with catastrophic results. In Wolfenbüttel, Anna initially worked as an assistant to Sömmering and her husband. On 1 April 1573 she submitted to Duke Julius a twenty-page manuscript of alchemical recipes, including those for the production of a substance she called 'the lion's blood' — a Paracelsian tincture with claimed agricultural, medical, and alchemical powers. The lion's blood was, in Anna's framework, both an alchemical elixir and an eschatological substance: it would redeem metals 'just as Christ's blood redeemed sinners,' and produce the purified children who would usher in the Last Days. Tara Nummedal, in her monograph <em>Anna Zieglerin and the Lion's Blood: Alchemy and End Times in Reformation Germany</em> (University of Pennsylvania Press, 2019), demonstrated that Anna's sophisticated integration of Paracelsian alchemy with Lutheran apocalypticism and Marian imagery constituted a coherent theological and alchemical vision, not mere fraud or delusion. By spring 1574 the court's favor had turned against her; she was accused of sorcery, adultery with Sömmering, fraud, theft, and poisoning. Torture led to confessions and guilty verdicts. On 7 February 1575 Anna was executed at Wolfenbüttel; the first written record of the event, by Heinrich Bünting in 1584, describes her being 'burned to death as a sorceress.'</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH"
+    }
+  ],
+  "texts": [],
+  "concepts": [],
+  "events": [
+    {
+      "title": "Anna Zieglerin Presents Lion's Blood Recipe to Duke Julius of Wolfenbüttel",
+      "date_label": "1 April 1573 CE",
+      "date_sort": 1573,
+      "location_slug": "kassel",
+      "description": "On 1 April 1573, Anna Maria Zieglerin (d. 1575), an alchemical practitioner at the court of Duke Julius of Braunschweig-Wolfenbüttel, submitted to the Duke a twenty-page manuscript of alchemical recipes centered on the production of a substance she called 'the lion's blood' (<em>Löwenblut</em>). Tara Nummedal, in her monograph <em>Anna Zieglerin and the Lion's Blood: Alchemy and End Times in Reformation Germany</em> (University of Pennsylvania Press, 2019), reviewed and analyzed by Bruce Janacek in <em>Ambix</em> (2020), identifies this submission as a pivotal act by which Anna transformed herself from an assistant to an independent alchemical authority in the Duke's eyes: the recipes were 'detailed, concrete, specific in materials, techniques and outcomes,' and earned Duke Julius's confidence in a way that protected her — at least temporarily — from the accusations of sorcery and adultery circulating against her. The lion's blood was conceived within a distinctly Paracelsian framework: it claimed medical powers (curing leprosy, promoting fertility), agricultural powers (causing fruit trees to produce fruit in winter), and alchemical powers (producing precious gemstones and promoting metallic transmutation). Anna also integrated the lion's blood into an eschatological theology rooted in Lutheran apocalypticism and a comparison of her own alchemical purity to the Virgin Mary's spiritual purity: as Christ's blood had redeemed sinners, the lion's blood would 'redeem metals,' and the alchemically purified children that the lion's blood would supposedly produce would usher in the Last Days. Anna's submission of the lion's blood recipe marked the high point of her position at the Wolfenbüttel court; by spring 1574, court politics had turned against her and she was arrested on charges of sorcery, fraud, adultery, and poisoning. She was executed at Wolfenbüttel on 7 February 1575.",
+      "scholarly_grounding": "Tara Nummedal analyzed Anna Zieglerin's alchemical career and the lion's blood recipe in Anna Zieglerin and the Lion's Blood: Alchemy and End Times in Reformation Germany (Philadelphia: University of Pennsylvania Press, 2019), reviewed and summarized by Bruce Janacek in 'The Historic Role of Alchemy in the Holy Roman Empire' in Ambix vol. 67 no. 4 (2020) pp.1-8.",
+      "persons_involved": ["anna-zieglerin"],
+      "texts_involved": [],
+      "concepts_involved": ["paracelsian-alchemy", "chymistry", "transmutation"],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH"
+    },
+    {
+      "title": "Execution of Anna Zieglerin at Wolfenbüttel for Sorcery and Fraud",
+      "date_label": "7 February 1575 CE",
+      "date_sort": 1575,
+      "location_slug": "kassel",
+      "description": "On 7 February 1575, Anna Maria Zieglerin (born ca. 1545?), an alchemical practitioner who had worked at the court of Duke Julius of Braunschweig-Wolfenbüttel since 1571, was executed at Wolfenbüttel for charges that included sorcery, fraud, theft, adultery, and infanticide. Tara Nummedal, in <em>Anna Zieglerin and the Lion's Blood: Alchemy and End Times in Reformation Germany</em> (University of Pennsylvania Press, 2019), establishes Anna's execution as a landmark case in the intersection of gender, alchemy, and judicial power in the early modern Holy Roman Empire. The first written record of her death is from 1584, when the chronicler Heinrich Bünting described Anna's end simply as: '[Heinrich's] wife Anna Maria was burned to death as a sorceress.' However, Nummedal argues that the iron chair displayed in the Landesmuseum in Braunschweig as the instrument of her execution — 'the witch's chair' in which, according to tradition, she was burned alive — has no documentary support in the trial records, and that her execution probably took the form of 'death by fire' without such theatrical apparatus. Anna's case forms a paradigmatic instance of what Nummedal calls the 'gendered assault on spiritual and sexual integrity' deployed against female alchemical practitioners: the accusations against her were not purely technical (failed experiments, fraudulent claims) but systematically personal, targeting her sexuality, her body, and her religious claims. Anna had participated with her husband Heinrich Schombach and the alchemist Philipp Sömmering in alchemical experiments sponsored by the Duke's court; all three were implicated in the disastrous Grumbach Feud at Gotha (where Duke Johann Friedrich II had been inspired by a peasant boy claiming angelic visitations to rebel against the Emperor), and that association haunted them throughout their time at Wolfenbüttel. Torture led to confessions; confessions led to execution.",
+      "scholarly_grounding": "Tara Nummedal established the historical record of Anna Zieglerin's execution at Wolfenbüttel in February 1575 and analyzed its historiographic significance for the intersection of gender and alchemy in the Holy Roman Empire, in Anna Zieglerin and the Lion's Blood: Alchemy and End Times in Reformation Germany (Philadelphia: University of Pennsylvania Press, 2019), reviewed by Bruce Janacek in Ambix vol. 67 no. 4 (2020) pp.1-8.",
+      "persons_involved": ["anna-zieglerin"],
+      "texts_involved": [],
+      "concepts_involved": ["paracelsian-alchemy"],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH"
+    }
+  ]
+}

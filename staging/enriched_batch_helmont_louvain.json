@@ -1,0 +1,101 @@
+{
+  "batch_name": "Van Helmont at Louvain; Speculum Sapientiae Rosicrucian Manuscript",
+  "created": "2026-06-29",
+  "description": "Events from Georgiana D. Hedesan, 'The Influence of Louvain Teaching on Jan Baptist Van Helmont's Adoption of Paracelsianism and Alchemy' (Ambix, 2021): Van Helmont's studies and conversion at Louvain (1590s-1607), and the weapon-salve controversy. Also includes events from Mike A. Zuber, 'The Duke, the Soldier of Fortune, and a Rosicrucian Legacy' (Ambix, 2018): the Speculum Sapientiae manuscript transmission (1672-1705).",
+  "persons": [],
+  "texts": [
+    {
+      "slug": "de-magnetica-vulnerum-curatione",
+      "title": "De magnetica vulnerum curatione (Van Helmont)",
+      "format": "TREATISE",
+      "date_label": "1621 CE",
+      "analysis_html": "<p><em>De magnetica vulnerum curatione</em> (On the Magnetic Cure of Wounds, 1621) is a short treatise by Jan Baptist van Helmont (1579–1644) defending the weapon salve, a Paracelsian remedy that involved treating a wound by applying ointment to the weapon that had caused it rather than to the wound itself. Georgiana D. Hedesan, in <em>Ambix</em> (2021), identifies the treatise as the text that precipitated Van Helmont's collision with ecclesiastical authorities: the Mechelen ecclesiastical curia condemned it (along with Otto Van Veen's <em>Physicae et Theologicae Conclusiones</em>) as having been written <em>uno eodemque daemonis spiritu</em> (in one and the same demonic spirit), and characterized both authors as disciples of Paracelsus. The condemnation of the treatise began Van Helmont's long legal confrontation with the Inquisition, culminating in house arrest from ca. 1634 onward. The weapon salve controversy itself had a longer genealogy: Rudolf Goclenius of the University of Marburg and the Jesuit Jean Roberti of Douai had already been engaged in a polemic over the salve before Van Helmont's treatise appeared. Van Helmont's defense of the weapon salve was grounded in his concept of the <em>Blas</em> (vital force) and his theory that alchemical seminal principles could act at a distance through sympathetic resonance — a doctrine linked to Paracelsian notions of the weapon's retained vital connection to the wounded person. The condemnation marked a turning point not only in Van Helmont's personal trajectory but in the broader conflict between Paracelsian iatromechanical doctrines and Counter-Reformation Catholic orthodoxy in the Spanish Netherlands.</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH"
+    },
+    {
+      "slug": "eisagoge-van-helmont",
+      "title": "Eisagoge in artem medicam à Paracelso restitutam (Van Helmont)",
+      "format": "TREATISE",
+      "date_label": "1607 CE",
+      "analysis_html": "<p><em>Eisagoge in artem medicam à Paracelso restitutam</em> (Introduction to the Medical Art as Restored by Paracelsus, 1607) is an unpublished treatise by Jan Baptist van Helmont (1579–1644), composed in 1607 and written in the tradition of the Danish physician Petrus Severinus (1540–1602), whose <em>Idea medicinae philosophicae</em> (1571) had presented Paracelsus as a restorer of Hippocratic medicine within a Neoplatonic humanist framework. Georgiana D. Hedesan, in <em>Ambix</em> (2021), identifies the <em>Eisagoge</em> as Van Helmont's first properly Paracelsian treatise, and as the text that contains his account of his dramatic conversion vision: on 24 September 1599, on the banks of the River Schelde near Antwerp, he had a vision of a great palace where alchemical adepts were gathered, with Hermes Trismegistus ruling over them, and the ghost (<em>Evestrum</em>) of Paracelsus showing him alchemical secrets. The <em>Eisagoge</em> follows Severinus's argument that Paracelsus had restored the true ancient medicine of Hippocrates. Van Helmont's manuscript was preserved unpublished; it was first edited and printed by Corneille Broeckx in the <em>Annales de l'Académie d'archéologie de Belgique</em> (1853–1854). Together with his three unpublished commentaries on Hippocratic works (written 1608–1634), the <em>Eisagoge</em> represents Van Helmont's early attempt to reconcile Paracelsian alchemy with Neoplatonic Hippocratism, a synthesis later superseded by his more original work in the <em>Ortus medicinae</em> (1648).</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH"
+    }
+  ],
+  "concepts": [],
+  "events": [
+    {
+      "title": "Van Helmont Graduates from Louvain and Converts to Paracelsianism",
+      "date_label": "1599 CE",
+      "date_sort": 1599,
+      "location_slug": "antwerp",
+      "description": "In 1599 Jan Baptist van Helmont (1579–1644), the seventh son of a Brabantine nobleman, graduated from the University of Louvain (Leuven) as a medical doctor — a degree he had accepted reluctantly, from practical necessity rather than personal conviction. Georgiana D. Hedesan, in <em>Ambix</em> (2021), reconstructs the intellectual environment of Louvain in the 1590s that shaped Van Helmont's subsequent adoption of Paracelsianism: he had arrived at Louvain around 1593 (at roughly fourteen years of age), and by 1596 had completed a Bachelor of Arts degree. During his studies he encountered Cornelius Gemma's Neoplatonic reading of Hippocrates and through it the Paracelsian synthesis of Petrus Severinus, as well as Martin Delrio SJ's classes on magic at the Jesuit College (August 1596 to June 1597), which — despite Delrio's hostility to natural magic — confirmed Van Helmont in his belief that alchemical and medical practice was legitimate. Hedesan argues that Van Helmont had almost certainly encountered Paracelsianism theoretically before his medical graduation, rather than only afterward as his retrospective account in the <em>Eisagoge</em> implies. He later claimed that on 24 September 1599, on the banks of the River Schelde near Antwerp, he had a vision of alchemical adepts in a great palace presided over by Hermes Trismegistus, with the ghost (<em>Evestrum</em>) of Paracelsus showing him alchemical secrets — a literary conversion narrative framing his commitment to Paracelsian medicine. Van Helmont took his medical degree not out of enthusiasm for academic medicine but out of the practical need to practice legally, and left Louvain immediately afterward to pursue an independent study of Paracelsian alchemy.",
+      "scholarly_grounding": "Georgiana D. Hedesan reconstructed Van Helmont's studies at Louvain in the 1590s and identified the Louvain intellectual environment — Cornelius Gemma, Petrus Severinus, Martin Delrio — as the matrix of his Paracelsianism, in 'The Influence of Louvain Teaching on Jan Baptist Van Helmont's Adoption of Paracelsianism and Alchemy' in Ambix vol. 68 nos. 2-3 (2021) pp.231-246.",
+      "persons_involved": ["jan-van-helmont"],
+      "texts_involved": [],
+      "concepts_involved": ["paracelsian-alchemy", "iatrochemistry", "chymistry"],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH"
+    },
+    {
+      "title": "Van Helmont Writes Eisagoge: First Paracelsian Treatise",
+      "date_label": "1607 CE",
+      "date_sort": 1607,
+      "location_slug": "brussels",
+      "description": "In 1607, Jan Baptist van Helmont (1579–1644) composed his <em>Eisagoge in artem medicam à Paracelso restitutam</em> (Introduction to the Medical Art as Restored by Paracelsus), a treatise strongly influenced by the Dane Petrus Severinus (1540–1602), whose <em>Idea medicinae philosophicae</em> (1571) had integrated Paracelsus into a Neoplatonic humanist framework as a restorer of Hippocratic medicine. Georgiana D. Hedesan, in <em>Ambix</em> (2021), identifies the <em>Eisagoge</em> as Van Helmont's earliest explicitly Paracelsian text: it is here that he gives his retrospective account of his conversion vision of 24 September 1599 on the banks of the Schelde, in which the ghost of Paracelsus revealed alchemical secrets to him. The work was never published during Van Helmont's lifetime; it was first printed by Corneille Broeckx in 1853–1854. The <em>Eisagoge</em> marks the beginning of Van Helmont's mature career as a Paracelsian physician and iatrochemist, in which he would attempt to reconcile Paracelsian three-principle chemistry (sulphur, mercury, salt) with Neoplatonic and Augustinian theology. He went on to write three unpublished commentaries on Hippocratic texts (Regimen I, Nutriment, and Breaths) between 1608 and 1634. The trajectory from the <em>Eisagoge</em> to the posthumous <em>Ortus medicinae</em> (1648) represents one of the major intellectual developments of early modern iatromechanical chemistry.",
+      "scholarly_grounding": "Georgiana D. Hedesan analyzed the Eisagoge as Van Helmont's first Paracelsian work and identified Petrus Severinus's mediation as its source, in 'The Influence of Louvain Teaching on Jan Baptist Van Helmont's Adoption of Paracelsianism and Alchemy' in Ambix vol. 68 nos. 2-3 (2021) pp.231-246.",
+      "persons_involved": ["jan-van-helmont"],
+      "texts_involved": ["eisagoge-van-helmont"],
+      "concepts_involved": ["paracelsian-alchemy", "iatrochemistry", "spagyrics"],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH"
+    },
+    {
+      "title": "Van Helmont's De magnetica vulnerum curatione Condemned by Mechelen Curia",
+      "date_label": "1621 CE",
+      "date_sort": 1621,
+      "location_slug": "brussels",
+      "description": "In 1621, Jan Baptist van Helmont (1579–1644) published <em>De magnetica vulnerum curatione</em> (On the Magnetic Cure of Wounds), a treatise defending the weapon salve — a Paracelsian remedy that involved treating a wound by applying ointment to the weapon that caused it rather than to the wound itself. The underlying theory was that the weapon retained a vital sympathetic connection to the wound through the Paracelsian concept of <em>Blas</em> (vital force) and that alchemical seminal principles could act at a distance. Georgiana D. Hedesan, in <em>Ambix</em> (2021), identifies this publication as the immediate cause of Van Helmont's collision with Catholic ecclesiastical authorities. The Mechelen ecclesiastical curia condemned the treatise (along with Otto Van Veen's <em>Physicae et Theologicae Conclusiones</em>) as having been written <em>uno eodemque daemonis spiritu</em> (in one and the same demonic spirit), and characterized both authors as disciples instructed <em>in Paracelsi schola</em> (in the school of Paracelsus). The former Louvain professors Thomas Feyens and Gerard de Villers were among the signatories of a 1623 letter intended to censure Van Helmont's writings. The weapon salve controversy had broader European antecedents: Rudolf Goclenius of the University of Marburg and the Jesuit Jean Roberti of Douai had already been engaged in a polemic over the topic. Van Helmont's defense drew him into this controversy and triggered a long legal battle with the Inquisition that eventually resulted in house arrest ca. 1634, and delayed the publication of his major work until the posthumous <em>Ortus medicinae</em> (Amsterdam, 1648).",
+      "scholarly_grounding": "Georgiana D. Hedesan identified the condemnation of De magnetica vulnerum curatione by the Mechelen curia as the beginning of Van Helmont's conflict with Catholic authorities, drawing on archival sources in the Mechelen Archbishopric Archives, in 'The Influence of Louvain Teaching on Jan Baptist Van Helmont's Adoption of Paracelsianism and Alchemy' in Ambix vol. 68 nos. 2-3 (2021) pp.231-246.",
+      "persons_involved": ["jan-van-helmont"],
+      "texts_involved": ["de-magnetica-vulnerum-curatione"],
+      "concepts_involved": ["paracelsian-alchemy", "iatrochemistry", "magia-naturalis"],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH"
+    },
+    {
+      "title": "Vierordt Presents Speculum Sapientiae Manuscript to Duke Friedrich I of Saxe-Gotha",
+      "date_label": "1684 CE",
+      "date_sort": 1684,
+      "location_slug": "frankfurt",
+      "description": "On June 19/29 (Old Style/New Style), 1684, Duke Friedrich I of Saxe-Gotha (1646–1691), an accomplished alchemist, spent considerable time at his residential Friedenstein castle in Gotha dealing with an itinerant cavalry captain named Johann Heinrich Vierordt (ca. 1649–1685). Mike A. Zuber, in <em>Ambix</em> (2018), reconstructs this episode from Friedrich's diary (Tagebücher, published 1998–2003) and correspondence preserved in the Gotha State Archive. Vierordt had come to seek support for a military expedition against the Ottomans following the Battle of Vienna (1683), and leveraged his alchemical claims to gain the duke's trust. Two days after arriving, he presented Friedrich with a <em>Neuprozess vor Sonne von Gottmann</em> (new process for the sun [gold] from Gottmann) — a Dutch alchemical treatise attributed to a figure named Johann Gottmann, who identified himself in the text as a 'Brother of the Rosicrucian Order' dying on his deathbed in Leiden in 1672. The text concluded with the Rosicrucian formula: <em>Ex Deo nascimur, in Jesu morimur, per Spiritum Sanctum reviviscimus</em> (Out of God we are born, in Jesus we die, through the Holy Spirit we are reborn). The same text, with the title <em>Speculum Sapientiae</em> (Mirror of Wisdom), later appeared in print in the <em>Quadratum Alchymisticum</em> (Hamburg, 1705). Subsequently, reports of multiple conflicting manuscript copies of the <em>Speculum</em> surfacing in Amsterdam undermined Vierordt's claim to exclusive possession of the text and sealed his fall from the duke's favor. Zuber uses this episode to illuminate three functions of manuscripts in early modern alchemy — provenance, materiality, and exclusivity — demonstrating that manuscript transmission provided an aura of authenticity and rarity that print could not replicate.",
+      "scholarly_grounding": "Mike A. Zuber reconstructed Vierordt's presentation of the Speculum Sapientiae to Duke Friedrich I from Friedrich's diary and the Gotha State Archive correspondence (GA, EXI), in 'The Duke, the Soldier of Fortune, and a Rosicrucian Legacy: Exploring the Roles of Manuscripts in Early-Modern Alchemy' in Ambix vol. 65 no. 2 (2018) pp.1-21.",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": ["transmutation", "chymistry"],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH"
+    },
+    {
+      "title": "Speculum Sapientiae Published in Quadratum Alchymisticum, Hamburg",
+      "date_label": "1705 CE",
+      "date_sort": 1705,
+      "location_slug": "frankfurt",
+      "description": "In 1705, the <em>Quadratum Alchymisticum: Das ist: Vier auserlesene rare Tractät vom Stein der Weisen</em> (Alchemical Square: Four Choice, Rare Treatises on the Philosopher's Stone) was published in Hamburg by Christian Liebezeit. Mike A. Zuber, in <em>Ambix</em> (2018), identifies this collection as the first printed appearance of the <em>Speculum Sapientiae</em> (Mirror of Wisdom), attributed to one 'J.G.M.,' identified in other versions of the text as Johann Gottmann, a self-described 'Brother of the Order of the Rosy Cross' who claimed to have written the text while on his deathbed in Leiden on 27 March 1672. The title page featured elaborate claims of rarity and age — one of the advertising strategies deployed by early modern alchemical printers. Two of the four texts in the volume had only recently been put into print; the <em>Speculum Sapientiae</em> itself was accompanied by a 'second part' of uncertain date. The printed edition was anticipated by at least six manuscript copies circulating across European archives (Gotha Forschungsbibliothek, Hannover Leibniz Bibliothek, Hamburg SUB, British Library Sloane MS, and elsewhere), dating from the 1680s onward. Zuber argues that once the text was printed, manuscript copies became worthless to collectors like Benedict Nicolaus Petraeus (fl. 1699–1717) of Hamburg, who noted with exasperation of one copy: 'this has been printed, therefore it counts for nothing.' The episode illustrates a central paradox of early modern alchemy: that adepts' injunctions to secrecy and the alchemical value of exclusive manuscript transmission were in permanent tension with the drive to print and disseminate their knowledge.",
+      "scholarly_grounding": "Mike A. Zuber analyzed the 1705 Hamburg printing of the Speculum Sapientiae in the Quadratum Alchymisticum and its relationship to earlier manuscript versions, in 'The Duke, the Soldier of Fortune, and a Rosicrucian Legacy' in Ambix vol. 65 no. 2 (2018) pp.1-21.",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": ["transmutation", "chymistry", "emblem-alchemy"],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH"
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "slug": "roger-bacon",
+  "itinerary": [
+    {
+      "place": "Oxford",
+      "lat": 51.752,
+      "lon": -1.2577,
+      "year_start": 1234,
+      "year_end": 1237,
+      "dwell": 3,
+      "what": "Earliest studies in the Oxford arts faculty. Dates are inferred from Bacon's own 'forty years' remark in the Opus tertium (c.1267) and depend on whether his birth is placed c.1214 (Hackett, Maloney) or c.1220 (Crowley, Lindberg); the start could be as early as c.1228.",
+      "evidence": "inferred",
+      "leg_evidence": null,
+      "source": "Hackett, 'Roger Bacon', Stanford Encyclopedia of Philosophy (2020); Lindberg, 'Roger Bacon and the Origins of Perspectiva' (1996)",
+      "confidence": "LOW"
+    },
+    {
+      "place": "Paris",
+      "lat": 48.8534,
+      "lon": 2.3488,
+      "year_start": 1237,
+      "year_end": 1247,
+      "dwell": 10,
+      "what": "Took the Master of Arts and lectured in the arts faculty on Aristotle's natural philosophy, metaphysics, grammar/logic and the quadrivium, alongside contemporaries such as Albertus Magnus, Robert Kilwardby and Peter of Spain. Attested as a teaching master; the precise end of his regency (c.1247-1248) is approximate.",
+      "evidence": "attested",
+      "leg_evidence": "inferred",
+      "source": "Hackett, Stanford Encyclopedia of Philosophy (2020); Britannica, 'Roger Bacon'",
+      "confidence": "HIGH"
+    },
+    {
+      "place": "Oxford / England",
+      "lat": 51.752,
+      "lon": -1.2577,
+      "year_start": 1247,
+      "year_end": 1251,
+      "dwell": 4,
+      "what": "Set aside scholastic teaching to pursue languages, optics, instruments and experimental studies; period associated with contact with Adam Marsh and the legacy of Robert Grosseteste at Oxford. The placement of these years at Oxford versus Paris is debated, and the chronology overlaps with his later Paris residence.",
+      "evidence": "inferred",
+      "leg_evidence": "inferred",
+      "source": "Hackett, Stanford Encyclopedia of Philosophy (2020)",
+      "confidence": "LOW"
+    },
+    {
+      "place": "Paris",
+      "lat": 48.8534,
+      "lon": 2.3488,
+      "year_start": 1251,
+      "year_end": 1266,
+      "dwell": 15,
+      "what": "Returned to Paris and entered the Franciscan Order c.1256-1257 (whether at Paris or Oxford is uncertain). 'Probably in Paris in the late 1250s and definitely there in the early 1260s.' Subject after c.1260 to the order's statute against unauthorized publication.",
+      "evidence": "attested",
+      "leg_evidence": "inferred",
+      "source": "Hackett, Stanford Encyclopedia of Philosophy (2020); Wikipedia, 'Roger Bacon'",
+      "confidence": "MEDIUM"
+    },
+    {
+      "place": "Paris",
+      "lat": 48.8534,
+      "lon": 2.3488,
+      "year_start": 1266,
+      "year_end": 1268,
+      "dwell": 2,
+      "what": "Following the July 1266 mandate of Pope Clement IV, rapidly composed and sent the Opus maius, Opus minus, and (probably) Opus tertium, together with other treatises and an optical lens, c.1267-1268. Whether the Opus tertium reached the Pope is uncertain.",
+      "evidence": "attested",
+      "leg_evidence": "attested",
+      "source": "Hackett, Stanford Encyclopedia of Philosophy (2020)",
+      "confidence": "HIGH"
+    },
+    {
+      "place": "Oxford",
+      "lat": 51.752,
+      "lon": -1.2577,
+      "year_start": 1278,
+      "year_end": 1292,
+      "dwell": 14,
+      "what": "Returned to the Franciscan house at Oxford after a purported condemnation/imprisonment by the order c.1277-1279 (the severity and even occurrence of which modern scholarship treats with caution). Continued writing; completed his glossed Secretum secretorum edition (after c.1280) and his last dateable work, the Compendium studii theologiae (1292); died at Oxford c.1292.",
+      "evidence": "inferred",
+      "leg_evidence": "inferred",
+      "source": "Hackett, Stanford Encyclopedia of Philosophy (2020); Britannica, 'Roger Bacon'",
+      "confidence": "MEDIUM"
+    }
+  ],
+  "relationships": [
+    {
+      "target_label": "Pope Clement IV (Guy le Gros de Foulques)",
+      "type": "patron-of",
+      "direction": false,
+      "weight": 5,
+      "evidence": "attested",
+      "survives": true,
+      "note": "As pope, in July 1266 Clement IV directed Bacon to send him his philosophical work despite the order's prohibitions; this commission produced the Opus maius and companion works. Direction false: Clement is the patron, Bacon the client. Clement's 1268 death ended the protection.",
+      "source": "Hackett, Stanford Encyclopedia of Philosophy (2020); Britannica",
+      "confidence": "HIGH"
+    },
+    {
+      "target": "robert-grosseteste",
+      "target_label": "Robert Grosseteste",
+      "type": "influenced",
+      "direction": false,
+      "weight": 4,
+      "evidence": "attested",
+      "survives": true,
+      "note": "Grosseteste's work on optics, light metaphysics, calendar reform and the mathematization of nature was a major influence on Bacon, who praised him; direction false because the influence flows from Grosseteste to Bacon. They were not contemporaries as teacher and pupil in a documented classroom sense.",
+      "source": "Hackett, Stanford Encyclopedia of Philosophy (2020); Wikipedia, 'Roger Bacon'",
+      "confidence": "HIGH"
+    },
+    {
+      "target_label": "Adam Marsh",
+      "type": "influenced",
+      "direction": false,
+      "weight": 3,
+      "evidence": "attested",
+      "survives": true,
+      "note": "Bacon reports personal acquaintance with the Oxford Franciscan Adam Marsh c.1248-1251; Marsh and the English Franciscan circle helped draw Bacon toward the order. Not in DB, so given as target_label.",
+      "source": "Hackett, Stanford Encyclopedia of Philosophy (2020)",
+      "confidence": "MEDIUM"
+    },
+    {
+      "target_label": "Peter of Maricourt (Petrus Peregrinus)",
+      "type": "influenced",
+      "direction": false,
+      "weight": 3,
+      "evidence": "attested",
+      "survives": true,
+      "note": "Bacon praised Peter of Maricourt (author of the Epistola de magnete) as a model 'master of experiment' / perfect mathematician; this admiration shaped Bacon's idea of scientia experimentalis. Not in DB.",
+      "source": "Hackett, Stanford Encyclopedia of Philosophy (2020); Wikipedia, 'Roger Bacon'",
+      "confidence": "MEDIUM"
+    },
+    {
+      "target": "avicenna",
+      "target_label": "Avicenna",
+      "type": "cited",
+      "direction": true,
+      "weight": 3,
+      "evidence": "attested",
+      "survives": true,
+      "note": "Bacon drew on Avicenna across natural philosophy and medicine, and his medical-alchemical program (the corpus equale and prolongation of life) engaged Avicennan and pseudo-Avicennan material; scholarship links his alchemical doctrine to the pseudo-Avicenna De anima in arte alchemiae.",
+      "source": "Hackett, Stanford Encyclopedia of Philosophy (2020); Vinciguerra, 'Elixir atque fermentum', Traditio",
+      "confidence": "MEDIUM"
+    },
+    {
+      "target_label": "Aristotle (and Pseudo-Aristotle, Secretum secretorum)",
+      "type": "cited",
+      "direction": true,
+      "weight": 4,
+      "evidence": "attested",
+      "survives": true,
+      "note": "Aristotle is Bacon's principal philosophical authority; he also produced a major glossed edition of the pseudo-Aristotelian Secretum secretorum, which he believed genuinely Aristotelian and which underpins his alchemical and life-prolongation teaching. Not a DB person slug.",
+      "source": "Hackett, Stanford Encyclopedia of Philosophy (2020); MPIWG, 'Roger Bacon's Medical Alchemy'",
+      "confidence": "HIGH"
+    }
+  ],
+  "concepts": [
+    {
+      "slug": "elixir",
+      "confidence": "HIGH",
+      "source": "MPIWG, 'Roger Bacon's Medical Alchemy: Occult Remedies and the Quest to Prolong Life'; Newman, 'Resurrected Bodies and Roger Bacon's Elixir', Ambix 60 (2013)"
+    },
+    {
+      "slug": "transmutation",
+      "confidence": "MEDIUM",
+      "source": "Hackett, Stanford Encyclopedia of Philosophy (2020) — Bacon treats alchemy as the science of the generation of things from the four elements"
+    },
+    {
+      "slug": "magia-naturalis",
+      "confidence": "MEDIUM",
+      "source": "Bacon, Epistola de secretis operibus artis et naturae et de nullitate magiae; Hackett, Stanford Encyclopedia of Philosophy (2020) on philosophy and natural magic"
+    },
+    {
+      "slug": "practical-alchemy",
+      "confidence": "MEDIUM",
+      "source": "MPIWG, 'Roger Bacon's Medical Alchemy' — operative recipes for the elixir / corpus equale in the Secretum glosses and Epistola"
+    }
+  ],
+  "travel_note_html": "<p>Roger Bacon's biography is sparsely and unevenly documented, and even his birth date is contested between roughly 1214 and 1220; most of his itinerary is reconstructed from a handful of autobiographical remarks (chiefly in the <em>Opus tertium</em>) and from later scholarly inference. He studied at [LINK:oxford] in the 1230s (dates inferred), then took the Master of Arts and taught for about a decade at [LINK:paris], lecturing on Aristotle alongside such figures as [LINK:albertus-magnus] (c.1237-1247, attested but with an approximate end-date).</p><p>Around 1247-1248 he stepped back from ordinary teaching to pursue languages, optics and experiment, drawing on the Oxford legacy of [LINK:robert-grosseteste] and contact with Adam Marsh, before entering the Franciscan Order c.1256-1257 (at Paris or Oxford; uncertain). His one securely documented episode is the commission from Pope Clement IV in 1266, for which he rushed the <em>Opus maius</em> and companion works to the papal court c.1267-1268 (attested). After a purported condemnation by his order c.1277-1279 (an event modern scholars treat cautiously), he is presumed to have returned to the Franciscan house at [LINK:oxford], where he completed his glossed <em>Secretum secretorum</em> and his last dateable work in 1292, dying about that year.</p><p>Bacon's alchemy was inseparable from his medicine: he held that the prolongation of life depended on an [LINK:elixir] restoring the body to a balanced <em>corpus equale</em>, a program built on Avicennan and pseudo-Aristotelian sources rather than on the goal of metallic [LINK:transmutation] alone (well attested for the elixir; the transmutational reading is inferred from his account of alchemy as the generation of things).</p>",
+  "sources": [
+    "Hackett, Jeremiah. 'Roger Bacon.' Stanford Encyclopedia of Philosophy (2020). https://plato.stanford.edu/entries/roger-bacon/",
+    "Encyclopaedia Britannica. 'Roger Bacon.' https://www.britannica.com/biography/Roger-Bacon",
+    "Wikipedia. 'Roger Bacon.' https://en.wikipedia.org/wiki/Roger_Bacon",
+    "Max Planck Institute for the History of Science (MPIWG). 'Roger Bacon's Medical Alchemy: Occult Remedies and the Quest to Prolong Life.' https://www.mpiwg-berlin.mpg.de/research/projects/roger-bacons-medical-alchemy-occult-remedies-and-quest-prolong-life",
+    "Newman, William R. 'Resurrected Bodies and Roger Bacon's Elixir.' Ambix 60, no. 4 (2013). https://www.tandfonline.com/doi/abs/10.1179/0002698013Z.00000000037",
+    "Vinciguerra, Antonio. 'Elixir atque fermentum: New Investigations about the Link between Pseudo-Avicenna's Alchemical De anima and Roger Bacon.' Traditio. https://www.cambridge.org/core/journals/traditio/article/abs/F3206648F94CC299ED1C1D87027E201A",
+    "Lindberg, David C. Roger Bacon and the Origins of Perspectiva in the Middle Ages (Oxford, 1996)"
+  ]
+}

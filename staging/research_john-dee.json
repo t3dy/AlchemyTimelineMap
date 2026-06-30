@@ -1,0 +1,203 @@
+{
+  "slug": "john-dee",
+  "itinerary": [
+    {
+      "place": "Mortlake",
+      "lat": 51.4674,
+      "lon": -0.2670,
+      "year_start": 1556,
+      "year_end": 1583,
+      "dwell": 27,
+      "what": "Dee's primary residence and the site of his celebrated library, the largest in England, a centre of learning outside the universities. From here he served as Elizabeth I's astrological and scientific advisor; the queen visited him at Mortlake. Period dating is approximate: Dee lived at his mother's Mortlake house from the 1560s and continued there after her death in 1579.",
+      "evidence": "attested",
+      "leg_evidence": null,
+      "source": "Wikipedia, 'John Dee'; Barnes and Mortlake History Society, 'John Dee at Mortlake'",
+      "confidence": "HIGH"
+    },
+    {
+      "place": "Kraków",
+      "lat": 50.0614,
+      "lon": 19.9366,
+      "year_start": 1584,
+      "year_end": 1585,
+      "dwell": 1,
+      "what": "Dee and Edward Kelley departed England on 21 September 1583 in the company of Albrecht Laski, palatine of Sieradz, and reached Cracow in March 1584, lodging there into mid-1585. A large body of the angelic ('Enochian') conversations was recorded here. While based in Poland Dee sought (unsuccessfully) the patronage of King Stephen Bathory, with an audience reported at Niepolomice Castle near Cracow.",
+      "evidence": "attested",
+      "leg_evidence": "attested",
+      "source": "Rampling, 'John Dee and the alchemists' (2012), Stud. Hist. Phil. Sci. 43(3):498-508; Wikipedia, 'Edward Kelley'",
+      "confidence": "HIGH"
+    },
+    {
+      "place": "Prague",
+      "lat": 50.0875,
+      "lon": 14.4213,
+      "year_start": 1584,
+      "year_end": 1586,
+      "dwell": 1,
+      "what": "Dee left Cracow for Prague on 1 August 1584, seeking the patronage of Holy Roman Emperor Rudolf II at the imperial court, then a centre of astrological and Hermetic research. Dee secured an audience but failed to win sustained favour; he and Kelley moved between Prague and Cracow before Dee was eventually pressed to leave imperial territory. Dwell years are approximate given repeated movement.",
+      "evidence": "attested",
+      "leg_evidence": "attested",
+      "source": "Rampling (2012); Wikipedia, 'John Dee'; Ancient Origins, 'Following the Magical Journey to Poland'",
+      "confidence": "MEDIUM"
+    },
+    {
+      "place": "Trebon",
+      "lat": 49.0034,
+      "lon": 14.7711,
+      "year_start": 1586,
+      "year_end": 1589,
+      "dwell": 3,
+      "what": "Dee and Kelley settled at Trebon (Wittingau) in southern Bohemia around 1586 as clients of the magnate Vilem of Rozmberk. Here Dee maintained practical laboratory work; on 8 February 1588 he and Kelley conducted experiments with sericon (a lead compound) following George Ripley's methods, with Kelley emerging as the dominant practitioner. Dee's son Theodore was born at Trebon in 1588. Dee departed for England in March 1589.",
+      "evidence": "attested",
+      "leg_evidence": "attested",
+      "source": "Rampling (2012), Stud. Hist. Phil. Sci. 43(3):498-508",
+      "confidence": "HIGH"
+    },
+    {
+      "place": "Mortlake",
+      "lat": 51.4674,
+      "lon": -0.2670,
+      "year_start": 1589,
+      "year_end": 1605,
+      "dwell": 16,
+      "what": "Dee returned to England in March 1589 after roughly six years abroad to find his Mortlake home vandalised and his library plundered. He had an audience with Elizabeth at Richmond on 19 December 1589 and spent ensuing years seeking redress and patronage before later removal to Manchester. End year is approximate.",
+      "evidence": "attested",
+      "leg_evidence": "attested",
+      "source": "Rampling (2012); Wikipedia, 'John Dee'; Barnes and Mortlake History Society",
+      "confidence": "MEDIUM"
+    }
+  ],
+  "relationships": [
+    {
+      "target": "edward-kelly",
+      "target_label": "Edward Kelley",
+      "type": "collaborated",
+      "direction": true,
+      "weight": 5,
+      "evidence": "attested",
+      "survives": true,
+      "note": "Kelley met Dee c.1582 and served as his scryer (medium) in the angelic conversations, accompanying him through the continental journey (1583-1589). At Trebon Kelley became the dominant alchemical practitioner and disseminated English (Ripleian) texts; the partnership fractured c.1587 after the disputed 'wife-sharing' angelic instruction.",
+      "source": "Rampling (2012); Wikipedia, 'John Dee' and 'Edward Kelley'",
+      "confidence": "HIGH"
+    },
+    {
+      "target": null,
+      "target_label": "Albrecht Laski",
+      "type": "patron-of",
+      "direction": false,
+      "weight": 3,
+      "evidence": "attested",
+      "survives": false,
+      "note": "Albrecht Laski (Albert Laski), palatine of Sieradz, met Dee in England, was fascinated by Dee and Kelley, and induced them to travel to Poland in September 1583. He proved bankrupt and out of favour, so his patronage was short-lived. Direction set as patron-of Dee (Laski as would-be patron).",
+      "source": "Rampling (2012); Wikipedia, 'John Dee'",
+      "confidence": "HIGH"
+    },
+    {
+      "target": null,
+      "target_label": "Rudolf II",
+      "type": "patron-of",
+      "direction": false,
+      "weight": 3,
+      "evidence": "attested",
+      "survives": false,
+      "note": "Dee sought the patronage of Holy Roman Emperor Rudolf II at Prague from 1584. Dee secured an audience but did not win lasting favour; the emperor was ultimately more interested in Kelley's alchemy, and Dee was pressed to leave imperial territory. Sought-but-largely-unrealised patronage relationship.",
+      "source": "Rampling (2012); Wikipedia, 'John Dee'; Ancient Origins",
+      "confidence": "HIGH"
+    },
+    {
+      "target": null,
+      "target_label": "Vilem of Rozmberk",
+      "type": "patron-of",
+      "direction": false,
+      "weight": 4,
+      "evidence": "attested",
+      "survives": false,
+      "note": "Vilem of Rozmberk (William of Rosenberg, 1535-1592), Bohemian magnate, hosted Dee and Kelley at Trebon from c.1586 and funded their alchemical laboratory work. The most substantial patron of the continental period.",
+      "source": "Rampling (2012), Stud. Hist. Phil. Sci. 43(3):498-508",
+      "confidence": "HIGH"
+    },
+    {
+      "target": "elias-ashmole",
+      "target_label": "Elias Ashmole",
+      "type": "collected",
+      "direction": false,
+      "weight": 3,
+      "evidence": "attested",
+      "survives": true,
+      "note": "The antiquary Elias Ashmole (1617-1692) collected Dee's manuscripts and portrait and published records of the spiritual conferences (Meric Casaubon's 'True and Faithful Relation' lineage and Ashmole's own gatherings). Posthumous collecting relationship; direction is Ashmole-collected-Dee.",
+      "source": "Wikipedia, 'John Dee'",
+      "confidence": "HIGH"
+    },
+    {
+      "target": "tycho-brahe",
+      "target_label": "Tycho Brahe",
+      "type": "corresponded",
+      "direction": false,
+      "weight": 2,
+      "evidence": "inferred",
+      "survives": false,
+      "note": "Dee is described as an astronomy colleague maintaining friendly relations with Tycho Brahe; characterised as a scholarly acquaintance/correspondence in encyclopedic sources rather than firmly documented exchange. Marked inferred.",
+      "source": "Wikipedia, 'John Dee'",
+      "confidence": "LOW"
+    },
+    {
+      "target": "giordano-bruno",
+      "target_label": "Giordano Bruno",
+      "type": "influenced",
+      "direction": false,
+      "weight": 1,
+      "evidence": "inferred",
+      "survives": false,
+      "note": "UNCERTAIN. No firm evidence that Dee and Bruno met. Bruno knew Dee's work and both moved in Sir Philip Sidney's circle during Bruno's English visit; Bruno reached Prague in spring 1588, after Dee's 1584 Prague stay, so a Prague meeting is unlikely. Relationship logged as a contested/possible indirect intellectual link only.",
+      "source": "Cafe Boheme, 'Giordano Bruno... court of Rudolf II'; SF Encyclopedia, 'Dee, John'",
+      "confidence": "LOW"
+    }
+  ],
+  "concepts": [
+    {
+      "slug": "english-alchemy",
+      "confidence": "HIGH",
+      "source": "Rampling (2012): Dee and Kelley practised and promoted English (notably Ripleian) alchemy in the Holy Roman Empire."
+    },
+    {
+      "slug": "practical-alchemy",
+      "confidence": "HIGH",
+      "source": "Rampling (2012): documented laboratory work at Trebon, e.g. sericon experiments on 8 February 1588 following George Ripley."
+    },
+    {
+      "slug": "operational-chemistry",
+      "confidence": "MEDIUM",
+      "source": "Rampling (2012): hands-on furnace and reagent operations (sericon/lead) at Trebon align with operational chemical practice."
+    },
+    {
+      "slug": "hermeticism",
+      "confidence": "HIGH",
+      "source": "Wikipedia, 'John Dee'; Monas Hieroglyphica (1564) is an explicitly Hermetic-Cabalistic work, and the Prague court was a centre of Hermetic research."
+    },
+    {
+      "slug": "prisca-theologia",
+      "confidence": "MEDIUM",
+      "source": "Wikipedia, 'John Dee': Dee's angelic project aimed at recovering a universal language of creation and a pre-apocalyptic unity, consonant with prisca theologia currents; analyst category."
+    },
+    {
+      "slug": "magia-naturalis",
+      "confidence": "MEDIUM",
+      "source": "Wikipedia, 'John Dee': Dee's broad natural-philosophical/occult programme situates him within Renaissance natural magic; analyst category, not actor's term."
+    },
+    {
+      "slug": "transmutation",
+      "confidence": "MEDIUM",
+      "source": "Rampling (2012): the Trebon laboratory pursued transmutational alchemy (Kelley's reputed projections); reported as historical belief, not endorsed."
+    }
+  ],
+  "travel_note_html": "<p>In September 1583 [LINK:john-dee] left England for east-central Europe in the company of the Polish palatine Albrecht Laski, taking part of his great Mortlake library and his scryer [LINK:edward-kelly]. The pair reached Krakow by March 1584, where much of the angelic (&ldquo;Enochian&rdquo;) record was set down and where Dee unsuccessfully courted King Stephen Bathory; on 1 August 1584 Dee moved on to Prague, seeking the patronage of Emperor Rudolf II at an imperial court then famed as a hub of Hermetic and astrological learning (Rampling, 2012).</p><p>Failing to secure lasting imperial favour, Dee and Kelley settled by about 1586 at Trebon in southern Bohemia under the magnate Vilem of Rozmberk, who funded their laboratory. There the partnership shifted toward practical, Ripleian English alchemy &mdash; Rampling documents sericon (lead) experiments on 8 February 1588, with Kelley emerging as the dominant operator. Dee returned to England in March 1589 to find his Mortlake home ransacked and his library plundered.</p><p>Some connections remain uncertain: a personal meeting between Dee and [LINK:giordano-bruno] is <em>not</em> firmly attested &mdash; Bruno reached Prague only in spring 1588, after Dee's stay &mdash; and Dee's reported tie to [LINK:tycho-brahe] is described as collegial friendship rather than documented correspondence. These are flagged as inferred.</p>",
+  "sources": [
+    "Jennifer M. Rampling, 'John Dee and the alchemists: Practising and promoting English alchemy in the Holy Roman Empire,' Studies in History and Philosophy of Science 43(3) (2012): 498-508. [PMC3778895]",
+    "Wikipedia, 'John Dee' (en.wikipedia.org/wiki/John_Dee), accessed June 2026.",
+    "Wikipedia, 'Edward Kelley' (en.wikipedia.org/wiki/Edward_Kelley), accessed June 2026.",
+    "Barnes and Mortlake History Society, 'John Dee at Mortlake' (barnes-history.org.uk).",
+    "Ancient Origins, 'Following the Magical Journey to Poland by John Dee and Edward Kelley.'",
+    "Cafe Boheme, 'Giordano Bruno, an heretic in the royal court of Rudolf II.'",
+    "SF Encyclopedia, 'Dee, John' (sf-encyclopedia.com/entry/dee_john)."
+  ]
+}

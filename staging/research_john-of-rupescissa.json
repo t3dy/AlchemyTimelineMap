@@ -1,0 +1,140 @@
+{
+  "slug": "john-of-rupescissa",
+  "itinerary": [
+    {
+      "place": "Toulouse",
+      "lat": 43.6047,
+      "lon": 1.4442,
+      "year_start": 1327,
+      "year_end": 1332,
+      "dwell": 5,
+      "what": "Studied philosophy for five years at Toulouse before entering the Franciscan order; the exact calendar years are reconstructed from the 'five years' figure given in his own later autobiographical statements and are therefore approximate.",
+      "evidence": "approximate",
+      "leg_evidence": "inferred",
+      "source": "DeVun, Prophecy, Alchemy, and the End of Time (2009); Catholic Encyclopedia (1913), s.v. 'John of Roquetaillade'",
+      "confidence": "medium"
+    },
+    {
+      "place": "Aurillac",
+      "lat": 44.9261,
+      "lon": 2.4444,
+      "year_start": 1332,
+      "year_end": 1340,
+      "dwell": 8,
+      "what": "Entered the Franciscan convent and continued his studies (the source tradition is divided: most modern scholarship, following DeVun, places his profession at Aurillac, near his native region in the Auvergne, while the 1913 Catholic Encyclopedia names Orleans instead). Dates approximate.",
+      "evidence": "approximate",
+      "leg_evidence": "inferred",
+      "source": "DeVun, Prophecy, Alchemy, and the End of Time (2009); cf. Catholic Encyclopedia (1913) which names Orleans",
+      "confidence": "low"
+    },
+    {
+      "place": "Figeac",
+      "lat": 44.6086,
+      "lon": 2.0319,
+      "year_start": 1344,
+      "year_end": 1349,
+      "dwell": 5,
+      "what": "Imprisoned in the Franciscan convent at Figeac by the end of 1344 on account of his visionary and apocalyptic statements; the precise charge is unrecorded, and DeVun stresses that the offense itself is unclear, situating it within Franciscan suspicion of Spiritual/Joachite tendencies. He was held under harsh conditions (reportedly at one point chained beneath a staircase).",
+      "evidence": "attested",
+      "leg_evidence": "inferred",
+      "source": "DeVun, Prophecy, Alchemy, and the End of Time (2009)",
+      "confidence": "medium"
+    },
+    {
+      "place": "Avignon",
+      "lat": 43.9493,
+      "lon": 4.8055,
+      "year_start": 1349,
+      "year_end": 1362,
+      "dwell": 13,
+      "what": "Brought before a papal court at Avignon, which in October 1349 declared him fantasticus and committed him to the papal prison. He spent the remainder of his life largely in confinement at Avignon, where he composed his major prophetic and alchemical works, including the Liber secretorum eventuum (1349), De consideratione quintae essentiae (ca. 1351-1352), and the Vade mecum in tribulatione and Liber ostensor (1356). He probably died at Avignon; the date is uncertain, given variously as 1362 (Catholic Encyclopedia) or between 1366 and 1370.",
+      "evidence": "attested",
+      "leg_evidence": "inferred",
+      "source": "DeVun, Prophecy, Alchemy, and the End of Time (2009); Catholic Encyclopedia (1913); Wikipedia, 'Jean de Roquetaillade'",
+      "confidence": "medium"
+    }
+  ],
+  "relationships": [
+    {
+      "target": "arnaud-de-villanova",
+      "target_label": "Arnald of Villanova",
+      "type": "cited",
+      "direction": true,
+      "weight": 4,
+      "evidence": "attested",
+      "survives": true,
+      "note": "Rupescissa drew heavily on the medical-alchemical and prophetic corpus associated with Arnald of Villanova; in particular he invoked the pseudo-Arnaldian Tractatus parabolicus, placing his quintessence project within the pseudo-Arnaldian tradition. The relation is to the (largely pseudonymous) Arnaldian corpus rather than securely to the historical Arnald.",
+      "source": "DeVun, Prophecy, Alchemy, and the End of Time (2009); CSMBR, 'Medical Alchemy in Medieval Catalonia'",
+      "confidence": "medium"
+    },
+    {
+      "target": "roger-bacon",
+      "target_label": "Roger Bacon",
+      "type": "influenced",
+      "direction": false,
+      "weight": 3,
+      "evidence": "inferred",
+      "survives": true,
+      "note": "Rupescissa's prolongation-of-life and medical-alchemical aims stand in continuity with the Baconian tradition of using alchemy to combat bodily corruption and extend life; the connection is one of shared tradition transmitted through 13th-14th-century alchemical writings rather than a documented personal link (Bacon d. ca. 1292).",
+      "source": "DeVun, Prophecy, Alchemy, and the End of Time (2009)",
+      "confidence": "low"
+    },
+    {
+      "target_label": "Pope Clement VI",
+      "type": "polemicized-against",
+      "direction": true,
+      "weight": 3,
+      "evidence": "attested",
+      "survives": true,
+      "note": "Clement VI's pontificate is associated with Rupescissa's earliest papal imprisonment (dated 1345 in older sources); Rupescissa's prophecies sharply denounced ecclesiastical wealth and abuses of the Avignon curia. Coded as polemic against the institution under that pope; no DB person slug exists for Clement VI.",
+      "source": "Catholic Encyclopedia (1913); DeVun, Prophecy, Alchemy, and the End of Time (2009)",
+      "confidence": "medium"
+    },
+    {
+      "target_label": "Pope Innocent VI",
+      "type": "polemicized-against",
+      "direction": true,
+      "weight": 3,
+      "evidence": "attested",
+      "survives": true,
+      "note": "Rupescissa remained imprisoned under Innocent VI (a renewed/continued confinement is dated 1356 in the sources), the period in which he wrote the Vade mecum in tribulatione and Liber ostensor; his apocalyptic critique targeted the corruption of the curia. No DB person slug exists for Innocent VI.",
+      "source": "Catholic Encyclopedia (1913); DeVun, Prophecy, Alchemy, and the End of Time (2009)",
+      "confidence": "medium"
+    }
+  ],
+  "concepts": [
+    {
+      "slug": "quintessence",
+      "confidence": "high",
+      "source": "Rupescissa, De consideratione quintae essentiae (ca. 1351-1352); DeVun (2009)"
+    },
+    {
+      "slug": "distillation",
+      "confidence": "high",
+      "source": "Rupescissa, De consideratione quintae essentiae; CSMBR, 'Medical Alchemy in Medieval Catalonia'"
+    },
+    {
+      "slug": "elixir",
+      "confidence": "high",
+      "source": "DeVun (2009); his aqua vitae / quintessence functions as an incorruptible elixir of life"
+    },
+    {
+      "slug": "iatrochemistry",
+      "confidence": "medium",
+      "source": "DeVun (2009); Rupescissa's program of medical alchemy is an important medieval precursor to later iatrochemistry"
+    },
+    {
+      "slug": "practical-alchemy",
+      "confidence": "high",
+      "source": "Rupescissa, De consideratione quintae essentiae; detailed laboratory distillation instructions"
+    }
+  ],
+  "travel_note_html": "<p>The life of John of Rupescissa (Jean de Roquetaillade, ca. 1310 – ca. 1362/1370) is known almost entirely through his own writings and the records of his ecclesiastical confinement, so much of his itinerary is reconstructed and uncertain. By his own account he studied philosophy for some five years at [LINK:toulouse] before entering the Franciscan order; the convent of his profession is disputed, most modern scholarship (Leah DeVun) favoring Aurillac in the Auvergne, while the older Catholic Encyclopedia names Orleans.</p><p>By the end of 1344 his visionary and apocalyptic statements had led to his imprisonment at the Franciscan convent of Figeac under harsh conditions. In October 1349 a papal court at Avignon declared him <em>fantasticus</em> and committed him to a papal prison, where he spent most of the rest of his life. The specific charges remain unclear; DeVun situates him within long-standing suspicion of Spiritual-Franciscan and Joachite tendencies rather than any single proven heresy.</p><p>It was in confinement, chiefly at Avignon, that Rupescissa produced his major works: the prophetic <em>Liber secretorum eventuum</em> (1349), the medical-alchemical <em>De consideratione quintae essentiae</em> (ca. 1351–1352), and the <em>Vade mecum in tribulatione</em> and <em>Liber ostensor</em> (1356). His treatise on the quintessence — the incorruptible essence of wine extracted by repeated distillation as a medicine to ward off corruption — drew on the pseudo-[LINK:arnaud-de-villanova] tradition and circulated alongside pseudo-Lullian and Baconian material. He probably died at Avignon; the year is reported variously as 1362 or between 1366 and 1370.</p>",
+  "sources": [
+    "Leah DeVun, Prophecy, Alchemy, and the End of Time: John of Rupescissa in the Late Middle Ages (New York: Columbia University Press, 2009).",
+    "Catholic Encyclopedia (1913), s.v. 'John of Roquetaillade (de Rupescissa)', newadvent.org/cathen/08477a.htm.",
+    "Wikipedia, 'Jean de Roquetaillade' (en.wikipedia.org/wiki/Jean_de_Roquetaillade), accessed June 2026.",
+    "Centro per gli Studi della Medicina di Bologna e Roma (CSMBR), 'Medical Alchemy in Medieval Catalonia', csmbr.fondazionecomel.org.",
+    "Bodleian Library, Medieval Manuscripts catalogue, 'Johannes de Rupescissa, Liber de consideratione quintae essentiae' (medieval.bodleian.ox.ac.uk/catalog/work_2230)."
+  ]
+}

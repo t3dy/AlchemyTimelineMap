@@ -1,0 +1,94 @@
+{
+  "batch_name": "Alchemy in Print: 16th Century Florescence",
+  "created": "2026-06-29",
+  "description": "Events from Lynn Thorndike, Alchemy During the First Half of the Sixteenth Century (Ambix, 1938). Covers the first printed pseudo-Lullian alchemical text (1514), Augurellus's alchemical poem Chrysopoeia dedicated to Pope Leo X (1515), and Giovanni Pantheus's Ars Transmutationis Metallicae (1518) with its sequel Voarchadumia (1530).",
+  "persons": [
+    {
+      "slug": "johannes-augurellus",
+      "name": "Johannes Aurelius Augurellus",
+      "era": "RENAISSANCE",
+      "role": "POET",
+      "bio_html": "<p>Johannes Aurelius Augurellus (Giovanni Aurelio Augurelli, ca. 1441-1524) was an Italian humanist, Latin poet, and alchemical author, best known for his three-book Latin poem <em>Chrysopoeia</em> (Gold-Making), published at Venice in 1515 and dedicated to Pope Leo X. Lynn Thorndike, in <em>Ambix</em> (1938), notes that Augurellus apparently began composing the poem around 1500 and that the <em>Chrysopoeia</em> contains internal references to the siege of Padua in 1509. G. Pavanello, who gave the most detailed earlier analysis of the poem with quotations (<em>Un maestro del quattrocento, Giovanni Aurelio Augurello</em>, Venice, 1905), considered it a significant work of early sixteenth-century alchemical literature. A second edition of the <em>Chrysopoeia</em> appeared at Basel in 1518, published by Froeben. Augurellus was a friend of the humanist circle associated with Aldus Manutius in Venice. His decision to dedicate the poem to Pope Leo X -- whose Medicean patronage extended to both poetry and occult arts -- represents the characteristic integration of humanist learning with alchemical aspiration in early sixteenth-century Italian intellectual culture.</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH"
+    },
+    {
+      "slug": "giovanni-pantheus",
+      "name": "Giovanni Agostino Pantheus",
+      "era": "EARLY_MODERN",
+      "role": "CLERICAL",
+      "bio_html": "<p>Giovanni Agostino Pantheus (fl. 1515-1535), described on his title pages as a priest and refiner of gold of Venice (<em>De Vinegia Affinatore de oro et sacerdote</em>), was a Venetian clergyman and alchemical author who published two important alchemical works under the patronage of Pope Leo X and the Venetian Council of Ten. Lynn Thorndike, in <em>Ambix</em> (1938), identifies Pantheus as the author of the <em>Ars Transmutationis Metallicae</em> (Venice, 1518), dedicated to Pope Leo X, and the <em>Voarchadumia contra alchimiam</em> (Venice, 1530), which despite ostensibly disavowing alchemy in favor of a newly-named art called Voarchadumia (a supposed cabala of metals handed down from Tubal Cain) nevertheless repeated most of the 1518 material. Pantheus apparently published the <em>Ars</em> after obtaining permission from the Apostolic Legate and the Council of Ten, then in 1530 was required by a papal decretal (Pope John XXII's <em>Spondent quas non exhibent</em>) and a Venetian decree against alchemists to reframe his work. Both the <em>Voarchadumia</em> and the 1518 work were reprinted together at Paris in 1550 and in Zetzner's <em>Theatrum Chemicum</em> (1613 and 1659). His later publication was a <em>Lunario perpetuo</em> (Venice, 1535).</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH"
+    }
+  ],
+  "texts": [
+    {
+      "slug": "chrysopoeia-augurellus",
+      "title": "Chrysopoeia (Augurellus)",
+      "format": "PRIMARY_SOURCE",
+      "date_label": "1515 CE",
+      "analysis_html": "<p><em>Chrysopoeia</em> (Gold-Making) is a three-book Latin alchemical poem by Johannes Aurelius Augurellus (ca. 1441-1524), published at Venice in 1515 and dedicated to Pope Leo X. It is one of the major humanist alchemical texts of the early sixteenth century, representing the absorption of alchemical themes into Renaissance Latin literary culture. Lynn Thorndike, in <em>Ambix</em> (1938), notes that Augurellus appears to have begun composing the poem around 1500; internal references to the siege of Padua (1509) provide a <em>terminus post quem</em> for that portion of the text. G. Pavanello gave the fullest analysis of the poem in <em>Un maestro del quattrocento</em> (Venice, 1905). A second edition appeared at Basel in 1518, published by Froeben. The dedication to Pope Leo X -- who was known for his patronage of Renaissance arts and letters, including an interest in occult arts -- placed the poem within the courtly alchemical culture of early sixteenth-century Italy. The poem's appearance in 1515 marks one of the earliest major alchemical texts in the vernacular-humanist literary mode, distinct from the manuscript tradition of practical laboratory alchemy. The <em>Chrysopoeia</em> was written in an age when alchemy had not yet been widely printed: Thorndike notes that virtually no alchemical treatises appeared during the incunabula period, and their appearance in the first half of the sixteenth century was gradual.</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH"
+    },
+    {
+      "slug": "ars-transmutationis-metallicae",
+      "title": "Ars Transmutationis Metallicae (Pantheus)",
+      "format": "TREATISE",
+      "date_label": "1518 CE",
+      "analysis_html": "<p><em>Ars Transmutationis Metallicae</em> (The Art of Metallic Transmutation) is an alchemical treatise published at Venice on September 7, 1518, by the Venetian priest and goldsmith Giovanni Agostino Pantheus, dedicated to Pope Leo X and the Council of Ten of Venice. Lynn Thorndike, in <em>Ambix</em> (1938), identifies the work as a major early sixteenth-century alchemical text in which Pantheus cites the Turba Philosophorum, Geber, Alphidius, Avicenna, Rhodianus, Rosinus, and Vincent among his sources. Its full title on the title page is <em>Ars transmutationis metallicae cum Leonis X Ponti. Max. et Conci. Cap. decemvirorum Venetorum edicto</em>. Following the main text, dated September 7, 1518, the volume includes a Commentary on the Theory of Metallic Transmutation addressed to a Polish nobleman, William Hyerosky, with columns of numbers and Hebrew characters. Pantheus apparently had to reformulate his alchemical program in 1530, when he published the <em>Voarchadumia contra alchimiam</em> (Venice, 1530), claiming to present not alchemy but an entirely distinct art called Voarchadumia, a supposed cabala of metals attributed to Tubal Cain via the Chaldeans and Indians, while actually repeating most of the 1518 content. Both the <em>Ars</em> and the <em>Voarchadumia</em> were reprinted at Paris in 1550 and included in Zetzner's <em>Theatrum Chemicum</em> (volumes 2, 1613 and 1659), indicating their lasting influence on the European alchemical tradition. The <em>Voarchadumia</em>'s woodcuts of alchemical furnaces and apparatus are among the early printed illustrations of laboratory equipment.</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH"
+    }
+  ],
+  "concepts": [],
+  "events": [
+    {
+      "title": "Pseudo-Lullian De Secretis Naturae First Printed",
+      "date_label": "1514 CE",
+      "date_sort": 1514,
+      "location_slug": "venice",
+      "description": "In 1514, the first alchemical text from the vast pseudo-Lullian corpus appeared in print, when the <em>Liber de Secretis Naturae seu de Quinta Essentia</em> (Book of the Secrets of Nature, or On the Fifth Essence), attributed to Raymond Lull, was printed at Venice in the same volume as the medical Consilia of Giovanni Matteo Ferrari da Gradi, works of Maimonides, and works of Arnald of Villanova. Lynn Thorndike, in <em>Ambix</em> (1938), identifies this as the first printing of a pseudo-Lullian alchemical text and notes that the work itself comprised the preliminary dialogue with a monk (opening <em>Contristatus erat Raymundus</em>) and the Lullified version of John of Rupescissa's work on the fifth essence. The work was subsequently reprinted at Augsburg in 1518, and again at Venice 1521, Lyons 1535, Strasburg 1541, Venice 1542, and Nürnberg 1546, making it the most frequently reprinted Lullian alchemical text before the mid-century. Thorndike notes, however, that Philip Ulstad in his 1543 preface to the <em>Caelum Philosophorum</em> considered the Lullian alchemical corpus still little known, writing that he had seen the Mercuriorum librum, Testamentum, Codicillum, and other Raymond books reach only a few hands. The 1514 printing marks the beginning of the printed dissemination of pseudo-Lullian alchemy, which would eventually exert enormous influence on Ripley, Dee, Newton, and other English alchemists.",
+      "scholarly_grounding": "Lynn Thorndike identified the 1514 Venice printing as the first pseudo-Lullian alchemical text to appear in print, in Alchemy During the First Half of the Sixteenth Century in Ambix vol. 2 no. 1 (1938) pp.26-38.",
+      "persons_involved": ["raymond-lull"],
+      "texts_involved": [],
+      "concepts_involved": ["transmutation", "philosophers-stone", "practical-alchemy"],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH"
+    },
+    {
+      "title": "Augurellus Publishes Chrysopoeia, Dedicated to Pope Leo X",
+      "date_label": "1515 CE",
+      "date_sort": 1515,
+      "location_slug": "venice",
+      "description": "In 1515 the Italian humanist Johannes Aurelius Augurellus (ca. 1441-1524) published his three-book Latin alchemical poem <em>Chrysopoeia</em> (Gold-Making) at Venice, dedicating it to Pope Leo X. Lynn Thorndike, in <em>Ambix</em> (1938), identifies the publication as a major early sixteenth-century alchemical text in the humanist literary tradition. Augurellus had apparently begun composing the poem around 1500, and internal references to the siege of Padua (1509) date portions of it. The <em>Chrysopoeia</em> represents the assimilation of alchemical themes into the Renaissance Latin literary culture of northern Italy: it treats the making of gold through the literary conventions of classical epic and didactic poetry, framing the alchemical search as a heroic intellectual quest in the manner of Virgil's <em>Georgics</em>. The dedication to Leo X -- whose Medicean patronage extended to poetry, occult arts, and natural philosophy -- placed the poem at the center of Renaissance court culture. A second edition appeared at Basel in 1518, published by Froeben. The publication of the <em>Chrysopoeia</em> marked one of the few alchemical texts published in the first decade of the sixteenth century, prior to the Paracelsan acceleration of alchemical publication in the second half of the century. Pope Leo X's patronage of both poets and occult arts made him the natural dedicatee for a humanist alchemical poem.",
+      "scholarly_grounding": "Lynn Thorndike described the publication of Augurellus's Chrysopoeia and its dedication to Pope Leo X, citing Pavanello's analysis, in Alchemy During the First Half of the Sixteenth Century in Ambix vol. 2 no. 1 (1938) pp.26-38.",
+      "persons_involved": ["johannes-augurellus"],
+      "texts_involved": ["chrysopoeia-augurellus"],
+      "concepts_involved": ["transmutation", "philosophers-stone"],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH"
+    },
+    {
+      "title": "Pantheus Publishes Ars Transmutationis Metallicae in Venice",
+      "date_label": "1518 CE",
+      "date_sort": 1518,
+      "location_slug": "venice",
+      "description": "On September 7, 1518, the Venetian priest and goldsmith Giovanni Agostino Pantheus published his <em>Ars Transmutationis Metallicae</em> (The Art of Metallic Transmutation) at Venice, with dedications to Pope Leo X and the Council of Ten of Venice. Lynn Thorndike, in <em>Ambix</em> (1938), describes the work as citing the Turba Philosophorum, Geber, Alphidius, Avicenna, Rhodianus, Rosinus, and Vincent as sources, and including Hebrew characters and numerical columns in its Commentary addressed to the Polish nobleman William Hyerosky. The title page bore the papal and Venetian authority under which it was published. In 1530, apparently after attention was called to a papal decretal of John XXII (<em>Spondent quas non exhibent divitias pauperes alchimiste</em>) and a Venetian decree against alchemists, Pantheus published a sequel entitled <em>Voarchadumia contra alchimiam</em> (Venice, 1530), claiming to present not alchemy but a distinct art called Voarchadumia, a supposed cabala of metals handed down from Tubal Cain through the Chaldeans and Indians, while in fact repeating most of the 1518 material. The <em>Voarchadumia</em> included woodcuts of alchemical furnaces and apparatus, a bird's-eye view of Venice, and prefaces to the Doge and the papal legate. Both works were reprinted together at Paris in 1550 and appeared in Zetzner's <em>Theatrum Chemicum</em> (1613 and 1659). The episode illustrates the legal precariousness of alchemical publication in early modern Italy: practitioners navigated anti-alchemical decrees by renaming and recategorizing their art.",
+      "scholarly_grounding": "Lynn Thorndike analyzed Pantheus's Ars Transmutationis Metallicae and the Voarchadumia, tracing the legal pressures that shaped their publication, in Alchemy During the First Half of the Sixteenth Century in Ambix vol. 2 no. 1 (1938) pp.26-38.",
+      "persons_involved": ["giovanni-pantheus"],
+      "texts_involved": ["ars-transmutationis-metallicae"],
+      "concepts_involved": ["transmutation", "philosophers-stone", "practical-alchemy"],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH"
+    }
+  ]
+}

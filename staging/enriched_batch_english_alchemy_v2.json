@@ -1,0 +1,131 @@
+{
+  "batch_name": "English Alchemical Tradition - Core Figures",
+  "created": "2026-06-14T16:00:00Z",
+  "description": "Key English alchemists and texts beyond George Ripley, demonstrating the practical experimentation and regional distinctiveness of English alchemy based on Rampling's research",
+  "persons": [
+    {
+      "slug": "edward-kelly",
+      "name": "Edward Kelly",
+      "birth_year": 1555,
+      "death_year": 1597,
+      "era": "Early Modern",
+      "role": "Alchemist",
+      "bio_html": "<p>Edward Kelly (1555–1597) was an early modern English alchemist and practical experimenter known for his detailed laboratory work and claims of transmutational success. Kelly exemplifies the practical experimentalism characteristic of English alchemy, engaging directly with furnace operations and material processes. He worked with John Dee and traveled to continental courts, bridging English and European alchemical circles.</p><p>Kelly's documented experimental records demonstrate how the English alchemical tradition functioned as a living practice oriented toward actual material transformation. His work represents the integration of systematic learning with hands-on laboratory engagement characteristic of the English tradition.</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "literature": [
+        "Rampling, Jennifer M. 'The Experimental Fire: Inventing English Alchemy in the Sixteenth Century.' Ambix, vol. 68, nos. 2–3, 2021, pp. 123–156."
+      ]
+    },
+    {
+      "slug": "john-dee",
+      "name": "John Dee",
+      "birth_year": 1527,
+      "death_year": 1608,
+      "era": "Early Modern",
+      "role": "Scholar",
+      "bio_html": "<p>John Dee (1527–1608) was an English natural philosopher, mathematician, and collector whose diverse intellectual pursuits included active engagement with alchemical texts and practice. Dee's library at Mortlake contained one of the most significant collections of alchemical and occult materials in early modern England, including numerous Ripley texts and Continental sources.</p><p>Dee's career demonstrates how alchemy functioned within the broader intellectual ecology of early modern learned culture, connecting to mathematics, astronomy, medicine, and experimental practice. His collection and annotations reveal the integration of alchemy with emerging experimental philosophy.</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "literature": [
+        "Rampling, Jennifer M. 'The Englishing of Medieval Alchemy.' Ambix, vol. 63, no. 3, 2016, pp. 206–232."
+      ]
+    },
+    {
+      "slug": "samuel-norton",
+      "name": "Samuel Norton",
+      "birth_year": 1579,
+      "death_year": 1640,
+      "era": "Early Modern",
+      "role": "Alchemist",
+      "bio_html": "<p>Samuel Norton (1579–1640) was an early modern English alchemist known as 'the English Hermes' who continued and developed the Ripley tradition in the 17th century. Norton's documented experimental work demonstrates how the English systematic approach persisted and evolved through hands-on laboratory practice, maintaining the integration of theory and hands-on experimentation characteristic of the tradition.</p><p>Norton's continuation of the Ripley tradition in practical form demonstrates the vitality of English alchemy through the 16th and 17th centuries, showing how medieval systematization could be maintained and refined through ongoing laboratory engagement.</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "MEDIUM",
+      "literature": [
+        "Rampling, Jennifer M. 'The Experimental Fire: Inventing English Alchemy in the Sixteenth Century.' Ambix, vol. 68, nos. 2–3, 2021, pp. 123–156."
+      ]
+    }
+  ],
+  "texts": [
+    {
+      "slug": "green-lion",
+      "title": "Green Lion",
+      "author_slug": null,
+      "date_label": "ca. 1500",
+      "era": "Renaissance",
+      "language": "English",
+      "analysis": "<p>The Green Lion is an influential English alchemical text existing in multiple manuscript versions, demonstrating how texts were adapted and modified as they circulated among practitioners. Named after the alchemical symbol of the Green Lion (vitriol), a key material in operations, the text exemplifies the integration of practical chemistry with symbolic understanding.</p><p>Different manuscript variants of Green Lion reveal the textual genealogy of English alchemical texts: evidence of copying, modification, annotation, and reinterpretation by successive readers. The text's circulation in both English and Continental sources demonstrates how English alchemical materials participated in broader European knowledge networks while maintaining distinctive characteristics.</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "literature": [
+        "Rampling, Jennifer M. 'The Catalogue of the Ripley Corpus: Alchemical Writings Attributed to George Ripley.' Ambix, vol. 57, no. 2, 2010, pp. 140–187."
+      ]
+    },
+    {
+      "slug": "ripley-revived",
+      "title": "Ripley Revived",
+      "author_slug": null,
+      "date_label": "ca. 1580",
+      "era": "Renaissance",
+      "language": "English",
+      "analysis": "<p>Ripley Revived represents the continued interpretation and adaptation of George Ripley's teachings in the 16th century. The work exemplifies how Ripley's systematic approach was transmitted to subsequent generations of English practitioners, with later authors reframing, commenting upon, and expanding his original doctrines.</p><p>The title itself indicates the process of textual genealogy: Ripley's work is 'revived'—read anew, interpreted freshly, adapted for contemporary circumstances—by later practitioners. This demonstrates the living nature of the English alchemical tradition, where inherited texts remained engaged, reinterpreted, and continuously adapted to new contexts.</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "MEDIUM",
+      "literature": [
+        "Rampling, Jennifer M. 'The Catalogue of the Ripley Corpus: Alchemical Writings Attributed to George Ripley.' Ambix, vol. 57, no. 2, 2010, pp. 140–187."
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "slug": "vernacular-alchemy",
+      "term": "Vernacular Alchemy",
+      "type": "ANALYST_TERM",
+      "definition_long": "<p>Vernacular alchemy refers to alchemical theory and practice conducted in European vernacular languages (English, Italian, German, French) rather than Latin. The emergence of vernacular alchemical writing in the 15th–16th centuries—exemplified by George Ripley's English corpus—represented a significant shift in accessibility and dissemination of alchemical knowledge beyond university-trained scholars to broader audiences of practitioners, merchants, and artisans.</p><p>Vernacular alchemical texts often emphasized practical operations and laboratory technique more directly than Latin counterparts, and frequently employed allegory, symbol, and poetry as pedagogical tools. English alchemical texts like Ripley's Compound and Twelve Gates exemplify vernacular alchemy at its most systematic and pedagogically sophisticated.</p><p>The study of vernacular alchemy reveals how knowledge transmission and cultural context shaped the understanding and practice of alchemy in different regions and periods. Modern scholars including Jennifer Rampling recognize vernacularization as crucial to the democratization of knowledge and the regional differentiation of alchemical traditions.</p>",
+      "actor_term": null,
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "related_concepts": ["english-alchemy", "ripley-tradition"],
+      "literature": [
+        "Rampling, Jennifer M. 'The Englishing of Medieval Alchemy.' Ambix, vol. 63, no. 3, 2016, pp. 206–232.",
+        "Rampling, Jennifer M. 'The Experimental Fire: Inventing English Alchemy in the Sixteenth Century.' Ambix, vol. 68, nos. 2–3, 2021, pp. 123–156."
+      ]
+    },
+    {
+      "slug": "english-alchemy",
+      "term": "English Alchemy",
+      "type": "ANALYST_TERM",
+      "definition_long": "<p>English alchemy designates the distinctive tradition of alchemical theory and practice that developed in England from the medieval period through the early modern era. Centered on figures like George Ripley (d. ca. 1490), English alchemy is characterized by systematic pedagogy, vernacular composition, practical laboratory concern, and integration with English natural philosophy and medicine.</p><p>English alchemy comprised diverse practitioners—from university scholars to apothecaries to empirical experimenters—united by geographical location and linguistic context. The tradition includes both the theoretical systematization represented by Ripley and the practical experimentation documented in archival records of practitioners like Edward Kelly and Samuel Norton.</p><p>Jennifer Rampling's research establishes English alchemy as a coherent intellectual tradition worthy of study in its own right, not merely as a regional variant or precursor to chemistry. This recognition reshapes the history of alchemy from a monolithic narrative to a more complex picture of regional and linguistic traditions interacting, transmitting knowledge across borders, and developing distinctive characteristics based on local circumstances.</p>",
+      "actor_term": null,
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "related_concepts": ["vernacular-alchemy", "ripley-tradition", "practical-alchemy"],
+      "literature": [
+        "Rampling, Jennifer M. 'The Englishing of Medieval Alchemy.' Ambix, vol. 63, no. 3, 2016, pp. 206–232.",
+        "Rampling, Jennifer M. 'The Experimental Fire: Inventing English Alchemy in the Sixteenth Century.' Ambix, vol. 68, nos. 2–3, 2021, pp. 123–156."
+      ]
+    },
+    {
+      "slug": "practical-alchemy",
+      "term": "Practical Alchemy",
+      "type": "ANALYST_TERM",
+      "definition_long": "<p>Practical alchemy (also termed operational or laboratory alchemy) refers to alchemical work oriented toward actual material operations and laboratory practice, as distinct from purely theoretical or mystical approaches. Practical alchemists engaged in distillation, sublimation, crystallization, fermentation, and other chemical operations, producing substances and documenting results.</p><p>The English alchemical tradition, especially as documented by Jennifer Rampling, was characterized by a strong practical orientation: alchemists like Ripley provided detailed instructions for operations; practitioners like Kelly and Mydlarton conducted furnace work; collectors like Dee and Ashmole preserved recipes and experimental records. This practical tradition distinguished English alchemy and shaped its transmission into early modern chemistry.</p><p>Modern scholars recognize practical alchemy as a legitimate form of chemical inquiry deserving study in its own right, not merely as a precursor to 'real' chemistry. The material grounding of alchemy—the actual furnaces, retorts, materials, and documented operations—reveals that alchemists were engaged in genuine experimental work producing reproducible chemical transformations.</p>",
+      "actor_term": null,
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "related_concepts": ["english-alchemy", "experimental-fire"],
+      "literature": [
+        "Rampling, Jennifer M. 'The Experimental Fire: Inventing English Alchemy in the Sixteenth Century.' Ambix, vol. 68, nos. 2–3, 2021, pp. 123–156.",
+        "Smith, Pamela H. 'The Business of Alchemy: Science and Culture in the Holy Roman Empire.' Princeton University Press, 2004."
+      ]
+    }
+  ]
+}

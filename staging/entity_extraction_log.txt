@@ -1,0 +1,91 @@
+Found 83 markdown files to extract from
+
+[1/83] [Ambix 1937-may vol. 1 iss. 1] The Origi: 1 persons, 2 texts, 9 concepts
+[2/83] [Ambix 1938-jun vol. 2 iss. 1] Alchemy D: 7 persons, 1 texts, 6 concepts
+[3/83] [Ambix 1938-sep vol. 2 iss. 2] Alchemy U: 0 persons, 1 texts, 8 concepts
+[4/83] [Ambix 1946-dec vol. 2 iss. 3-4] Rhetori: 1 persons, 1 texts, 1 concepts
+[5/83] [Ambix 1957-aug vol. 6 iss. 1] A Licence: 3 persons, 4 texts, 4 concepts
+[6/83] [Ambix 1957-dec vol. 6 iss. 2] Gnosticis: 5 persons, 13 texts, 13 concepts
+[7/83] [Ambix 1958-aug vol. 6 iss. 3] Egg Symbo: 2 persons, 11 texts, 9 concepts
+[8/83] [Ambix 1959-feb vol. 7 iss. 1] The Redem: 0 persons, 3 texts, 8 concepts
+[9/83] [Ambix 1961-oct vol. 9 iss. 3] The Begin: 1 persons, 16 texts, 5 concepts
+[10/83] [Ambix 1962-jun vol. 10 iss. 2] The Ouro: 2 persons, 17 texts, 10 concepts
+[11/83] [Ambix 1966-jun vol. 13 iss. 2] ALCHEMY : 5 persons, 2 texts, 5 concepts
+[12/83] [Ambix 1966-oct vol. 13 iss. 3] Alchemy : 10 persons, 21 texts, 11 concepts
+[13/83] [Ambix 1973-nov vol. 20 iss. 3] Studies : 12 persons, 24 texts, 12 concepts
+[14/83] [Ambix 1975-jul vol. 22 iss. 2] Alchemy : 2 persons, 29 texts, 14 concepts
+[15/83] [Ambix 1976-mar vol. 23 iss. 1] Roger Ba: 2 persons, 4 texts, 9 concepts
+[16/83] [Ambix 1976-nov vol. 23 iss. 3] Early Te: 0 persons, 15 texts, 5 concepts
+[17/83] [Ambix 1977-nov vol. 24 iss. 3] Elixirs : 0 persons, 12 texts, 8 concepts
+[18/83] [Ambix 1982-nov vol. 29 iss. 3] Maria th: 13 persons, 30 texts, 14 concepts
+[19/83] [Ambix 1984-nov vol. 31 iss. 3] Alchemy : 7 persons, 30 texts, 23 concepts
+[20/83] [Ambix 1985-nov vol. 32 iss. 3] Alchemy : 4 persons, 30 texts, 16 concepts
+[21/83] [Ambix 1987-mar vol. 34 iss. 1] Democrit: 1 persons, 30 texts, 3 concepts
+[22/83] [Ambix 1987-nov vol. 34 iss. 3] Alchemy : 7 persons, 30 texts, 7 concepts
+[23/83] [Ambix 1990-mar vol. 37 iss. 1] The Stud: 2 persons, 25 texts, 13 concepts
+[24/83] [Ambix 1990-nov vol. 37 iss. 3] Prophecy: 2 persons, 30 texts, 8 concepts
+[25/83] [Ambix 1993-jul vol. 40 iss. 2] Alchemy : 10 persons, 4 texts, 12 concepts
+[26/83] [Ambix 1994-nov vol. 41 iss. 3] Islamic : 3 persons, 5 texts, 13 concepts
+[27/83] [Ambix 2004-nov vol. 51 iss. 3] Alchemy : 8 persons, 4 texts, 8 concepts
+[28/83] [Ambix 2007-mar vol. 54 iss. 1] Alchemy : 2 persons, 0 texts, 4 concepts
+[29/83] [Ambix 2008-nov vol. 55 iss. 3] Establis: 14 persons, 0 texts, 10 concepts
+[30/83] [Ambix 2009-mar vol. 56 iss. 1] Some Con: 5 persons, 0 texts, 8 concepts
+[31/83] [Ambix 2009-mar vol. 56 iss. 1] The Ars : 2 persons, 0 texts, 4 concepts
+[32/83] [Ambix 2009-nov vol. 56 iss. 3] Textual : 4 persons, 0 texts, 12 concepts
+[33/83] [Ambix 2010-jul vol. 57 iss. 2] The Cata: 20 persons, 0 texts, 16 concepts
+[34/83] [Ambix 2011-nov vol. 58 iss. 3] Some Rec: 8 persons, 0 texts, 10 concepts
+[35/83] [Ambix 2013-aug vol. 60 iss. 3] Alchemy : 0 persons, 0 texts, 1 concepts
+[36/83] [Ambix 2013-feb vol. 60 iss. 1] New Deve: 0 persons, 0 texts, 2 concepts
+[37/83] [Ambix 2014-oct 27 vol. 61 iss. 4] Revie: 7 persons, 0 texts, 3 concepts
+[38/83] [Ambix 2015-oct 02 vol. 62 iss. 4] Chemi: 1 persons, 0 texts, 3 concepts
+[39/83] [Ambix 2016-jul 02 vol. 63 iss. 3] The E: 2 persons, 0 texts, 3 concepts
+[40/83] [Ambix 2017-oct 02 vol. 64 iss. 4] The F: 3 persons, 0 texts, 4 concepts
+[41/83] [Ambix 2018-apr 03 vol. 65 iss. 2] The D: 16 persons, 0 texts, 5 concepts
+[42/83] [Ambix 2018-jul 03 vol. 65 iss. 3] Alche: 3 persons, 0 texts, 10 concepts
+[43/83] [Ambix 2020-jan 02 vol. 67 iss. 1] Cross: 6 persons, 0 texts, 7 concepts
+[44/83] [Ambix 2020-sep 18 vol. 67 iss. 4] The H: 0 persons, 0 texts, 2 concepts
+[45/83] [Ambix 2021-jul 3 vol. 68 iss. 2-3] The : 20 persons, 0 texts, 9 concepts
+[46/83] [BJHS Themes 2020-dec 08 vol. 5] Reading: 9 persons, 0 texts, 7 concepts
+[47/83] [Early Science and Medicine vol. 17 iss.: 12 persons, 5 texts, 9 concepts
+[48/83] [Early Science and Medicine vol. 17 iss.: 20 persons, 0 texts, 10 concepts
+[49/83] [Early Science and Medicine vol. 18 iss.: 10 persons, 30 texts, 19 concepts
+[50/83] [Guide to imagery] J. Paul Getty Museum.: 4 persons, 0 texts, 8 concepts
+[51/83] [Journal of the History of Ideas vol. 69: 8 persons, 0 texts, 6 concepts
+[52/83] [Kritikon Litterarum 2014-jan 01 vol. 41: 0 persons, 0 texts, 0 concepts
+[53/83] [Metascience 2021-jul vol. 30 iss. 2] Al: 0 persons, 0 texts, 8 concepts
+[54/83] [Metascience 2021-jul vol. 30 iss. 2] Pl: 5 persons, 0 texts, 4 concepts
+[55/83] [Metascience 2021-jul vol. 30 iss. 2] Ra: 1 persons, 0 texts, 3 concepts
+[56/83] [Nature 2012-oct 31 vol. 491 iss. 7422] : 2 persons, 0 texts, 8 concepts
+[57/83] [Nature 2014-apr 02 vol. 508 iss. 7494] : 0 persons, 0 texts, 1 concepts
+[58/83] [Nature 2015-apr 08 vol. 520 iss. 7546] : 0 persons, 0 texts, 2 concepts
+[59/83] [Nature 2015-nov 11 vol. 527 iss. 7577] : 0 persons, 0 texts, 1 concepts
+[60/83] [Nature 2019-jan 29 vol. 565 iss. 7741] : 3 persons, 0 texts, 4 concepts
+[61/83] [Nuncius vol. 26 iss. 2] Greek Alchemist: 13 persons, 0 texts, 9 concepts
+[62/83] [Nuncius vol. 9 iss. 2] Alchimie etPhilo: 1 persons, 0 texts, 0 concepts
+[63/83] [Osiris 2014-jan vol. 29 iss. 1] Transmu: 6 persons, 0 texts, 12 concepts
+[64/83] [Princeton Legacy Library] Raphael Patai: 20 persons, 30 texts, 29 concepts
+[65/83] [Sixteenth Century Journal 2006-oct 01 v: 4 persons, 7 texts, 7 concepts
+[66/83] [Storia della scienza] Matteo Martelli -: 20 persons, 0 texts, 8 concepts
+[67/83] [Studies in History and Philosophy of Sc: 13 persons, 0 texts, 10 concepts
+[68/83] [Studies in History and Philosophy of Sc: 9 persons, 0 texts, 3 concepts
+[69/83] [Synthesis] Jennifer M. Rampling - The E: 20 persons, 0 texts, 25 concepts
+[70/83] [Technology and Culture vol. 51 iss. 2] : 2 persons, 0 texts, 3 concepts
+[71/83] [The Library 2019-jun 01 vol. 20 iss. 2]: 12 persons, 0 texts, 1 concepts
+[72/83] [The Modern Language Review 2009-apr vol: 4 persons, 2 texts, 2 concepts
+[73/83] Alkimia_Operativa_and_Alkimia_Speculativ: 18 persons, 0 texts, 14 concepts
+[74/83] Arthur Edward Waite - The Turba Philosop: 1 persons, 0 texts, 13 concepts
+[75/83] Ebers, Georg [Editor] - Papyros Ebers_ D: 1 persons, 0 texts, 0 concepts
+[76/83] Filosofia meditativa. Alchimia e meditaz: 1 persons, 22 texts, 0 concepts
+[77/83] MA_Thesis_Through_the_Alchemical_Looking: 20 persons, 3 texts, 24 concepts
+[78/83] Michelspacher's Mountain of the Adepts -: 0 persons, 0 texts, 2 concepts
+[79/83] Photiades - Count Cagliostro (2005, Tayl: 20 persons, 12 texts, 11 concepts
+[80/83] Splendor solis_alchemical treatises of S: 7 persons, 6 texts, 17 concepts
+[81/83] Stephan_Michelspacher_in_DIVINE_WISDOM_D: 4 persons, 0 texts, 18 concepts
+[82/83] Szonyi-2003-Maier-libre: 0 persons, 0 texts, 0 concepts
+[83/83] The_Jabirian_Kitab_al_Nukhab_and_Teachin: 7 persons, 0 texts, 11 concepts
+
+============================================================
+EXTRACTION COMPLETE
+============================================================
+Working notes created in: staging\pdf_working_notes
+Extraction index: staging\pdf_entity_extraction.json

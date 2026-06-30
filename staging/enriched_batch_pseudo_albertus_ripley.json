@@ -1,0 +1,73 @@
+{
+  "batch_name": "Pseudo-Albertus Semita Recta; Mirror of Lights; Ripley Corpus Elizabethan Printing",
+  "created": "2026-06-29",
+  "description": "Events from Peter Grund, 'Textual Alchemy: The Transformation of Pseudo-Albertus Magnus's Semita Recta into the Mirror of Lights' (Ambix 2009), on the scholastic reworking of the foundational pseudo-Albertan alchemical text in late medieval England; and Jennifer M. Rampling, 'The Catalogue of the Ripley Corpus' (Ambix 2010), on the first printed English vernacular alchemical text (Rabbards 1591) and the Elizabethan expansion of the Ripley corpus.",
+  "persons": [],
+  "texts": [
+    {
+      "slug": "semita-recta-pseudo-albertus",
+      "title": "Semita Recta (Pseudo-Albertus Magnus)",
+      "format": "TREATISE",
+      "date_label": "ca. 13th century CE",
+      "analysis_html": "<p>The <em>Semita recta</em> (The Straight Path) is an alchemical treatise attributed to the Dominican friar and natural philosopher Albertus Magnus (ca. 1200–1280), but almost certainly pseudepigraphic, composed by an unknown author probably during the thirteenth century and surviving in more than one hundred manuscripts from the thirteenth century through the seventeenth century. Peter Grund, in <em>Ambix</em> (2009), identifies the <em>Semita recta</em> as an alchemical 'bestseller' from the thirteenth century onward: unlike many alchemical texts, it is focused on practical procedures, logically structured, and almost entirely free of the metaphorical language characteristic of many alchemical treatises. The text covers, in order: an introduction including errors of other alchemists and a defence of alchemy's validity; descriptions of alchemical substances and equipment; theoretical and practical sections on sublimation, calcination, dissolution, and distillation; and, finally, recipes for the elixir and for transmutation. Pearl Kibre's research has demonstrated convincingly that Albertus did not write the <em>Semita recta</em> or the many other alchemical texts attributed to him in the Middle Ages; the false attribution was a strategy for appropriating the authority of the greatest natural scientist of the medieval period in order to lend credibility to an art that was regarded with suspicion by many scholars and clergy. The <em>Semita recta</em> was translated into several vernacular languages from the fifteenth century onward, and appeared in printed editions including the Borgnet collected edition of Albertus Magnus's authentic writings (Paris, 1898). A redaction of the <em>Semita recta</em> produced in late medieval England — the <em>Speculum luminum</em> or Mirror of Lights, probably composed in the late fourteenth or early fifteenth century — survives in more than ten manuscripts, mostly in Middle English.</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH"
+    },
+    {
+      "slug": "mirror-of-lights",
+      "title": "Mirror of Lights (Speculum Luminum)",
+      "format": "TREATISE",
+      "date_label": "ca. 14th–15th century CE",
+      "analysis_html": "<p>The <em>Mirror of Lights</em> (<em>Speculum luminum</em>) is a late medieval English alchemical treatise produced by an anonymous redactor who took the pseudo-Albertan <em>Semita recta</em> as his primary source and radically reorganized it to make a more systematic, scholastically rigorous argument for alchemy's legitimacy. Peter Grund, in <em>Ambix</em> (2009), establishes that the redactor — most probably working in England in the late fourteenth or early fifteenth century — transformed the <em>Semita recta</em>'s chapter-based structure into a strictly hierarchical three-part design: Part 1 (the truth of alchemy, defended through thirteen conclusions, eight objections, and eight solutions); Part 2 (formal description of substances, processes, and precepts); and Part 3 (practical recipes). This organization adopted the same scholastic textual techniques of <em>ordinatio</em>, <em>divisio textus</em>, and <em>compilatio</em> found in university theological and philosophical treatises, particularly John Capreolus's Thomistic <em>Defensiones theologiae</em>. The deployment of these techniques constituted, Grund argues, a strategy to elevate alchemy to the status of a <em>scientia vera et ars firma</em> (a true science and well-established art) by using the very presentational forms associated with the highest academic discourse. The <em>Mirror of Lights</em> survives in some eleven manuscripts, mostly in Middle English of the fifteenth century, with only three copies partially or wholly in Latin; it was never printed. The complete text exists in only one manuscript: Trinity College, Cambridge, MS O. 2. 33. The text is notable for the complexity of its manuscript tradition and for the fact that it circulated almost exclusively in an incomplete form (Parts 2 and 3 only), a pattern Grund interprets as suggesting it was used primarily as a practical alchemical handbook rather than as a theoretical treatise.</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH"
+    }
+  ],
+  "concepts": [],
+  "events": [
+    {
+      "title": "Pseudo-Albertus Magnus Semita Recta Circulates as Medieval Alchemical Classic",
+      "date_label": "ca. 1280 CE",
+      "date_sort": 1280,
+      "location_slug": "cologne",
+      "description": "By the last decades of the thirteenth century, the <em>Semita recta</em> (The Straight Path), an alchemical treatise falsely attributed to the Dominican natural philosopher Albertus Magnus (ca. 1200–1280), had entered wide circulation as a foundational medieval alchemical text. Peter Grund, in <em>Ambix</em> (2009), identifies the <em>Semita recta</em> as a 'bestseller' in medieval alchemical literature: its focus on practice over theory, its logical structure, and its almost complete avoidance of metaphorical or obscure language made it uniquely accessible in comparison to most other alchemical treatises. The false attribution to Albertus Magnus — the most celebrated natural scientist of the medieval period, whose authentic works on minerals and chemistry (especially his <em>De mineralibus et rebus metallicis</em>) showed genuine empirical interest in alchemy — was a deliberate strategy for claiming authority: since alchemy was forbidden by secular and ecclesiastical law in many medieval contexts, hiding one's authorship behind a famous cleric also reduced the danger of imprisonment or excommunication. Pearl Kibre has definitively demonstrated that Albertus did not write the <em>Semita recta</em> or the other alchemical texts attributed to him. Nonetheless the text survived in more than one hundred manuscripts from the thirteenth through the seventeenth centuries — a corpus that Kibre began cataloguing in 1942 and that has never been fully mapped. The <em>Semita recta</em>'s broad manuscript diffusion, its translation into vernacular languages from the fifteenth century, and its eventual inclusion in the Borgnet critical edition of Albertus's works (Paris, 1898) under 'Opera dubia et spuria' confirm its exceptional importance in the medieval and early modern alchemical canon.",
+      "scholarly_grounding": "Peter Grund analyzed the Semita recta's pseudepigraphic attribution, manuscript tradition, and scholastic significance, drawing on Pearl Kibre's research establishing the text's non-Albertan authorship, in 'Textual Alchemy: The Transformation of Pseudo-Albertus Magnus's Semita Recta into the Mirror of Lights' in Ambix vol. 56 no. 3 (2009) pp.202-225.",
+      "persons_involved": ["albertus-magnus"],
+      "texts_involved": ["semita-recta-pseudo-albertus"],
+      "concepts_involved": ["practical-alchemy", "transmutation", "philosophers-stone"],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH"
+    },
+    {
+      "title": "Anonymous English Redactor Produces Mirror of Lights from Semita Recta",
+      "date_label": "ca. 1400 CE",
+      "date_sort": 1400,
+      "location_slug": "london",
+      "description": "In the late fourteenth or early fifteenth century, an anonymous English scholar — probably with university training given his intimate familiarity with scholastic textual techniques — produced the <em>Speculum luminum</em> (Mirror of Lights) by radically reworking the pseudo-Albertan <em>Semita recta</em>. Peter Grund, in <em>Ambix</em> (2009), argues that the redactor's motivating goal was to provide a more rigorous defence of alchemy's legitimacy as a science than was offered by the <em>Semita recta</em>, which had some logical gaps in its introductory defence of alchemy. The redactor imposed a strict scholastic structure on his source, dividing the text into three clearly marked parts through a <em>divisio textus</em> at the opening: Part 1 investigates 'the truth of alchemy' through thirteen philosophical conclusions, eight objections, and eight solutions; Part 2 explicitly notifies the 'conditions pertaining to alchemy' (material, formal, and preceptual); Part 3 declares 'true and perfect procedures of alchemy.' This format exactly mirrors the dialectic structure found in the most prestigious academic theological treatises, especially Capreolus's <em>Defensiones theologiae divi Thomae Aquinatis</em>, composed in the early fifteenth century. The redactor's goal was to claim the same intellectual prestige for alchemy that such textual strategies implied. Grund notes that the <em>Mirror of Lights</em> survives in approximately eleven manuscripts, the overwhelming majority in Middle English rather than Latin — evidence that the vernacular version circulated more widely than the Latin original (if there was one). The complete three-part text survives only in Trinity College, Cambridge, MS O. 2. 33; most copies contain only Parts 2 and 3, suggesting use primarily as a practical handbook.",
+      "scholarly_grounding": "Peter Grund analyzed the Mirror of Lights's scholastic redactional strategies and argued for its composition in late 14th or early 15th century England, in 'Textual Alchemy: The Transformation of Pseudo-Albertus Magnus's Semita Recta into the Mirror of Lights' in Ambix vol. 56 no. 3 (2009) pp.202-225.",
+      "persons_involved": [],
+      "texts_involved": ["semita-recta-pseudo-albertus", "mirror-of-lights"],
+      "concepts_involved": ["practical-alchemy", "philosophers-stone", "transmutation"],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "MEDIUM"
+    },
+    {
+      "title": "Ralph Rabbards Publishes First Vernacular Alchemical Text Printed in England",
+      "date_label": "1591 CE",
+      "date_sort": 1591,
+      "location_slug": "london",
+      "description": "In 1591, Ralph Rabbards published the first vernacular alchemical work printed in England: George Ripley's <em>The Compound of Alchymy, divided into Twelve Gates</em>, a long alchemical poem composed ca. 1471 in late Middle English rhyme royal, in a quarto volume of approximately one hundred pages. Jennifer M. Rampling, in <em>Ambix</em> (2010), identifies this publication as a landmark event in English alchemical history: Rabbards dedicated the work to Queen Elizabeth I and promoted Ripley as an authority who 'lived in the time of king Edward the 4 ... in great fame and estimation, for his rare knowledge in these secrets.' The publication brought into print, for the first time, a work that had circulated widely in manuscript since the 1470s — a Middle English alchemical poem that Rampling describes as the single most influential alchemical text in the English language, 'the flower of all the books of the philosophers' in the words of a manuscript note from 1525. The 1591 Rabbards edition was subsequently reprinted in Elias Ashmole's <em>Theatrum chemicum Britannicum</em> (London, 1652), which added dozens of shorter Ripleian works with scholarly notes. Rampling's research demonstrates that the 1591 printing marks the high-water point of a process that had been underway throughout the Elizabethan period: the dramatic expansion of the corpus of works attributed to Ripley, as both genuine and pseudoepigraphic texts circulated in increasing numbers of manuscript copies, were translated from Latin to English and English to Latin, and were read across Europe from Venice to France. The printed <em>Compound</em> cemented Ripley's reputation as the pre-eminent English alchemical authority, a status he held through the seventeenth century.",
+      "scholarly_grounding": "Jennifer M. Rampling identified the 1591 Rabbards edition as the first vernacular alchemical text printed in England and analyzed the Elizabethan expansion of the Ripley corpus, in 'The Catalogue of the Ripley Corpus: Alchemical Writings Attributed to George Ripley (d. ca. 1490)' in Ambix vol. 57 no. 2 (2010) pp.125-201.",
+      "persons_involved": ["george-ripley", "elias-ashmole"],
+      "texts_involved": ["compound-of-alchemies"],
+      "concepts_involved": ["transmutation", "philosophers-stone", "practical-alchemy"],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH"
+    }
+  ]
+}

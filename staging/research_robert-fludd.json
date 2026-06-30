@@ -1,0 +1,261 @@
+{
+  "slug": "robert-fludd",
+  "itinerary": [
+    {
+      "place": "Bearsted",
+      "lat": 51.27,
+      "lon": 0.58,
+      "year_start": 1574,
+      "year_end": 1591,
+      "dwell": 17,
+      "what": "Born 17 January 1574 (1573/4 old style) at Milgate House, Bearsted, Kent, son of Sir Thomas Fludd, Elizabeth I's treasurer for war in Europe. Childhood in Kent before university.",
+      "evidence": "attested",
+      "leg_evidence": "n/a (birthplace; origin point). Death and burial also at Bearsted (Holy Cross Church, 1637).",
+      "source": "Wikipedia 'Robert Fludd'; DNB 1885-1900 'Fludd, Robert'; RCP Museum biography",
+      "confidence": "high (date sometimes given as 17 Jan 1573/4 by old-style reckoning; place secure)"
+    },
+    {
+      "place": "Oxford",
+      "lat": 51.75,
+      "lon": -1.26,
+      "year_start": 1592,
+      "year_end": 1598,
+      "dwell": 6,
+      "what": "Matriculated at St John's College, Oxford (entered 1591/1592 as a commoner); B.A. 1597, M.A. 1598.",
+      "evidence": "attested",
+      "leg_evidence": "Degree records (B.A. 1597, M.A. 1598) in DNB and Wikipedia. Entry year given variously as 1591 or 1592.",
+      "source": "Wikipedia 'Robert Fludd'; DNB 1885-1900; Britannica",
+      "confidence": "high (degrees secure; matriculation year varies 1591/1592 between sources)"
+    },
+    {
+      "place": "Paris",
+      "lat": 48.86,
+      "lon": 2.35,
+      "year_start": 1598,
+      "year_end": 1601,
+      "dwell": 3,
+      "what": "Opening phase of the ~six-year continental tour (1598-1604). In France, including Paris, where he befriended Antoine de Bourdaloue, counsellor and steward to Charles, Duc de Guise, gaining entree to French aristocratic circles. Studied/taught medicine, chemistry, and hermeticism.",
+      "evidence": "attested",
+      "leg_evidence": "Continental tour 1598-1604 is attested (Wikipedia, DNB); the Bourdaloue/Guise connection and French phase come from Fludd's own account and Godwin/Warburg scholarship. Exact internal chronology of the French years is reconstructed, not documented year-by-year.",
+      "source": "Wikipedia 'Robert Fludd'; J. Godwin, Robert Fludd (1979); C. H. Josten / Warburg-Courtauld studies on Fludd's Avignon experiences",
+      "confidence": "medium (French sojourn and Guise/Bourdaloue tie attested; sub-itinerary dates inferred)"
+    },
+    {
+      "place": "Avignon",
+      "lat": 43.95,
+      "lon": 4.81,
+      "year_start": 1601,
+      "year_end": 1602,
+      "dwell": 1,
+      "what": "Wintered in Provence (Avignon and region) in winter 1601-1602 while travelling toward Italy. Tutored aristocratic pupils, including a thirteen-year-old Francois and Andre, Marquis d'Oraison and Vicomte de Cadenet. By his own account he developed/recorded his ideas on geomancy here, and reportedly spent a winter in the Pyrenees studying theurgy with the Jesuits.",
+      "evidence": "attested",
+      "leg_evidence": "The Avignon winter of 1601-1602 is specifically dated in C. H. Josten's Warburg-Courtauld study 'Robert Fludd's Theory of Geomancy and His Experiences at Avignon'. Tutoring of named pupils attested there and in Godwin (1979).",
+      "source": "C. H. Josten, 'Robert Fludd's Theory of Geomancy and His Experiences at Avignon in the Winter of 1601 to 1602', JWCI 27 (1964); J. Godwin, Robert Fludd (1979); Wikipedia 'Robert Fludd'",
+      "confidence": "high (Avignon winter 1601-1602 is one of the best-documented episodes of the tour)"
+    },
+    {
+      "place": "Great St Bernard Pass",
+      "lat": 45.87,
+      "lon": 7.17,
+      "year_start": 1602,
+      "year_end": 1602,
+      "dwell": 1,
+      "what": "On his way from Provence toward Italy, delayed/blocked by snow at the Great (Grand) St Bernard Pass in the Alps. Sources attest the intent to reach Italy and travels through Spain, Italy, and Germany; whether and how far he penetrated Italy on this leg is not firmly documented.",
+      "evidence": "attested",
+      "leg_evidence": "The snow-bound delay at the St Bernard Pass is reported (Wikipedia, drawing on Fludd's own account / Godwin). The onward Italian itinerary is asserted in general terms by Fludd but lacks precise corroboration. UNCERTAIN whether the Italian leg was completed.",
+      "source": "Wikipedia 'Robert Fludd'; J. Godwin, Robert Fludd (1979)",
+      "confidence": "medium (the pass episode is attested; the Italian destinations are vague and partly inferred)"
+    },
+    {
+      "place": "London",
+      "lat": 51.51,
+      "lon": -0.13,
+      "year_start": 1604,
+      "year_end": 1637,
+      "dwell": 33,
+      "what": "Returned to England 1604; incorporated at Christ Church, Oxford, taking M.B. and M.D. on 16 May 1605. Settled as a physician in London (Fenchurch Street). After repeated rejections, admitted Fellow of the Royal College of Physicians in September 1609; served as Censor (1618, 1627, 1633, 1634) and co-worked on the Pharmacopoeia Londinensis (1618). Wrote and published throughout via Continental presses. Died in London 8 September 1637; buried at Bearsted.",
+      "evidence": "attested",
+      "leg_evidence": "Christ Church M.D. dated 16 May 1605; RCP fellowship Sept 1609; censorships and death 8 Sept 1637 all in DNB / RCP Museum / Wikipedia.",
+      "source": "Wikipedia 'Robert Fludd'; DNB 1885-1900; RCP Museum biography",
+      "confidence": "high"
+    }
+  ],
+  "relationships": [
+    {
+      "target_label": "Johann Theodor de Bry",
+      "type": "collaborated",
+      "direction": false,
+      "weight": 5,
+      "evidence": "attested",
+      "survives": true,
+      "note": "Johann Theodor de Bry was Fludd's principal publisher and engraver, printing the great folios (Utriusque Cosmi... Historia, vol. 1 from 1617) at Oppenheim and Frankfurt; the engraver Matthaeus Merian (de Bry's son-in-law) executed many plates. This Continental partnership is what made Fludd's lavishly illustrated cosmology possible, since English printers could not match it. Central professional collaboration.",
+      "source": "Linda Hall Library 'Johann Theodor de Bry'; Science History Institute, 'A Tale of Two Editions'; Wikipedia 'Robert Fludd'",
+      "confidence": "high"
+    },
+    {
+      "target_label": "Charles, Duc de Guise (and Antoine de Bourdaloue)",
+      "type": "patron-of",
+      "direction": true,
+      "weight": 3,
+      "evidence": "attested",
+      "survives": false,
+      "note": "During the French phase of his tour Fludd attached himself to aristocratic circles via Antoine de Bourdaloue, steward to Charles, Duc de Guise, and tutored noble pupils in Provence (the young Francois; Andre, Marquis d'Oraison). Functioned as tutor/client to French nobility rather than recipient of a formal pension. Direction patron->Fludd.",
+      "source": "J. Godwin, Robert Fludd (1979); C. H. Josten, JWCI 27 (1964); Wikipedia 'Robert Fludd'",
+      "confidence": "medium-high"
+    },
+    {
+      "target_label": "Johannes Kepler",
+      "type": "polemicized-against",
+      "direction": false,
+      "weight": 4,
+      "evidence": "attested",
+      "survives": true,
+      "note": "Kepler appended a critique of Fludd's cosmic harmony (the divine monochord) to Harmonice Mundi (Linz, 1619), charging that Fludd's harmonies were fabricated rather than measured. Fludd replied in Veritatis Proscenium (Frankfurt, 1621) and Monochordum Mundi Symphoniacum (Frankfurt, 1622), defending a qualitative/hermetic over a quantitative/mathematical method; Kepler answered again. A landmark exchange contrasting Hermetic and mathematical natural philosophy.",
+      "source": "Wikipedia 'Robert Fludd'; The Renaissance Mathematicus, 'Kepler contra Fludd'; academia.edu, 'What Does a Diagram Prove... Kepler-Fludd Controversy'",
+      "confidence": "high"
+    },
+    {
+      "target_label": "Marin Mersenne",
+      "type": "polemicized-against",
+      "direction": false,
+      "weight": 4,
+      "evidence": "attested",
+      "survives": true,
+      "note": "Mersenne attacked Fludd (with other Hermetic/Cabbalist authors) as a dangerous magician in Quaestiones Celeberrimae in Genesim (Paris, 1623). Fludd replied with Sophiae cum Moria Certamen (Frankfurt, 1629) and, under the pseudonym 'Joachim Frizius', Summum Bonum (1629). A central episode in the early-17th-century campaign against Hermetic natural philosophy.",
+      "source": "Wikipedia 'Robert Fludd'; Stanford Encyclopedia of Philosophy 'Marin Mersenne'",
+      "confidence": "high"
+    },
+    {
+      "target_label": "Pierre Gassendi",
+      "type": "polemicized-against",
+      "direction": false,
+      "weight": 3,
+      "evidence": "attested",
+      "survives": true,
+      "note": "At Mersenne's request, Gassendi published Examen Philosophiae Fluddanae (1630), a detailed refutation of Fludd's Neoplatonic-Hermetic system, rejecting the equation of alchemy, Cabbala, and Christian doctrine. Fludd was the criticized party. Direction effectively Gassendi->Fludd (Fludd answered Mersenne directly more than Gassendi).",
+      "source": "Wikipedia 'Robert Fludd'; Stanford Encyclopedia of Philosophy 'Marin Mersenne'; MacTutor 'Pierre Gassendi'",
+      "confidence": "high"
+    },
+    {
+      "target": "michael-maier",
+      "target_label": "Michael Maier",
+      "type": "collaborated",
+      "direction": false,
+      "weight": 2,
+      "evidence": "inferred",
+      "survives": true,
+      "note": "Fludd and Maier were the two leading defenders of the Rosicrucian manifestos in the 1610s and shared the same publisher (Johann Theodor de Bry). Maier was in England ca. 1611-1616; older scholarship (Waite, Yates) assumed a personal friendship and that Maier introduced the manifestos to Fludd, but recent scholarship treats a close personal tie as poorly documented. Best read as parallel association in the same Rosicrucian/de Bry milieu. UNCERTAIN.",
+      "source": "A. E. Waite, Real History of the Rosicrucians (older view); F. Yates, The Rosicrucian Enlightenment; skeptical revision noted in recent Fludd/Maier scholarship",
+      "confidence": "low-medium (shared milieu certain; personal closeness disputed)"
+    },
+    {
+      "target_label": "Andreas Libavius",
+      "type": "polemicized-against",
+      "direction": false,
+      "weight": 2,
+      "evidence": "attested",
+      "survives": true,
+      "note": "Fludd's first Rosicrucian apology, Apologia Compendiaria (Leiden, 1616), was written against the chemist Andreas Libavius, who had attacked the Rosicrucian fraternity. Expanded into the Tractatus Apologeticus (Leiden, 1617).",
+      "source": "Wikipedia 'Robert Fludd'; DNB 1885-1900",
+      "confidence": "high"
+    },
+    {
+      "target": "paracelsus",
+      "target_label": "Paracelsus",
+      "type": "influenced",
+      "direction": true,
+      "weight": 3,
+      "evidence": "attested",
+      "survives": true,
+      "note": "Fludd's medicine and cosmology drew heavily on Paracelsian iatrochemistry and the macrocosm-microcosm framework; he was a leading English exponent of Paracelsian medical philosophy. Direction Paracelsus->Fludd (intellectual influence; not personal, as Paracelsus died 1541).",
+      "source": "Wikipedia 'Robert Fludd'; Britannica 'Robert Fludd'; Encyclopedia.com",
+      "confidence": "high"
+    },
+    {
+      "target": "john-dee",
+      "target_label": "John Dee",
+      "type": "influenced",
+      "direction": true,
+      "weight": 2,
+      "evidence": "inferred",
+      "survives": true,
+      "note": "Fludd worked within the English Hermetic-mathematical tradition associated with Dee (e.g., the monad/numerical-cosmological strand), sometimes via Khunrath; direct dependence on Dee is asserted by historians of the English Hermetic milieu rather than documented by correspondence. Direction Dee->Fludd. UNCERTAIN as to directness.",
+      "source": "Wikipedia 'Robert Fludd'; F. Yates, The Rosicrucian Enlightenment",
+      "confidence": "low-medium"
+    },
+    {
+      "target": "heinrich-khunrath",
+      "target_label": "Heinrich Khunrath",
+      "type": "influenced",
+      "direction": true,
+      "weight": 2,
+      "evidence": "inferred",
+      "survives": true,
+      "note": "Khunrath's theosophic-alchemical imagery (Amphitheatrum Sapientiae Aeternae) is a recognized precursor to Fludd's emblematic cosmology and is sometimes treated as a conduit for Dee's influence. Direction Khunrath->Fludd; an influence relation argued in scholarship, not a personal acquaintance.",
+      "source": "Wikipedia 'Robert Fludd'; scholarship on Khunrath-Fludd visual tradition",
+      "confidence": "low-medium"
+    },
+    {
+      "target_label": "William Harvey",
+      "type": "corresponded",
+      "direction": false,
+      "weight": 2,
+      "evidence": "attested",
+      "survives": false,
+      "note": "Fludd was an early supporter of William Harvey's doctrine of the circulation of the blood and a colleague at the Royal College of Physicians; the two are repeatedly linked as associates. Characterized here as a professional connection/sympathy rather than a documented letter exchange.",
+      "source": "Wikipedia 'Robert Fludd'; RCP Museum biography",
+      "confidence": "medium (association attested; 'corresponded' is approximate)"
+    }
+  ],
+  "concepts": [
+    {
+      "slug": "hermeticism",
+      "confidence": "high",
+      "source": "Fludd's cosmology is foundationally Hermetic (prisca-sapientia, Mosaical philosophy); standard scholarship (Godwin 1979; Britannica)"
+    },
+    {
+      "slug": "macrocosm-microcosm",
+      "confidence": "high",
+      "source": "Utriusque Cosmi... Historia is structured around the greater and lesser worlds (macrocosm/microcosm); the work's very title and plan"
+    },
+    {
+      "slug": "emblematic-alchemy",
+      "confidence": "high",
+      "source": "Fludd's de Bry folios are paradigms of emblematic/engraved alchemical-cosmological imagery; Public Domain Review essay; Science History Institute"
+    },
+    {
+      "slug": "paracelsian-alchemy",
+      "confidence": "high",
+      "source": "Fludd was a leading English Paracelsian; his medicine (Medicina Catholica) is iatrochemical-Paracelsian; Wikipedia; Britannica"
+    },
+    {
+      "slug": "iatrochemistry",
+      "confidence": "high",
+      "source": "As RCP physician Fludd practised and defended chemical (Paracelsian) medicine; Medicina Catholica (1629-1631); RCP Museum"
+    },
+    {
+      "slug": "magia-naturalis",
+      "confidence": "medium-high",
+      "source": "Mersenne and Gassendi attacked Fludd precisely for natural magic / Cabbalistic-magical cosmology; the polemic literature characterizes his system as magia"
+    },
+    {
+      "slug": "prisca-theologia",
+      "confidence": "medium",
+      "source": "Fludd grounded his system in an ancient Hermetic-Mosaical wisdom genealogy; treated by historians as a prisca-theologia framing"
+    }
+  ],
+  "travel_note_html": "<p>Robert Fludd (1574-1637) was born at Milgate House in Bearsted, Kent, and educated at St John's College, <strong>[LINK:oxford]</strong>, taking his B.A. (1597) and M.A. (1598). From about 1598 to 1604 he made a roughly six-year tour of the Continent, studying and teaching medicine, chemistry, and hermeticism. In France he entered aristocratic circles through Antoine de Bourdaloue, steward to the Duc de Guise, and in the winter of 1601-1602 he wintered in Provence around Avignon, tutoring noble pupils and, by his own account, formulating his theory of geomancy. He claimed also to have studied theurgy with Jesuits in the Pyrenees. Travelling on toward Italy he was halted by snow at the Great St Bernard Pass; how far he actually penetrated Italy is <em>uncertain</em>.</p><p>Returning to England in 1604, Fludd took his M.D. at Christ Church, Oxford (16 May 1605) and settled as a physician in <strong>[LINK:london]</strong>, where after repeated rejections he became a Fellow of the Royal College of Physicians in 1609. From 1617 his vast illustrated cosmology, the <em>Utriusque Cosmi... Historia</em>, was printed on the Continent by Johann Theodor de Bry at Oppenheim and Frankfurt, with engravings by Matthaeus Merian.</p><p>Fludd was a combative defender of the Rosicrucian manifestos (against Andreas Libavius) and the era's most prominent target of the new philosophy's critics: <strong>[LINK:michael-maier]</strong> shared his publisher and Rosicrucian cause, while Johannes Kepler (in the appendix to <em>Harmonice Mundi</em>, 1619), Marin Mersenne, and Pierre Gassendi each attacked his hermetic, qualitative cosmology, drawing extended replies. His thought rested on <strong>[LINK:paracelsus]</strong>'s iatrochemistry and a macrocosm-microcosm scheme, with debts to the English Hermetic tradition of <strong>[LINK:john-dee]</strong> and the imagery of <strong>[LINK:heinrich-khunrath]</strong> (both relations argued by scholars rather than personally documented). He died in London in 1637 and was buried at Bearsted.</p>",
+  "sources": [
+    "Wikipedia, 'Robert Fludd' (https://en.wikipedia.org/wiki/Robert_Fludd), accessed 2026-06-29",
+    "Dictionary of National Biography, 1885-1900, 'Fludd, Robert' (https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Fludd,_Robert), accessed 2026-06-29",
+    "Royal College of Physicians Museum, 'Robert Fludd' (https://history.rcp.ac.uk/inspiring-physicians/robert-fludd), accessed 2026-06-29",
+    "Encyclopaedia Britannica, 'Robert Fludd' (https://www.britannica.com/biography/Robert-Fludd), accessed 2026-06-29",
+    "C. H. Josten, 'Robert Fludd's Theory of Geomancy and His Experiences at Avignon in the Winter of 1601 to 1602', Journal of the Warburg and Courtauld Institutes 27 (1964) (https://www.journals.uchicago.edu/doi/abs/10.2307/750529), accessed 2026-06-29",
+    "Joscelyn Godwin, Robert Fludd: Hermetic Philosopher and Surveyor of Two Worlds (1979), used for tour itinerary and Provence pupils, accessed 2026-06-29",
+    "Linda Hall Library, 'Johann Theodor de Bry' (https://www.lindahall.org/about/news/scientist-of-the-day/johann-theodor-de-bry/), accessed 2026-06-29",
+    "Science History Institute, 'A Tale of Two Editions' (https://www.sciencehistory.org/collections/blog/a-tale-of-two-editions/), accessed 2026-06-29",
+    "The Renaissance Mathematicus, 'Kepler contra Fludd, science contra woo?' (https://thonyc.wordpress.com/2011/12/27/kepler-contra-fludd-science-contra-woo/), accessed 2026-06-29",
+    "Stanford Encyclopedia of Philosophy, 'Marin Mersenne' (https://plato.stanford.edu/entries/mersenne/), accessed 2026-06-29",
+    "The Public Domain Review, 'Robert Fludd and His Images of The Divine' (https://publicdomainreview.org/essay/robert-fludd-and-his-images-of-the-divine/), accessed 2026-06-29"
+  ]
+}

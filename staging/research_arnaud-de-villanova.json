@@ -1,0 +1,240 @@
+{
+  "slug": "arnaud-de-villanova",
+  "itinerary": [
+    {
+      "place": "Montpellier",
+      "lat": 43.6109,
+      "lon": 3.8772,
+      "year_start": 1260,
+      "year_end": 1291,
+      "dwell": 5,
+      "what": "Studied medicine at the Montpellier medical school (graduating c.1260) and, after periods of royal service, taught there as a master; he is associated with the school across the later 13th century before its formal regency of the 1290s.",
+      "evidence": "attested",
+      "leg_evidence": "inferred",
+      "source": "Encyclopedia.com (Dictionary of Scientific Biography), 'Arnald of Villanova'; Arnau DB (UAB), 'Royal physician and university professor'",
+      "confidence": "high"
+    },
+    {
+      "place": "Barcelona / Crown of Aragon court",
+      "lat": 41.3874,
+      "lon": 2.1686,
+      "year_start": 1281,
+      "year_end": 1285,
+      "dwell": 4,
+      "what": "Appointed personal physician to King Peter III of Aragon (from 1281); attached to the Aragonese court until Peter III's death in 1285, after which he returned to Montpellier.",
+      "evidence": "attested",
+      "leg_evidence": "inferred",
+      "source": "Wikipedia 'Arnaldus de Villa Nova'; Arnau DB (UAB), Montpellier page",
+      "confidence": "high"
+    },
+    {
+      "place": "Montpellier",
+      "lat": 43.6109,
+      "lon": 3.8772,
+      "year_start": 1291,
+      "year_end": 1299,
+      "dwell": 8,
+      "what": "Master/regent at the Montpellier school of medicine, where he produced his major authentic medical works (e.g. on regimen, on the medicinal use of wine, translations from Arabic).",
+      "evidence": "attested",
+      "leg_evidence": "inferred",
+      "source": "Encyclopedia.com (DSB); Arnau DB (UAB)",
+      "confidence": "high"
+    },
+    {
+      "place": "Paris",
+      "lat": 48.8566,
+      "lon": 2.3522,
+      "year_start": 1299,
+      "year_end": 1300,
+      "dwell": 1,
+      "what": "Sent on an Aragonese diplomatic embassy to Philip IV of France; while in Paris he circulated his apocalyptic De adventu Antichristi at the Faculty of Theology, was denounced and briefly imprisoned, and on 12 October 1300 lodged a notarized appeal to Pope Boniface VIII against the theologians' condemnation. (Older claims of a separate 1299 confrontation are now doubted; scholarship documents only the 1300 episode.)",
+      "evidence": "attested",
+      "leg_evidence": "attested",
+      "source": "Arnau DB (UAB), 'Sentinel of the Antichrist'; Cairn.info, 'Arnau de Vilanova and Paris: one embassy or two?'",
+      "confidence": "high"
+    },
+    {
+      "place": "Anagni / Roman Curia",
+      "lat": 41.7376,
+      "lon": 13.1547,
+      "year_start": 1301,
+      "year_end": 1301,
+      "dwell": 1,
+      "what": "Travelled to the papal court (Boniface VIII at Anagni), where the inquisitorial process against him over De adventu Antichristi was halted; he had earlier treated the pope.",
+      "evidence": "attested",
+      "leg_evidence": "inferred",
+      "source": "Encyclopedia.com (DSB); Arnau DB (UAB)",
+      "confidence": "medium"
+    },
+    {
+      "place": "Sicily (court of Frederick III, Messina/Palermo)",
+      "lat": 38.1157,
+      "lon": 13.3615,
+      "year_start": 1302,
+      "year_end": 1309,
+      "dwell": 3,
+      "what": "In the 1300s repeatedly sought refuge and support at the court of Frederick III of Sicily (Frederick I of Trinacria), whom he enlisted for his programme of spiritual/Christian reform after losing favour with James II; exact residence dates are uncertain and travel was intermittent.",
+      "evidence": "attested",
+      "leg_evidence": "inferred",
+      "source": "Encyclopedia.com (DSB), 'Arnald of Villanova'; EBSCO Research Starters, 'Arnold of Villanova'",
+      "confidence": "medium"
+    },
+    {
+      "place": "Avignon (papal court of Clement V)",
+      "lat": 43.9493,
+      "lon": 4.8055,
+      "year_start": 1308,
+      "year_end": 1311,
+      "dwell": 2,
+      "what": "Served as physician to Pope Clement V at the Avignon curia; in 1309 he is linked to the papal bull of 8 September 1309 setting the Montpellier medical curriculum, and the same year his Avignon statements questioning James II's orthodoxy cost him the Aragonese king's favour.",
+      "evidence": "attested",
+      "leg_evidence": "inferred",
+      "source": "Encyclopedia.com (DSB); Wikipedia 'Arnaldus de Villa Nova'",
+      "confidence": "medium"
+    },
+    {
+      "place": "At sea off Genoa (death)",
+      "lat": 44.4056,
+      "lon": 8.9463,
+      "year_start": 1311,
+      "year_end": 1311,
+      "dwell": 0,
+      "what": "Died at sea off the coast of Genoa (commonly dated 6 September 1311) while travelling, having been summoned again toward Avignon by Clement V.",
+      "evidence": "attested",
+      "leg_evidence": "attested",
+      "source": "Encyclopedia.com (Encyclopedia.com science entry, death 6 Sept 1311 off Genoa); Wikipedia 'Arnaldus de Villa Nova'",
+      "confidence": "high"
+    }
+  ],
+  "relationships": [
+    {
+      "target_label": "Boniface VIII",
+      "type": "patron-of",
+      "direction": false,
+      "weight": 4,
+      "evidence": "attested",
+      "survives": true,
+      "note": "Arnau treated Pope Boniface VIII and appealed to him (12 Oct 1300) against the Paris theologians; the pope halted the inquisitorial process. Patron/patient relationship; direction set as patron-of Arnau (pope is patron).",
+      "source": "Arnau DB (UAB), 'Sentinel of the Antichrist'; Encyclopedia.com (DSB)",
+      "confidence": "high"
+    },
+    {
+      "target_label": "Clement V",
+      "type": "patron-of",
+      "direction": false,
+      "weight": 4,
+      "evidence": "attested",
+      "survives": true,
+      "note": "Arnau was physician and confidant to Pope Clement V at Avignon (c.1308-1311) and connected to the 1309 medical-curriculum bull; he died en route to Clement's court in 1311.",
+      "source": "Encyclopedia.com (DSB); Wikipedia 'Arnaldus de Villa Nova'",
+      "confidence": "high"
+    },
+    {
+      "target_label": "James II of Aragon",
+      "type": "patron-of",
+      "direction": false,
+      "weight": 4,
+      "evidence": "attested",
+      "survives": true,
+      "note": "Arnau served James II of Aragon as physician and diplomatic agent (incl. the 1299-1300 Paris embassy); the relationship soured after 1309 when Arnau's Avignon statements questioned the king's orthodoxy. Direction: king as patron of Arnau.",
+      "source": "Encyclopedia.com (DSB); EBSCO Research Starters",
+      "confidence": "high"
+    },
+    {
+      "target_label": "Peter III of Aragon",
+      "type": "patron-of",
+      "direction": false,
+      "weight": 3,
+      "evidence": "attested",
+      "survives": true,
+      "note": "Appointed Arnau his personal physician from 1281 until the king's death in 1285. Direction: king as patron of Arnau.",
+      "source": "Wikipedia 'Arnaldus de Villa Nova'; Arnau DB (UAB)",
+      "confidence": "high"
+    },
+    {
+      "target_label": "Frederick III of Sicily",
+      "type": "patron-of",
+      "direction": false,
+      "weight": 4,
+      "evidence": "attested",
+      "survives": true,
+      "note": "King Frederick III of Sicily (Frederick I of Trinacria) sheltered Arnau from inquisitorial pressure and supported his spiritual-reform programme in the 1300s. Direction: king as patron of Arnau.",
+      "source": "Encyclopedia.com (DSB), 'Arnald of Villanova'; Wikipedia",
+      "confidence": "high"
+    },
+    {
+      "target": "john-of-rupescissa",
+      "target_label": "John of Rupescissa",
+      "type": "influenced",
+      "direction": true,
+      "weight": 3,
+      "evidence": "attested",
+      "survives": true,
+      "note": "Rupescissa's De consideratione quintae essentiae (c.1351-52) drew on the pseudo-Arnaldian quintessence/aqua vitae tradition; he explicitly invoked the pseudo-Arnaldian Tractatus parabolicus. NB: the influence runs largely through the PSEUDO-Arnaldian corpus, not securely through the historical Arnau.",
+      "source": "Arnau DB (UAB), 'The pseudo-Arnaldian alchemical corpus'; WebSearch summary of Rupescissa De quinta essentia",
+      "confidence": "medium"
+    },
+    {
+      "target": "roger-bacon",
+      "target_label": "Roger Bacon",
+      "type": "influenced",
+      "direction": false,
+      "weight": 2,
+      "evidence": "inferred",
+      "survives": true,
+      "note": "Both belong to the 13th-c. medico-alchemical milieu emphasizing prolongation of life and medicinal distillates; any direct link is at the level of shared currents and the later pseudonymous traditions, not documented personal contact. Low-confidence, contextual only.",
+      "source": "General scholarship on medieval life-prolongation/alchemy (contextual); no direct attestation found",
+      "confidence": "low"
+    },
+    {
+      "target": "raymond-lull",
+      "target_label": "Ramon Llull",
+      "type": "influenced",
+      "direction": false,
+      "weight": 2,
+      "evidence": "inferred",
+      "survives": true,
+      "note": "Catalan contemporaries; the large pseudo-Lullian and pseudo-Arnaldian alchemical corpora became intertwined in later transmission, but a direct documented relationship between the historical men is not established. Contextual/low-confidence; both authentic figures rejected/were distant from alchemy.",
+      "source": "Contextual scholarship on Catalan pseudo-alchemical corpora; no direct attestation",
+      "confidence": "low"
+    }
+  ],
+  "concepts": [
+    {
+      "slug": "quintessence",
+      "confidence": "medium",
+      "source": "Arnau DB (UAB), pseudo-Arnaldian corpus; the quintessence/aqua-vitae theme is central to the PSEUDO-Arnaldian works and to Rupescissa who drew on them"
+    },
+    {
+      "slug": "distillation",
+      "confidence": "medium",
+      "source": "Arnau DB (UAB); pseudo-Arnaldian 'De aqua vitae simplici et composita'; authentic De vinis concerns medicinal wine; distillation of aqua vitae is prominent in the corpus under his name"
+    },
+    {
+      "slug": "elixir",
+      "confidence": "medium",
+      "source": "Arnau DB (UAB), pseudo-Arnaldian 'De vita philosophorum' presents the elixir as universal remedy; theme belongs to the apocryphal corpus"
+    },
+    {
+      "slug": "transmutation",
+      "confidence": "medium",
+      "source": "Encyclopedia.com (DSB) and Arnau DB: transmutational doctrine appears in the pseudo-Arnaldian works (Novum lumen, Flos florum); NOT in the authentic Arnau, who is reported to have dismissed alchemists"
+    },
+    {
+      "slug": "iatrochemistry",
+      "confidence": "low",
+      "source": "The medico-chemical reputation attached to Arnau's name (medicinal wine/aqua vitae) anticipates later iatrochemical themes; this is an analytical/retrospective category, attached largely via the pseudonymous corpus"
+    }
+  ],
+  "travel_note_html": "<p>Arnau de Vilanova (c.1240–1311) lived between the medical school of Montpellier and the courts that prized his learning. After graduating at Montpellier around 1260 he became personal physician to Peter III of Aragon (from 1281), returned to teach at Montpellier, and served Aragonese kings and three popes as physician and diplomat. In 1299–1300 an Aragonese embassy took him to [LINK:paris], where his apocalyptic <em>De adventu Antichristi</em> was condemned by the Faculty of Theology and he was briefly jailed before appealing to Boniface VIII; he then carried his cause to the Roman Curia (Anagni, 1301). His later years swung between the court of Frederick III of Sicily, who sheltered his reformist projects, and the Avignon court of Clement V. He died at sea off Genoa, commonly on 6 September 1311.</p><p><strong>Provenance caution:</strong> the large alchemical corpus circulating under Arnau's name — <em>Rosarius philosophorum</em>, <em>Novum lumen</em>, <em>Flos florum</em>, <em>De vita philosophorum</em> and others — is regarded by modern scholarship (notably the editorial work behind the UAB Arnau corpus and the <em>Dictionary of Scientific Biography</em>) as <em>pseudo-Arnaldian</em>. The DSB entry concludes that “no common ground is discernible” between Arnau's genuine medical writing and these alchemical texts, and reports that the historical Arnau dismissed alchemists; the apocryphal character of the whole corpus is the accepted hypothesis. His authentic <em>De vinis</em> concerns the medicinal use of wine, not transmutation. The quintessence/elixir themes later transmitted to [LINK:john-of-rupescissa] therefore travel chiefly through the pseudonymous corpus, not through Arnau himself.</p>",
+  "sources": [
+    "Encyclopedia.com (Dictionary of Scientific Biography), 'Arnald of Villanova' — https://www.encyclopedia.com/people/philosophy-and-religion/early-christianity-biographies/arnald-villanova",
+    "Encyclopedia.com (science encyclopedia), 'Arnau de Villanova' — https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/arnau-de-villanova",
+    "Wikipedia, 'Arnaldus de Villa Nova' — https://en.wikipedia.org/wiki/Arnau_of_Villanova",
+    "Arnau DB. Corpus digital d'Arnau de Vilanova (UAB), 'Royal physician and university professor' — https://grupsderecerca.uab.cat/arnau/en/montpeller",
+    "Arnau DB (UAB), 'Sentinel of the Antichrist' — https://webs.uab.cat/arnau/en/profeta-2/",
+    "Arnau DB (UAB), 'The pseudo-Arnaldian alchemical corpus' — https://webs.uab.cat/arnau/en/corpus-alquimic-2/",
+    "Cairn.info, 'Arnau de Vilanova and Paris: one embassy or two?' — https://www.cairn.info/revue-archives-d-histoire-doctrinale-et-litteraire-du-moyen-age-2006-1-page-29.htm",
+    "EBSCO Research Starters, 'Arnold of Villanova' — https://www.ebsco.com/research-starters/biography/arnold-villanova"
+  ]
+}

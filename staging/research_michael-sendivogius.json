@@ -1,0 +1,287 @@
+{
+  "slug": "michael-sendivogius",
+  "itinerary": [
+    {
+      "place": "Łukowica (Lesser Poland)",
+      "lat": 49.6917,
+      "lon": 20.4242,
+      "year_start": 1566,
+      "year_end": 1566,
+      "dwell": 0,
+      "what": "Birthplace. Born 2 February 1566 into the Polish szlachta (minor nobility); the village lies in Limanowa County, ~63 km SE of Kraków.",
+      "evidence": "attested",
+      "leg_evidence": "Birthplace given as Łukowica by modern Polish scholarship; the older Dictionary of Scientific Biography gives 'Skorsko or Lukawica', so the exact natal village carries some uncertainty.",
+      "source": "Wikipedia 'Michael Sendivogius'; Encyclopedia.com (Dictionary of Scientific Biography, 'Sendivogius'); Wikipedia 'Łukowica'",
+      "confidence": "high"
+    },
+    {
+      "place": "Kraków (University)",
+      "lat": 50.0614,
+      "lon": 19.9372,
+      "year_start": 1580,
+      "year_end": 1590,
+      "dwell": 0,
+      "what": "Early studies at the Kraków Academy (Jagiellonian University), where his father sent him. Approximate dates; he later peregrinated to other universities.",
+      "evidence": "attested",
+      "leg_evidence": "University of Kraków attendance is attested; exact entry/exit years are not precisely documented, so the date range is approximate.",
+      "source": "Wikipedia 'Michael Sendivogius'; Linda Hall Library 'Scientist of the Day: Michael Sendivogius'; Polish History 'Michał Sędziwój'",
+      "confidence": "medium"
+    },
+    {
+      "place": "Leipzig (University)",
+      "lat": 51.3397,
+      "lon": 12.3731,
+      "year_start": 1590,
+      "year_end": 1590,
+      "dwell": 0,
+      "what": "Matriculated at the University of Leipzig (entered 1590) during a wider tour of European universities.",
+      "evidence": "attested",
+      "leg_evidence": "Matriculation date 1590 is given by the Dictionary of Scientific Biography.",
+      "source": "Encyclopedia.com (Dictionary of Scientific Biography, 'Sendivogius')",
+      "confidence": "high"
+    },
+    {
+      "place": "Vienna (University / court)",
+      "lat": 48.2082,
+      "lon": 16.3738,
+      "year_start": 1591,
+      "year_end": 1591,
+      "dwell": 0,
+      "what": "Enrolled at the University of Vienna (13 October 1591). Vienna would later also be a centre of his Habsburg court service under Ferdinand II.",
+      "evidence": "attested",
+      "leg_evidence": "Matriculation 1591 (and the date 13 Oct 1591) is documented in matriculation records; this is among the firmest fixed points of his early biography.",
+      "source": "Wikipedia 'Michael Sendivogius'; Encyclopedia.com (Dictionary of Scientific Biography)",
+      "confidence": "high"
+    },
+    {
+      "place": "Altdorf (University)",
+      "lat": 49.3869,
+      "lon": 11.3556,
+      "year_start": 1595,
+      "year_end": 1595,
+      "dwell": 0,
+      "what": "Attended the University of Altdorf (bei Nürnberg) in 1595, by then likely already in imperial (Habsburg) service.",
+      "evidence": "attested",
+      "leg_evidence": "Altdorf 1595 given by the Dictionary of Scientific Biography; the DSB also lists possible (unconfirmed) visits to Rostock, Ingolstadt and Cambridge.",
+      "source": "Encyclopedia.com (Dictionary of Scientific Biography, 'Sendivogius')",
+      "confidence": "medium"
+    },
+    {
+      "place": "Prague (court of Rudolf II)",
+      "lat": 50.0875,
+      "lon": 14.4214,
+      "year_start": 1593,
+      "year_end": 1604,
+      "dwell": 0,
+      "what": "Service at the imperial court of Emperor Rudolf II, the great Habsburg patron of alchemy. Active as courier (from c. 1593) and participant in alchemical experiments; held the Fumberg estate near Prague (c. 1597–1602). Published the Novum Lumen Chymicum at Prague in 1604.",
+      "evidence": "attested",
+      "leg_evidence": "Court service and the Fumberg estate are documented; the celebrated 'transmutation before Rudolf II' (and a commemorative plaque) is a legendary/unverified account. Dwell at Prague was intermittent, overlapping with Polish service.",
+      "source": "Encyclopedia.com (Dictionary of Scientific Biography); Wikipedia 'Michael Sendivogius'; Linda Hall Library; Polish History",
+      "confidence": "high"
+    },
+    {
+      "place": "Kraków / Wawel (court of Sigismund III)",
+      "lat": 50.0540,
+      "lon": 19.9354,
+      "year_start": 1594,
+      "year_end": 1607,
+      "dwell": 0,
+      "what": "Service to King Sigismund III Vasa of Poland (courier/secretary from c. 1594; royal secretary c. 1600). Conducted alchemical work in a chamber at Wawel Castle (the 'Hen's Foot'/Kurza Stopka tower, reportedly still intact) and acted as a diplomat between the Polish-Lithuanian Commonwealth and the Empire.",
+      "evidence": "attested",
+      "leg_evidence": "Royal service and diplomatic role are documented; the specific Wawel 'Hen's Foot' laboratory is repeated in Polish sources but is part of local tradition. Service overlapped with his Prague activity, so dates are approximate.",
+      "source": "Encyclopedia.com (Dictionary of Scientific Biography); Wikipedia 'Michael Sendivogius'; Polish History 'Michał Sędziwój'",
+      "confidence": "high"
+    },
+    {
+      "place": "Krzepice (foundries, Poland)",
+      "lat": 50.9742,
+      "lon": 18.7297,
+      "year_start": 1600,
+      "year_end": 1610,
+      "dwell": 0,
+      "what": "Industrial work in Poland: with Crown Marshal Mikołaj Wolski he established smithies and iron/brass foundries at Krzepice, and was employed designing mines and metal foundries.",
+      "evidence": "attested",
+      "leg_evidence": "Foundry/mining enterprises at Krzepice with Wolski are reported; exact years are approximate.",
+      "source": "Wikipedia 'Michael Sendivogius'; Encyclopedia.com (Dictionary of Scientific Biography)",
+      "confidence": "medium"
+    },
+    {
+      "place": "Vienna (court of Ferdinand II)",
+      "lat": 48.2082,
+      "lon": 16.3738,
+      "year_start": 1619,
+      "year_end": 1630,
+      "dwell": 0,
+      "what": "Transferred allegiance to Emperor Ferdinand II (c. 1619) during the early Thirty Years' War; appointed imperial privy councillor in 1626.",
+      "evidence": "attested",
+      "leg_evidence": "Transfer to Ferdinand II (c. 1619) and privy councillor appointment (1626) given by the Dictionary of Scientific Biography.",
+      "source": "Encyclopedia.com (Dictionary of Scientific Biography, 'Sendivogius')",
+      "confidence": "high"
+    },
+    {
+      "place": "Kravaře (estate, Silesia/Moravia)",
+      "lat": 49.9320,
+      "lon": 18.0047,
+      "year_start": 1631,
+      "year_end": 1636,
+      "dwell": 0,
+      "what": "Final years on his own estates. Granted the Kravaře (Cravar) and Kouty estates by Ferdinand II in 1631 as reward for service; lived, worked and died here in 1636 (aged ~70), in relative obscurity amid the Thirty Years' War.",
+      "evidence": "attested",
+      "leg_evidence": "Land grants of Kravaře and Kouty (1631) and death at Kravaře (1636) are documented. The exact death date within 1636 is uncertain (DSB gives 'June 1636').",
+      "source": "Encyclopedia.com (Dictionary of Scientific Biography); Wikipedia 'Michael Sendivogius'; Wikipedia 'Kravaře'",
+      "confidence": "high"
+    }
+  ],
+  "relationships": [
+    {
+      "target": "edward-kelly",
+      "target_label": "Edward Kelley",
+      "type": "influenced",
+      "direction": false,
+      "weight": 2,
+      "evidence": "attested",
+      "survives": true,
+      "note": "Sendivogius later acquired (purchased) a former estate of Edward Kelley near Prague; the two were part of the same Rudolfine alchemical milieu. Direct personal collaboration is not securely documented, so the link is principally one of milieu and property succession.",
+      "source": "Encyclopedia.com (Dictionary of Scientific Biography); Wikipedia 'Michael Sendivogius'",
+      "confidence": "medium"
+    },
+    {
+      "target": "john-dee",
+      "target_label": "John Dee",
+      "type": "influenced",
+      "direction": false,
+      "weight": 1,
+      "evidence": "inferred",
+      "survives": false,
+      "note": "Polish tradition holds that Dee and Kelley (active at the court of King Stefan Batory) influenced the young Sendivogius. This is a contextual/legendary association rather than documented contact; treat with caution.",
+      "source": "Polish History 'Michał Sędziwój'; Encyclopedia.com (Dictionary of Scientific Biography)",
+      "confidence": "low"
+    },
+    {
+      "target": null,
+      "target_label": "Rudolf II (Holy Roman Emperor)",
+      "type": "patron-of",
+      "direction": true,
+      "weight": 4,
+      "evidence": "attested",
+      "survives": true,
+      "note": "Rudolf II was Sendivogius's principal early Habsburg patron at Prague; Sendivogius served at his court and participated in court alchemy. The famous transmutation demonstration before the Emperor is legendary. (Direction: Rudolf II is patron of Sendivogius.)",
+      "source": "Encyclopedia.com (Dictionary of Scientific Biography); Wikipedia 'Michael Sendivogius'; Linda Hall Library",
+      "confidence": "high"
+    },
+    {
+      "target": null,
+      "target_label": "Sigismund III Vasa (King of Poland)",
+      "type": "patron-of",
+      "direction": true,
+      "weight": 4,
+      "evidence": "attested",
+      "survives": true,
+      "note": "Sigismund III, himself an alchemy enthusiast, employed Sendivogius as courier, royal secretary and diplomat from c. 1594. (Direction: Sigismund III is patron of Sendivogius.)",
+      "source": "Encyclopedia.com (Dictionary of Scientific Biography); Wikipedia 'Michael Sendivogius'; Polish History",
+      "confidence": "high"
+    },
+    {
+      "target": null,
+      "target_label": "Ferdinand II (Holy Roman Emperor)",
+      "type": "patron-of",
+      "direction": true,
+      "weight": 3,
+      "evidence": "attested",
+      "survives": true,
+      "note": "Sendivogius transferred his service to Ferdinand II c. 1619, was made privy councillor (1626) and granted the Kravaře/Kouty estates (1631). (Direction: Ferdinand II is patron of Sendivogius.)",
+      "source": "Encyclopedia.com (Dictionary of Scientific Biography)",
+      "confidence": "high"
+    },
+    {
+      "target": null,
+      "target_label": "Alexander Seton (Sethon)",
+      "type": "influenced",
+      "direction": false,
+      "weight": 2,
+      "evidence": "inferred",
+      "survives": false,
+      "note": "The famous legend holds that Sendivogius freed the Scottish adept Alexander Seton from imprisonment in Saxony, received from him the transmuting powder, and later married Seton's widow — and that the Novum Lumen Chymicum was really Seton's work. Modern scholarship (per the Dictionary of Scientific Biography) treats the Seton connection as largely 'literary fiction'. Recorded here only because it is the central legend attached to him; NOT to be presented as fact.",
+      "source": "Encyclopedia.com (Dictionary of Scientific Biography, dismissing Seton link as 'literary fiction'); Polish History (relating the legend)",
+      "confidence": "low"
+    },
+    {
+      "target": "oswald-croll",
+      "target_label": "Oswald Croll",
+      "type": "collaborated",
+      "direction": false,
+      "weight": 2,
+      "evidence": "attested",
+      "survives": false,
+      "note": "Documented friendship within the Rudolfine Paracelsian circle (the DSB lists Croll among his documented friends).",
+      "source": "Encyclopedia.com (Dictionary of Scientific Biography, 'Sendivogius')",
+      "confidence": "medium"
+    },
+    {
+      "target": "michael-maier",
+      "target_label": "Michael Maier",
+      "type": "collaborated",
+      "direction": false,
+      "weight": 2,
+      "evidence": "attested",
+      "survives": false,
+      "note": "Documented friendship; both were figures of the Rudolfine alchemical court at Prague (the DSB lists Maier among his documented friends).",
+      "source": "Encyclopedia.com (Dictionary of Scientific Biography, 'Sendivogius')",
+      "confidence": "medium"
+    },
+    {
+      "target": null,
+      "target_label": "Joachim Tancke",
+      "type": "collaborated",
+      "direction": false,
+      "weight": 1,
+      "evidence": "attested",
+      "survives": false,
+      "note": "Documented friendship (Leipzig physician/chymist); listed by the DSB among Sendivogius's friends.",
+      "source": "Encyclopedia.com (Dictionary of Scientific Biography, 'Sendivogius')",
+      "confidence": "medium"
+    }
+  ],
+  "concepts": [
+    {
+      "slug": "transmutation",
+      "confidence": "high",
+      "source": "Wikipedia 'Michael Sendivogius'; Encyclopedia.com (DSB) — his whole programme centred on the transmutation of metals and the philosophers' stone, though we report the belief without endorsing it."
+    },
+    {
+      "slug": "philosophers-stone",
+      "confidence": "high",
+      "source": "Encyclopedia.com (DSB): the Novum Lumen Chymicum is subtitled 'De Lapide Philosophorum Tractatus duodecim' (Twelve Treatises on the Philosophers' Stone)."
+    },
+    {
+      "slug": "prima-materia",
+      "confidence": "high",
+      "source": "Encyclopedia.com (DSB); ResearchGate 'Sendivogius on Nitre' — his 'central/aerial niter' (sal nitrum) functions as the hidden vital first matter / seed of growth in his cosmology."
+    },
+    {
+      "slug": "quintessence",
+      "confidence": "medium",
+      "source": "Polish History; Wikipedia — his 'food of life' / vital spirit hidden in the air is the life-giving subtle substance pervading all things, akin to a quintessence."
+    },
+    {
+      "slug": "chrysopoeia",
+      "confidence": "medium",
+      "source": "Encyclopedia.com (DSB); Wikipedia — gold-making (chrysopoeia) is the aim of the legendary transmutation demonstrations and of the philosophers'-stone programme reported of him."
+    },
+    {
+      "slug": "sulfur-mercury-theory",
+      "confidence": "medium",
+      "source": "Encyclopedia.com (DSB); Szydlo (UCL thesis) — his corpus includes the 'Dialogue of Mercury, the Alchemist and Nature' and a 'Treatise on Sulphur', engaging the sulfur-mercury matter theory."
+    }
+  ],
+  "travel_note_html": "<p>Michael Sendivogius (Michał Sędziwój, 1566–1636) was the most celebrated alchemist of the Polish-Lithuanian Commonwealth and a true commuter of the Rudolfine world. Born in Łukowica in Lesser Poland and schooled at the Kraków Academy, he peregrinated through the universities of Leipzig (1590), Vienna (1591) and Altdorf (1595) before threading his career between two courts: the imperial court of Rudolf II at [LINK:prague] and the Polish royal court of Sigismund III Vasa at [LINK:krakow], where tradition places his laboratory in the Wawel 'Hen's Foot' tower.</p><p>His fame rests on the <em>Novum Lumen Chymicum</em> (New Chemical Light), published anonymously at Prague in 1604 as twelve treatises on the philosophers' stone, accompanied by a <em>Dialogue of Mercury</em> and a treatise on sulphur. In it he developed the theory of a hidden 'central niter' or aerial saltpeter — a 'food of life' concealed in the air that nourishes metals, plants and animals and sustains combustion. Later writers, and many encyclopedias, read this as an anticipation of oxygen some 170 years before Scheele; this is a much-repeated but unverified claim, and the Linda Hall Library notes that no primary source cleanly supports it. The lurid legend that he obtained his secret powder from the Scottish adept Alexander Seton (and married Seton's widow) is regarded by modern scholarship as largely literary fiction, as is the story of a transmutation staged before Rudolf II.</p><p>In his last years Sendivogius shifted to the service of Emperor Ferdinand II (privy councillor, 1626), who in 1631 granted him the estates of Kravaře and Kouty in Silesia/Moravia. There, amid the upheavals of the Thirty Years' War, he lived and died around 1636. He moved in the same circle as [LINK:michael-maier] and [LINK:oswald-croll], and is loosely linked in tradition to the English alchemists [LINK:john-dee] and [LINK:edward-kelly], whose former estate near Prague he is said to have acquired.</p>",
+  "sources": [
+    "Encyclopedia.com — Dictionary of Scientific Biography, 'Sendivogius (Sedzimir or Sedziwoj), Michael' (https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/sendivogius-sedzimir-or-sedzioj-michael)",
+    "Wikipedia, 'Michael Sendivogius' (https://en.wikipedia.org/wiki/Michael_Sendivogius)",
+    "Andrew Z. Szydlo, 'The Life and Work of Michael Sendivogius (1566–1636)', UCL doctoral thesis (https://discovery.ucl.ac.uk/id/eprint/10124132/) — NOTE: PDF was image-encoded and could not be text-extracted in this session; cited from its title/abstract and corroborating sources",
+    "Linda Hall Library, 'Scientist of the Day: Michael Sendivogius' (https://www.lindahall.org/about/news/scientist-of-the-day/michael-sendivogius/) — skeptical on the oxygen-discovery claim",
+    "Polish History, 'Michał Sędziwój: an alchemist who discovered oxygen' (https://polishhistory.pl/michal-sedziwoj-an-alchemist-who-discovered-oxygen/)",
+    "Z. Szydlo, 'Michael Sendivogius on Nitre and the Preparation of the Philosophers' Stone' (ResearchGate, https://www.researchgate.net/publication/233488636)",
+    "Wikipedia, 'Kravaře' (https://en.wikipedia.org/wiki/Krava%C5%99e); Wikipedia, 'Łukowica'; Wikipedia, 'Krzepice'"
+  ]
+}

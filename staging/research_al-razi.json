@@ -1,0 +1,180 @@
+{
+  "slug": "al-razi",
+  "itinerary": [
+    {
+      "place": "Rayy",
+      "lat": 35.59,
+      "lon": 51.43,
+      "year_start": 865,
+      "year_end": 885,
+      "dwell": 20,
+      "what": "Born in Rayy (modern Rey, near Tehran), from which his nisba al-Razi derives; spent his youth there before relocating to Baghdad. Birth year given as 864 or 865 CE in the sources; year of departure for Baghdad is not attested and is supplied here as an approximate bracket.",
+      "evidence": "approximate",
+      "leg_evidence": "Birthplace attested by name (nisba) and all biographical sources; the closing year of this phase (departure for Baghdad) is inferred, no date is given in the sources.",
+      "source": "Stanford Encyclopedia of Philosophy, 'Abu Bakr al-Razi'; Wikipedia, 'Abu Bakr al-Razi'; Britannica, 'al-Razi'",
+      "confidence": "high (birthplace), low (dates)"
+    },
+    {
+      "place": "Baghdad",
+      "lat": 33.31,
+      "lon": 44.36,
+      "year_start": 885,
+      "year_end": 900,
+      "dwell": 15,
+      "what": "Moved to Baghdad in his youth to study and practice at the local bimaristan (hospital). The exact years are not recorded in the sources; this leg is bracketed approximately before his recorded return to Rayy.",
+      "evidence": "approximate",
+      "leg_evidence": "The move to Baghdad to study at the bimaristan is attested, but 'no year is specified' in the sources; the dates here are inferred.",
+      "source": "Wikipedia, 'Abu Bakr al-Razi'; Britannica, 'al-Razi'",
+      "confidence": "medium (the move itself), low (dates)"
+    },
+    {
+      "place": "Rayy",
+      "lat": 35.59,
+      "lon": 51.43,
+      "year_start": 900,
+      "year_end": 902,
+      "dwell": 2,
+      "what": "Invited back to Rayy by Mansur ibn Ishaq (Abu Salih al-Mansur), then governor of Rayy, and appointed head (director) of its bimaristan. He dedicated 'The Book for al-Mansur' (Kitab al-Mansuri) to this patron. The years are not recorded; this return is placed before his Baghdad hospital directorship under al-Mu'tadid (d. 902).",
+      "evidence": "approximate",
+      "leg_evidence": "The invitation by Mansur ibn Ishaq and the headship of the Rayy hospital are attested; the dedication of the Kitab al-Mansuri confirms the patronage. No specific dates are given; the bracket is inferred from the relative chronology.",
+      "source": "Stanford Encyclopedia of Philosophy, 'Abu Bakr al-Razi'; Wikipedia, 'Abu Bakr al-Razi'",
+      "confidence": "medium (event), low (dates)"
+    },
+    {
+      "place": "Baghdad",
+      "lat": 33.31,
+      "lon": 44.36,
+      "year_start": 902,
+      "year_end": 915,
+      "dwell": 13,
+      "what": "Invited to Baghdad, where he directed a new hospital; sources associate this phase with the caliphs al-Mu'tadid (d. 902) and al-Muktafi (r. 902-908), under whom he was reportedly commissioned to plan a new hospital. Exact dates of his Baghdad directorship are not securely recorded.",
+      "evidence": "approximate",
+      "leg_evidence": "His Baghdad hospital directorship is attested and loosely dated by association with named caliphs (al-Mu'tadid d. 902; al-Muktafi r. 902-908); precise start and end years are not given in the sources.",
+      "source": "Wikipedia, 'Abu Bakr al-Razi'; Stanford Encyclopedia of Philosophy, 'Abu Bakr al-Razi'",
+      "confidence": "medium (event and caliphal association), low (exact dates)"
+    },
+    {
+      "place": "Rayy",
+      "lat": 35.59,
+      "lon": 51.43,
+      "year_start": 915,
+      "year_end": 925,
+      "dwell": 10,
+      "what": "Spent the last years of his life in his native Rayy, where he reportedly suffered from glaucoma/blindness. Died in Rayy in 925 CE (some sources give 935 CE). The start of this final phase is inferred; the death is attested.",
+      "evidence": "approximate",
+      "leg_evidence": "Death in Rayy is attested; the death year is 925 CE in most sources, with 935 CE a minority variant. The start year of the final Rayy residence is inferred.",
+      "source": "Wikipedia, 'Abu Bakr al-Razi'; Stanford Encyclopedia of Philosophy, 'Abu Bakr al-Razi'; Britannica, 'al-Razi'",
+      "confidence": "high (death in Rayy), medium (death year), low (start of phase)"
+    }
+  ],
+  "relationships": [
+    {
+      "target_label": "Mansur ibn Ishaq (Abu Salih al-Mansur), governor of Rayy",
+      "type": "patron-of",
+      "direction": true,
+      "weight": 4,
+      "evidence": "attested",
+      "survives": true,
+      "note": "Mansur ibn Ishaq, Samanid governor of Rayy, invited al-Razi back to head the Rayy bimaristan and was the patron to whom al-Razi dedicated the Kitab al-Mansuri ('The Book for al-Mansur'). Direction: patron acts upon al-Razi.",
+      "source": "Stanford Encyclopedia of Philosophy, 'Abu Bakr al-Razi'; Wikipedia, 'Abu Bakr al-Razi'",
+      "confidence": "high"
+    },
+    {
+      "target": "al-kindi",
+      "target_label": "Al-Kindi",
+      "type": "polemicized-against",
+      "direction": true,
+      "weight": 4,
+      "evidence": "attested",
+      "survives": false,
+      "note": "Ibn al-Nadim (Fihrist) attributes to al-Razi a refutation of al-Kindi's treatise denying the validity of alchemy; al-Razi defended the possibility of transmutation against al-Kindi's denial. The refutation is bibliographically attested but the text does not survive.",
+      "source": "Wikipedia, 'Abu Bakr al-Razi' (citing Ibn al-Nadim, Fihrist)",
+      "confidence": "high (that he wrote it), medium (contents)"
+    },
+    {
+      "target": "avicenna",
+      "target_label": "Avicenna (Ibn Sina)",
+      "type": "polemicized-against",
+      "direction": false,
+      "weight": 3,
+      "evidence": "attested",
+      "survives": true,
+      "note": "Direction is reversed: Avicenna (d. 1037), a century later, was the polemicist. In correspondence with al-Biruni he disparaged al-Razi for 'meddling in metaphysics' beyond his competence, and Avicenna's own De congelatione (Kitab al-Shifa) denied alchemical transmutation of species, opposing al-Razi's pro-transmutation stance. No direct contact; this is a posthumous intellectual opposition.",
+      "source": "Wikipedia, 'Abu Bakr al-Razi'; Wikipedia, 'Avicenna'",
+      "confidence": "high"
+    },
+    {
+      "target": "gerard-of-cremona",
+      "target_label": "Gerard of Cremona",
+      "type": "influenced",
+      "direction": true,
+      "weight": 3,
+      "evidence": "attested",
+      "survives": true,
+      "note": "Gerard of Cremona (d. 1187) and the 12th-century Toledo translators rendered al-Razi's works into Latin; his alchemical Secret of Secrets circulated as the Liber secretorum Bubacaris, transmitting his practical chemistry to the Latin West. Relationship is influence-via-translation, not personal contact.",
+      "source": "Wikipedia, 'Gerard of Cremona'; 'Latin translations of the 12th century'; Science History Institute, 'Al-Kimiya'",
+      "confidence": "high"
+    },
+    {
+      "target": "jabir-ibn-hayyan",
+      "target_label": "Jabir ibn Hayyan",
+      "type": "influenced",
+      "direction": false,
+      "weight": 2,
+      "evidence": "inferred",
+      "survives": true,
+      "note": "Direction reversed: al-Razi inherited and built on the earlier Jabirian corpus and its sulfur-mercury matter theory, but consciously stripped away its mystical and occult apparatus in favour of plain laboratory description. Scholars (e.g. Newman) treat al-Razi as continuing yet rationalizing the Jabirian tradition; a direct personal link is not claimed.",
+      "source": "Science History Institute, 'Al-Kimiya'; Wikipedia, 'Alchemy and chemistry in medieval Islam'",
+      "confidence": "medium"
+    }
+  ],
+  "concepts": [
+    {
+      "slug": "transmutation",
+      "confidence": "high",
+      "source": "Wikipedia, 'Abu Bakr al-Razi'; Britannica, 'al-Razi' — al-Razi believed in the possibility of transmuting base metals into silver and gold, while candidly noting he had not himself succeeded."
+    },
+    {
+      "slug": "practical-alchemy",
+      "confidence": "high",
+      "source": "Taylor, 'The Alchemy of Al-Razi'; Wikipedia, 'Abu Bakr al-Razi' — the Kitab al-Asrar is a practical laboratory manual describing materials, apparatus, and procedures without allegory."
+    },
+    {
+      "slug": "operational-chemistry",
+      "confidence": "high",
+      "source": "Stanford Encyclopedia of Philosophy, 'Abu Bakr al-Razi'; Encyclopedia.com — detailed, repeatable chemical procedures and systematic classification of substances and apparatus."
+    },
+    {
+      "slug": "distillation",
+      "confidence": "high",
+      "source": "Wikipedia, 'Abu Bakr al-Razi' — apparatus class includes retort, alembic, flasks; the Kitab al-Asrar documents distillation procedures."
+    },
+    {
+      "slug": "calcination",
+      "confidence": "medium",
+      "source": "Encyclopedia.com; chemistryexplained.com — al-Razi's procedures include calcination of metals among standard operations, though it is one of several rather than a signature contribution."
+    },
+    {
+      "slug": "sublimation",
+      "confidence": "medium",
+      "source": "Encyclopedia.com — sublimation of volatile 'spirits' (mercury, sulfur, arsenic, sal ammoniac) is treated in his procedures."
+    },
+    {
+      "slug": "sulfur-mercury-theory",
+      "confidence": "medium",
+      "source": "Science History Institute, 'Al-Kimiya'; Wikipedia, 'Alchemy and chemistry in medieval Islam' — al-Razi worked within the inherited sulfur-mercury theory of metals derived from the Jabirian tradition."
+    }
+  ],
+  "travel_note_html": "<p>Abu Bakr Muhammad ibn Zakariya [LINK:al-razi] (Rhazes, 864/865&ndash;925 CE) took his name from his birthplace, [LINK:ray] (Rayy, near modern Tehran), the city to which his career repeatedly returned. As a young man he moved to [LINK:baghdad] to study and practice at its <em>bimaristan</em>; the sources record the move but give no year, so the dating here is approximate. He was later invited back to Rayy by its governor, Mansur ibn Ishaq, to head the local hospital&mdash;the patron to whom he dedicated the <em>Kitab al-Mansuri</em>&mdash;before being summoned again to Baghdad to direct a new hospital, a phase loosely fixed by association with the caliphs al-Mu'tadid (d. 902) and al-Muktafi (r. 902&ndash;908). The precise chronology of these moves is not securely attested.</p><p>In the laboratory al-Razi practiced an austerely operational alchemy. His <em>Kitab al-Asrar</em> (Book of Secrets) reads as a working manual: it catalogues raw materials&mdash;four volatile &ldquo;spirits,&rdquo; the metallic &ldquo;bodies,&rdquo; stones, vitriols, borates, and salts&mdash;then the furnaces, alembics, and crucibles needed to work them, and finally step-by-step procedures, largely free of the allegory that pervades the earlier [LINK:jabir-ibn-hayyan] corpus on which he drew. He accepted [LINK:transmutation] as genuinely possible and wrote a refutation (now lost, attested by Ibn al-Nadim) of [LINK:al-kindi]'s denial of alchemy&mdash;though he candidly admitted he had not himself learned how to turn copper into gold.</p><p>That confidence in transmutation set him against the later verdict of [LINK:avicenna], who a century afterward both mocked al-Razi for overreaching in metaphysics and, in his <em>De congelatione</em>, denied that the species of metals could truly be changed. Through the twelfth-century Latin translations associated with [LINK:gerard-of-cremona], al-Razi's practical chemistry reached the West as the <em>Liber secretorum Bubacaris</em>, carrying his apparatus and procedures into the medieval European tradition.</p>",
+  "sources": [
+    "Stanford Encyclopedia of Philosophy, 'Abu Bakr al-Razi', https://plato.stanford.edu/entries/abu-bakr-al-razi/",
+    "Wikipedia, 'Abu Bakr al-Razi', https://en.wikipedia.org/wiki/Abu_Bakr_al-Razi",
+    "Encyclopaedia Britannica, 'al-Razi', https://www.britannica.com/biography/al-Razi",
+    "Gail Marlow Taylor, 'The Alchemy of Al-Razi: A Translation of the Book of Secrets' (2015); and Taylor, 'The Kitab al-Asrar: An Alchemy Manual in Tenth-Century Persia', https://ucl.scienceopen.com/document_file/d0668a57-57b0-48e4-81e6-debcbc216951/ScienceOpen/41858601.pdf",
+    "Encyclopedia.com, 'Al-Razi, Abu-Bakr Muhammed ibn Zakariya', https://www.encyclopedia.com/science/news-wires-white-papers-and-books/al-razi-abu-bakr-muhammed-ibn-zakariya",
+    "Science History Institute, 'Al-Kimiya: Notes on Arabic Alchemy', https://www.sciencehistory.org/stories/magazine/al-kimiya-notes-on-arabic-alchemy/",
+    "Wikipedia, 'Gerard of Cremona', https://en.wikipedia.org/wiki/Gerard_of_Cremona; Wikipedia, 'Latin translations of the 12th century', https://en.wikipedia.org/wiki/Latin_translations_of_the_12th_century",
+    "Wikipedia, 'Avicenna', https://en.wikipedia.org/wiki/Avicenna",
+    "Henry E. Stapleton et al., 'Chemistry in Iraq and Persia in the Tenth Century A.D.' (Memoirs of the Asiatic Society of Bengal, 1927) [cited via secondary discussion]"
+  ]
+}

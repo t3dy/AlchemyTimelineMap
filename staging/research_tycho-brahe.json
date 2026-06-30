@@ -1,0 +1,284 @@
+{
+  "slug": "tycho-brahe",
+  "itinerary": [
+    {
+      "place": "Knutstorp",
+      "lat": 55.9214,
+      "lon": 13.2167,
+      "year_start": 1546,
+      "year_end": 1559,
+      "dwell": 13,
+      "what": "Tycho Brahe was born 14 December 1546 at the family seat of Knutstorp Castle in Scania (Skane), then Danish, now in Sweden. As an infant he was taken (effectively abducted) and raised by his paternal uncle Jorgen Brahe, partly at Tostrup and Vordingborg. The Knutstorp years are his ancestral-noble origin; precise residence locations in childhood are only approximately documented.",
+      "evidence": "attested",
+      "leg_evidence": null,
+      "source": "MacTutor, 'Tycho Brahe'; Wikipedia, 'Tycho Brahe'; Niels Bohr Institute, 'The life of Tycho Brahe'",
+      "confidence": "HIGH"
+    },
+    {
+      "place": "Copenhagen",
+      "lat": 55.6761,
+      "lon": 12.5683,
+      "year_start": 1559,
+      "year_end": 1562,
+      "dwell": 3,
+      "what": "Brahe enrolled at the University of Copenhagen in April 1559, aged twelve, ostensibly to study law and philosophy. A predicted partial solar eclipse on 21 August 1560 reportedly turned his interest decisively to astronomy. He studied here until 1562.",
+      "evidence": "attested",
+      "leg_evidence": "inferred",
+      "source": "MacTutor, 'Tycho Brahe'; Niels Bohr Institute, 'The life of Tycho Brahe'",
+      "confidence": "HIGH"
+    },
+    {
+      "place": "Leipzig",
+      "lat": 51.3397,
+      "lon": 12.3731,
+      "year_start": 1562,
+      "year_end": 1565,
+      "dwell": 3,
+      "what": "Sent to the University of Leipzig in 1562 to continue legal studies under the supervision of a tutor (Anders Sorensen Vedel), Brahe instead pursued astronomy privately, beginning systematic observations in August 1563 (including the 1563 conjunction of Jupiter and Saturn). He returned to Denmark in 1565 on the death of his uncle Jorgen.",
+      "evidence": "attested",
+      "leg_evidence": "attested",
+      "source": "MacTutor, 'Tycho Brahe'; Wikipedia, 'Tycho Brahe'",
+      "confidence": "HIGH"
+    },
+    {
+      "place": "Rostock / Wittenberg / Basel / Augsburg (German tour)",
+      "lat": 54.0887,
+      "lon": 12.1338,
+      "year_start": 1566,
+      "year_end": 1570,
+      "dwell": 4,
+      "what": "Between 1566 and 1570 Brahe travelled and studied at several German and Swiss centres - Wittenberg, Rostock (where in December 1566 he lost part of his nose in a duel and thereafter wore a metal prosthesis), Basel, Freiburg and Augsburg. At Augsburg he had a large mural quadrant constructed. The single coordinate is a representative anchor (Rostock); the leg spans multiple cities and dates are approximate.",
+      "evidence": "attested",
+      "leg_evidence": "approximate",
+      "source": "MacTutor, 'Tycho Brahe'; Niels Bohr Institute, 'The life of Tycho Brahe'",
+      "confidence": "MEDIUM"
+    },
+    {
+      "place": "Herrevad Abbey",
+      "lat": 56.2167,
+      "lon": 13.1667,
+      "year_start": 1571,
+      "year_end": 1576,
+      "dwell": 5,
+      "what": "After his father's death in 1571, Brahe settled near his uncle Steen Bille at Herrevad Abbey in Scania, where he set up an alchemical and astronomical laboratory - his first practical chymical workspace, shared with Bille. From here, on 11 November 1572, he observed the new star (supernova) in Cassiopeia, publishing De nova stella (1573). Coordinates approximate.",
+      "evidence": "attested",
+      "leg_evidence": "attested",
+      "source": "MacTutor, 'Tycho Brahe'; Wikipedia, 'Tycho Brahe'",
+      "confidence": "HIGH"
+    },
+    {
+      "place": "Hven (Uraniborg)",
+      "lat": 55.9075,
+      "lon": 12.6989,
+      "year_start": 1576,
+      "year_end": 1597,
+      "dwell": 21,
+      "what": "In 1576 King Frederick II of Denmark granted Brahe the island of Hven (Ven) in the Oresund. There he built Uraniborg (begun 1576), a combined palace, observatory and research institute, adding the sunken observatory Stjerneborg c.1584. The complex held a papermill, printing works and, in the basement, an alchemical laboratory with sixteen furnaces for distillations and chymical operations. Here Brahe pursued Paracelsian iatrochemistry alongside two decades of astronomical observation. He left in 1597 after losing patronage under Christian IV; his last Hven observation was 15 March 1597.",
+      "evidence": "attested",
+      "leg_evidence": "attested",
+      "source": "MacTutor, 'Tycho Brahe'; Wikipedia, 'Tycho Brahe' and 'Uraniborg'; npj Heritage Science (2024), 'Chemical analysis of fragments... from Tycho Brahe's laboratory at Uraniborg'",
+      "confidence": "HIGH"
+    },
+    {
+      "place": "Wandsbeck (Wandesburg, near Hamburg)",
+      "lat": 53.5800,
+      "lon": 10.0850,
+      "year_start": 1597,
+      "year_end": 1598,
+      "dwell": 1,
+      "what": "After leaving Hven, Brahe passed through Copenhagen and Rostock, then in 1597-1598 stayed at Wandesburg (Wandsbeck) castle near Hamburg as guest of the Danish-German nobleman Heinrich Rantzau. There he completed and printed Astronomiae instauratae mechanica (1598), the illustrated account of his instruments, while seeking new patronage. Coordinates approximate (modern Hamburg-Wandsbek).",
+      "evidence": "attested",
+      "leg_evidence": "attested",
+      "source": "Wikipedia, 'Tycho Brahe'; MacTutor, 'Tycho Brahe'",
+      "confidence": "HIGH"
+    },
+    {
+      "place": "Benatky nad Jizerou",
+      "lat": 50.2925,
+      "lon": 14.8222,
+      "year_start": 1599,
+      "year_end": 1600,
+      "dwell": 1,
+      "what": "Having secured the patronage of Emperor Rudolf II as Imperial Mathematician, Brahe arrived in Bohemia in 1599; Rudolf assigned him Benatky nad Jizerou castle, about 50 km from Prague, which he began converting into an observatory. Johannes Kepler joined him here in early 1600 as assistant. Brahe relocated to Prague itself later in 1600.",
+      "evidence": "attested",
+      "leg_evidence": "attested",
+      "source": "Wikipedia, 'Tycho Brahe'; MacTutor, 'Tycho Brahe'; Niels Bohr Institute, 'The life of Tycho Brahe'",
+      "confidence": "HIGH"
+    },
+    {
+      "place": "Prague",
+      "lat": 50.0875,
+      "lon": 14.4213,
+      "year_start": 1600,
+      "year_end": 1601,
+      "dwell": 1,
+      "what": "From 1600 Brahe lived in Prague as Imperial Mathematician at the Hermetically inclined court of Rudolf II, with Kepler as collaborator on what would become the Rudolphine Tables. He died in Prague on 24 October 1601, after a brief illness following a banquet; later exhumations have examined (and largely cast doubt on) the popular mercury-poisoning narrative.",
+      "evidence": "attested",
+      "leg_evidence": "attested",
+      "source": "Wikipedia, 'Tycho Brahe'; MacTutor, 'Tycho Brahe'; Niels Bohr Institute, 'The life of Tycho Brahe'",
+      "confidence": "HIGH"
+    }
+  ],
+  "relationships": [
+    {
+      "target": null,
+      "target_label": "Frederick II of Denmark",
+      "type": "patron-of",
+      "direction": false,
+      "weight": 5,
+      "evidence": "attested",
+      "survives": false,
+      "note": "King Frederick II granted Brahe the island of Hven in 1576 together with revenues to build and run Uraniborg, making possible two decades of observation and the alchemical laboratory. The principal patron of Brahe's career; support waned after Frederick's death in 1588 and collapsed under his successor Christian IV. Direction: Frederick is patron-of Brahe.",
+      "source": "MacTutor, 'Tycho Brahe'; Wikipedia, 'Tycho Brahe'",
+      "confidence": "HIGH"
+    },
+    {
+      "target": null,
+      "target_label": "Rudolf II",
+      "type": "patron-of",
+      "direction": false,
+      "weight": 5,
+      "evidence": "attested",
+      "survives": false,
+      "note": "Holy Roman Emperor Rudolf II appointed Brahe Imperial Mathematician c.1599, provided Benatky castle and a salary, and drew him into the Hermetic-alchemical milieu of the Prague court. Patron of Brahe's final years (1599-1601); direction: Rudolf is patron-of Brahe.",
+      "source": "Wikipedia, 'Tycho Brahe'; Niels Bohr Institute",
+      "confidence": "HIGH"
+    },
+    {
+      "target": null,
+      "target_label": "Johannes Kepler",
+      "type": "collaborated",
+      "direction": true,
+      "weight": 5,
+      "evidence": "attested",
+      "survives": true,
+      "note": "Kepler joined Brahe at Benatky/Prague in 1600 as his assistant. The relationship was productive but strained over access to Brahe's data; on his deathbed Brahe urged Kepler to complete the Rudolphine Tables. Kepler inherited the observational corpus and used Brahe's Mars data to derive his laws of planetary motion. Direction set Brahe -> Kepler (senior collaborator/mentor).",
+      "source": "MacTutor, 'Tycho Brahe'; Wikipedia, 'Tycho Brahe'",
+      "confidence": "HIGH"
+    },
+    {
+      "target": "paracelsus",
+      "target_label": "Paracelsus",
+      "type": "influenced",
+      "direction": false,
+      "weight": 4,
+      "evidence": "attested",
+      "survives": false,
+      "note": "Brahe was a practitioner of Paracelsian chymical medicine (iatrochemistry), preparing metallic and mineral remedies (the so-called elixir Tychonis / a Paracelsian medicamenta tria for plague, scabies, epilepsy and other ills) and working within a macrocosm-microcosm framework linking celestial influence to bodily health. Direction: Paracelsus influenced Brahe (posthumous textual/doctrinal influence; Paracelsus died 1541).",
+      "source": "npj Heritage Science (2024); Wikipedia, 'Tycho Brahe'; Grokipedia, 'Tycho Brahe' (summarizing the elixir Tychonis literature)",
+      "confidence": "HIGH"
+    },
+    {
+      "target": null,
+      "target_label": "Petrus Severinus",
+      "type": "collaborated",
+      "direction": false,
+      "weight": 2,
+      "evidence": "inferred",
+      "survives": false,
+      "note": "Brahe is reported to have shared the iatrochemical, Paracelsian interests of the Danish royal physician and Paracelsian theorist Petrus Severinus (Peder Sorensen). The two moved in the same Danish learned-Paracelsian circle; framed in secondary sources as shared interest rather than firmly documented joint work, so marked inferred.",
+      "source": "Grokipedia, 'Tycho Brahe' (summarizing secondary literature on Brahe and Severinus)",
+      "confidence": "LOW"
+    },
+    {
+      "target": null,
+      "target_label": "Sophie Brahe",
+      "type": "collaborated",
+      "direction": true,
+      "weight": 3,
+      "evidence": "attested",
+      "survives": false,
+      "note": "Brahe's younger sister Sophie Brahe assisted him in astronomical and alchemical/horticultural work and maintained her own interests in chymistry, astrology and medicine; her later estates supplied medicinal-herb cultivation associated with his Paracelsian preparations. Direction: Tycho -> Sophie as collaborator/family associate.",
+      "source": "Grokipedia, 'Tycho Brahe'; Wikipedia, 'Tycho Brahe'",
+      "confidence": "MEDIUM"
+    },
+    {
+      "target": null,
+      "target_label": "Erik Lange",
+      "type": "collaborated",
+      "direction": false,
+      "weight": 2,
+      "evidence": "inferred",
+      "survives": false,
+      "note": "The Danish nobleman and alchemist Erik Lange (suitor and later husband of Sophie Brahe) is named in secondary accounts among Brahe's alchemical associates. The connection is reported but not richly documented in primary sources consulted; marked inferred.",
+      "source": "Grokipedia, 'Tycho Brahe'",
+      "confidence": "LOW"
+    },
+    {
+      "target": "heinrich-khunrath",
+      "target_label": "Heinrich Khunrath",
+      "type": "corresponded",
+      "direction": false,
+      "weight": 1,
+      "evidence": "inferred",
+      "survives": false,
+      "note": "UNCERTAIN. Khunrath and Brahe were contemporaries in the same north-European Paracelsian-alchemical world (Khunrath's Amphitheatrum was first issued at Hamburg in 1595, near Brahe's 1597-98 Wandsbeck sojourn), and Khunrath is sometimes linked to Brahe's circle in the literature. A documented meeting or correspondence was NOT confirmed in the sources consulted; logged as a possible/contested connection only.",
+      "source": "General sources on Khunrath and Brahe; specific Tycho-Khunrath contact not confirmed in searches (June 2026)",
+      "confidence": "LOW"
+    },
+    {
+      "target": "john-dee",
+      "target_label": "John Dee",
+      "type": "corresponded",
+      "direction": false,
+      "weight": 1,
+      "evidence": "inferred",
+      "survives": false,
+      "note": "Encyclopedic sources describe Dee as an astronomy colleague on friendly terms with Brahe, characterised as scholarly acquaintance rather than firmly documented exchange. Logged from the Dee side as well; marked inferred. (The DB john-dee record already carries the reciprocal inferred link.)",
+      "source": "Wikipedia, 'John Dee'",
+      "confidence": "LOW"
+    }
+  ],
+  "concepts": [
+    {
+      "slug": "iatrochemistry",
+      "confidence": "HIGH",
+      "source": "npj Heritage Science (2024) and Wikipedia: Brahe practised Paracelsian chemical medicine, preparing metallic/mineral remedies for plague, scabies, epilepsy and other ailments."
+    },
+    {
+      "slug": "paracelsian-alchemy",
+      "confidence": "HIGH",
+      "source": "Wikipedia, 'Tycho Brahe'; Grokipedia: Brahe was an avowed follower of Paracelsus in his medical chymistry."
+    },
+    {
+      "slug": "spagyrics",
+      "confidence": "MEDIUM",
+      "source": "Inferred from his Paracelsian preparation of plant/mineral medicines (the spagyric tradition of separating and recombining); analyst category applied to his medicamenta."
+    },
+    {
+      "slug": "medicamenta-tria",
+      "confidence": "MEDIUM",
+      "source": "Grokipedia (summarizing the elixir Tychonis literature): his elixir is described as a set of three Paracelsian prescriptions, consonant with the medicamenta tria scheme."
+    },
+    {
+      "slug": "distillation",
+      "confidence": "HIGH",
+      "source": "Wikipedia, 'Uraniborg'; npj Heritage Science (2024): the Uraniborg basement held sixteen furnaces explicitly for distillations and chemical experiments."
+    },
+    {
+      "slug": "operational-chemistry",
+      "confidence": "HIGH",
+      "source": "npj Heritage Science (2024): residue analysis of laboratory glass/ceramics confirmed hands-on use of nickel, copper, zinc, tin, antimony, tungsten, gold, mercury and lead in chemical operations."
+    },
+    {
+      "slug": "macrocosm-microcosm",
+      "confidence": "MEDIUM",
+      "source": "Grokipedia (summarizing secondary literature): Brahe worked within the Paracelsian macrocosm-microcosm framework linking celestial influence to health and matter; analyst framing."
+    },
+    {
+      "slug": "chymistry",
+      "confidence": "HIGH",
+      "source": "npj Heritage Science (2024): the Uraniborg laboratory represents integrated early-modern chymistry (medicine, metallurgy and matter theory undivided)."
+    }
+  ],
+  "travel_note_html": "<p>Born in 1546 into the Danish high nobility at Knutstorp in Scania, Tycho Brahe studied at Copenhagen (from 1559) and Leipzig (1562-1565) before a German-Swiss study tour through Wittenberg, Rostock, Basel and Augsburg (1566-1570) - it was at Rostock, in a duel of December 1566, that he lost part of his nose. After his father's death he set up a first joint astronomical-alchemical laboratory with his uncle Steen Bille at Herrevad Abbey, where he observed the 1572 new star in Cassiopeia.</p><p>In 1576 King Frederick II granted him the island of Hven, where he built Uraniborg. More than an observatory, Uraniborg housed a printing works, a papermill and a basement laboratory of sixteen furnaces for distillation and chymical work; here Brahe practised Paracelsian iatrochemistry under the influence of [LINK:paracelsus], compounding metallic and mineral remedies (the reputed elixir Tychonis). Recent residue analysis of laboratory fragments has confirmed his handling of antimony, gold, mercury, lead and other elements (npj Heritage Science, 2024). He observed on Hven for some twenty-one years until losing royal favour under Christian IV in 1597.</p><p>Brahe then went into exile - briefly at Wandsbeck near Hamburg (1597-98, where he printed his Astronomiae instauratae mechanica) - before Emperor Rudolf II made him Imperial Mathematician, assigning him Benatky nad Jizerou castle near [LINK:prague] in 1599 and drawing him into the Hermetic-alchemical court that also attracted figures such as [LINK:heinrich-khunrath]. Johannes Kepler joined him in 1600. Brahe died in Prague on 24 October 1601. Several connections remain uncertain: his reported ties to Khunrath and to [LINK:john-dee] are described in the literature as collegial acquaintance rather than firmly documented contact, and are flagged as inferred.</p>",
+  "sources": [
+    "Wikipedia, 'Tycho Brahe' (en.wikipedia.org/wiki/Tycho_Brahe), accessed June 2026.",
+    "Wikipedia, 'Uraniborg' (en.wikipedia.org/wiki/Uraniborg), accessed June 2026.",
+    "MacTutor History of Mathematics Archive, 'Tycho Brahe (1546-1601)' (mathshistory.st-andrews.ac.uk/Biographies/Brahe/), accessed June 2026.",
+    "Niels Bohr Institute, University of Copenhagen, 'The life of Tycho Brahe' (nbi.ku.dk/english/www/tycho/brahe/the_life/), accessed June 2026.",
+    "K. L. Rasmussen et al., 'Chemical analysis of fragments of glass and ceramic ware from Tycho Brahe's laboratory at Uraniborg on the island of Ven (Sweden),' npj Heritage Science (2024), nature.com/articles/s40494-024-01301-6.",
+    "Grokipedia, 'Tycho Brahe' (grokipedia.com/page/Tycho_Brahe), used as a tertiary summary of the elixir Tychonis / Severinus / Sophie Brahe / Erik Lange literature; specific claims flagged by confidence.",
+    "Cf. F. R. Hoffmann / Annals of Science 28(2) (1972), 'Tycho Brahes elixier' - cited in secondary literature on the elixir Tychonis (not directly consulted)."
+  ]
+}

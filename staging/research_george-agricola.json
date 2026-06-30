@@ -1,0 +1,207 @@
+{
+  "slug": "george-agricola",
+  "itinerary": [
+    {
+      "place": "Glauchau",
+      "lat": 50.83,
+      "lon": 12.54,
+      "year_start": 1494,
+      "year_end": 1506,
+      "dwell": 12,
+      "what": "Born Georg Bauer (latinized Pawer) on 24 March 1494 in the small Saxon town of Glauchau; spent childhood there before entering Latin school around age twelve.",
+      "evidence": "attested",
+      "leg_evidence": "origin point; no travel leg",
+      "source": "Encyclopedia.com (Dictionary of Scientific Biography), 'Georgius Agricola'; Wikipedia, 'Georgius Agricola'",
+      "confidence": "high"
+    },
+    {
+      "place": "Leipzig",
+      "lat": 51.34,
+      "lon": 12.37,
+      "year_start": 1514,
+      "year_end": 1518,
+      "dwell": 4,
+      "what": "Matriculated at the University of Leipzig (1514-1518), studying under the humanist Petrus Mosellanus, who encouraged the latinization of his name to Georgius Agricola. Returned to Leipzig 1522-1523 for further (medical) study before traveling to Italy.",
+      "evidence": "attested",
+      "leg_evidence": "Glauchau-region school towns (Chemnitz/Zwickau) to Leipzig; standard Saxon student route, inferred",
+      "source": "Wikipedia, 'Georgius Agricola'; Encyclopedia.com (DSB)",
+      "confidence": "high"
+    },
+    {
+      "place": "Zwickau",
+      "lat": 50.72,
+      "lon": 12.50,
+      "year_start": 1519,
+      "year_end": 1522,
+      "dwell": 3,
+      "what": "Appointed rector (Lektor) of the Greek school at Zwickau (c. 1519-1522); published a Latin grammar manual (1520) during this humanist phase before resuming study at Leipzig.",
+      "evidence": "attested",
+      "leg_evidence": "Leipzig to Zwickau appointment, inferred from career sequence",
+      "source": "Encyclopedia.com (DSB), 'Georgius Agricola'",
+      "confidence": "high"
+    },
+    {
+      "place": "Bologna",
+      "lat": 44.49,
+      "lon": 11.34,
+      "year_start": 1523,
+      "year_end": 1524,
+      "dwell": 1,
+      "what": "Traveled to Italy (c. 1523) and enrolled at the University of Bologna, and probably Padua, to study medicine; earned an M.D. The exact sequence and years among the Italian cities are not precisely fixed in the sources.",
+      "evidence": "attested",
+      "leg_evidence": "transalpine journey from Saxony to northern Italy; route not specified, inferred",
+      "source": "Wikipedia, 'Georgius Agricola'; Encyclopedia.com (DSB)",
+      "confidence": "medium"
+    },
+    {
+      "place": "Padua",
+      "lat": 45.41,
+      "lon": 11.88,
+      "year_start": 1524,
+      "year_end": 1524,
+      "dwell": 1,
+      "what": "Studied (probably) at the University of Padua during his Italian period; sources list Bologna, Padua, and Venice together for roughly three years (c. 1523/24-1526) without firm per-city dates. The Padua attribution is qualified as 'probable' in the literature.",
+      "evidence": "inferred",
+      "leg_evidence": "short leg between northern Italian university cities; inferred",
+      "source": "Wikipedia, 'Georgius Agricola' (notes Padua as 'probably')",
+      "confidence": "low"
+    },
+    {
+      "place": "Venice",
+      "lat": 45.44,
+      "lon": 12.32,
+      "year_start": 1524,
+      "year_end": 1526,
+      "dwell": 2,
+      "what": "Worked in Venice on the editorial staff of the Aldine Press (c. 1524-1526), contributing to the Aldine editions of Galen (and Hippocrates). Returned to Germany in autumn 1526.",
+      "evidence": "attested",
+      "leg_evidence": "Padua-Venice leg short and well-attested route; the Aldine association is documented",
+      "source": "Encyclopedia.com (DSB), 'Georgius Agricola'; Galileo Project (Rice), 'Agricola'",
+      "confidence": "medium"
+    },
+    {
+      "place": "Joachimsthal",
+      "lat": 50.37,
+      "lon": 12.91,
+      "year_start": 1527,
+      "year_end": 1533,
+      "dwell": 6,
+      "what": "Settled in the silver-mining boomtown of Joachimsthal (Sankt Joachimsthal / Jachymov, Bohemia) as town physician and apothecary from spring 1527; married Anna Meyner in autumn 1527. Direct exposure to working mines and smelters here grounded his metallurgical writing, including Bermannus (1530). Sources vary: some give his Joachimsthal post as 1527-1530, with mine-touring before he took up the Chemnitz post in 1533.",
+      "evidence": "attested",
+      "leg_evidence": "Venice/Saxony return to the Erzgebirge mining district; the move to a mining town is the documented turning point of his career",
+      "source": "Encyclopedia.com (DSB); Galileo Project (Rice); Wikipedia, 'Georgius Agricola'",
+      "confidence": "high"
+    },
+    {
+      "place": "Chemnitz",
+      "lat": 50.83,
+      "lon": 12.92,
+      "year_start": 1533,
+      "year_end": 1555,
+      "dwell": 22,
+      "what": "Moved to Chemnitz in 1533 as town physician (Stadtphysicus); under the patronage of Duke (later Elector) Maurice of Saxony received a house (1543) and was elected burgomaster four times (1546, 1548, 1551, 1553). Completed De re metallica here; died in Chemnitz 21 November 1555 (published posthumously 1556).",
+      "evidence": "attested",
+      "leg_evidence": "Joachimsthal to Chemnitz, both Erzgebirge mining centers; documented relocation, possibly after a mine-touring interval",
+      "source": "Galileo Project (Rice), 'Agricola'; Wikipedia, 'Georgius Agricola'; Encyclopedia.com (DSB)",
+      "confidence": "high"
+    }
+  ],
+  "relationships": [
+    {
+      "target_label": "Petrus Mosellanus",
+      "type": "studied-under",
+      "direction": true,
+      "weight": 3,
+      "evidence": "attested",
+      "survives": false,
+      "note": "Humanist professor at Leipzig; taught Agricola and persuaded him to latinize 'Georg Pawer' to 'Georgius Agricola'.",
+      "source": "Wikipedia, 'Georgius Agricola'",
+      "confidence": "high"
+    },
+    {
+      "target_label": "Erasmus",
+      "type": "corresponded",
+      "direction": true,
+      "weight": 4,
+      "evidence": "attested",
+      "survives": true,
+      "note": "Erasmus contributed a commendatory prefatory letter to Agricola's Bermannus (Froben, Basel, 1530), praising its clear language and treating it as a promising first effort (progymnasma). The connection was brokered via Petrus Plateanus.",
+      "source": "Springer/Birkhauser, 'Agricola und der Basler Humanismus'; e-rara facsimile of Bermannus (Frobenianis, 1530); Contemporaries of Erasmus, vol. 1",
+      "confidence": "high"
+    },
+    {
+      "target_label": "Petrus Plateanus",
+      "type": "collaborated",
+      "direction": false,
+      "weight": 3,
+      "evidence": "attested",
+      "survives": true,
+      "note": "Schoolmaster at Joachimsthal; wrote to Erasmus in September 1529 about Agricola's work and contributed a dedicatory letter to the 1530 Bermannus, helping secure Erasmus's preface.",
+      "source": "Springer, 'Agricola und der Basler Humanismus'; search corroboration of 1530 Bermannus prefatory letters",
+      "confidence": "high"
+    },
+    {
+      "target_label": "Duke Maurice of Saxony",
+      "type": "patron-of",
+      "direction": false,
+      "weight": 4,
+      "evidence": "attested",
+      "survives": false,
+      "note": "Agricola's principal patron; provided a house in Chemnitz (1543), legal exemptions, and supported his repeated election as burgomaster. Direction here marks Maurice as patron acting upon Agricola (patron-of, target is the patron).",
+      "source": "Galileo Project (Rice), 'Agricola'",
+      "confidence": "high"
+    },
+    {
+      "target": "transmutation",
+      "target_label": "Transmutation",
+      "type": "polemicized-against",
+      "direction": true,
+      "weight": 3,
+      "evidence": "attested",
+      "survives": true,
+      "note": "In De re metallica Agricola treats alchemical transmutation claims with skepticism, calling the matter 'dubious', noting that the writings are obscure and that none of the alleged masters grew rich, and condemning fraudulent alchemists. NOTE: 'transmutation' here is the concept slug, not a DB person; included as a relationship to the concept entity if the schema permits, otherwise see concepts array.",
+      "source": "Wikipedia, 'De re metallica' / 'Georgius Agricola'; Hoover translation summary",
+      "confidence": "medium"
+    }
+  ],
+  "concepts": [
+    {
+      "slug": "transmutation",
+      "confidence": "high",
+      "source": "Wikipedia, 'Georgius Agricola' / 'De re metallica'; Britannica, 'Bermannus, sive de re metallica' — Agricola expresses documented skepticism toward metallic transmutation."
+    },
+    {
+      "slug": "operational-chemistry",
+      "confidence": "high",
+      "source": "Encyclopedia.com (DSB); National Museum blog — De re metallica systematically documents assaying, smelting, and ore-processing operations from direct observation."
+    },
+    {
+      "slug": "material-culture-approach",
+      "confidence": "medium",
+      "source": "Names and Things: Latin and German Mining Terminology in Agricola's Bermannus (De Gruyter, 2019) — Agricola grounds knowledge in mining tools, ores, and vernacular Bergmann terminology."
+    },
+    {
+      "slug": "artisanal-epistemology",
+      "confidence": "medium",
+      "source": "Encyclopedia.com (DSB) — Agricola derived metallurgical knowledge from miners and smelters in Joachimsthal, valuing practitioner experience over textual authority."
+    },
+    {
+      "slug": "practical-alchemy",
+      "confidence": "medium",
+      "source": "Britannica, 'Bermannus' — Agricola engaged the practical (metallurgical) end of the alchemical tradition while distancing himself from transmutation theory."
+    }
+  ],
+  "travel_note_html": "<p>Georgius Agricola (Georg Bauer, born Glauchau, 1494) followed a humanist's road before a metallurgist's. After studying at the University of [LINK:leipzig] (1514-1518) under Petrus Mosellanus — who urged the latinizing of his name — and a rectorship at Zwickau, he crossed the Alps around 1523 to take a medical degree at Bologna (and, the sources say only probably, Padua), then joined the Aldine Press in [LINK:venice] (c. 1524-1526), editing Galen. The Italian per-city dates are not firmly fixed in the literature and are given here as best estimates.</p><p>The decisive turn came in 1527, when he settled as town physician and apothecary in the silver-mining boomtown of Joachimsthal in the Erzgebirge. There, among miners and smelters, he gathered the firsthand material for <em>Bermannus, sive de re metallica</em> (Froben, Basel, 1530) — a work that carried a commendatory preface from Erasmus, secured through the Joachimsthal schoolmaster Petrus Plateanus. By 1533 he had moved to [LINK:chemnitz], where the patronage of Duke Maurice of Saxony brought him a house and four terms as burgomaster, and where he completed his masterwork <em>De re metallica</em> (published posthumously, 1556).</p><p>Agricola is notable for his measured skepticism toward [LINK:transmutation]: in <em>De re metallica</em> he judged the alchemists' claim that base metals could be turned to gold 'dubious', observing that their writings were obscure and that none of the reputed masters had grown rich. This is reported as a historical stance, not an endorsement.</p>",
+  "sources": [
+    "Wikipedia, 'Georgius Agricola' (en.wikipedia.org/wiki/Georgius_Agricola)",
+    "Wikipedia, 'De re metallica' (en.wikipedia.org/wiki/De_re_metallica)",
+    "Encyclopedia.com, 'Georgius Agricola' (Dictionary of Scientific Biography) (encyclopedia.com)",
+    "The Galileo Project (Rice University), 'Agricola' (galileo.library.rice.edu/Catalog/NewFiles/agricola.html)",
+    "Britannica, 'Bermannus, sive de re metallica' and 'Georgius Agricola' (britannica.com)",
+    "Springer/Birkhauser, 'Agricola und der Basler Humanismus — Agricolas Bermannus in der Hand des Erasmus' (link.springer.com)",
+    "e-rara, facsimile of 'Bermannus, sive de re metallica', Basel: in aedibus Frobenianis, 1530 (e-rara.ch, doi 10.3931/e-rara-14847)",
+    "'Names and Things: Latin and German Mining Terminology in Georgius Agricola's Bermannus', De Gruyter, 2019 (doi 10.1515/anab-2019-0011)",
+    "Swiss National Museum blog, 'De re metallica – a 16th-century bestseller' (blog.nationalmuseum.ch)",
+    "Project Gutenberg, 'De Re Metallica' (Hoover translation), gutenberg.org/files/38015"
+  ]
+}

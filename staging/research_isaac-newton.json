@@ -1,0 +1,226 @@
+{
+  "slug": "isaac-newton",
+  "itinerary": [
+    {
+      "place": "Woolsthorpe",
+      "lat": 52.8092,
+      "lon": -0.6256,
+      "year_start": 1643,
+      "year_end": 1655,
+      "dwell": 12,
+      "what": "Born 25 December 1642 Old Style (4 January 1643 New Style) at Woolsthorpe Manor, Woolsthorpe-by-Colsterworth, Lincolnshire; raised largely by his maternal grandmother during early childhood.",
+      "evidence": "attested",
+      "leg_evidence": null,
+      "source": "Wikipedia, 'Isaac Newton' (citing standard biography); Woolsthorpe Manor (National Trust)",
+      "confidence": "HIGH"
+    },
+    {
+      "place": "Grantham",
+      "lat": 52.9118,
+      "lon": -0.6418,
+      "year_start": 1655,
+      "year_end": 1661,
+      "dwell": 6,
+      "what": "Attended The King's School, Grantham, boarding with the apothecary William Clarke; learned Latin and Greek. Schooling was briefly interrupted when his mother withdrew him to manage the Woolsthorpe estate.",
+      "evidence": "attested",
+      "leg_evidence": "inferred",
+      "source": "Wikipedia, 'Early life of Isaac Newton'; 'Isaac Newton'",
+      "confidence": "HIGH"
+    },
+    {
+      "place": "Cambridge",
+      "lat": 52.2053,
+      "lon": 0.1192,
+      "year_start": 1661,
+      "year_end": 1665,
+      "dwell": 4,
+      "what": "Admitted to Trinity College, Cambridge in June 1661 as a subsizar; awarded a scholarship in 1664; took his BA in 1665. Contact with the Cambridge Platonist Henry More helped revive his interest in alchemy.",
+      "evidence": "attested",
+      "leg_evidence": "inferred",
+      "source": "Wikipedia, 'Isaac Newton'; Isaac Newton Institute biography",
+      "confidence": "HIGH"
+    },
+    {
+      "place": "Woolsthorpe",
+      "lat": 52.8092,
+      "lon": -0.6256,
+      "year_start": 1665,
+      "year_end": 1667,
+      "dwell": 2,
+      "what": "Returned to Lincolnshire when Cambridge closed during the Great Plague (1665-1666). Newton later called these his 'anni mirabiles' and 'the prime of my age for invention', developing early work on calculus, optics, and gravitation.",
+      "evidence": "attested",
+      "leg_evidence": "attested",
+      "source": "Wikipedia, 'Isaac Newton'; Isaac Newton Institute biography",
+      "confidence": "HIGH"
+    },
+    {
+      "place": "Cambridge",
+      "lat": 52.2053,
+      "lon": 0.1192,
+      "year_start": 1667,
+      "year_end": 1696,
+      "dwell": 29,
+      "what": "Elected Fellow of Trinity (1667) and Lucasian Professor of Mathematics (1669). This was the period of his most intensive chymical activity: a laboratory in the garden by his Trinity rooms, two dated laboratory notebooks (over 200 folios in apothecaries' weights), the 'Index Chemicus', and roughly one million words of chymical manuscripts in his hand. He composed the Principia here (published 1687).",
+      "evidence": "attested",
+      "leg_evidence": "attested",
+      "source": "William R. Newman, 'Newton the Alchemist' (2019); Chymistry of Isaac Newton Project (Indiana Univ.); Wikipedia, 'Isaac Newton'",
+      "confidence": "HIGH"
+    },
+    {
+      "place": "London",
+      "lat": 51.5074,
+      "lon": -0.1278,
+      "year_start": 1696,
+      "year_end": 1727,
+      "dwell": 31,
+      "what": "Moved to London to become Warden of the Royal Mint (1696), obtained through the patronage of Charles Montagu, Earl of Halifax; became Master of the Mint in 1699/1700 (held until death). Elected President of the Royal Society in 1703. Died 20/31 March 1727 at Kensington; buried in Westminster Abbey.",
+      "evidence": "attested",
+      "leg_evidence": "attested",
+      "source": "Royal Mint Museum; Science Museum Blog; Wikipedia, 'Isaac Newton'",
+      "confidence": "HIGH"
+    }
+  ],
+  "relationships": [
+    {
+      "target": "george-starkey",
+      "target_label": "George Starkey",
+      "type": "studied-under",
+      "direction": true,
+      "weight": 5,
+      "evidence": "attested",
+      "survives": true,
+      "note": "Starkey, writing as Eirenaeus Philalethes, was Newton's principal chymical source. Newton copied and repeatedly interpreted Starkey's recipes for the 'sophic' (philosophical) mercury throughout his manuscripts; Newman argues Newton never realised Philalethes and Starkey were the same man. Intellectual influence, not personal acquaintance.",
+      "source": "William R. Newman, 'Newton the Alchemist' (2019); Science History Institute, 'Isaac Newton and the American Alchemist'",
+      "confidence": "HIGH"
+    },
+    {
+      "target": "robert-boyle",
+      "target_label": "Robert Boyle",
+      "type": "corresponded",
+      "direction": false,
+      "weight": 3,
+      "evidence": "attested",
+      "survives": true,
+      "note": "Newton and Boyle were both fellows of the Royal Society and both deeply engaged with chymistry, drawing on a shared Philalethan (Starkey) tradition. Newton responded with interest and caution to Boyle's 1676 account of the heating ('incalescence') of gold with mercury, warning Oldenburg about publishing such transmutational matter.",
+      "source": "Wikipedia, 'Isaac Newton'; Newman, 'Newton the Alchemist' (2019); Science History Institute",
+      "confidence": "MEDIUM"
+    },
+    {
+      "target": "elias-ashmole",
+      "target_label": "Elias Ashmole",
+      "type": "cited",
+      "direction": true,
+      "weight": 2,
+      "evidence": "inferred",
+      "survives": true,
+      "note": "Newton read and drew on the corpus of English alchemical verse and texts collected in Ashmole's 'Theatrum Chemicum Britannicum' (1652), a standard reference for the alchemical tradition Newton studied. Direct citation in Newton's notes is plausible but the specific dependence is best marked as inferred.",
+      "source": "General scholarship on Newton's alchemical reading (Dobbs, Newman); Ashmole, 'Theatrum Chemicum Britannicum'",
+      "confidence": "LOW"
+    },
+    {
+      "target_label": "Henry More",
+      "type": "influenced",
+      "direction": false,
+      "weight": 2,
+      "evidence": "attested",
+      "survives": true,
+      "note": "The Cambridge Platonist Henry More, a fellow Lincolnshire man, is credited with helping revive Newton's interest in alchemy and shaping his views on spirit and active principles in matter.",
+      "source": "Wikipedia, 'Isaac Newton'; Dobbs, 'The Foundations of Newton's Alchemy' (1975)",
+      "confidence": "MEDIUM"
+    },
+    {
+      "target_label": "Nicolas Fatio de Duillier",
+      "type": "corresponded",
+      "direction": false,
+      "weight": 2,
+      "evidence": "attested",
+      "survives": true,
+      "note": "Swiss mathematician and close intimate of Newton in the early 1690s; their intense relationship cooled around 1693, coinciding with Newton's well-documented nervous crisis. Fatio shared Newton's interest in alchemy.",
+      "source": "Wikipedia, 'Isaac Newton'",
+      "confidence": "MEDIUM"
+    },
+    {
+      "target_label": "Charles Montagu, Earl of Halifax",
+      "type": "patron-of",
+      "direction": false,
+      "weight": 3,
+      "evidence": "attested",
+      "survives": true,
+      "note": "As Chancellor of the Exchequer, Montagu secured Newton's appointment as Warden of the Mint in 1696. The relationship was a patronage one (Montagu was the patron); recorded here for completeness.",
+      "source": "Royal Mint Museum; Wikipedia, 'Isaac Newton'",
+      "confidence": "HIGH"
+    },
+    {
+      "target_label": "Gottfried Wilhelm Leibniz",
+      "type": "polemicized-against",
+      "direction": true,
+      "weight": 4,
+      "evidence": "attested",
+      "survives": true,
+      "note": "Bitter priority dispute over the invention of calculus, which broke into the open from 1711; in 1712-1713 the Royal Society (under Newton's presidency) issued the 'Commercium Epistolicum' adjudicating in Newton's favour.",
+      "source": "Wikipedia, 'Isaac Newton'",
+      "confidence": "HIGH"
+    },
+    {
+      "target_label": "Edmond Halley",
+      "type": "collaborated",
+      "direction": false,
+      "weight": 3,
+      "evidence": "attested",
+      "survives": true,
+      "note": "Halley encouraged Newton to write and personally funded the publication of the 'Principia' (1687).",
+      "source": "Wikipedia, 'Isaac Newton'",
+      "confidence": "HIGH"
+    }
+  ],
+  "concepts": [
+    {
+      "slug": "chymistry",
+      "confidence": "HIGH",
+      "source": "Newman, 'Newton the Alchemist' (2019); Chymistry of Isaac Newton Project — Newton devoted ~40 years and ~1 million words to early modern 'chymistry'."
+    },
+    {
+      "slug": "transmutation",
+      "confidence": "HIGH",
+      "source": "Newman, 'Newton the Alchemist' (2019); Wikipedia, 'Isaac Newton's occult studies' — Newton pursued metallic transmutation experimentally."
+    },
+    {
+      "slug": "philosophers-stone",
+      "confidence": "HIGH",
+      "source": "Science History Institute; Wikipedia — Newton sought the philosophers' stone; copied a recipe from Starkey."
+    },
+    {
+      "slug": "chrysopoeia",
+      "confidence": "MEDIUM",
+      "source": "Newman, 'Newton the Alchemist' (2019) — gold-making was a central aim of Newton's chymical program."
+    },
+    {
+      "slug": "prima-materia",
+      "confidence": "MEDIUM",
+      "source": "Dobbs, 'The Foundations of Newton's Alchemy' (1975) — Newton engaged matter-theory of a universal first matter / active principles."
+    },
+    {
+      "slug": "sulfur-mercury-theory",
+      "confidence": "HIGH",
+      "source": "Newman, 'Newton the Alchemist' (2019) — Newton's pursuit of 'sophic mercury' turned on the sulfur-mercury account of metals and an 'arsenical malignity' in common mercury."
+    },
+    {
+      "slug": "operational-chemistry",
+      "confidence": "MEDIUM",
+      "source": "Newman, 'Newton the Alchemist' (2019) — Newton was a precise quantitative experimenter, recording lab work in apothecaries' weights."
+    }
+  ],
+  "travel_note_html": "<p>Newton's life traced a tight arc through eastern England. He was born at Woolsthorpe Manor in Lincolnshire (Christmas Day 1642, Old Style), schooled at Grantham, and admitted to Trinity College, [LINK:cambridge] in 1661. When plague closed the university in 1665-1666 he retreated to Woolsthorpe for the burst of work he later called &lsquo;the prime of my age for invention&rsquo;.</p><p>It was at Cambridge, however, from his election as fellow (1667) and Lucasian Professor (1669), that Newton pursued the activity most relevant to this database: some four decades of chymistry. From a furnace-equipped laboratory beside his rooms he left two dated laboratory notebooks and roughly a million words of manuscript in his own hand &mdash; an enterprise that scholars (notably B. J. T. Dobbs and William R. Newman) now read as serious experimental inquiry rather than an embarrassment. His chief source was the work of [LINK:george-starkey], the New England chymist who wrote as Eirenaeus Philalethes; Newton copied and reworked Starkey&rsquo;s recipes for the &lsquo;sophic mercury&rsquo; and shared a chymical tradition with [LINK:robert-boyle].</p><p>In 1696 Newton left Cambridge for [LINK:london] to become Warden, then Master, of the Royal Mint, and from 1703 President of the Royal Society, holding both posts until his death at Kensington in 1727. (This database records historical beliefs about transmutation without endorsing them; Newton&rsquo;s confidence that base metals could be transmuted was sincere but is not a claim of fact.)</p>",
+  "sources": [
+    "Wikipedia, 'Isaac Newton' (https://en.wikipedia.org/wiki/Isaac_Newton)",
+    "Wikipedia, 'Early life of Isaac Newton' (https://en.wikipedia.org/wiki/Early_life_of_Isaac_Newton)",
+    "Wikipedia, 'Isaac Newton's occult studies'",
+    "William R. Newman, 'Newton the Alchemist: Science, Enigma, and the Quest for Nature's Secret Fire' (Princeton, 2019)",
+    "Betty Jo Teeter Dobbs, 'The Foundations of Newton's Alchemy' (1975)",
+    "The Chymistry of Isaac Newton Project, Indiana University (https://webapp1.dlib.indiana.edu/newton/)",
+    "Science History Institute, 'Isaac Newton and the American Alchemist' (https://www.sciencehistory.org/stories/magazine/isaac-newton-and-the-american-alchemist/)",
+    "Royal Mint Museum, 'Isaac Newton' (https://www.royalmintmuseum.org.uk/journal/people/isaac-newton/)",
+    "Science Museum Blog, 'Isaac Newton and the Royal Mint'",
+    "Isaac Newton Institute, 'Isaac Newton's Life' (https://www.newton.ac.uk/about/isaac-newton/isaac-newtons-life/)"
+  ]
+}

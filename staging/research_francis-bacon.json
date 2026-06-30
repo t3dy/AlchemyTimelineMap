@@ -1,0 +1,174 @@
+{
+  "slug": "francis-bacon",
+  "itinerary": [
+    {
+      "place": "London (York House, Strand)",
+      "lat": 51.5085,
+      "lon": -0.1226,
+      "year_start": 1561,
+      "year_end": 1573,
+      "dwell": 12,
+      "what": "Born 22 January 1561 at York House near the Strand, son of Sir Nicholas Bacon (Lord Keeper of the Great Seal) and Anne Cooke Bacon. Educated largely at home in early years owing to poor health; some childhood spent at the family seat at Gorhambury.",
+      "evidence": "attested",
+      "leg_evidence": "n/a (birthplace)",
+      "source": "Wikipedia 'Francis Bacon'; Stanford Encyclopedia of Philosophy, 'Francis Bacon'",
+      "confidence": "high"
+    },
+    {
+      "place": "Cambridge (Trinity College)",
+      "lat": 52.2070,
+      "lon": 0.1175,
+      "year_start": 1573,
+      "year_end": 1575,
+      "dwell": 3,
+      "what": "Entered Trinity College, Cambridge, on 5 April 1573 at age 12 with his elder brother Anthony, under the tutelage of John Whitgift (future Archbishop of Canterbury). Completed his course of study c. December 1575. There he reportedly grew dissatisfied with Aristotelian scholasticism, a discontent that later informed his methodological reform.",
+      "evidence": "attested",
+      "leg_evidence": "London to Cambridge journey not individually documented but route is conventional; admission date attested",
+      "source": "Wikipedia 'Francis Bacon'; Britannica, 'Francis Bacon, Viscount Saint Alban'",
+      "confidence": "high"
+    },
+    {
+      "place": "London (Gray's Inn)",
+      "lat": 51.5188,
+      "lon": -0.1110,
+      "year_start": 1576,
+      "year_end": 1576,
+      "dwell": 0,
+      "what": "Admitted to Gray's Inn on 27 June 1576 with his brother Anthony to begin legal study, before departing almost immediately for France. Gray's Inn would be his principal London base for the rest of his career (readmitted 1579; outer barrister 1582; bencher 1586; Reader 1587).",
+      "evidence": "attested",
+      "leg_evidence": "Cambridge to London return attested by admission record",
+      "source": "Wikipedia 'Francis Bacon'; Stanford Encyclopedia of Philosophy, 'Francis Bacon'",
+      "confidence": "high"
+    },
+    {
+      "place": "Paris and France (embassy of Sir Amias Paulet)",
+      "lat": 48.8566,
+      "lon": 2.3522,
+      "year_start": 1576,
+      "year_end": 1579,
+      "dwell": 3,
+      "what": "Travelled to France in September 1576 in the train of Sir Amias Paulet, Elizabeth I's resident ambassador to the French court. Remained roughly two and a half years, based at Paris but also visiting Blois, Poitiers, and Tours, studying civil law, languages, and statecraft and undertaking routine diplomatic errands (on at least one occasion carrying letters to England for Walsingham, Burghley, Leicester, and the Queen). Returned to England following his father's sudden death in February 1579. (Note: some sources mention onward travel to Italy and Spain; this is less securely documented.)",
+      "evidence": "attested",
+      "leg_evidence": "Departure September 1576 in Paulet's embassy attested; return prompted by father's death Feb 1579 attested",
+      "source": "Wikipedia 'Francis Bacon'; Stanford Encyclopedia of Philosophy, 'Francis Bacon'",
+      "confidence": "high"
+    },
+    {
+      "place": "London (Gray's Inn and Westminster / political career)",
+      "lat": 51.5188,
+      "lon": -0.1110,
+      "year_start": 1579,
+      "year_end": 1621,
+      "dwell": 42,
+      "what": "Returned 1579 and pursued law and a parliamentary/political career from his Gray's Inn base. MP from 1581 (Bossiney, then Melcombe, Taunton, Liverpool, Middlesex, etc.); knighted 1603 at the accession of James I; Solicitor General 1607; Attorney General 1613; Lord Keeper 1617; Lord Chancellor 1618; created Baron Verulam 12 July 1618 and Viscount St Alban 27 January 1621. In May 1621 he was convicted of accepting bribes (gifts from litigants), fined, briefly imprisoned in the Tower, and barred from office, ending his political life.",
+      "evidence": "attested",
+      "leg_evidence": "Continuous London residence/career documented across offices",
+      "source": "Wikipedia 'Francis Bacon'; Britannica, 'Francis Bacon, Viscount Saint Alban'",
+      "confidence": "high"
+    },
+    {
+      "place": "Gorhambury and Verulam House, near St Albans (Hertfordshire)",
+      "lat": 51.7610,
+      "lon": -0.3870,
+      "year_start": 1601,
+      "year_end": 1626,
+      "dwell": 25,
+      "what": "Family country seat at Old Gorhambury House, built 1563-68 by his father Sir Nicholas Bacon; Francis inherited and extended it, adding a water garden and Roman-style banqueting house, and built nearby Verulam House (completed c. 1617). After his 1621 fall this was the retreat where he completed much of his philosophical work, assisted by his amanuensis Thomas Hobbes. His viscountcy ('St Alban') and barony ('Verulam', the Roman name for St Albans) take their names from this locality.",
+      "evidence": "attested",
+      "leg_evidence": "Family ownership and Francis's residence/extensions attested; dwell-span approximate",
+      "source": "Wikipedia 'Old Gorhambury House'; Wikipedia 'Verulam House, St Albans'",
+      "confidence": "medium"
+    },
+    {
+      "place": "Highgate, London (Arundel House)",
+      "lat": 51.5716,
+      "lon": -0.1466,
+      "year_start": 1626,
+      "year_end": 1626,
+      "dwell": 0,
+      "what": "Died 9 April 1626 of pneumonia/respiratory illness at the Earl of Arundel's house in Highgate. Tradition (reported by John Aubrey) holds that he caught a fatal chill while stuffing a hen with snow near Highgate to test refrigeration as a means of preserving flesh; modern scholarship treats the frozen-chicken story as semi-legendary, well attested in flavour but thin in documentary support. Buried at St Michael's Church, St Albans.",
+      "evidence": "attested",
+      "leg_evidence": "Death at Highgate (Arundel House) attested; precise final journey from the snow-experiment is part of the semi-legendary Aubrey account",
+      "source": "Wikipedia 'Francis Bacon'; John Aubrey (via secondary accounts of the Highgate death)",
+      "confidence": "medium"
+    }
+  ],
+  "relationships": [
+    {
+      "target": "thomas-hobbes",
+      "target_label": "Thomas Hobbes",
+      "type": "collaborated",
+      "direction": true,
+      "weight": 4,
+      "evidence": "attested",
+      "survives": true,
+      "note": "Hobbes served as Bacon's amanuensis in the 1620s (after Bacon's 1621 fall), taking dictation and translating several of the Essays into Latin. Reported by John Aubrey and corroborated by Sorbiere and du Verdus; Devonshire account books record Hobbes visiting the Lord Chancellor in May 1619 and May 1620.",
+      "source": "Wikipedia 'Thomas Hobbes'; Brill, 'Thomas Hobbes' Relationship with Francis Bacon'",
+      "confidence": "high"
+    },
+    {
+      "target": "robert-boyle",
+      "target_label": "Robert Boyle",
+      "type": "influenced",
+      "direction": true,
+      "weight": 5,
+      "evidence": "attested",
+      "survives": false,
+      "note": "Bacon's experimental program and the model of Salomon's House in New Atlantis directly inspired Boyle and the Hartlib circle, feeding into the founding of the Royal Society. No personal contact (Bacon died 1626, Boyle born 1627); influence is textual and posthumous.",
+      "source": "Wikipedia 'Salomon's House'; Wikipedia 'New Atlantis'",
+      "confidence": "high"
+    },
+    {
+      "target": "paracelsus",
+      "target_label": "Paracelsus",
+      "type": "polemicized-against",
+      "direction": true,
+      "weight": 2,
+      "evidence": "inferred",
+      "survives": false,
+      "note": "Bacon criticized the alchemists and the Paracelsian chemists as undisciplined 'empirics' who merely 'store up and use things' like ants, yet his own matter theory (tangible vs. pneumatic/'spirit' matter, processes of concoction and colliquation) drew on the same chemical tradition; scholars note points where 'Paracelsus had already stated' related distinctions. The relationship is one of critical engagement rather than a named, direct polemic.",
+      "source": "Stanford Encyclopedia of Philosophy, 'Francis Bacon'",
+      "confidence": "medium"
+    },
+    {
+      "target": "robert-fludd",
+      "target_label": "Robert Fludd",
+      "type": "polemicized-against",
+      "direction": true,
+      "weight": 1,
+      "evidence": "inferred",
+      "survives": false,
+      "note": "Bacon and Fludd were near-contemporary English natural philosophers representing opposed methods: Bacon's inductive, observational 'natural magic' versus Fludd's esoteric, Qabalistic, Rosicrucian-apologist cosmology. No documented direct exchange or named attack between them; the opposition is a scholarly contrast, not an attested polemic. Marked low-confidence.",
+      "source": "Britannica, 'Francis Bacon: Thought and writings'; Wikipedia 'Robert Fludd'",
+      "confidence": "low"
+    }
+  ],
+  "concepts": [
+    {
+      "slug": "operational-chemistry",
+      "confidence": "medium",
+      "source": "Stanford Encyclopedia of Philosophy, 'Francis Bacon' (Sylva Sylvarum natural histories engaging chemical operations of matter transformation)"
+    },
+    {
+      "slug": "transmutation",
+      "confidence": "medium",
+      "source": "Stanford Encyclopedia of Philosophy, 'Francis Bacon' (Bacon discussed and critiqued alchemists' transmutational claims; his matter theory addressed transformation of bodies)"
+    },
+    {
+      "slug": "chymistry",
+      "confidence": "medium",
+      "source": "Stanford Encyclopedia of Philosophy, 'Francis Bacon' (engagement with and critique of the chemists/chymistry; pneumatic-matter and 'spirits' theory)"
+    }
+  ],
+  "travel_note_html": "<p>Francis Bacon (1561-1626) was born at York House in [LINK:london] and moved through the institutions of the Elizabethan and Jacobean establishment: Trinity College, [LINK:cambridge] (1573-1575), Gray's Inn, and a formative diplomatic posting in [LINK:paris] and across France under the ambassador Sir Amias Paulet (1576-1579). His father's sudden death in 1579 recalled him to England, where he built a long legal and political career culminating as Lord Chancellor (1618), Baron Verulam, and Viscount St Alban, before a 1621 conviction for accepting gifts from litigants ended his public life.</p><p>In retirement at the family seat of Gorhambury near St Albans he completed much of his philosophical work, assisted by his amanuensis [LINK:thomas-hobbes]. Bacon was a methodologist and critic of alchemy, not a practitioner: he derided the alchemists and Paracelsian chemists as undisciplined 'empirics' who hoard particulars like ants, even as his own theory of tangible and pneumatic ('spirit') matter drew on the chemical tradition he sought to reform. His program of inductive natural history and the imagined research college of Salomon's House in <em>New Atlantis</em> shaped the experimental ambitions of [LINK:robert-boyle] and the early Royal Society.</p><p>He died at Highgate in April 1626; tradition (reported by John Aubrey) attributes his fatal chill to an experiment stuffing a hen with snow to test refrigeration, a story modern scholars treat as semi-legendary.</p>",
+  "sources": [
+    "Wikipedia, 'Francis Bacon' (en.wikipedia.org/wiki/Francis_Bacon)",
+    "Stanford Encyclopedia of Philosophy, 'Francis Bacon' (plato.stanford.edu/entries/francis-bacon/)",
+    "Encyclopaedia Britannica, 'Francis Bacon, Viscount Saint Alban' (britannica.com/biography/Francis-Bacon-Viscount-Saint-Alban)",
+    "Wikipedia, 'Old Gorhambury House' (en.wikipedia.org/wiki/Old_Gorhambury_House)",
+    "Wikipedia, 'Verulam House, St Albans (17th century)'",
+    "Wikipedia, 'Salomon's House' and 'New Atlantis'",
+    "Wikipedia, 'Thomas Hobbes'; Brill, 'Thomas Hobbes' Relationship with Francis Bacon'",
+    "Dana Jalobeanu scholarship on 'Subtle Alchemy' in Bacon's Sylva Sylvarum (cited via SEP 'Francis Bacon')"
+  ]
+}

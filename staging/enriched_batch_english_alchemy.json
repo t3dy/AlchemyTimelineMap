@@ -1,0 +1,261 @@
+{
+  "batch_id": "english_alchemy_b",
+  "batch_name": "English Alchemical Tradition",
+  "batch_description": "Key figures, texts, and concepts of the broader English alchemical tradition beyond George Ripley, based on Jennifer Rampling's research on the 'Englishing' of medieval alchemy",
+  "source_method": "rampling_englishing_papers",
+  "review_status": "draft",
+  "confidence": "high",
+  "persons": [
+    {
+      "slug": "edward-kelly",
+      "name": "Edward Kelly",
+      "birth_year": 1555,
+      "death_year": 1597,
+      "era": "Early Modern",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "bio_html": "<p>Edward Kelly (1555–1597) was an English alchemist and practical experimenter known for his laboratory work and claims of transmutational success. Kelly represents the practical experimentalism characteristic of the English alchemical tradition, engaging directly with furnace operations and material processes. He worked with John Dee and spent time at continental courts, making him a bridge between English and European alchemical circles.</p><p>Kelly exemplifies Rampling's argument about the integration of practical laboratory work with intellectual ambition in early modern English alchemy, distinguishing the tradition from purely speculative approaches.</p><p>Key scholarly source: Rampling, 'The Experimental Fire' (2021).</p>",
+      "role": "ALCHEMIST",
+      "literature": []
+    },
+    {
+      "slug": "john-dee",
+      "name": "John Dee",
+      "birth_year": 1527,
+      "death_year": 1608,
+      "era": "Early Modern",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "bio_html": "<p>John Dee (1527–1608) was an English natural philosopher, mathematician, and collector whose diverse intellectual pursuits included active engagement with alchemical texts and practice. Dee's library at Mortlake contained extensive alchemical manuscripts and represented one of the most significant collections of occult and natural philosophy materials in early modern England. His documented experiments and laboratory notes reveal the integration of alchemy with mathematical and astronomical inquiry.</p><p>Dee's career demonstrates how alchemy functioned within the broader intellectual ecology of early modern learned culture, connecting to mathematics, astronomy, medicine, and practical operations.</p><p>Key scholarly sources: Rampling, 'The Englishing of Medieval Alchemy' (2016).</p>",
+      "role": "SCHOLAR",
+      "literature": []
+    },
+    {
+      "slug": "roger-bacon",
+      "name": "Roger Bacon",
+      "birth_year": 1214,
+      "death_year": 1294,
+      "era": "Medieval",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "MEDIUM",
+      "bio_html": "<p>Roger Bacon (ca. 1214–1294) was an English Franciscan friar and natural philosopher whose writings on alchemy and experimental method influenced medieval and early modern thinking about the natural world. Bacon's emphasis on experiential knowledge and his discussions of chemical operations made his work foundational to the English intellectual tradition of combining theoretical learning with practical investigation.</p><p>Though medieval, Bacon's influence on later English alchemists like Ripley and their emphasis on practice-oriented learning was significant. His work bridges medieval scholasticism and the more empirically grounded approaches of early modern English alchemy.</p><p>Key scholarly sources: Rampling, 'The Englishing of Medieval Alchemy' (2016).</p>",
+      "role": "SCHOLAR",
+      "literature": []
+    },
+    {
+      "slug": "claud-mydlarton",
+      "name": "Claud Mydlarton",
+      "birth_year": 1500,
+      "death_year": 1560,
+      "era": "Renaissance",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "MEDIUM",
+      "bio_html": "<p>Claud Mydlarton (fl. 1500s) was an English alchemical practitioner within the Ripley tradition, demonstrating the practical continuation of systematic Ripley-style alchemy in the 16th century. His documented alchemical experiments and recipes show how the English alchemical tradition functioned as a living practice, not merely as inherited texts.</p><p>Mydlarton's work exemplifies the integration of hands-on laboratory experience with systematic instruction characteristic of the English tradition.</p><p>Key scholarly source: Rampling, 'Transmission and Transmutation' (2012).</p>",
+      "role": "ALCHEMIST",
+      "literature": []
+    }
+  ],
+  "texts": [
+    {
+      "slug": "ripley-revived",
+      "title": "Ripley Revived",
+      "author_slug": null,
+      "era": "Renaissance",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "MEDIUM",
+      "analysis": "<p><em>Ripley Revived</em> is an English alchemical text that represents the continued interpretation and adaptation of George Ripley's teachings in the 16th century. The work exemplifies how Ripley's systematic approach was transmitted to subsequent generations of English practitioners, with later authors reframing, commenting upon, and expanding his original doctrines.</p><p>The title itself indicates the process of textual genealogy: Ripley's work is 'revived'—read anew, interpreted freshly, adapted for contemporary circumstances—by later practitioners. This demonstrates the living nature of the English alchemical tradition.</p>",
+      "date_label": "ca. 1580",
+      "literature": []
+    },
+    {
+      "slug": "green-lion",
+      "title": "Green Lion",
+      "author_slug": null,
+      "era": "Renaissance",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "analysis": "<p><em>Green Lion</em> is an influential English alchemical text that exists in multiple manuscript versions and appears in various Continental sources as well, demonstrating the circulation of English alchemical materials. The work is named after the alchemical symbol of the Green Lion (vitriol), a key material in alchemical operations. Different manuscript variants of <em>Green Lion</em> reveal how texts were adapted and modified as they circulated among practitioners.</p><p>The textual instability and multiple versions of <em>Green Lion</em> exemplify Rampling's point about the importance of studying manuscript genealogy: each copy may represent a different moment in the tradition's transmission and evolution.</p>",
+      "date_label": "ca. 1500",
+      "literature": []
+    },
+    {
+      "slug": "book-of-lambspring",
+      "title": "Book of Lambspring",
+      "author_slug": null,
+      "era": "Renaissance",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "MEDIUM",
+      "analysis": "<p><em>The Book of Lambspring</em> (also known as <em>The Golden Tripod</em>) is an alchemical treatise that circulated in English circles and appears in English manuscripts within the Ripley tradition. The work combines practical alchemical instruction with emblematic imagery, exemplifying the integration of text and image that characterizes much English alchemical material.</p><p>The presence of Continental texts like Lambspring in English manuscript collections demonstrates how the English alchemical tradition was not isolated but participated in broader European exchanges of knowledge, while maintaining its own distinctive character.</p>",
+      "date_label": "ca. 1500",
+      "literature": []
+    },
+    {
+      "slug": "azothe",
+      "title": "Azothe",
+      "author_slug": null,
+      "era": "Renaissance",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "MEDIUM",
+      "analysis": "<p><em>Azothe</em> is an English alchemical work that exemplifies the continuation of systematic Ripley-style alchemy in the 16th century. The title refers to the alchemical concept of the primal matter or first principle (from Arabic 'al-zut'). The work represents the English tradition's integration of Aristotelian natural philosophy with alchemical operations.</p>",
+      "date_label": "ca. 1550",
+      "literature": []
+    }
+  ],
+  "concepts": [
+    {
+      "slug": "experimental-fire",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "term": "Experimental Fire",
+      "definition_long": "<p><strong>Experimental Fire</strong> refers to the practical, hands-on engagement with alchemical furnace operations and material processes that characterizes much of English alchemy, particularly from the 16th century onward. Rather than viewing alchemy primarily as philosophical speculation or hermetic mysticism, the 'experimental fire' perspective emphasizes actual laboratory work: heating, cooling, distilling, crystallizing—the material operations that produced real substances and effects.</p><p>Jennifer Rampling's work on 'The Experimental Fire' documents how English alchemists maintained detailed records of furnace work, materials, temperatures, and results, integrating practical experimentation with theoretical learning. This tradition influenced the emergence of chemical practice in early modern England.</p><p><strong>Actor perspective:</strong> English practitioners understood themselves as conducting genuine experiments, testing hypotheses, and refining techniques through repeated trials. <strong>Analyst perspective:</strong> Historians recognize the experimental tradition as a distinctive approach to alchemical knowledge that prefigures modern experimental chemistry while maintaining alchemical theoretical commitments.</p>",
+      "type": "ANALYST_TERM",
+      "related_concepts": [],
+      "literature": [],
+      "actor_term": null
+    },
+    {
+      "slug": "practical-alchemy",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "term": "Practical Alchemy",
+      "definition_long": "<p><strong>Practical alchemy</strong> (also termed operational or laboratory alchemy) refers to alchemical work oriented toward actual material operations and laboratory practice, as distinct from purely theoretical or mystical approaches. Practical alchemists engaged in distillation, sublimation, crystallization, fermentation, and other chemical operations, producing substances and documenting results.</p><p>The English alchemical tradition, especially as documented by Rampling, was characterized by a strong practical orientation: alchemists like Ripley provided detailed instructions for operations; practitioners like Kelly and Mydlarton conducted furnace work; collectors like Dee and Ashmole preserved recipes and experimental records. This practical tradition distinguished English alchemy and shaped its transmission into early modern chemistry.</p><p><strong>Actor perspective:</strong> Alchemists understood their work as producing real substances and effects through material operations guided by theory. <strong>Analyst perspective:</strong> Modern scholars recognize practical alchemy as a legitimate form of chemical inquiry that deserves study in its own right, not merely as a precursor to 'real' chemistry.</p>",
+      "type": "ANALYST_TERM",
+      "related_concepts": [],
+      "literature": [],
+      "actor_term": null
+    },
+    {
+      "slug": "alchemical-pedagogy",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "term": "Alchemical Pedagogy",
+      "definition_long": "<p><strong>Alchemical pedagogy</strong> refers to the teaching and learning of alchemy as a structured discipline, with recognized stages of mastery, systematic instruction, and recognized experts. The English alchemical tradition, exemplified by Ripley's systematic works and the structured pedagogies embedded in texts like <em>The Twelve Gates</em>, treated alchemy as a learnable craft with identifiable stages (distillation, sublimation, calcination, fermentation, etc.) and recognized practitioners.</p><p>Rampling's research demonstrates how alchemical texts functioned as pedagogical guides, teaching manuals for aspiring practitioners seeking to master the art. This pedagogical dimension reveals alchemy not as secret transmission but as a learned practice with structured training, parallel to crafts like medicine, alchemy, or legal practice.</p><p><strong>Actor perspective:</strong> Teachers and students understood alchemy as a body of knowledge that could be systematically transmitted through texts, demonstration, and practice under expert guidance. <strong>Analyst perspective:</strong> The pedagogical structure of alchemy reveals it as a coherent intellectual and practical discipline, deserving study alongside other medieval and early modern knowledge systems.</p>",
+      "type": "ANALYST_TERM",
+      "related_concepts": [],
+      "literature": [],
+      "actor_term": null
+    },
+    {
+      "slug": "transmutation",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "term": "Transmutation",
+      "definition_long": "<p><strong>Transmutation</strong> is the central goal and defining operation of alchemy: the transformation of base metals (particularly lead) into precious metals (gold and silver) through systematic chemical operations, typically understood to proceed through intermediate stages of whitening (albedo) and reddening (rubedo). The achievement of transmutation is the ultimate proof of mastery and the demonstration that the alchemist has discovered the Philosopher's Stone or other powerful agents of transformation.</p><p>English alchemists approached transmutation as both a theoretical aspiration and a practical goal, conducting detailed experiments aimed at achieving the transformation. Whether transmutation was actually achieved remains contested by scholars, but the pursuit of transmutation structured English alchemical work and justified the resources devoted to furnace operations.</p><p><strong>Actor perspective:</strong> Alchemists understood transmutation as a genuine possibility grounded in natural philosophy: if base metals were imperfect versions of gold (differing only in degree of perfection), then perfecting them through appropriate operations should be possible. <strong>Analyst perspective:</strong> Modern scholars recognize the pursuit of transmutation as a central motivator for chemical experimentation and the development of practical techniques, even if the goal was not achieved as alchemists understood it.</p>",
+      "type": "ANALYST_TERM",
+      "related_concepts": [],
+      "literature": [],
+      "actor_term": null
+    }
+  ],
+  "events": [
+    {
+      "slug": "english-vernacular-alchemy-emergence",
+      "title": "Emergence of Vernacular English Alchemical Literature",
+      "era": "Medieval",
+      "location_slug": "england",
+      "persons_involved": [
+        "george-ripley"
+      ],
+      "texts_involved": [
+        "compound-of-alchemies"
+      ],
+      "concepts_involved": [
+        "vernacular-alchemy",
+        "english-alchemy"
+      ],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "date_label": "ca. 1400",
+      "description": "English-language alchemical treatises begin to emerge and circulate in England, representing a shift from exclusively Latin scholarly composition toward vernacular accessibility. George Ripley's works exemplify this transformation, making alchemy available to a broader audience of English-speaking practitioners."
+    },
+    {
+      "slug": "kelly-transmutation-claims",
+      "title": "Edward Kelly Claims Transmutational Success",
+      "era": "Early Modern",
+      "location_slug": "prague",
+      "persons_involved": [
+        "edward-kelly",
+        "john-dee"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "transmutation",
+        "experimental-fire"
+      ],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "MEDIUM",
+      "date_label": "ca. 1590",
+      "description": "Edward Kelly, working in continental courts, reports successful transmutational experiments, claiming to produce gold through alchemical operations. His work represents the practical experimentalism of English alchemy, with detailed laboratory work and material results, whether successful or not, driving the tradition forward."
+    },
+    {
+      "slug": "dee-mortlake-collection",
+      "title": "John Dee's Library at Mortlake Houses Major Alchemical Collection",
+      "era": "Early Modern",
+      "location_slug": "london",
+      "persons_involved": [
+        "john-dee"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "textual-genealogy"
+      ],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "date_label": "ca. 1580",
+      "description": "John Dee's library at Mortlake becomes one of the most significant collections of alchemical and occult texts in early modern England, containing manuscripts of Ripley, other English alchemical works, and Continental sources. The collection represents the integration of alchemy with broader learned culture."
+    },
+    {
+      "slug": "ripley-green-lion-variants",
+      "title": "Multiple Manuscript Variants of Green Lion Circulate",
+      "era": "Renaissance",
+      "location_slug": "england",
+      "persons_involved": [],
+      "texts_involved": [
+        "green-lion"
+      ],
+      "concepts_involved": [
+        "textual-genealogy",
+        "vernacular-alchemy"
+      ],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "MEDIUM",
+      "date_label": "ca. 1520",
+      "description": "The alchemical text <em>Green Lion</em> exists in multiple manuscript variants within English circles and Continental sources, each version showing signs of copying, modification, and adaptation. The textual instability demonstrates how alchemical texts functioned as living documents, continuously reinterpreted by readers and scribes."
+    },
+    {
+      "slug": "norton-secret-hermetic",
+      "title": "Samuel Norton Composes Alchemical Works in English Tradition",
+      "era": "Early Modern",
+      "location_slug": "england",
+      "persons_involved": [
+        "samuel-norton"
+      ],
+      "texts_involved": [],
+      "concepts_involved": [
+        "english-alchemy",
+        "practical-alchemy"
+      ],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "MEDIUM",
+      "date_label": "ca. 1610",
+      "description": "Samuel Norton, known as 'the English Hermes,' composes alchemical works continuing the English systematic tradition established by Ripley. Norton's work demonstrates the continuity of practical, pedagogically-oriented English alchemy into the 17th century."
+    }
+  ]
+}

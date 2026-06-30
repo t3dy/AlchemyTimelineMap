@@ -1,0 +1,168 @@
+{
+  "slug": "marsilio-ficino",
+  "itinerary": [
+    {
+      "place": "Figline Valdarno",
+      "lat": 43.6197,
+      "lon": 11.4708,
+      "year_start": 1433,
+      "year_end": 1433,
+      "dwell": 0,
+      "what": "Birthplace. Ficino was born on 19 October 1433 at Figline Valdarno in the Republic of Florence, the son of Diotifeci d'Agnolo, a physician in the service of Cosimo de' Medici. Figline is not a DB location, so plain text. The single-year span marks birth only; childhood movements are not precisely documented.",
+      "evidence": "attested",
+      "leg_evidence": null,
+      "source": "Wikipedia, 'Marsilio Ficino'; Encyclopaedia Britannica, 'Marsilio Ficino'.",
+      "confidence": "HIGH"
+    },
+    {
+      "place": "Florence",
+      "lat": 43.7696,
+      "lon": 11.2558,
+      "year_start": 1451,
+      "year_end": 1499,
+      "dwell": 48,
+      "what": "Florence and its environs were the centre of Ficino's adult life and career. He was educated in Latin letters, Aristotelian philosophy and medicine probably at Florence, came into Cosimo de' Medici's circle by the late 1450s, and in 1462 was set up by Cosimo to translate Plato and to head the refounded Platonic 'Academy' at the Medici villa of Careggi. He was ordained priest at Florence in 1473 and served as a canon of Florence cathedral. The start year (c.1451) is approximate, marking the period when his Florentine education and Medici association begin; he remained based in Florence (with his Careggi villa nearby) until his death.",
+      "evidence": "attested",
+      "leg_evidence": null,
+      "source": "Encyclopaedia Britannica, 'Marsilio Ficino'; Stanford Encyclopedia of Philosophy, 'Marsilio Ficino'; Wikipedia, 'Marsilio Ficino'.",
+      "confidence": "MEDIUM"
+    },
+    {
+      "place": "Careggi",
+      "lat": 43.8089,
+      "lon": 11.2486,
+      "year_start": 1462,
+      "year_end": 1499,
+      "dwell": 37,
+      "what": "Around 1462 Cosimo de' Medici granted Ficino a small property and the use of a villa at Careggi, just north of Florence, together with Greek manuscripts of Plato. Careggi became the seat of the so-called Platonic Academy, in fact an informal circle of scholars around Ficino rather than a formal institution. Ficino died at Careggi on 1 October 1499. Careggi is not a DB location (within the modern Florence commune), so plain text; coordinates are for the Careggi/Villa Medicea area. The 'Academy' is reported in the actors' Platonic idiom while modern scholars debate how organised it actually was.",
+      "evidence": "attested",
+      "leg_evidence": "attested",
+      "source": "Encyclopaedia Britannica, 'Marsilio Ficino'; Wikipedia, 'Marsilio Ficino'.",
+      "confidence": "HIGH"
+    }
+  ],
+  "relationships": [
+    {
+      "target": null,
+      "target_label": "Cosimo de' Medici",
+      "type": "patron-of",
+      "direction": false,
+      "weight": 5,
+      "evidence": "attested",
+      "survives": true,
+      "note": "Cosimo de' Medici (1389-1464) was Ficino's principal early patron: he took the young Ficino into his household, supported his education, and in 1462 supplied him with Greek manuscripts of Plato and the use of a villa at Careggi, founding the milieu of the Platonic 'Academy'. In 1463 Cosimo urged Ficino to interrupt the Plato project to translate the newly arrived Corpus Hermeticum first, reportedly wishing to read it before his death (which came in 1464). Direction set as Cosimo patron-of Ficino. Cosimo is not a DB person, so target_label only.",
+      "source": "Encyclopaedia Britannica, 'Marsilio Ficino'; tianmu.org 'Ficino - Pimander'; Wikipedia, 'Marsilio Ficino'.",
+      "confidence": "HIGH"
+    },
+    {
+      "target": null,
+      "target_label": "Lorenzo de' Medici",
+      "type": "patron-of",
+      "direction": false,
+      "weight": 4,
+      "evidence": "attested",
+      "survives": true,
+      "note": "Lorenzo de' Medici ('the Magnificent', 1449-1492), grandson of Cosimo, was tutored by Ficino and continued the family's patronage after Cosimo (d.1464) and Piero (d.1469). Ficino dedicated his complete Latin Plato (published 1484) within this Medici patronage context. Direction set as Lorenzo patron-of Ficino. Lorenzo is not a DB person, so target_label only.",
+      "source": "Wikipedia, 'Marsilio Ficino'; Encyclopaedia Britannica, 'Marsilio Ficino'.",
+      "confidence": "HIGH"
+    },
+    {
+      "target": "hermes-trismegistus",
+      "target_label": "Hermes Trismegistus",
+      "type": "cited",
+      "direction": true,
+      "weight": 5,
+      "evidence": "attested",
+      "survives": true,
+      "note": "Ficino translated the Greek Hermetica (the treatises he titled 'Pimander') into Latin in spring 1463, attributing them to the legendary sage Hermes Trismegistus, whom he placed at the head of the prisca theologia. His Latin Hermetica, first printed at Treviso in 1471, made the Hermetic corpus a foundational text of Renaissance thought. Note (analyst caveat): Ficino accepted Hermes as a real, very ancient Egyptian theologian; Isaac Casaubon (1614) later redated the texts to late antiquity, a point modern scholars (Yates, Copenhaver, Hanegraaff) stress. Direction Ficino-cited-Hermes.",
+      "source": "tianmu.org 'Ficino - Pimander'; Wikipedia, 'Corpus Hermeticum' and 'Marsilio Ficino'.",
+      "confidence": "HIGH"
+    },
+    {
+      "target": "pico-della-mirandola",
+      "target_label": "Pico della Mirandola",
+      "type": "influenced",
+      "direction": true,
+      "weight": 4,
+      "evidence": "attested",
+      "survives": true,
+      "note": "Giovanni Pico della Mirandola (1463-1494) belonged to Ficino's Florentine Platonist circle and is described as among his students; the two were close associates, though Pico developed his own (and at points divergent) positions, including a more cautious view of judicial astrology than Ficino's. Direction Ficino-influenced-Pico. Marked attested for association; the precise 'teacher/pupil' framing is somewhat idealised in older accounts.",
+      "source": "Wikipedia, 'Marsilio Ficino'; Stanford Encyclopedia of Philosophy, 'Agrippa' (on the Florentine Platonists); Britannica.",
+      "confidence": "MEDIUM"
+    },
+    {
+      "target": "henry-cornelius-agrippa",
+      "target_label": "Henry Cornelius Agrippa",
+      "type": "influenced",
+      "direction": true,
+      "weight": 4,
+      "evidence": "attested",
+      "survives": true,
+      "note": "Heinrich Cornelius Agrippa (1486-1535) drew heavily on Ficino: the survey structure of his De occulta philosophia owed much to Ficino's De vita, and Agrippa freely incorporated the astral-magic teaching of Ficino's De vita coelitus comparanda. Posthumous textual influence (Ficino died 1499; Agrippa active early 16th c.). Direction Ficino-influenced-Agrippa.",
+      "source": "Stanford Encyclopedia of Philosophy, 'Heinrich Cornelius Agrippa von Nettesheim'; Wikipedia, 'Heinrich Cornelius Agrippa' and 'De occulta philosophia libri tres'.",
+      "confidence": "HIGH"
+    },
+    {
+      "target": "johannes-trithemius",
+      "target_label": "Johannes Trithemius",
+      "type": "influenced",
+      "direction": true,
+      "weight": 2,
+      "evidence": "inferred",
+      "survives": false,
+      "note": "INFERRED / INDIRECT. Trithemius (1462-1516) worked within the same Renaissance current of Hermetic and natural-magical learning that Ficino's translations helped create, and Trithemius mentored Agrippa, who explicitly absorbed Ficino. A direct Ficino-to-Trithemius dependence is not clearly documented in the sources consulted; the link is best treated as shared milieu plus indirect transmission. Marked inferred / LOW.",
+      "source": "Stanford Encyclopedia of Philosophy, 'Heinrich Cornelius Agrippa' (on Trithemius and the Florentine Platonists).",
+      "confidence": "LOW"
+    }
+  ],
+  "concepts": [
+    {
+      "slug": "hermeticism",
+      "confidence": "HIGH",
+      "source": "Ficino's 1463 Latin translation of the Corpus Hermeticum (the 'Pimander', printed 1471) was the principal channel by which the Hermetica entered Renaissance thought. Wikipedia, 'Corpus Hermeticum'; tianmu.org 'Ficino - Pimander'."
+    },
+    {
+      "slug": "prisca-theologia",
+      "confidence": "HIGH",
+      "source": "Ficino is the central Renaissance articulator of the prisca theologia, a single ancient theology transmitted through Hermes Trismegistus, Zoroaster, Orpheus, Aglaophemus, Pythagoras and Plato and fulfilled in Christ. SEP, 'Agrippa'; Stanford Encyclopedia of Philosophy, 'Marsilio Ficino'."
+    },
+    {
+      "slug": "magia-naturalis",
+      "confidence": "HIGH",
+      "source": "De vita libri tres (1489), esp. Book III De vita coelitus comparanda, expounds 'natural magic' as the learned use of cosmic correspondences, distinguished from demonic magic. Wikipedia, 'De vita libri tres'; prphbooks.com 'Ficino, Astrology, and Renaissance Magic'. Analyst category."
+    },
+    {
+      "slug": "talismanry",
+      "confidence": "MEDIUM",
+      "source": "De vita coelitus comparanda discusses astrological images/talismans for drawing down planetary (esp. Solar and Jovial) influences, though Ficino was cautious and ambivalent about image-magic. Wikipedia, 'De vita libri tres'."
+    },
+    {
+      "slug": "macrocosm-microcosm",
+      "confidence": "MEDIUM",
+      "source": "Ficino's astral medicine assumes a living cosmos in which the human being and the heavens correspond, the framework underlying De vita coelitus comparanda. prphbooks.com 'Ficino, Astrology, and Renaissance Magic'; Wikipedia, 'De vita libri tres'. Analyst category."
+    },
+    {
+      "slug": "nous",
+      "confidence": "MEDIUM",
+      "source": "As translator and interpreter of Plato, the Neoplatonists and the Hermetica, Ficino is a key transmitter of the Neoplatonic-Hermetic concept of intellect/Nous; the Hermetic 'Poimandres' (his Pimander) centres on divine Mind. tianmu.org 'Ficino - Pimander'; Stanford Encyclopedia of Philosophy, 'Marsilio Ficino'."
+    },
+    {
+      "slug": "quintessence",
+      "confidence": "LOW",
+      "source": "Ficino's astral medicine invokes a celestial 'spiritus' as the medium linking soul, body and heavens, a notion adjacent to (but not identical with) the alchemical quintessence; the explicit link is interpretive, hence LOW. prphbooks.com 'Ficino, Astrology, and Renaissance Magic'."
+    }
+  ],
+  "travel_note_html": "<p>[LINK:marsilio-ficino] (1433&ndash;1499) was born at Figline Valdarno and spent virtually his whole career in and around [LINK:florence]. The son of a Medici physician, he was drawn into the household of Cosimo de' Medici, who in 1462 gave him Greek manuscripts of Plato and the use of a villa at Careggi, north of Florence, and made him the centre of the revived Platonic &lsquo;Academy&rsquo; &mdash; in reality an informal scholarly circle rather than a formal school. He was ordained priest in 1473 and remained at Florence and Careggi until his death there on 1 October 1499.</p><p>In 1463 Cosimo urged Ficino to set aside Plato and translate first a newly arrived Greek manuscript attributed to [LINK:hermes-trismegistus]; the resulting Latin [LINK:corpus-hermeticum] (his &lsquo;Pimander&rsquo;, printed 1471) became a foundation of Renaissance Hermeticism and of Ficino's prisca theologia, the supposed ancient wisdom running from Hermes through Zoroaster, Orpheus, Pythagoras and Plato. His De vita libri tres (1489), especially the third book De vita coelitus comparanda, set out a programme of astral medicine and natural magic that deeply shaped later writers such as [LINK:pico-della-mirandola] and [LINK:henry-cornelius-agrippa].</p><p>Two cautions: Ficino was <em>not</em> a metallurgical or laboratory alchemist &mdash; his relevance here is Hermeticism, prisca theologia and natural magic, not transmutation. And his belief that Hermes was a real, very ancient Egyptian sage reflects his own (actor's) conviction; the Hermetica were later redated to late antiquity by Isaac Casaubon (1614), as modern scholars stress. A direct tie to [LINK:johannes-trithemius] is not firmly documented and is flagged as inferred.</p>",
+  "sources": [
+    "Wikipedia, 'Marsilio Ficino' (en.wikipedia.org/wiki/Marsilio_Ficino), accessed June 2026.",
+    "Encyclopaedia Britannica, 'Marsilio Ficino' (britannica.com/biography/Marsilio-Ficino), accessed June 2026.",
+    "Stanford Encyclopedia of Philosophy, 'Marsilio Ficino' (plato.stanford.edu/entries/ficino/), accessed June 2026.",
+    "Internet Encyclopedia of Philosophy, 'Ficino, Marsilio' (iep.utm.edu/ficino/), accessed June 2026.",
+    "Wikipedia, 'De vita libri tres' (en.wikipedia.org/wiki/De_vita_libri_tres), accessed June 2026.",
+    "Wikipedia, 'Corpus Hermeticum' (en.wikipedia.org/wiki/Corpus_Hermeticum), accessed June 2026.",
+    "'Ficino - Pimander' (tianmu.org/good-work-library/hermetic/ficino-pimander), on the 1463 translation and 1471 Treviso printing.",
+    "Stanford Encyclopedia of Philosophy, 'Heinrich Cornelius Agrippa von Nettesheim' (plato.stanford.edu/entries/agrippa-nettesheim/), on Ficino's influence and the prisca theologia.",
+    "Wikipedia, 'De occulta philosophia libri tres' and 'Heinrich Cornelius Agrippa', on Agrippa's debt to De vita coelitus comparanda.",
+    "Princeton Rare Books blog, 'Marsilio Ficino, Astrology, and Renaissance Magic' (prphbooks.com/blog/ficino-astrology-magic)."
+  ]
+}

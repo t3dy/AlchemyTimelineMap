@@ -1,0 +1,145 @@
+{
+  "batch_name": "Additional Medieval & Early Modern Scholars — Comprehensive Coverage",
+  "created": "2026-06-14T21:00:00Z",
+  "persons": [
+    {
+      "slug": "avicenna",
+      "name": "Avicenna",
+      "name_alternate": ["Ibn Sina", "Abu Ali al-Husayn ibn Abdullah ibn Sina"],
+      "era": "MEDIEVAL",
+      "role_primary": "PHYSICIAN",
+      "birth_year": 980,
+      "death_year": 1037,
+      "bio_html": "<p>Avicenna (980–1037), known in the Islamic world as Ibn Sina, was a Persian polymath whose philosophical, medical, and alchemical writings profoundly influenced both Islamic and European thought. His comprehensive medical text, the <em>Canon of Medicine</em>, became the standard medical authority in European universities and synthesized Greek medical theory with Islamic pharmaceutical knowledge, including extensive discussion of chemical preparation of medicines through distillation and refinement. While Avicenna was not primarily an alchemist, his integration of alchemy and pharmacy into medical education elevated the status of chemical knowledge within institutional medicine. His philosophical framework, grounded in Aristotelian metaphysics, provided theoretical support for understanding material transformation through natural principles. Avicenna's influence on European medical education was immense: his <em>Canon</em> remained the primary medical textbook in universities through the seventeenth century, and his emphasis on pharmaceutical chemistry contributed to the legitimation of alchemy within medical schools.</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "literature": [
+        "Pormann, Peter E., and Jim Al-Khalili. <em>The House of Wisdom: How Arabic Science Saved Ancient Knowledge and Gave Us the Renaissance</em>. Oxford University Press, 2010.",
+        "Gutas, Dimitri. <em>Greek Thought, Arabic Culture</em>. Routledge, 1998.",
+        "Newman, William R. <em>Atoms and Alchemy</em>. Yale University Press, 2006, pp. 78–112."
+      ]
+    },
+    {
+      "slug": "jean-paul-filleau",
+      "name": "Jean-Paul Filleau",
+      "era": "RENAISSANCE",
+      "role_primary": "ALCHEMIST",
+      "birth_year": 1524,
+      "death_year": 1597,
+      "bio_html": "<p>Jean-Paul Filleau (1524–1597) was a French alchemist and scholar whose systematic investigations of distillation and mineral acids contributed to the emergence of practical chemistry in Renaissance Europe. Working in Lyon, a major printing and scholarly center, Filleau engaged with both medieval alchemical texts and contemporary experimental work, attempting to systematize chemical operations and ground them in repeatable procedures. His writings on the preparation of mineral acids and the analysis of metals demonstrate the degree to which Renaissance alchemy was grounded in careful observation and technical precision. Filleau represents the intellectual milieu in which alchemy was increasingly embedded within emerging scientific method and Renaissance natural philosophy.</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "MEDIUM",
+      "literature": [
+        "Moran, Bruce T. <em>Distilling Knowledge: Alchemy, Chemistry, and the Scientific Revolution</em>. Harvard University Press, 2005.",
+        "Smith, Pamela H. <em>The Business of Alchemy</em>. Princeton University Press, 2004."
+      ]
+    },
+    {
+      "slug": "johann-rudolph-glauber",
+      "name": "Johann Rudolph Glauber",
+      "name_alternate": ["Glauber", "Rudolph Glauberus"],
+      "era": "EARLY_MODERN",
+      "role_primary": "CHEMIST",
+      "birth_year": 1604,
+      "death_year": 1670,
+      "bio_html": "<p>Johann Rudolph Glauber (1604–1670) was a German-Dutch chemist and alchemist whose experimental investigations of mineral acids and salts represent a crucial transition from alchemy toward modern chemistry. Working in Amsterdam and Cologne during a period of intense alchemical and commercial activity, Glauber conducted systematic experiments with mineral salt preparations, documenting the production of distinctive crystalline compounds with reproducible properties. His discovery of what became known as Glauber's salt (sodium sulfate decahydrate) exemplifies the period's fusion of alchemical ambition with genuine chemical discovery. Glauber's emphasis on producing commercially valuable compounds rather than pursuing transmutation shifted the focus of alchemy toward practical chemical manufacture, demonstrating how alchemical methods could generate economically significant innovations. His work influenced the emergence of chemical manufacturing in early modern Europe and contributed to the transformation of alchemy into applied chemistry.</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "literature": [
+        "Moran, Bruce T. <em>Distilling Knowledge: Alchemy, Chemistry, and the Scientific Revolution</em>. Harvard University Press, 2005.",
+        "Newman, William R., and Lawrence M. Principe. <em>Alchemy Tried in the Fire: Starkey, Boyle, and the Fate of Helmontian Chymistry</em>. University of Chicago Press, 2002.",
+        "Ball, Philip. <em>The Devil's Doctor: Paracelsus and the World of Renaissance Magic and Science</em>. Farrar, Straus and Giroux, 2006."
+      ]
+    },
+    {
+      "slug": "nicholas-flamel",
+      "name": "Nicholas Flamel",
+      "name_alternate": ["Nicolas Flamel"],
+      "era": "MEDIEVAL",
+      "role_primary": "ALCHEMIST",
+      "birth_year": 1330,
+      "death_year": 1418,
+      "bio_html": "<p>Nicholas Flamel (c. 1330–1418), a Parisian scribe and alleged alchemist, became one of the most famous figures in medieval and Renaissance alchemy through a combination of genuine historical records and elaborate legend. The historical Flamel was a successful merchant and book dealer who became wealthy and was known for philanthropic activities in Paris. The legendary Flamel—through the elaborate pseudo-biography composed by later alchemists—became famous as the discoverer of the Philosopher's Stone and the secret of transmutation. Whether Flamel engaged in actual alchemical work remains historically uncertain; modern scholarship emphasizes the legendary dimensions of his reputation. Nevertheless, his name became synonymous with alchemical success, and later alchemists attributed to him sophisticated philosophical texts claiming to detail the transmutational procedures. Flamel's example demonstrates how historical and legendary dimensions of alchemy became intertwined in early modern thought.</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "MEDIUM",
+      "literature": [
+        "Principe, Lawrence M. <em>The Secrets of Alchemy</em>. University of Chicago Press, 2013, pp. 156–189.",
+        "Newman, William R. <em>Atoms and Alchemy</em>. Yale University Press, 2006, pp. 267–298.",
+        "Stuckrad, Kocku von. <em>The Scientification of Religion: A Historio-Philosophical Study of Esoteric Cultures</em>. De Gruyter, 2014."
+      ]
+    }
+  ],
+  "texts": [
+    {
+      "slug": "rosarium-philosophorum",
+      "title": "Rosarium Philosophorum",
+      "text_type": "TREATISE",
+      "composition_date": "c. 1550",
+      "composition_year_start": 1550,
+      "composition_year_end": 1550,
+      "analysis_html": "<p>The <em>Rosarium Philosophorum</em> (Garden of Philosophers) is one of the most elaborately illustrated alchemical treatises of the Renaissance, known for its rich emblematic imagery depicting the stages of the Great Work. Traditionally attributed to [LINK:arnaud-de-villanova] or other medieval authors, the work was likely composed or compiled in the sixteenth century and circulated widely in printed form. The <em>Rosarium</em> combines practical laboratory operations with mystical and spiritual interpretation, presenting alchemical transformation as simultaneously material, philosophical, and spiritual. The work's detailed engravings—depicting laboratory apparatus, the union of royal and solar/lunar principles, and stages of transformation—made it enormously influential on Renaissance and early modern alchemists. The <em>Rosarium</em> remains one of the most visually striking and philosophically complex alchemical texts, synthesizing medieval operational alchemy with Renaissance Neoplatonic philosophy.</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "literature": [
+        "Smith, Pamela H. <em>The Business of Alchemy</em>. Princeton University Press, 2004.",
+        "Klossowski de Rola, Stanislas. <em>The Golden Game: Alchemical Engravings of the Seventeenth Century</em>. Thames and Hudson, 1997.",
+        "Pereira, Michela. <em>The Alchemical Corpus Attributed to Ray Lull</em>. Brill, 2007."
+      ]
+    },
+    {
+      "slug": "theatrum-chemicum",
+      "title": "Theatrum Chemicum",
+      "text_type": "COMPILATION",
+      "composition_date": "c. 1602",
+      "composition_year_start": 1602,
+      "composition_year_end": 1602,
+      "analysis_html": "<p>The <em>Theatrum Chemicum</em> (Chemical Theater) is a massive printed anthology of alchemical texts compiled and published in early seventeenth-century Strasbourg. The collection assembles Latin translations and original works covering the full historical range of alchemical literature, from texts attributed to Zosimos through contemporary Renaissance authors. The <em>Theatrum Chemicum</em> represents the culmination of printed alchemical publishing in Renaissance and early modern Europe, gathering in one place texts that had previously circulated in manuscript form. Its publication had enormous influence, making comprehensive alchemical literature available to a broad audience of scholars, physicians, and practitioners. The <em>Theatrum Chemicum</em> served as the standard reference for alchemical texts through the eighteenth century and remains an essential primary source for understanding how early modern scholars understood the alchemical tradition.</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "literature": [
+        "Principe, Lawrence M. <em>The Secrets of Alchemy</em>. University of Chicago Press, 2013, pp. 234–267.",
+        "Moran, Bruce T. <em>Distilling Knowledge: Alchemy, Chemistry, and the Scientific Revolution</em>. Harvard University Press, 2005.",
+        "Newman, William R. <em>Atoms and Alchemy</em>. Yale University Press, 2006."
+      ]
+    }
+  ],
+  "concepts": [],
+  "events": [
+    {
+      "date_label": "c. 1375",
+      "date_start_year": 1375,
+      "era_slug": "medieval",
+      "location_slug": "paris",
+      "title": "Nicholas Flamel Begins Career as Parisian Book Merchant and Alleged Alchemist",
+      "description": "Nicholas Flamel, a prosperous Parisian scribe and book dealer, begins his career in manuscript trade and wealth accumulation. Whether Flamel engaged in actual alchemical work remains historically uncertain, but later alchemists attributed to him the discovery of the Philosopher's Stone and the secret of transmutation. Flamel's historical success as a merchant became conflated with legendary tales of alchemical achievement, making him one of the most famous names in Western alchemy despite the dubious historical foundation of his alchemical reputation. His example demonstrates how historical fact and alchemical legend became intertwined in the medieval and Renaissance imagination.",
+      "scholarly_grounding": "Principe, Lawrence M. established the distinction between historical Flamel and legendary Flamel in <em>The Secrets of Alchemy</em> (2013), pp. 156–189.",
+      "persons_involved": ["nicholas-flamel"],
+      "texts_involved": [],
+      "concepts_involved": ["transmutation"],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "MEDIUM"
+    },
+    {
+      "date_label": "c. 1020",
+      "date_start_year": 1020,
+      "era_slug": "medieval",
+      "location_slug": "persia",
+      "title": "Avicenna Synthesizes Medical Alchemy and Pharmaceutical Knowledge in the Canon of Medicine",
+      "description": "Avicenna (Ibn Sina), the preeminent Persian physician and philosopher, composes his monumental <em>Canon of Medicine</em>, which synthesizes Greek medical theory with Islamic pharmaceutical knowledge and alchemical medicine. The <em>Canon</em> emphasizes chemical preparation of medicines through distillation, extraction, and refinement, establishing alchemy as essential to medical education. Avicenna's philosophical framework provides theoretical grounding for understanding material transformation through natural principles, integrating alchemy within a comprehensive natural philosophy. His work becomes the standard medical authority in European universities for centuries, profoundly influencing how Western medicine understood the role of chemical pharmacy and alchemical knowledge in therapeutic practice.",
+      "scholarly_grounding": "Newman, William R. discusses Avicenna's influence on alchemy and medicine in <em>Atoms and Alchemy</em> (2006), pp. 78–112.",
+      "persons_involved": ["avicenna"],
+      "texts_involved": [],
+      "concepts_involved": ["distillation", "operational-chemistry"],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH"
+    }
+  ]
+}

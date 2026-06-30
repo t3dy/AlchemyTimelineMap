@@ -1,0 +1,201 @@
+{
+  "slug": "robert-boyle",
+  "itinerary": [
+    {
+      "place": "Lismore Castle, County Waterford",
+      "lat": 52.137,
+      "lon": -7.935,
+      "year_start": 1627,
+      "year_end": 1635,
+      "dwell": 8,
+      "what": "Born 25 January 1627, fourteenth child of Richard Boyle, 1st Earl of Cork; childhood at the family seat before being sent away to school.",
+      "evidence": "attested",
+      "leg_evidence": null,
+      "source": "Dictionary of Irish Biography, 'Boyle, Robert'; Internet Encyclopedia of Philosophy, 'Robert Boyle'",
+      "confidence": "HIGH"
+    },
+    {
+      "place": "Eton College, Berkshire",
+      "lat": 51.490,
+      "lon": -0.609,
+      "year_start": 1635,
+      "year_end": 1638,
+      "dwell": 3,
+      "what": "Schooled at Eton from age eight (c.1635) for roughly three years; afterward briefly tutored at the family's English seat at Stalbridge.",
+      "evidence": "attested",
+      "leg_evidence": "inferred",
+      "source": "Britannica, 'Robert Boyle'; IEP, 'Robert Boyle' (dates of departure given variously 1638/1639)",
+      "confidence": "HIGH"
+    },
+    {
+      "place": "Geneva (Grand Tour, with tutor Isaac Marcombes)",
+      "lat": 46.204,
+      "lon": 6.143,
+      "year_start": 1639,
+      "year_end": 1642,
+      "dwell": 3,
+      "what": "Continental tour under the Huguenot tutor Isaac Marcombes; principally based in Geneva, studying languages, philosophy and the new science. Experienced a formative religious conversion during a storm (c.1640-41).",
+      "evidence": "attested",
+      "leg_evidence": "inferred",
+      "source": "IEP, 'Robert Boyle'; Britannica. Exact start year approximate (1638/1639 in different accounts).",
+      "confidence": "MEDIUM"
+    },
+    {
+      "place": "Florence and Italy (Grand Tour)",
+      "lat": 43.769,
+      "lon": 11.256,
+      "year_start": 1642,
+      "year_end": 1644,
+      "dwell": 2,
+      "what": "Travelled in Italy; read Galileo's Dialogue while in Florence (1642), shortly before/after Galileo's death. Return to England was delayed by the outbreak of civil war and financial disruption.",
+      "evidence": "attested",
+      "leg_evidence": "attested",
+      "source": "Britannica; IEP, 'Robert Boyle'. End of tour dated c.1644-1646 across sources.",
+      "confidence": "MEDIUM"
+    },
+    {
+      "place": "Stalbridge, Dorset",
+      "lat": 50.957,
+      "lon": -2.378,
+      "year_start": 1645,
+      "year_end": 1655,
+      "dwell": 10,
+      "what": "Settled at the inherited Stalbridge estate (after his father's death, 1643). Began his career as a writer of moral and theological tracts and took up chemistry; corresponded with the Hartlib circle in the early 1650s. Interrupted by trips to Ireland (notably 1652-1654) to settle estates and Leiden (1648) for a family wedding.",
+      "evidence": "attested",
+      "leg_evidence": "inferred",
+      "source": "Britannica; IEP, 'Robert Boyle'. Start year approximate to year of return from the Continent.",
+      "confidence": "MEDIUM"
+    },
+    {
+      "place": "Oxford",
+      "lat": 51.752,
+      "lon": -1.258,
+      "year_start": 1656,
+      "year_end": 1668,
+      "dwell": 12,
+      "what": "Moved to Oxford in the winter of 1655-56, taking lodgings with the apothecary John Crosse at Deep Hall on the High Street, where he built a laboratory. Conducted air-pump experiments with Robert Hooke and joined the Oxford experimental-philosophy circle; this period produced his major pneumatic and chymical works.",
+      "evidence": "attested",
+      "leg_evidence": "attested",
+      "source": "Oxford History (oxfordhistory.org.uk), 'Robert Boyle's laboratory'; Cabinet (Oxford), 'Boyle, Hooke and Oxford'; IEP.",
+      "confidence": "HIGH"
+    },
+    {
+      "place": "London (Pall Mall, residence of his sister Katherine Jones, Lady Ranelagh)",
+      "lat": 51.506,
+      "lon": -0.134,
+      "year_start": 1668,
+      "year_end": 1691,
+      "dwell": 23,
+      "what": "Left Oxford for London in 1668, lodging with his sister Katherine, Lady Ranelagh, in Pall Mall, where he kept a laboratory. Active in the Royal Society; continued chymical, medical and theological work until his death on 31 December 1691, a week after Katherine's.",
+      "evidence": "attested",
+      "leg_evidence": "attested",
+      "source": "Wikipedia, 'Robert Boyle' citing standard biographies; IEP, 'Robert Boyle'.",
+      "confidence": "HIGH"
+    }
+  ],
+  "relationships": [
+    {
+      "target": "samuel-hartlib",
+      "target_label": "Samuel Hartlib",
+      "type": "corresponded",
+      "direction": true,
+      "weight": 4,
+      "evidence": "attested",
+      "survives": true,
+      "note": "Boyle was a leading member of the Hartlib circle in the late 1640s-early 1650s, exchanging extensive correspondence on chymistry, agriculture and the reform of learning. The circle is often regarded as a precursor to the Royal Society.",
+      "source": "IEP, 'Robert Boyle'; Britannica.",
+      "confidence": "HIGH"
+    },
+    {
+      "target": "george-starkey",
+      "target_label": "George Starkey",
+      "type": "studied-under",
+      "direction": true,
+      "weight": 5,
+      "evidence": "attested",
+      "survives": true,
+      "note": "Starkey (also writing as Eirenaeus Philalethes) was Boyle's principal tutor in chymistry from c.1651, introducing him to Helmontian laboratory practice. Newman and Principe reconstruct the relationship from correspondence and laboratory notebooks; Starkey's translation of allegorical alchemy into quantitative practice shaped Boyle's experimental method.",
+      "source": "Newman & Principe, 'Alchemy Tried in the Fire: Starkey, Boyle, and the Fate of Helmontian Chymistry' (2002); Principe, 'The Aspiring Adept' (1998).",
+      "confidence": "HIGH"
+    },
+    {
+      "target": "jan-van-helmont",
+      "target_label": "Jan Baptist van Helmont",
+      "type": "influenced",
+      "direction": false,
+      "weight": 4,
+      "evidence": "attested",
+      "survives": true,
+      "note": "Helmontian chymistry, transmitted chiefly via Starkey, was a central influence on Boyle's experimental practice and matter theory. Direction is Helmont -> Boyle (Boyle was influenced).",
+      "source": "Newman & Principe, 'Alchemy Tried in the Fire' (2002); Principe, 'The Aspiring Adept' (1998).",
+      "confidence": "HIGH"
+    },
+    {
+      "target": "isaac-newton",
+      "target_label": "Isaac Newton",
+      "type": "corresponded",
+      "direction": true,
+      "weight": 2,
+      "evidence": "attested",
+      "survives": true,
+      "note": "Boyle and Newton shared a serious interest in chrysopoeia and corresponded on chymical matters (e.g. Boyle's 1676 Philosophical Transactions note on incalescent mercury prompted Newton's caution about disclosure). Boyle reportedly gave Newton a sample of his special mercury; accounts that his will barred Newton from his transmutation notes are sometimes overstated.",
+      "source": "Principe, 'The Aspiring Adept' (1998); IEP, 'Robert Boyle' (note Newton-disclosure claim is contested).",
+      "confidence": "MEDIUM"
+    },
+    {
+      "target": "francis-bacon",
+      "target_label": "Francis Bacon",
+      "type": "influenced",
+      "direction": false,
+      "weight": 3,
+      "evidence": "attested",
+      "survives": true,
+      "note": "Boyle's experimental programme and the Hartlib circle's reformist ideals were explicitly Baconian; the natural-history and collaborative-inquiry model derives from Bacon. Direction is Bacon -> Boyle.",
+      "source": "IEP, 'Robert Boyle'; Britannica.",
+      "confidence": "HIGH"
+    },
+    {
+      "target": null,
+      "target_label": "Katherine Jones, Lady Ranelagh (sister)",
+      "type": "collaborated",
+      "direction": false,
+      "weight": 4,
+      "evidence": "attested",
+      "survives": true,
+      "note": "Boyle's elder sister and lifelong intellectual companion, herself a respected natural philosopher and member of the Hartlib circle. He lodged in her Pall Mall house 1668-1691; they shared medical and chymical recipes and she acted as editor and research partner. Not in DB; given as target_label.",
+      "source": "IEP, 'Robert Boyle'; recent scholarship on Lady Ranelagh (e.g. Michelle DiMeo).",
+      "confidence": "HIGH"
+    },
+    {
+      "target": null,
+      "target_label": "Robert Hooke",
+      "type": "collaborated",
+      "direction": true,
+      "weight": 4,
+      "evidence": "attested",
+      "survives": true,
+      "note": "Hooke served as Boyle's laboratory assistant at Oxford and designed/improved the air pump used in the celebrated pneumatic experiments (c.1659-60). Not in DB; given as target_label.",
+      "source": "Cabinet (Oxford), 'Boyle, Hooke and Oxford'; IEP, 'Robert Boyle'.",
+      "confidence": "HIGH"
+    }
+  ],
+  "concepts": [
+    {"slug": "chymistry", "confidence": "HIGH", "source": "Newman & Principe, 'Alchemy Tried in the Fire' (2002), which frames Boyle within early-modern 'chymistry' uniting alchemy and chemistry."},
+    {"slug": "transmutation", "confidence": "HIGH", "source": "Principe, 'The Aspiring Adept' (1998): Boyle's lifelong pursuit of metallic transmutation, incl. his reconstructed 'Dialogue on the Transmutation of Metals'."},
+    {"slug": "chrysopoeia", "confidence": "HIGH", "source": "Principe, 'The Aspiring Adept' (1998): Boyle's gold-making aspirations, the 'anti-elixir' (1678) and incalescent mercury (1676)."},
+    {"slug": "philosophers-stone", "confidence": "HIGH", "source": "Principe, 'The Aspiring Adept' (1998): Boyle held the special mercury essential to producing the Philosophers' Stone, though he could not make it himself."},
+    {"slug": "iatrochemistry", "confidence": "MEDIUM", "source": "IEP, 'Robert Boyle'; Newman & Principe (2002): Helmontian medical chymistry and Boyle's medical-recipe work, shared with Lady Ranelagh."},
+    {"slug": "operational-chemistry", "confidence": "MEDIUM", "source": "Newman & Principe, 'Alchemy Tried in the Fire' (2002): Starkey's quantitative, reasoned laboratory practice as transmitted to Boyle."}
+  ],
+  "travel_note_html": "<p>Robert Boyle (1627-1691) was born at Lismore Castle, the youngest son of the Earl of Cork, schooled at Eton, and sent on a continental Grand Tour with the Huguenot tutor Isaac Marcombes, based mainly at Geneva and travelling through Italy, where he read Galileo at Florence in 1642. Exact dates for the tour's start and end vary across sources and are marked here as approximate.</p><p>After returning to England he settled at the inherited estate of Stalbridge in Dorset (mid-1640s to mid-1650s), taking up chemistry and corresponding with [LINK:samuel-hartlib] and the Hartlib circle. In the winter of 1655-56 he moved to [LINK:oxford], lodging with the apothecary John Crosse on the High Street and building a laboratory where he conducted air-pump experiments with Robert Hooke and pursued the Helmontian chymistry he had learned from [LINK:george-starkey].</p><p>In 1668 Boyle moved to [LINK:london], living in his sister Katherine, Lady Ranelagh's house on Pall Mall until both died within a week of each other in late 1691. Throughout his career Boyle was a serious seeker of metallic [LINK:transmutation] and [LINK:chrysopoeia]; per Principe's scholarship he believed in the Philosophers' Stone and held a special mercury he thought essential to it, while publicly framing his work within mechanical philosophy. Note: the claim that his will explicitly barred [LINK:isaac-newton] from his transmutation papers is contested in the literature.</p>",
+  "sources": [
+    "Lawrence M. Principe, The Aspiring Adept: Robert Boyle and His Alchemical Quest (Princeton University Press, 1998).",
+    "William R. Newman & Lawrence M. Principe, Alchemy Tried in the Fire: Starkey, Boyle, and the Fate of Helmontian Chymistry (University of Chicago Press, 2002).",
+    "Internet Encyclopedia of Philosophy, 'Robert Boyle' (iep.utm.edu/robert-boyle/).",
+    "Encyclopaedia Britannica, 'Robert Boyle' (britannica.com/biography/Robert-Boyle).",
+    "Dictionary of Irish Biography, 'Boyle, Robert' (dib.ie/biography/boyle-robert-a0858).",
+    "Oxford History, 'Robert Boyle's laboratory' (oxfordhistory.org.uk/streets/inscriptions/central/boyle.html).",
+    "Cabinet (University of Oxford), 'Boyle, Hooke and Oxford' (cabinet.ox.ac.uk/boyle-hooke-and-oxford).",
+    "Wikipedia, 'Robert Boyle' (citing standard biographies; used for residence/death dates)."
+  ]
+}

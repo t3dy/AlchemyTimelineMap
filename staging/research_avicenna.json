@@ -1,0 +1,247 @@
+{
+  "slug": "avicenna",
+  "itinerary": [
+    {
+      "place": "Bukhara",
+      "lat": 39.77,
+      "lon": 64.42,
+      "year_start": 980,
+      "year_end": 999,
+      "dwell": 19,
+      "what": "Born in nearby Afshana (c. 980, perhaps as early as 964); raised and educated in the Samanid capital. As a teenager gained access to the Samanid palace library after treating the ailing ruler Nuh II, and began his philosophical and medical career in court circles. Studied logic (Porphyry's Isagoge, Aristotle's Categories) under al-Natili.",
+      "evidence": "attested",
+      "leg_evidence": null,
+      "source": "Stanford Encyclopedia of Philosophy, 'Ibn Sina [Avicenna]'; Wikipedia, 'Avicenna' (citing his autobiography via al-Juzjani)",
+      "confidence": "HIGH"
+    },
+    {
+      "place": "Gurganj",
+      "lat": 42.34,
+      "lon": 59.15,
+      "year_start": 999,
+      "year_end": 1012,
+      "dwell": 13,
+      "what": "Fled Bukhara after the Qarakhanid overthrow of the Samanids ('necessity led me to forsake Bukhara'). Entered the service of the Ma'munid Khwarazmshah Abu al-Hasan Ali at the Khwarazmian capital. Dates approximate (999?-1012).",
+      "evidence": "attested",
+      "leg_evidence": "attested",
+      "source": "Stanford Encyclopedia of Philosophy, 'Ibn Sina [Avicenna]'; Wikipedia, 'Avicenna'",
+      "confidence": "MEDIUM"
+    },
+    {
+      "place": "Jurjan (Gorgan)",
+      "lat": 36.84,
+      "lon": 54.44,
+      "year_start": 1012,
+      "year_end": 1014,
+      "dwell": 2,
+      "what": "Travelled westwards and stayed briefly off the southeastern Caspian, where his disciple and biographer al-Juzjani joined him. Began work on the Canon of Medicine. Dates approximate (1012-1014?).",
+      "evidence": "approximate",
+      "leg_evidence": "inferred",
+      "source": "Stanford Encyclopedia of Philosophy, 'Ibn Sina [Avicenna]'",
+      "confidence": "MEDIUM"
+    },
+    {
+      "place": "Ray",
+      "lat": 35.59,
+      "lon": 51.43,
+      "year_start": 1014,
+      "year_end": 1015,
+      "dwell": 1,
+      "what": "Entered Buyid service as physician under the amir Majd al-Dawla and his mother, the regent Sayyida Shirin, in the Iranian heartland. Brief stay (c. 1014-1015) amid regional instability.",
+      "evidence": "approximate",
+      "leg_evidence": "inferred",
+      "source": "Stanford Encyclopedia of Philosophy, 'Ibn Sina [Avicenna]'; Wikipedia, 'Avicenna'",
+      "confidence": "MEDIUM"
+    },
+    {
+      "place": "Hamadan",
+      "lat": 34.80,
+      "lon": 48.52,
+      "year_start": 1015,
+      "year_end": 1024,
+      "dwell": 9,
+      "what": "Entered the service of the Buyid ruler Shams al-Dawla, becoming his physician and then vizier; remained vizier until Shams al-Dawla died (c. 1021). After a period of political turbulence and imprisonment he left c. 1024. He was buried here after his death in 1037. Dates approximate (1015-1024?).",
+      "evidence": "attested",
+      "leg_evidence": "attested",
+      "source": "Stanford Encyclopedia of Philosophy, 'Ibn Sina [Avicenna]'; Wikipedia, 'Avicenna'",
+      "confidence": "MEDIUM"
+    },
+    {
+      "place": "Isfahan",
+      "lat": 32.65,
+      "lon": 51.67,
+      "year_start": 1024,
+      "year_end": 1037,
+      "dwell": 13,
+      "what": "Final and most productive period, at the court of the Kakuyid ruler Ala al-Dawla, who gave him esteem and 'the most stable period of his life.' Accompanied the ruler on military expeditions. Died in 1037 of colic while travelling near Isfahan (buried in Hamadan). Dates approximate (1024?-1037).",
+      "evidence": "attested",
+      "leg_evidence": "attested",
+      "source": "Stanford Encyclopedia of Philosophy, 'Ibn Sina [Avicenna]'; Wikipedia, 'Avicenna'",
+      "confidence": "HIGH"
+    }
+  ],
+  "relationships": [
+    {
+      "target_label": "Abu Abdallah al-Natili",
+      "type": "studied-under",
+      "direction": true,
+      "weight": 3,
+      "evidence": "attested",
+      "survives": false,
+      "note": "The only teacher Avicenna names in his autobiography; the physician-philosopher al-Natili was invited to the family home to instruct the young Avicenna in logic, reading Porphyry's Isagoge (and possibly Aristotle's Categories) together. He likely had other teachers (e.g. the physicians Qumri and Abu Sahl al-Masihi) but did not name them.",
+      "source": "Wikipedia, 'Avicenna' (citing Avicenna's autobiography); Stanford Encyclopedia of Philosophy, 'Ibn Sina [Avicenna]'",
+      "confidence": "HIGH"
+    },
+    {
+      "target_label": "Abu al-Hasan Ali (Ma'munid Khwarazmshah)",
+      "type": "patron-of",
+      "direction": false,
+      "weight": 2,
+      "evidence": "attested",
+      "survives": false,
+      "note": "Ruler of Khwarazm (r. c. 997-1009) who employed Avicenna at Gurganj; direction false because the patron supported Avicenna, not the reverse.",
+      "source": "Wikipedia, 'Avicenna'; web search synthesis of standard biographies",
+      "confidence": "MEDIUM"
+    },
+    {
+      "target_label": "Shams al-Dawla (Buyid amir of Hamadan)",
+      "type": "patron-of",
+      "direction": false,
+      "weight": 3,
+      "evidence": "attested",
+      "survives": false,
+      "note": "Buyid ruler who made Avicenna his physician and then vizier at Hamadan until his death c. 1021. Direction false: the amir was patron to Avicenna.",
+      "source": "Stanford Encyclopedia of Philosophy, 'Ibn Sina [Avicenna]'; Wikipedia, 'Avicenna'",
+      "confidence": "HIGH"
+    },
+    {
+      "target_label": "Ala al-Dawla (Kakuyid ruler of Isfahan)",
+      "type": "patron-of",
+      "direction": false,
+      "weight": 4,
+      "evidence": "attested",
+      "survives": false,
+      "note": "Avicenna's most important and stable patron; sheltered him for his final thirteen years at Isfahan and took him on military campaigns. Direction false: Ala al-Dawla patronized Avicenna.",
+      "source": "Stanford Encyclopedia of Philosophy, 'Ibn Sina [Avicenna]'; Wikipedia, 'Avicenna' (quoting al-Juzjani)",
+      "confidence": "HIGH"
+    },
+    {
+      "target_label": "Abu Rayhan al-Biruni",
+      "type": "corresponded",
+      "direction": true,
+      "weight": 3,
+      "evidence": "attested",
+      "survives": true,
+      "note": "The two polymaths exchanged a surviving written dossier of objections and replies (al-Biruni posed eighteen questions, ten on Aristotle's De Caelo / On the Heavens and eight on the Physics). Al-Biruni argued from a broadly Democritean/anti-Peripatetic stance; Avicenna (assisted by his pupil al-Ma'sumi) defended an Aristotelian position. A genuine intellectual exchange rather than collaboration.",
+      "source": "Wikipedia, 'Al-Biruni' and 'Avicenna'; web search synthesis",
+      "confidence": "HIGH"
+    },
+    {
+      "target_label": "al-Farabi",
+      "type": "influenced",
+      "direction": false,
+      "weight": 3,
+      "evidence": "attested",
+      "survives": true,
+      "note": "Avicenna was decisively shaped by al-Farabi (and by Aristotle's Greek commentators such as Alexander of Aphrodisias); he famously credited al-Farabi's commentary with unlocking Aristotle's Metaphysics for him. Direction false: al-Farabi influenced Avicenna. (No al-Farabi slug in the provided DB list, so target_label only.)",
+      "source": "Internet Encyclopedia of Philosophy, 'Avicenna (Ibn Sina): Logic'; web search synthesis",
+      "confidence": "HIGH"
+    },
+    {
+      "target": "al-ghazali",
+      "target_label": "al-Ghazali",
+      "type": "influenced",
+      "direction": true,
+      "weight": 3,
+      "evidence": "attested",
+      "survives": true,
+      "note": "Avicenna's Peripatetic metaphysics was the principal target of al-Ghazali's critique in the Tahafut al-Falasifa (Incoherence of the Philosophers); thus Avicenna strongly shaped al-Ghazali's agenda, largely by provoking opposition. Direction true: Avicenna -> al-Ghazali.",
+      "source": "web search synthesis of standard histories of Islamic philosophy",
+      "confidence": "MEDIUM"
+    },
+    {
+      "target": "albertus-magnus",
+      "target_label": "Albertus Magnus",
+      "type": "influenced",
+      "direction": true,
+      "weight": 3,
+      "evidence": "attested",
+      "survives": true,
+      "note": "Albertus knew the Latin De congelatione et conglutinatione lapidum (Avicenna's anti-transmutation 'Sciant artifices' passage, then circulating under Aristotle's name) and directly engaged it, reinterpreting 'species' as substantial form to argue that genuine transmutation was after all possible. Influence is via reception/refutation, not contact.",
+      "source": "N. Newman / J. Newman scholarship via web search; academia.edu, 'The Sciant artifices in the Work of Albert the Great'; Cambridge, 'Aristotelianism, alchemy and corpuscularianism in the thirteenth century'",
+      "confidence": "HIGH"
+    },
+    {
+      "target": "roger-bacon",
+      "target_label": "Roger Bacon (and pseudo-Roger Bacon)",
+      "type": "influenced",
+      "direction": true,
+      "weight": 2,
+      "evidence": "attested",
+      "survives": true,
+      "note": "The pseudo-Bacon Breve breviarium deployed Avicenna's De congelatione (attributed to Aristotle) to rebut anti-alchemical arguments; the genuine Roger Bacon drew on Avicennian natural philosophy and medicine for his prolongatio vitae program. Influence via Latin reception. Note the actor/analyst caution: the text reached the Latins detached from Avicenna's own skeptical intent.",
+      "source": "Newman scholarship via web search; Cambridge, Aristotelianism/alchemy/corpuscularianism (2025)",
+      "confidence": "MEDIUM"
+    },
+    {
+      "target": "gerard-of-cremona",
+      "target_label": "Gerard of Cremona",
+      "type": "influenced",
+      "direction": true,
+      "weight": 3,
+      "evidence": "attested",
+      "survives": true,
+      "note": "Gerard of Cremona translated Avicenna's Canon of Medicine (al-Qanun fi al-Tibb) into Latin at Toledo in the 12th century, the channel through which Avicenna dominated European medical teaching for centuries. (The alchemical De congelatione, by contrast, was rendered c. 1200 by Alfred of Sareshel, not Gerard.) Direction true: Avicenna's work was transmitted by Gerard.",
+      "source": "Standard history of the Toledo translation movement; web search synthesis",
+      "confidence": "HIGH"
+    },
+    {
+      "target": "al-razi",
+      "target_label": "Abu Bakr al-Razi (Rhazes)",
+      "type": "polemicized-against",
+      "direction": true,
+      "weight": 2,
+      "evidence": "inferred",
+      "survives": true,
+      "note": "Avicenna worked in a medical-philosophical milieu shaped by al-Razi and was critical of aspects of al-Razi's philosophy (notably his metaphysics and his confidence in alchemy). Marked inferred/MEDIUM: a direct, sustained polemic is less firmly documented in the sources consulted than the general intellectual opposition. Distinguish from the later Fakhr al-Din al-Razi, an Avicennian commentator.",
+      "source": "web search synthesis; Wikipedia, 'Avicenna'",
+      "confidence": "LOW"
+    }
+  ],
+  "concepts": [
+    {
+      "slug": "transmutation",
+      "confidence": "HIGH",
+      "source": "Avicenna's De congelatione ('Sciant artifices alkimie species metallorum non posse transmutari' - let the artificers of alchemy know that the species of metals cannot be transmuted); The Alchemy Reader (Cambridge), ch. 12. Avicenna is the canonical skeptic, not an advocate."
+    },
+    {
+      "slug": "sulfur-mercury-theory",
+      "confidence": "HIGH",
+      "source": "Avicenna accepted the sulfur-mercury theory of the mineralogical origin of metals while denying that art could transmute their species; Wikipedia 'Avicenna'; Newman, 'Mercury and sulphur among the High Medieval alchemists.'"
+    },
+    {
+      "slug": "chrysopoeia",
+      "confidence": "HIGH",
+      "source": "Avicenna held that alchemists could only produce the outward appearance of gold-making, not real transmutation ('they can produce the appearance of such change'); his argument framed the medieval debate over chrysopoeia. The Alchemy Reader (Cambridge)."
+    },
+    {
+      "slug": "operational-chemistry",
+      "confidence": "MEDIUM",
+      "source": "Avicenna granted that practitioners could effect real operations on substances (coloring, alloying, surface change) producing convincing imitations, even while denying species change; De congelatione, ch. 12, via The Alchemy Reader."
+    }
+  ],
+  "travel_note_html": "<p>[LINK:avicenna] was born near [LINK:bukhara] around 980 and rose through Samanid court circles after gaining access to the palace library, studying logic under his one named teacher, the physician-philosopher al-Natili. The Qarakhanid conquest forced him to abandon Bukhara around 999, beginning a westward life of itinerant court service: first under the Ma'munid Khwarazmshah at [LINK:gurganj], then briefly at Jurjan (where his biographer al-Juzjani joined him), and on into the Iranian heartland at [LINK:ray] under the Buyids. Dates for these legs are approximate, reconstructed from his autobiography.</p><p>At [LINK:hamadan] (c. 1015) he served the Buyid Shams al-Dawla as physician and then vizier, weathering political turmoil and imprisonment, before settling for his final, most productive years (c. 1024-1037) at [LINK:isfahan] under his great patron, the Kakuyid Ala al-Dawla, whom he accompanied on campaign and in whose service he died in 1037. He was buried at Hamadan. Across his career he corresponded combatively with [LINK:al-ghazali]'s later target-master al-Farabi's tradition and exchanged a surviving dossier of philosophical objections with the polymath al-Biruni.</p><p>On alchemy the record requires care: Avicenna accepted the [LINK:sulfur-mercury-theory] of how metals form in the earth, yet was a determined skeptic of [LINK:transmutation], insisting that practitioners of the craft could only counterfeit the appearance of [LINK:chrysopoeia], not change a metal's species. His passage 'Sciant artifices' - translated into Latin c. 1200 by Alfred of Sareshel and circulated, ironically, under Aristotle's name - became the central anti-alchemical authority that [LINK:albertus-magnus] and the pseudo-[LINK:roger-bacon] corpus had to answer, while [LINK:gerard-of-cremona]'s rendering of his Canon of Medicine made him Europe's dominant medical authority. The actor/analyst caution is sharp here: medieval Latin alchemists often invoked an 'Avicenna' whose own intent was to deny the very art they practiced.</p>",
+  "sources": [
+    "Stanford Encyclopedia of Philosophy, 'Ibn Sina [Avicenna]', https://plato.stanford.edu/entries/ibn-sina/",
+    "Wikipedia, 'Avicenna', https://en.wikipedia.org/wiki/Avicenna",
+    "Wikipedia, 'Al-Biruni', https://en.wikipedia.org/wiki/Al-Biruni",
+    "Internet Encyclopedia of Philosophy, 'Avicenna (Ibn Sina)', https://iep.utm.edu/avicenna-ibn-sina/",
+    "Internet Encyclopedia of Philosophy, 'Avicenna (Ibn Sina): Logic', https://iep.utm.edu/ibn-sina-avicenna-logic/",
+    "The Alchemy Reader (Cambridge UP), 'Avicenna (c. 980-1037) De Congelatione et Conglutinatione Lapidum (Chapter 12)', https://www.cambridge.org/core/books/abs/alchemy-reader/avicenna-c-9801037-de-congelatione-et-conglutinatione-lapidum/0DDD86CADDAE136D87BF7BA01A547177",
+    "E. J. Holmyard and D. C. Mandeville, 'Avicennae de congelatione et conglutinatione lapidum' (Latin and Arabic texts), Internet Archive / Wellcome Collection",
+    "W. R. Newman scholarship, 'Mercury and sulphur among the High Medieval alchemists: from Razi and Avicenna to Albertus Magnus and pseudo-Roger Bacon'",
+    "'The Sciant artifices in the Work of Albert the Great: Towards Two Kinds of Transmutation', academia.edu",
+    "'Aristotelianism, alchemy and corpuscularianism in the thirteenth century', The British Journal for the History of Science (2025), Cambridge Core",
+    "Note on Alfred of Sareshel's c. 1200 Latin translation: 'Il De mineralibus di Avicenna tradotto da Alfredo di Shareshill', Brepols Online"
+  ]
+}

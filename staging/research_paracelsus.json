@@ -1,0 +1,286 @@
+{
+  "slug": "paracelsus",
+  "itinerary": [
+    {
+      "place": "Einsiedeln",
+      "lat": 47.1265,
+      "lon": 8.7527,
+      "year_start": 1493,
+      "year_end": 1502,
+      "dwell": 9,
+      "what": "Born 10 November 1493 in a house near the bridge over the Sihl; spent his earliest childhood here until his mother's death.",
+      "evidence": "attested",
+      "leg_evidence": null,
+      "source": "Britannica, 'Paracelsus'; Wikipedia, 'Paracelsus'; University of Zurich, paracelsus.uzh.ch (Life of Paracelsus)",
+      "confidence": "HIGH"
+    },
+    {
+      "place": "Villach",
+      "lat": 46.6111,
+      "lon": 13.8558,
+      "year_start": 1502,
+      "year_end": 1515,
+      "dwell": 13,
+      "what": "His father William, a physician, moved the family to Villach in Carinthia c.1502, where the young Paracelsus was schooled and exposed to mining and metallurgy.",
+      "evidence": "attested",
+      "leg_evidence": "attested",
+      "source": "University of Zurich, paracelsus.uzh.ch; Britannica, 'Paracelsus'",
+      "confidence": "HIGH"
+    },
+    {
+      "place": "Ferrara",
+      "lat": 44.8378,
+      "lon": 11.6196,
+      "year_start": 1515,
+      "year_end": 1516,
+      "dwell": 1,
+      "what": "Awarded a doctorate in medicine (and surgery) at the University of Ferrara around 1515-1516; earlier university attendance (Basel, Vienna) is reported but poorly documented.",
+      "evidence": "approximate",
+      "leg_evidence": "inferred",
+      "source": "Britannica, 'Paracelsus'; University of Zurich, paracelsus.uzh.ch",
+      "confidence": "MEDIUM"
+    },
+    {
+      "place": "European wanderjahre (Italy, France, Low Countries, Scandinavia, Central/Eastern Europe)",
+      "lat": 48.8566,
+      "lon": 2.3522,
+      "year_start": 1517,
+      "year_end": 1524,
+      "dwell": 7,
+      "what": "Years of itinerant travel, partly as an army surgeon, gathering empirical and folk medical knowledge; the precise routes and the more distant claimed destinations (Rhodes, Constantinople, Egypt) are largely uncorroborated.",
+      "evidence": "inferred",
+      "leg_evidence": "inferred",
+      "source": "Wikipedia, 'Paracelsus'; Britannica, 'Paracelsus' (coordinates are nominal: Paris as a representative waypoint)",
+      "confidence": "LOW"
+    },
+    {
+      "place": "Salzburg",
+      "lat": 47.8095,
+      "lon": 13.0550,
+      "year_start": 1524,
+      "year_end": 1525,
+      "dwell": 1,
+      "what": "Settled as a physician c.1524 after visiting his father at Villach; left amid the upheaval of the German Peasants' War (1525).",
+      "evidence": "attested",
+      "leg_evidence": "inferred",
+      "source": "Wikipedia, 'Paracelsus'; University of Zurich, paracelsus.uzh.ch",
+      "confidence": "MEDIUM"
+    },
+    {
+      "place": "Strasbourg",
+      "lat": 48.5734,
+      "lon": 7.7521,
+      "year_start": 1526,
+      "year_end": 1526,
+      "dwell": 1,
+      "what": "Acquired citizenship and joined the surgeons' guild in 1526 before being called onward to Basel.",
+      "evidence": "attested",
+      "leg_evidence": "inferred",
+      "source": "Wikipedia, 'Paracelsus'; University of Zurich, paracelsus.uzh.ch",
+      "confidence": "HIGH"
+    },
+    {
+      "place": "Basle",
+      "lat": 47.5596,
+      "lon": 7.5886,
+      "year_start": 1527,
+      "year_end": 1528,
+      "dwell": 1,
+      "what": "After curing the printer Johann Froben he was appointed town physician and university lecturer (1527); lectured in German, and on 23 June 1527 publicly burned a copy of Avicenna's Canon, alienating the faculty and fleeing in 1528.",
+      "evidence": "attested",
+      "leg_evidence": "attested",
+      "source": "Wikipedia, 'Paracelsus'; Encyclopedia.com, 'Paracelsus'; Hektoen International, 'The wayward Paracelsus'",
+      "confidence": "HIGH"
+    },
+    {
+      "place": "Nuremberg",
+      "lat": 49.4521,
+      "lon": 11.0767,
+      "year_start": 1529,
+      "year_end": 1529,
+      "dwell": 1,
+      "what": "Stayed at Nuremberg in 1529 during his renewed years of wandering, attempting (with limited success) to publish.",
+      "evidence": "attested",
+      "leg_evidence": "inferred",
+      "source": "Wikipedia, 'Paracelsus'; 1911 Encyclopaedia Britannica, 'Paracelsus'",
+      "confidence": "MEDIUM"
+    },
+    {
+      "place": "St. Gallen",
+      "lat": 47.4245,
+      "lon": 9.3767,
+      "year_start": 1531,
+      "year_end": 1531,
+      "dwell": 1,
+      "what": "Stayed at St. Gall in 1531, where the humanist physician and mayor Joachim von Watt (Vadian) gave him a cool reception; around this period he wrote the Opus Paramirum.",
+      "evidence": "attested",
+      "leg_evidence": "inferred",
+      "source": "University of Zurich, paracelsus.uzh.ch; 1911 Encyclopaedia Britannica, 'Paracelsus'",
+      "confidence": "MEDIUM"
+    },
+    {
+      "place": "Augsburg",
+      "lat": 48.3705,
+      "lon": 10.8978,
+      "year_start": 1536,
+      "year_end": 1536,
+      "dwell": 1,
+      "what": "Published the Grosse Wundartzney (Great Surgery Book) at Augsburg in 1536, which revived his reputation late in life.",
+      "evidence": "attested",
+      "leg_evidence": "inferred",
+      "source": "University of Zurich, paracelsus.uzh.ch; Wikipedia, 'Paracelsus'",
+      "confidence": "HIGH"
+    },
+    {
+      "place": "Salzburg (final years and death)",
+      "lat": 47.8095,
+      "lon": 13.0550,
+      "year_start": 1540,
+      "year_end": 1541,
+      "dwell": 1,
+      "what": "Returned to Salzburg under the protection of the prince-archbishop and died there on 24 September 1541, reportedly at the White Horse Inn.",
+      "evidence": "attested",
+      "leg_evidence": "inferred",
+      "source": "Britannica, 'Paracelsus'; University of Zurich, paracelsus.uzh.ch",
+      "confidence": "HIGH"
+    }
+  ],
+  "relationships": [
+    {
+      "target_label": "Wilhelm Bombast von Hohenheim (his father)",
+      "type": "taught",
+      "direction": true,
+      "weight": 4,
+      "evidence": "attested",
+      "survives": true,
+      "note": "Paracelsus's father, a physician at Villach, gave him his first instruction in medicine, botany, and mineralogy.",
+      "source": "University of Zurich, paracelsus.uzh.ch; Britannica, 'Paracelsus'",
+      "confidence": "HIGH"
+    },
+    {
+      "target_label": "Johannes Trithemius",
+      "type": "studied-under",
+      "direction": true,
+      "weight": 2,
+      "evidence": "inferred",
+      "survives": false,
+      "note": "Traditionally named as a teacher, but Wikipedia notes no record of Trithemius at Einsiedeln nor of Paracelsus visiting Sponheim/Wuerzburg before Trithemius's death (1516); influence is more likely via his writings.",
+      "source": "Wikipedia, 'Paracelsus'; University of Zurich, paracelsus.uzh.ch",
+      "confidence": "LOW"
+    },
+    {
+      "target_label": "Johann Froben (Frobenius), Basel printer",
+      "type": "patron-of",
+      "direction": false,
+      "weight": 4,
+      "evidence": "attested",
+      "survives": true,
+      "note": "Paracelsus cured Froben's ailing leg in 1527; Froben's patronage opened Basel's humanist circle and led to his municipal/professorial appointment. Froben's death in October 1527 weakened his position.",
+      "source": "Encyclopedia.com, 'Paracelsus'; Hektoen International, 'The wayward Paracelsus'",
+      "confidence": "HIGH"
+    },
+    {
+      "target_label": "Johannes Oecolampadius",
+      "type": "patron-of",
+      "direction": false,
+      "weight": 3,
+      "evidence": "attested",
+      "survives": true,
+      "note": "Basel reformer who, with Wolfgang Capito, supported and sponsored Paracelsus's appointment as town physician in 1527.",
+      "source": "Encyclopedia.com, 'Paracelsus'; Wikipedia, 'Paracelsus'",
+      "confidence": "MEDIUM"
+    },
+    {
+      "target_label": "Erasmus of Rotterdam",
+      "type": "corresponded",
+      "direction": false,
+      "weight": 2,
+      "evidence": "attested",
+      "survives": true,
+      "note": "The two exchanged correspondence on medical matters during Paracelsus's Basel period; Erasmus was a friend of Froben.",
+      "source": "Wikipedia, 'Paracelsus'; Encyclopedia.com, 'Paracelsus'",
+      "confidence": "MEDIUM"
+    },
+    {
+      "target_label": "Joachim von Watt (Vadian)",
+      "type": "polemicized-against",
+      "direction": false,
+      "weight": 2,
+      "evidence": "attested",
+      "survives": true,
+      "note": "Humanist physician and mayor of St. Gallen who, per the UZH biography, 'gave him the cold shoulder' when Paracelsus stayed there c.1531; emblematic of the establishment hostility he faced.",
+      "source": "University of Zurich, paracelsus.uzh.ch",
+      "confidence": "MEDIUM"
+    },
+    {
+      "target": "avicenna",
+      "type": "polemicized-against",
+      "direction": true,
+      "weight": 4,
+      "evidence": "attested",
+      "survives": true,
+      "note": "On 23 June 1527 Paracelsus publicly burned a copy of Avicenna's Canon of Medicine in the Basel market square, a symbolic rejection of scholastic Galenic-Avicennan authority.",
+      "source": "Wikipedia, 'Paracelsus'; Encyclopedia.com, 'Paracelsus'",
+      "confidence": "HIGH"
+    },
+    {
+      "target": "jan-van-helmont",
+      "type": "influenced",
+      "direction": true,
+      "weight": 3,
+      "evidence": "attested",
+      "survives": true,
+      "note": "Paracelsus is the foundational figure of the iatrochemical tradition that Jan Baptist van Helmont developed and partly critiqued; later Paracelsians (e.g. Croll) and chymical physicians extend the lineage.",
+      "source": "Encyclopedia.com, 'Paracelsus'; Bohrium, 'Paracelsus and the Rise of Iatrochemistry'",
+      "confidence": "MEDIUM"
+    }
+  ],
+  "concepts": [
+    {
+      "slug": "iatrochemistry",
+      "confidence": "HIGH",
+      "source": "Bohrium, 'Paracelsus and the Rise of Iatrochemistry'; Encyclopedia.com, 'Paracelsus'"
+    },
+    {
+      "slug": "paracelsian-alchemy",
+      "confidence": "HIGH",
+      "source": "Wikipedia, 'Paracelsus'; Encyclopedia.com, 'Paracelsus'"
+    },
+    {
+      "slug": "tria-prima",
+      "confidence": "HIGH",
+      "source": "Wikipedia, 'Tria prima'; Wikipedia, 'Paracelsus'"
+    },
+    {
+      "slug": "medicamenta-tria",
+      "confidence": "MEDIUM",
+      "source": "Encyclopedia.com, 'Paracelsus' (his doctrine of three principles applied to medicine)"
+    },
+    {
+      "slug": "spagyrics",
+      "confidence": "HIGH",
+      "source": "Wikipedia, 'Paracelsus' (alchemy as the art of separation/purification, spagyric preparation of remedies)"
+    },
+    {
+      "slug": "macrocosm-microcosm",
+      "confidence": "MEDIUM",
+      "source": "Encyclopedia.com, 'Paracelsus'; Philopedia, 'Paracelsus' (correspondence of human body and cosmos)"
+    },
+    {
+      "slug": "sulfur-mercury-theory",
+      "confidence": "MEDIUM",
+      "source": "Wikipedia, 'Paracelsus' (his tria prima extends the older sulfur-mercury matter theory by adding salt)"
+    }
+  ],
+  "travel_note_html": "<p>Theophrastus von Hohenheim, called Paracelsus, was born in 1493 at [LINK:einsiedeln] and grew up at Villach in Carinthia, where his physician father gave him his first training in medicine and mineralogy. After studies that culminated in a medical doctorate at [LINK:ferrara] around 1515-1516, he spent roughly seven years (c.1517-1524) as an itinerant army surgeon; the precise routes, and the more distant destinations later ascribed to him, are largely undocumented.</p><p>He settled briefly at [LINK:salzburg] around 1524 but left amid the Peasants' War, gained citizenship at [LINK:strasbourg] in 1526, and reached his greatest prominence at [LINK:basle], where curing the printer Johann Froben won him an appointment as town physician and lecturer in 1527. Lecturing provocatively in German and publicly burning a copy of [LINK:avicenna]'s Canon on 23 June 1527, he alienated the faculty and fled in 1528.</p><p>The remainder of his life was renewed wandering through [LINK:nuremberg] (1529), St. Gallen (around 1531, where Vadian rebuffed him), and Augsburg (1536), before he returned to Salzburg and died there in 1541. His chemical medicine became the seedbed of iatrochemistry, influencing [LINK:jan-van-helmont] and the later Paracelsian physicians.</p>",
+  "sources": [
+    "Britannica, 'Paracelsus | Biography & Facts', britannica.com/biography/Paracelsus",
+    "Wikipedia, 'Paracelsus', en.wikipedia.org/wiki/Paracelsus",
+    "University of Zurich, 'The Life or Biography of Theophrastus Bombast of Hohenheim, called Paracelsus', paracelsus.uzh.ch/paracelsus-life.html",
+    "Encyclopedia.com, 'Paracelsus' (chemistry biographies)",
+    "Hektoen International, 'The wayward Paracelsus' (2021), hekint.org/2021/03/15/the-wayward-paracelsus/",
+    "Bohrium, 'Paracelsus and the Rise of Iatrochemistry'",
+    "1911 Encyclopaedia Britannica, 'Paracelsus' (Wikisource)",
+    "Wikipedia, 'Tria prima'"
+  ]
+}

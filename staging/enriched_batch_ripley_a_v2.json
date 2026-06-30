@@ -1,0 +1,115 @@
+{
+  "batch_name": "George Ripley Tradition",
+  "created": "2026-06-14T16:00:00Z",
+  "description": "Core figures and texts of the English alchemical tradition centered on George Ripley (ca. 1415-1490), based on Jennifer Rampling's Ripley Corpus research",
+  "persons": [
+    {
+      "slug": "george-ripley",
+      "name": "George Ripley",
+      "birth_year": 1415,
+      "death_year": 1490,
+      "era": "Medieval",
+      "role": "Alchemist",
+      "bio_html": "<p>George Ripley (ca. 1415–ca. 1490) was an English alchemist and one of the most influential figures in medieval and early modern English alchemy. His systematic corpus of alchemical writings, including <em>The Compound of Alchemies</em> and <em>The Twelve Gates</em>, became canonical texts in the English alchemical tradition. Jennifer Rampling's research establishes Ripley as the central figure in a distinct English alchemical intellectual tradition, characterized by vernacular writing, practical experimentation, and systematic pedagogy.</p><p>Ripley's significance lies in systematizing alchemy into teachable stages that combine theoretical philosophy with practical laboratory operations. His works were copied and taught for centuries, creating a continuous intellectual tradition. The Ripley corpus represents one of the most important vernacular alchemical heritages in early modern Europe.</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "literature": [
+        "Rampling, Jennifer M. 'Establishing the Canon: George Ripley and his Alchemical Sources.' Ambix, vol. 55, no. 3, 2008, pp. 289–313.",
+        "Rampling, Jennifer M. 'The Catalogue of the Ripley Corpus: Alchemical Writings Attributed to George Ripley.' Ambix, vol. 57, no. 2, 2010, pp. 140–187.",
+        "Rampling, Jennifer M. 'Transmission and Transmutation: George Ripley and the Place of English Alchemy in Early Modern Europe.' Ambix, vol. 59, no. 3, 2012, pp. 195–215."
+      ]
+    },
+    {
+      "slug": "elias-ashmole",
+      "name": "Elias Ashmole",
+      "birth_year": 1617,
+      "death_year": 1692,
+      "era": "Early Modern",
+      "role": "Scholar",
+      "bio_html": "<p>Elias Ashmole (1617–1692) was an English antiquarian, collector, and alchemist who played a crucial role in preserving and disseminating the Ripley corpus in manuscript form. His collections, now in the Bodleian Library at Oxford, contain numerous copies of Ripley texts representing the continuous transmission of English alchemical manuscripts from medieval through early modern periods.</p><p>Ashmole's work demonstrates the continuity of the Ripley tradition into the 17th century, showing how medieval and Renaissance teachings remained living practices for early modern scholars.</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "literature": [
+        "Rampling, Jennifer M. 'The Catalogue of the Ripley Corpus: Alchemical Writings Attributed to George Ripley.' Ambix, vol. 57, no. 2, 2010, pp. 140–187."
+      ]
+    }
+  ],
+  "texts": [
+    {
+      "slug": "compound-of-alchemies",
+      "title": "The Compound of Alchemies",
+      "author_slug": "george-ripley",
+      "date_label": "ca. 1470",
+      "era": "Medieval",
+      "language": "English",
+      "analysis": "<p><em>The Compound of Alchemies</em> is George Ripley's major systematic treatise presenting alchemy as a methodical science with clear stages and operations. The work became one of the most widely copied and influential English alchemical texts, circulating in both manuscript and print throughout the early modern period.</p><p>The Compound exemplifies Ripley's approach: a blend of Latin-learned philosophy with vernacular English accessibility, organized pedagogy, and practical laboratory concern. The text's emphasis on systematic stages—distillation, sublimation, putrefaction, fermentation, calcination—provided a pedagogical framework for teaching alchemy to English-speaking practitioners. Modern scholarship treats the Compound as foundational to understanding how alchemy functioned as a structured discipline with recognizable stages of mastery.</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "literature": [
+        "Rampling, Jennifer M. 'Establishing the Canon: George Ripley and his Alchemical Sources.' Ambix, vol. 55, no. 3, 2008, pp. 289–313.",
+        "Rampling, Jennifer M. 'The Catalogue of the Ripley Corpus: Alchemical Writings Attributed to George Ripley.' Ambix, vol. 57, no. 2, 2010, pp. 140–187."
+      ]
+    },
+    {
+      "slug": "the-twelve-gates",
+      "title": "The Twelve Gates",
+      "author_slug": "george-ripley",
+      "date_label": "ca. 1475",
+      "era": "Medieval",
+      "language": "English",
+      "analysis": "<p><em>The Twelve Gates</em> is George Ripley's presentation of the Great Work as twelve sequential operations. The numbered structure allowed practitioners to memorize and teach the sequence, making it a pedagogically effective tool. Each gate represents both a physical operation in the laboratory and a metaphorical progression toward philosophical understanding.</p><p>Surviving in numerous manuscript copies, The Twelve Gates became a standard reference for understanding alchemical operations in English-speaking circles and beyond. Different manuscript versions show evidence of copying, annotation, and adaptation, indicating the text's continuous engagement by practitioners across generations.</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "literature": [
+        "Rampling, Jennifer M. 'The Catalogue of the Ripley Corpus: Alchemical Writings Attributed to George Ripley.' Ambix, vol. 57, no. 2, 2010, pp. 140–187.",
+        "Rampling, Jennifer M. 'Transmission and Transmutation: George Ripley and the Place of English Alchemy in Early Modern Europe.' Ambix, vol. 59, no. 3, 2012, pp. 195–215."
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "slug": "ripley-tradition",
+      "term": "Ripley Tradition",
+      "type": "ANALYST_TERM",
+      "definition_long": "<p>The Ripley Tradition refers to the distinctive English alchemical intellectual tradition centered on George Ripley (ca. 1415–1490) and his systematic corpus of alchemical writings. Characterized by: (1) vernacular English composition, making alchemy accessible beyond Latin-learned circles; (2) systematic pedagogy, organizing the Great Work into clear stages; (3) integration of practical laboratory concern with philosophical theory; and (4) emphasis on textual transmission and manuscript tradition.</p><p>The Ripley tradition represents alchemy as a learned craft with structured training, mastery requirements, and practical applications. It persisted from the 15th century through the early modern period, shaping English approaches to chemistry and natural philosophy. The tradition is documented through manuscript evidence, including numerous copies of Ripley's works and collections preserved by scholars like Elias Ashmole.</p><p>Modern scholarship, particularly Jennifer Rampling's work, has identified the Ripley tradition as a coherent intellectual lineage with distinctive methodological and pedagogical characteristics, deserving study in its own right.</p>",
+      "actor_term": null,
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "related_concepts": ["vernacular-alchemy", "english-alchemy", "alchemical-pedagogy"],
+      "literature": [
+        "Rampling, Jennifer M. 'Establishing the Canon: George Ripley and his Alchemical Sources.' Ambix, vol. 55, no. 3, 2008, pp. 289–313.",
+        "Rampling, Jennifer M. 'The Catalogue of the Ripley Corpus: Alchemical Writings Attributed to George Ripley.' Ambix, vol. 57, no. 2, 2010, pp. 140–187.",
+        "Rampling, Jennifer M. 'Transmission and Transmutation: George Ripley and the Place of English Alchemy in Early Modern Europe.' Ambix, vol. 59, no. 3, 2012, pp. 195–215."
+      ]
+    }
+  ],
+  "timeline_events": [
+    {
+      "slug": "ripley-compound-composition",
+      "date_label": "ca. 1470",
+      "title": "Composition of Ripley's Compound of Alchemies",
+      "era": "Medieval",
+      "location_slug": "england",
+      "description": "George Ripley composes his major systematic treatise The Compound of Alchemies, presenting alchemy as a methodical science with clearly articulated stages. This work becomes foundational to the English alchemical tradition, establishing a pedagogical framework that will be copied and taught for centuries. Ripley demonstrates how systematic alchemical knowledge could be organized for teaching and learning.",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "MEDIUM"
+    },
+    {
+      "slug": "ripley-gates-composition",
+      "date_label": "ca. 1475",
+      "title": "Composition of Ripley's Twelve Gates",
+      "era": "Medieval",
+      "location_slug": "england",
+      "description": "George Ripley composes The Twelve Gates, presenting the alchemical magnum opus as twelve sequential operations. The systematic pedagogy exemplifies Ripley's approach to making alchemy teachable and learnable, with the twelve-gate structure serving as a mnemonic framework for practitioners.",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "MEDIUM"
+    }
+  ]
+}

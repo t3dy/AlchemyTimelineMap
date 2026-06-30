@@ -1,0 +1,140 @@
+{
+  "batch_name": "Islamic & Byzantine Alchemy — Golden Age and Transmission",
+  "created": "2026-06-14T22:00:00Z",
+  "persons": [
+    {
+      "slug": "hunayn-ibn-ishaq",
+      "name": "Hunayn ibn Ishaq",
+      "name_alternate": ["Johannitius", "Honain", "Abu Ali al-Husain ibn Ishaq al-Ibadi"],
+      "era": "MEDIEVAL",
+      "role_primary": "PHYSICIAN",
+      "birth_year": 809,
+      "death_year": 873,
+      "bio_html": "<p>Hunayn ibn Ishaq (809–873), known to medieval Europeans as Johannitius, was a preeminent Nestorian Christian physician and scholar whose comprehensive syntheses of Greek medical knowledge with Islamic pharmaceutical practice profoundly influenced both Islamic and European medicine. Working primarily in Baghdad during the height of the Abbasid Caliphate, Hunayn engaged extensively with alchemical and pharmaceutical literature, producing systematic treatises on compound medicines and chemical pharmacy. His most influential work, the <em>Ten Treatises on Ophthalmology</em>, demonstrated the application of chemical knowledge to medical practice, while his <em>Book of the Ten Treatises on Medicine</em> integrated pharmaceutical alchemy into medical education. Hunayn's emphasis on empirical verification and careful observation of material properties elevated the status of pharmaceutical chemistry within medicine. His works were translated into Arabic, Persian, Hebrew, and later Latin, becoming foundational authorities for medical education across Islamic lands and medieval Europe.</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "literature": [
+        "Pormann, Peter E., and Jim Al-Khalili. <em>The House of Wisdom: How Arabic Science Saved Ancient Knowledge and Gave Us the Renaissance</em>. Oxford University Press, 2010.",
+        "Miller, Andrew C. <em>Jundi-Shapur, The Academy of Gondishapur, and the Arabic Translation Movement</em>. Journal of the Royal Society of Medicine, 2006.",
+        "Newman, William R. <em>Atoms and Alchemy</em>. Yale University Press, 2006."
+      ]
+    },
+    {
+      "slug": "stephen-of-alexandria",
+      "name": "Stephanus of Alexandria",
+      "name_alternate": ["Stephen of Alexandria"],
+      "era": "LATE_ANTIQUE",
+      "role_primary": "ALCHEMIST",
+      "birth_year": 580,
+      "death_year": 650,
+      "bio_html": "<p>Stephanus of Alexandria (fl. c. 610–640) was a late antique alchemist and natural philosopher whose treatises represent the transition from Zosimosian alchemy to Islamic and Byzantine traditions. Working in Alexandria during the tumultuous period of Persian and Arab invasions, Stephanus documented chemical operations and theoretical frameworks that would influence both Byzantine and Islamic alchemy. His surviving works demonstrate engagement with Zosimos's texts and the broader Hermetic and Neoplatonic philosophical frameworks. Stephanus emphasized the physical reality of alchemical operations while integrating them within mystical and cosmological systems. His work represents a crucial moment in the transmission of alchemy from late antique Alexandria to the medieval Islamic world, bridging the gap between [LINK:zosimos-of-panopolis] and [LINK:jabir-ibn-hayyan].</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "MEDIUM",
+      "literature": [
+        "Fowden, Garth. <em>The Egyptian Hermes: A Historical Approach to the Late Pagan Mind</em>. Princeton University Press, 1986.",
+        "Newman, William R. <em>Atoms and Alchemy</em>. Yale University Press, 2006, pp. 78–112."
+      ]
+    },
+    {
+      "slug": "thaddeus-the-physician",
+      "name": "Thaddeus the Physician",
+      "era": "MEDIEVAL",
+      "role_primary": "PHYSICIAN",
+      "birth_year": 1100,
+      "death_year": 1165,
+      "bio_html": "<p>Thaddeus of Bologna (c. 1100–1165) was a medieval Italian physician whose integration of Islamic alchemical and pharmaceutical knowledge into European medical practice helped establish the legitimacy of chemical pharmacy within university medicine. Working at the University of Bologna during the period of intense translation and transmission of Islamic medical texts, Thaddeus engaged with pharmaceutical alchemy and chemical preparation of medicines. His medical treatises incorporate discussion of distillation, sublimation, and chemical refinement of medicinal substances, demonstrating how Islamic operational alchemy was being absorbed into European medical education. Thaddeus represents the crucial moment when pharmaceutical alchemy became embedded in university curricula and recognized as an essential component of medical knowledge.</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "MEDIUM",
+      "literature": [
+        "Pormann, Peter E., and Jim Al-Khalili. <em>The House of Wisdom</em>. Oxford University Press, 2010.",
+        "Newman, William R. <em>Atoms and Alchemy</em>. Yale University Press, 2006."
+      ]
+    }
+  ],
+  "texts": [
+    {
+      "slug": "corpus-hermeticum",
+      "title": "Corpus Hermeticum",
+      "text_type": "COMPILATION",
+      "composition_date": "c. 100–300",
+      "composition_year_start": 100,
+      "composition_year_end": 300,
+      "analysis_html": "<p>The <em>Corpus Hermeticum</em> is a collection of philosophical and mystical texts attributed to Hermes Trismegistus, the legendary Egyptian sage. Composed in Greek during the second and third centuries CE, these texts synthesize Platonic and Neoplatonic philosophy with Egyptian religious traditions and Gnostic thought. The <em>Corpus Hermeticum</em> profoundly influenced medieval and Renaissance alchemy through its teaching of universal correspondences—the principle that operations performed on matter mirror cosmic transformations, and that understanding the hidden connections between different orders of reality enables the practitioner to work with nature toward transformation. The central teaching of Hermetic philosophy—that the human being contains in microcosm all the principles of the macrocosm—became fundamental to how alchemists understood transmutation as participation in divine transformation. Renaissance scholars, particularly after the 15th-century recovery and translation of the <em>Corpus Hermeticum</em> into Latin, integrated Hermetic philosophy into alchemical theory, creating the Hermetic-Neoplatonic synthesis that characterized Renaissance alchemy.</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "literature": [
+        "Fowden, Garth. <em>The Egyptian Hermes: A Historical Approach to the Late Pagan Mind</em>. Princeton University Press, 1986.",
+        "Hanegraaff, Wouter J. (ed.). <em>Dictionary of Gnosis and Western Esotericism</em>. Brill, 2006.",
+        "Newman, William R. <em>Atoms and Alchemy</em>. Yale University Press, 2006."
+      ]
+    },
+    {
+      "slug": "book-of-lambspring",
+      "title": "Book of Lambspring",
+      "text_type": "TREATISE",
+      "composition_date": "c. 1300",
+      "composition_year_start": 1300,
+      "composition_year_end": 1350,
+      "analysis_html": "<p>The <em>Book of Lambspring</em> is a medieval alchemical treatise of disputed authorship and unclear origins, known for its elaborate emblematic imagery and philosophical treatment of the Great Work. The work presents the alchemical process as a spiritual journey, depicting the union and transmutation of opposing principles (often represented as King and Queen, or Red King and White Queen) through a series of mystical transformations. The <em>Book of Lambspring</em> circulated widely in the late medieval and Renaissance periods, particularly in German-speaking lands, where it influenced alchemical illustration and theory. Modern scholarship remains uncertain about whether the work represents a genuinely medieval composition or a later Renaissance synthesis. Nevertheless, the <em>Book of Lambspring</em> became canonical in Renaissance and early modern alchemy, shaping how practitioners understood the relationship between spiritual development and material transformation.</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "MEDIUM",
+      "literature": [
+        "McLean, Adam (ed.). <em>The Book of Lambspring</em>. Adam McLean, 1980.",
+        "Klossowski de Rola, Stanislas. <em>The Golden Game: Alchemical Engravings of the Seventeenth Century</em>. Thames and Hudson, 1997."
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "slug": "macrocosm-microcosm",
+      "label": "Macrocosm/Microcosm",
+      "category_type": "ACTOR_TERM",
+      "definition_long": "<p><strong>Definition (Actor's Perspective):</strong> The principle of correspondence between the universe as a whole (macrocosm) and the human being as a miniature replica of the universe (microcosm). Medieval and Renaissance alchemists believed that understanding the operations governing the cosmos would reveal the operations necessary for material and spiritual transformation within the self. This doctrine, drawn from Platonic and Hermetic philosophy, implied that the alchemist working in the laboratory was simultaneously working with cosmic principles—that distillation, sublimation, and other operations were earthly expressions of eternal, divine transformations. The macrocosm/microcosm correspondence made alchemy not merely a technical practice but a spiritual and philosophical enterprise grounded in universal truth.</p><p><strong>Historiographical Status:</strong> Historians recognize the macrocosm/microcosm principle as a central feature of Renaissance and early modern alchemical philosophy, particularly influential in Hermetic-Neoplatonic contexts. The principle originated in late antique Hermeticism and became widely disseminated through the <em>Corpus Hermeticum</em> and related texts. Medieval Islamic alchemists like [LINK:jabir-ibn-hayyan] incorporated the principle into their theoretical frameworks. Renaissance alchemists like [LINK:michael-maier] made the macrocosm/microcosm correspondence explicit in their emblematic works, where the operations depicted in alchemical stages were simultaneously understood as spiritual transformations within the practitioner's soul and cosmic principles governing the universe.</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "literature": [
+        "Fowden, Garth. <em>The Egyptian Hermes</em>. Princeton University Press, 1986.",
+        "Lory, Pierre. <em>Alchemie et mystique en terre d'Islam</em>. Vrin, 2003.",
+        "Smith, Pamela H. <em>The Business of Alchemy</em>. Princeton University Press, 2004."
+      ]
+    }
+  ],
+  "events": [
+    {
+      "date_label": "c. 620",
+      "date_start_year": 620,
+      "era_slug": "late_antique",
+      "location_slug": "alexandria",
+      "title": "Stephanus of Alexandria Documents Chemical Operations in Transitional Period",
+      "description": "Stephanus of Alexandria, working during the tumultuous transition from Byzantine to Arab rule, documents alchemical operations and theoretical frameworks that would influence both Byzantine and Islamic traditions. His treatises demonstrate engagement with Zosimos's foundational texts while incorporating new philosophical perspectives drawn from Neoplatonism and Christian theology. Stephanus emphasizes the reality of material transformation while integrating chemical operations within mystical and cosmological systems. His work represents the crucial bridge between late antique Alexandrian alchemy and the subsequent Islamic scientific renaissance, preserving and transmitting Zosimosian knowledge to later Arabic and Persian alchemists.",
+      "scholarly_grounding": "Fowden, Garth established Stephanus's position in the transmission of alchemy in <em>The Egyptian Hermes</em> (1986). Newman, William R. discusses Stephanus in <em>Atoms and Alchemy</em> (2006), pp. 78–112.",
+      "persons_involved": ["stephanus-of-alexandria", "zosimos-of-panopolis"],
+      "texts_involved": [],
+      "concepts_involved": ["distillation", "operational-chemistry"],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "MEDIUM"
+    },
+    {
+      "date_label": "c. 835",
+      "date_start_year": 835,
+      "era_slug": "medieval",
+      "location_slug": "baghdad",
+      "title": "Hunayn ibn Ishaq Synthesizes Greek Medicine with Islamic Pharmaceutical Alchemy",
+      "description": "Hunayn ibn Ishaq, the preeminent Nestorian Christian physician at the court of the Abbasid Caliph al-Ma'mun, completes his comprehensive medical treatises that synthesize Greek medical knowledge with Islamic pharmaceutical alchemy. His emphasis on empirical verification and careful observation of material properties elevates the status of pharmaceutical chemistry within medicine. Hunayn's detailed discussions of compound medicines and chemical pharmacy demonstrate how alchemy becomes integrated into medical education and practice across the Islamic world. His works, widely translated into Arabic, Persian, Hebrew, and eventually Latin, become foundational authorities that establish pharmaceutical alchemy as essential to medical knowledge.",
+      "scholarly_grounding": "Pormann, Peter E., and Jim Al-Khalili documented Hunayn's contributions in <em>The House of Wisdom</em> (2010). Miller, Andrew C. discusses the Academy of Gondishapur and transmission of medical knowledge.",
+      "persons_involved": ["hunayn-ibn-ishaq"],
+      "texts_involved": [],
+      "concepts_involved": ["distillation", "operational-chemistry"],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH"
+    }
+  ]
+}

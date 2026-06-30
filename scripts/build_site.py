@@ -298,10 +298,54 @@ def generate_persons_pages(entity_map):
 
     cursor.execute("SELECT slug, name, role_primary, era, bio_html FROM persons")
     persons = cursor.fetchall()
+    name_map = {p["slug"]: p["name"] for p in persons}
+
+    def _esc(s):
+        return (s or "").replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+
+    def _has(table):
+        return cursor.execute("SELECT 1 FROM sqlite_master WHERE type='table' AND name=?", (table,)).fetchone() is not None
+    has_itin, has_rel = _has("person_itinerary"), _has("person_relationships")
+
+    def itinerary_section(pslug):
+        if not has_itin:
+            return ""
+        rows = cursor.execute("SELECT place_name,year_start,year_end,what,evidence FROM person_itinerary WHERE person_slug=? ORDER BY seq", (pslug,)).fetchall()
+        if not rows:
+            return ""
+        lis = []
+        for r in rows:
+            ys, ye = r["year_start"], r["year_end"]
+            yr = f"{ys}–{ye}" if ye and ye != ys else (str(ys) if ys is not None else "")
+            lis.append(f"<li><strong>{_esc(r['place_name'])}</strong> <span class=\"itin-year\">{yr}</span> "
+                       f"<span class=\"evidence evidence-{r['evidence']}\">{r['evidence']}</span><br>"
+                       f"<span class=\"itin-what\">{_esc(r['what'])}</span></li>")
+        return ("<section class=\"itinerary\"><h3>Itinerary</h3>"
+                "<ol class=\"itinerary-list\">" + "".join(lis) + "</ol>"
+                "<p class=\"draft-note\"><em>Reconstructed from sources; DRAFT. "
+                "Dashed = inferred or approximate evidence.</em></p></section>")
+
+    def connections_section(pslug):
+        if not has_rel:
+            return ""
+        rows = cursor.execute("SELECT target_slug,target_label,rel_type,evidence,note FROM person_relationships WHERE source_slug=? ORDER BY rel_type", (pslug,)).fetchall()
+        if not rows:
+            return ""
+        lis = []
+        for r in rows:
+            tgt = r["target_slug"]
+            disp = name_map.get(tgt) or r["target_label"] or (tgt or "").replace("-", " ").title()
+            link = f"<a href=\"{tgt}.html\">{_esc(disp)}</a>" if tgt in name_map else _esc(disp)
+            lis.append(f"<li><span class=\"rel-type\">{r['rel_type'].replace('-', ' ')}</span> {link} "
+                       f"<span class=\"evidence evidence-{r['evidence']}\">{r['evidence']}</span></li>")
+        return ("<section class=\"connections\"><h3>Connections</h3>"
+                "<ul class=\"connections-list\">" + "".join(lis) + "</ul></section>")
 
     for person in persons:
         slug = person["slug"]
         bio_html = convert_links_to_html(person["bio_html"], entity_map)
+        itinerary_html = itinerary_section(slug)
+        connections_html = connections_section(slug)
         html = f"""<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -331,6 +375,8 @@ def generate_persons_pages(entity_map):
                 {bio_html}
             </div>
         </article>
+        {itinerary_html}
+        {connections_html}
 
         <div id="related-concepts"></div>
         <div id="related-texts"></div>

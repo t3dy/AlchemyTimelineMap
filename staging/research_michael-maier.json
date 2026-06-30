@@ -1,0 +1,262 @@
+{
+  "slug": "michael-maier",
+  "itinerary": [
+    {
+      "place": "Rendsburg",
+      "lat": 54.30,
+      "lon": 9.66,
+      "year_start": 1568,
+      "year_end": 1587,
+      "dwell": 19,
+      "what": "Born ca. 1568 in Rendsburg, Holstein, son of an embroidery specialist (Peter Maier); spent childhood and early youth in Holstein.",
+      "evidence": "attested",
+      "leg_evidence": "n/a (birthplace; origin point)",
+      "source": "Encyclopedia.com (DSB-derived); Wikipedia 'Michael Maier'; H. Tilton biographical essay (Furnace and Fugue)",
+      "confidence": "high (birth year given as ca. 1568; town secure)"
+    },
+    {
+      "place": "Rostock",
+      "lat": 54.09,
+      "lon": 12.13,
+      "year_start": 1587,
+      "year_end": 1591,
+      "dwell": 4,
+      "what": "Studied philosophy and medicine at the University of Rostock.",
+      "evidence": "attested",
+      "leg_evidence": "Matriculation/study records cited in DSB and standard biographies (1587-1591).",
+      "source": "Wikipedia 'Michael Maier'; Encyclopedia.com (DSB)",
+      "confidence": "high"
+    },
+    {
+      "place": "Frankfurt an der Oder",
+      "lat": 52.34,
+      "lon": 14.55,
+      "year_start": 1592,
+      "year_end": 1592,
+      "dwell": 1,
+      "what": "Earned M.A. at the University of Frankfurt (Oder); named poeta laureatus caesareus.",
+      "evidence": "attested",
+      "leg_evidence": "Degree record (M.A. 1592) noted in DSB and Wikipedia.",
+      "source": "Encyclopedia.com (DSB); Wikipedia 'Michael Maier'",
+      "confidence": "high"
+    },
+    {
+      "place": "Padua",
+      "lat": 45.41,
+      "lon": 11.88,
+      "year_start": 1595,
+      "year_end": 1596,
+      "dwell": 1,
+      "what": "Studied medicine at Padua (and per DSB enrolled at Bologna); reportedly left Padua abruptly after a fight.",
+      "evidence": "attested",
+      "leg_evidence": "Wikipedia gives Padua 1595-1596; DSB names Bologna 1596. Italian study phase attested; specific city slightly contested between sources.",
+      "source": "Wikipedia 'Michael Maier'; Encyclopedia.com (DSB, names Bologna)",
+      "confidence": "medium (Padua vs. Bologna differs between sources; Italian sojourn certain)"
+    },
+    {
+      "place": "Basel",
+      "lat": 47.56,
+      "lon": 7.59,
+      "year_start": 1596,
+      "year_end": 1596,
+      "dwell": 1,
+      "what": "Received doctorate in medicine (M.D.) at the University of Basel, October 1596.",
+      "evidence": "attested",
+      "leg_evidence": "Doctoral record dated October 1596 (DSB and Wikipedia).",
+      "source": "Wikipedia 'Michael Maier'; Encyclopedia.com (DSB)",
+      "confidence": "high"
+    },
+    {
+      "place": "Prague",
+      "lat": 50.08,
+      "lon": 14.44,
+      "year_start": 1608,
+      "year_end": 1611,
+      "dwell": 3,
+      "what": "Travelled to Prague (1608); on 19 September 1609 formally entered service of Emperor Rudolf II as physician and imperial counsellor; ennobled (count palatine / comes palatinus) days later. Left Prague in April 1611 as Rudolf's position collapsed.",
+      "evidence": "attested",
+      "leg_evidence": "Court service dates given precisely (19 Sept 1609 entry; April 1611 departure) in Wikipedia, corroborated by DSB; arrival 1608.",
+      "source": "Wikipedia 'Michael Maier'; Encyclopedia.com (DSB); H. Tilton (Furnace and Fugue)",
+      "confidence": "high (court dates secure; DSB hedges arrival as 'before 1612')"
+    },
+    {
+      "place": "London",
+      "lat": 51.51,
+      "lon": -0.13,
+      "year_start": 1611,
+      "year_end": 1616,
+      "dwell": 5,
+      "what": "Resident in England (London and elsewhere) ca. 1611/1612-1616. Attended Prince Henry's funeral (6 Nov 1612); sought English patrons and physicians; met Robert Fludd, the physician William Paddy, Sir Thomas Smith, and Francis Anthony (re: aurum potabile / potable gold). Dedicated Arcana arcanissima (1613/14) to English figures.",
+      "evidence": "attested",
+      "leg_evidence": "DSB: 'During the period 1612-1614 Maier was in England'; Wikipedia extends residence to Sept 1616 with datable events (Henry's funeral 1612). Departure to Frankfurt Sept 1616.",
+      "source": "Encyclopedia.com (DSB); Wikipedia 'Michael Maier'; A. E. Waite, Real History of the Rosicrucians (re: Fludd contact)",
+      "confidence": "medium-high (presence certain; exact span 1611/12-1616 varies by source)"
+    },
+    {
+      "place": "Frankfurt am Main",
+      "lat": 50.11,
+      "lon": 8.68,
+      "year_start": 1616,
+      "year_end": 1619,
+      "dwell": 3,
+      "what": "Returned to Germany (Sept 1616), settling at Frankfurt am Main, the hub of the book fair and of the de Bry publishing enterprise. Principal phase of publication: Atalanta fugiens, Symbola aureae mensae (1617), Themis aurea (1618). Around 1619 became physician to Landgrave Moritz of Hessen-Kassel.",
+      "evidence": "attested",
+      "leg_evidence": "Wikipedia: returned Sept 1616, settled Frankfurt; Tilton notes he tried to sell books/medicines at the Frankfurt Fair. Publications 1617-1618 anchor the period.",
+      "source": "Wikipedia 'Michael Maier'; H. Tilton (Furnace and Fugue); Encyclopedia.com (DSB)",
+      "confidence": "high"
+    },
+    {
+      "place": "Oppenheim",
+      "lat": 49.85,
+      "lon": 8.36,
+      "year_start": 1617,
+      "year_end": 1617,
+      "dwell": 1,
+      "what": "Place of imprint of Atalanta fugiens (1617), printed at the Oppenheim press associated with Johann Theodor de Bry. (Maier was based at nearby Frankfurt; Oppenheim is the bibliographic place of publication, not necessarily continuous residence.)",
+      "evidence": "attested",
+      "leg_evidence": "DSB and Tilton give imprint as Oppenheim, de Bry. Distinct from residence; included to mark publication geography.",
+      "source": "Encyclopedia.com (DSB); H. Tilton (Furnace and Fugue)",
+      "confidence": "high (imprint); residence at Oppenheim itself uncertain"
+    },
+    {
+      "place": "Magdeburg",
+      "lat": 52.13,
+      "lon": 11.63,
+      "year_start": 1619,
+      "year_end": 1622,
+      "dwell": 3,
+      "what": "Relocated to Magdeburg (by 1619/1620) to practise medicine during the early Thirty Years' War; served as physician (sources name Duke Christian Wilhelm of Brandenburg). Died there in 1622, aged ca. 54.",
+      "evidence": "attested",
+      "leg_evidence": "DSB: moved to Magdeburg 1618 as physician to Christian Wilhelm; Wikipedia gives 1620 move and 1622 death. Death place and year secure; arrival year varies 1618-1620.",
+      "source": "Encyclopedia.com (DSB); Wikipedia 'Michael Maier'; H. Tilton (Furnace and Fugue)",
+      "confidence": "high (death 1622 Magdeburg); medium on arrival year"
+    }
+  ],
+  "relationships": [
+    {
+      "target_label": "Rudolf II, Holy Roman Emperor",
+      "type": "patron-of",
+      "direction": true,
+      "weight": 5,
+      "evidence": "attested",
+      "survives": false,
+      "note": "Rudolf II was patron; Maier entered his service as physician and imperial counsellor on 19 Sept 1609 and was ennobled (comes palatinus). Patronage ended with Rudolf's political collapse and Maier's departure April 1611. Direction patron->Maier.",
+      "source": "Wikipedia 'Michael Maier'; Encyclopedia.com (DSB)",
+      "confidence": "high"
+    },
+    {
+      "target": "robert-fludd",
+      "target_label": "Robert Fludd",
+      "type": "collaborated",
+      "direction": false,
+      "weight": 2,
+      "evidence": "inferred",
+      "survives": true,
+      "note": "Maier and Fludd both moved in the English Rosicrucian milieu and shared the same publisher (Johann Theodor de Bry) as fellow Rosicrucian apologists. Older scholarship (Waite, Yates) assumed personal friendship from Maier's London visit; recent scholarship questions any close personal tie, noting little mutual acknowledgement. Best characterised as parallel association rather than documented collaboration. UNCERTAIN.",
+      "source": "A. E. Waite, Real History of the Rosicrucians (older view); recent Fludd/Maier scholarship cited in Wikipedia (skeptical revision)",
+      "confidence": "low-medium (association certain; closeness disputed)"
+    },
+    {
+      "target": "elias-ashmole",
+      "target_label": "Elias Ashmole",
+      "type": "influenced",
+      "direction": true,
+      "weight": 2,
+      "evidence": "attested",
+      "survives": true,
+      "note": "Posthumous influence: the 1656 English translation of Maier's Themis aurea was dedicated to Elias Ashmole, who collected and promoted Maier's Rosicrucian writings in England. Direction Maier->Ashmole (reception).",
+      "source": "Wikipedia 'Michael Maier'",
+      "confidence": "medium-high"
+    },
+    {
+      "target": "isaac-newton",
+      "target_label": "Isaac Newton",
+      "type": "influenced",
+      "direction": true,
+      "weight": 2,
+      "evidence": "attested",
+      "survives": true,
+      "note": "Posthumous influence: Newton studied and excerpted Maier's alchemical works (Symbola aureae mensae, Atalanta fugiens) among his alchemical manuscripts. Direction Maier->Newton (reception). DB person 'isaac-newton' confirmed present.",
+      "source": "Wikipedia 'Michael Maier'",
+      "confidence": "medium-high"
+    },
+    {
+      "target_label": "Francis Anthony",
+      "type": "collaborated",
+      "direction": false,
+      "weight": 2,
+      "evidence": "attested",
+      "survives": false,
+      "note": "In England Maier associated with the physician Francis Anthony in defence of aurum potabile (potable gold) as a medicine; described as friend/associate.",
+      "source": "Wikipedia 'Michael Maier'; H. Tilton (Furnace and Fugue)",
+      "confidence": "medium"
+    },
+    {
+      "target_label": "William Paddy",
+      "type": "dedicated-to",
+      "direction": true,
+      "weight": 1,
+      "evidence": "attested",
+      "survives": true,
+      "note": "Paddy, head of the Royal College of Physicians, was an English contact and dedicatee connected to Maier's Arcana arcanissima (ca. 1613/14).",
+      "source": "Wikipedia 'Michael Maier'",
+      "confidence": "medium"
+    },
+    {
+      "target_label": "Landgrave Moritz of Hessen-Kassel",
+      "type": "patron-of",
+      "direction": true,
+      "weight": 3,
+      "evidence": "attested",
+      "survives": false,
+      "note": "Maier sought and obtained the patronage of Moritz 'the Learned' of Hessen-Kassel (ca. 1619), a noted patron of alchemy. Direction patron->Maier.",
+      "source": "Wikipedia 'Michael Maier'; H. Tilton (Furnace and Fugue)",
+      "confidence": "medium-high"
+    },
+    {
+      "target_label": "Johann Theodor de Bry",
+      "type": "collaborated",
+      "direction": false,
+      "weight": 4,
+      "evidence": "attested",
+      "survives": true,
+      "note": "Johann Theodor de Bry was Maier's principal publisher/engraver (Oppenheim/Frankfurt), producing the illustrated Atalanta fugiens (1617) and other works; central professional collaboration enabling Maier's emblematic alchemy.",
+      "source": "Encyclopedia.com (DSB); H. Tilton (Furnace and Fugue)",
+      "confidence": "high"
+    }
+  ],
+  "concepts": [
+    {
+      "slug": "emblematic-alchemy",
+      "confidence": "high",
+      "source": "Atalanta fugiens (1617) is the paradigmatic emblem book of alchemy; Tilton (Furnace and Fugue)"
+    },
+    {
+      "slug": "hermeticism",
+      "confidence": "high",
+      "source": "Maier's prisca-sapientia framing and Arcana arcanissima; standard scholarship (DSB; Tilton)"
+    },
+    {
+      "slug": "prisca-theologia",
+      "confidence": "medium-high",
+      "source": "Maier traced alchemy to ancient Egyptian/mythological wisdom (Arcana arcanissima), an ancient-wisdom genealogy; DSB"
+    },
+    {
+      "slug": "chrysopoeia",
+      "confidence": "medium-high",
+      "source": "Maier's writings concern the making of gold / the philosophers' stone tradition; DSB"
+    },
+    {
+      "slug": "philosophers-stone",
+      "confidence": "medium",
+      "source": "Central subject of Symbola aureae mensae and Atalanta fugiens; DSB"
+    }
+  ],
+  "travel_note_html": "<p>Michael Maier (ca. 1568-1622) of Rendsburg in Holstein trained as a physician at Rostock, Frankfurt an der Oder, the Italian schools (Padua/Bologna), and Basel, where he took his M.D. in 1596. His career turned on a single court appointment: on 19 September 1609 he entered the service of Emperor Rudolf II at <strong>[LINK:prague]</strong> as physician and imperial counsellor, and was ennobled days later. When Rudolf's authority collapsed, Maier left Prague in April 1611.</p><p>He then spent roughly 1611/12 to 1616 in England, chiefly around <strong>[LINK:london]</strong>, where he cultivated English physicians and patrons and entered the Rosicrucian milieu. He is traditionally said to have brought the Rosicrucian manifestos to the attention of <strong>[LINK:robert-fludd]</strong>; this contact is genuine in the sense that both men shared the same publisher and apologetic project, but recent scholarship cautions that the supposed close friendship is poorly attested and should be treated as <em>uncertain</em>.</p><p>Returning to Germany in 1616, Maier settled at <strong>[LINK:frankfurt]</strong>, the hub of the de Bry publishing house, where his emblematic masterpiece <em>Atalanta fugiens</em> appeared in 1617 (imprint Oppenheim, Johann Theodor de Bry). He later served Landgrave Moritz of Hessen-Kassel, then removed to Magdeburg amid the early Thirty Years' War, dying there in 1622. His works were read posthumously by <strong>[LINK:elias-ashmole]</strong> and <strong>[LINK:isaac-newton]</strong>.</p>",
+  "sources": [
+    "Wikipedia, 'Michael Maier' (https://en.wikipedia.org/wiki/Michael_Maier), accessed 2026-06-29",
+    "Encyclopedia.com, 'Michael Maier' (Dictionary of Scientific Biography-derived) (https://www.encyclopedia.com/people/philosophy-and-religion/other-religious-beliefs-biographies/michael-maier), accessed 2026-06-29",
+    "Hereward Tilton, biographical essay 'Michael Maier', Furnace and Fugue digital edition (https://furnaceandfugue.org/front-matter/getacquainted/maier/), accessed 2026-06-29",
+    "A. E. Waite, The Real History of the Rosicrucians, ch. X 'Rosicrucian Apologists: Michael Maier' (sacred-texts.com) — used for the Fludd-contact tradition and noted as superseded on the friendship claim, accessed 2026-06-29"
+  ]
+}

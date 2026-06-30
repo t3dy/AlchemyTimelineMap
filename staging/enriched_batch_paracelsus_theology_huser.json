@@ -1,0 +1,101 @@
+{
+  "batch_name": "Paracelsus as Radical Theologian; Huser Edition; Trimarchi on Meteorologica",
+  "created": "2026-06-29",
+  "description": "Events from Urs Leo Gantenbein, 'Cross and Crucible: Alchemy in the Theology of Paracelsus' (Ambix, 2020): Paracelsus's first theological writings at Salzburg (1524), his synthesis in the Astronomia Magna (1537/38), and Johannes Huser's first complete edition of his works (1589-1591). Also from Craig Martin, 'Alchemy and the Renaissance Commentary Tradition on Meteorologica IV' (Ambix, 2004): Girolamo Trimarchi's Disputationes (Genoa, 1637) defending alchemy within a Jesuit-influenced Aristotelian framework.",
+  "persons": [],
+  "texts": [
+    {
+      "slug": "astronomia-magna-paracelsus",
+      "title": "Astronomia Magna (Paracelsus)",
+      "format": "PRIMARY_SOURCE",
+      "date_label": "1537–1538 CE",
+      "analysis_html": "<p><em>Astronomia Magna</em>, also known as <em>Philosophia Sagax</em>, is a major philosophical synthesis composed by Paracelsus (Theophrastus Bombastus von Hohenheim, 1493–1541) in 1537–1538, described by Urs Leo Gantenbein, in <em>Ambix</em> (2020), as the work in which Paracelsus 'finally summed up his most important natural-philosophical, theological and magical ideas, leading to a tremendous synthesis that could have served as a scientific model for the sixteenth century.' The work integrates Paracelsus's characteristic four pillars of medicine (philosophia, astronomia, alchimia, virtus) with his distinctive theology of the Radical Reformation, his doctrine of the two lights (the light of nature and the light of the Holy Spirit), and his theories of the macrocosm-microcosm relationship and the <em>tria prima</em> (mercury, sulphur, salt as the three principles of all matter). Gantenbein identifies the <em>Astronomia Magna</em> as incorporating Paracelsus's most explicit engagement with the relationship between his alchemical cosmology and his eschatological theology, particularly his doctrine of the New Man or New Adam who achieves a second birth through the Gospel's grace — a doctrine that parallels the alchemical concept of the <em>ultima materia</em>, the purified end-state of any prima materia. The work was first published in Frankfurt am Main in 1571 by Michael Toxites (Schütz), based on one of Paracelsus's own manuscripts, and was later reprinted in Johannes Huser's collected edition (Basel, 1589–1591).</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH"
+    },
+    {
+      "slug": "huser-paracelsus-edition",
+      "title": "Bücher und Schrifften des Paracelsus (Huser Edition)",
+      "format": "COMPILATION",
+      "date_label": "1589–1591 CE",
+      "analysis_html": "<p>The <em>Bücher und Schrifften des Paracelsus</em> (Books and Writings of Paracelsus), edited by Johannes Huser (ca. 1545–1600/1601), published in 10 volumes at Basel by Conrad Waldkirch (1589–1591), with a surgical supplement edited by Huser in Strasbourg by Lazarus Zetzner (1605), constitutes the most important early collected edition of Paracelsus's medical and natural-philosophical writings and set the textual canon for more than three centuries. Urs Leo Gantenbein, in <em>Ambix</em> (2020), identifies the Huser edition as the foundational text event in Paracelsus scholarship: before the Huser edition, Paracelsus's works had circulated in scattered and frequently corrupted early printings; Huser's ten-volume collection, based on manuscript consultation and editorial judgment, gave readers their first systematically organized access to the Paracelsian corpus. The edition was sufficiently authoritative that readers encountering it 'would hardly have expected Paracelsus to have left behind an at least equally extensive theological oeuvre,' since Huser deliberately excluded the theological writings as too controversial in the post-Reformation era of hardening confessional boundaries. This selective editorial decision meant that Paracelsus's theology remained largely unknown until partial editions in the seventeenth century (beginning with Johannes Staricius in 1618) and systematic modern editions in the twentieth century (Karl Sudhoff's critical edition, 1922–1933, followed by Gantenbein's New Paracelsus Edition of the theological works, 2008).</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH"
+    }
+  ],
+  "concepts": [],
+  "events": [
+    {
+      "title": "Paracelsus Writes First Dated Theological Treatises in Salzburg",
+      "date_label": "1524 CE",
+      "date_sort": 1524,
+      "location_slug": "salzburg",
+      "description": "In 1524, while residing in Salzburg, Paracelsus (Theophrastus Bombastus von Hohenheim, 1493–1541) composed his earliest dated works — theological treatises dealing with the then-urgent questions of church reformation. Urs Leo Gantenbein, in <em>Ambix</em> (2020), draws on this fact to make a crucial historiographic intervention: 'Historians of science have deliberately overlooked the fact that the first dated works of Paracelsus were written in 1524, when he was in Salzburg, and do not concern medical studies, but theological treatises dealing with the then highly topical questions of church reformation.' Paracelsus, Gantenbein argues (following Andrew Weeks's earlier research), appears to have begun engaging with theological questions around 1520, when Martin Luther's reformatory pamphlets had spread throughout the German-speaking world. Paracelsus would only emerge as a medical reformer in Basel three years later (1527). Based on personal testimony in his own writings, Gantenbein concludes that 'Paracelsus was only inspired to reform medicine by the previous church reform' — the theological came first. In his theological writing, Paracelsus combined the major issues of the Radical Reformation (social justice, the requirements of true Christian life, and a special Eucharistic doctrine) with his developing natural-philosophical framework of the <em>tria prima</em> (mercury, sulphur, salt) and the four pillars of medicine. The 1524 Salzburg theological writings remained unpublished until the modern era; every early printer hesitated because 'in the age of hardening religious positions they contained explosive heretical doctrines that would have led to serious problems for any denomination.'",
+      "scholarly_grounding": "Urs Leo Gantenbein established that Paracelsus's first dated works were theological treatises written at Salzburg in 1524 — predating his medical reform career — in 'Cross and Crucible: Alchemy in the Theology of Paracelsus' in Ambix vol. 67 no. 1 (2020) pp.1-12.",
+      "persons_involved": ["paracelsus"],
+      "texts_involved": [],
+      "concepts_involved": ["paracelsian-alchemy", "tria-prima", "spagyrics"],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH"
+    },
+    {
+      "title": "Paracelsus Composes the Astronomia Magna",
+      "date_label": "1537–1538 CE",
+      "date_sort": 1537,
+      "location_slug": "strasbourg",
+      "description": "Between 1537 and 1538, Paracelsus (Theophrastus Bombastus von Hohenheim, 1493–1541) composed his <em>Astronomia Magna</em> (also known as the <em>Philosophia Sagax</em>), described by Urs Leo Gantenbein in <em>Ambix</em> (2020) as the work in which Paracelsus 'finally summed up his most important natural-philosophical, theological and magical ideas, leading to a tremendous synthesis.' The <em>Astronomia Magna</em> represents the culmination of Paracelsus's theoretical work: it integrates the four pillars of medicine (philosophia, astronomia, alchimia, virtus) with his two-lights theology (the light of nature and the light of the Holy Spirit), his distinctive doctrine of the Radical Reformation, and his cosmology of the <em>tria prima</em> (mercury, sulphur, salt) as the three principles of all things. In the work, Paracelsus synthesizes his theory that 'all things are procured as prima materia, whereupon Vulcanus [i.e. fire] will proceed, making it into ultima materia through the art of alchemy,' with an eschatological theology in which the alchemical purification process serves as an analogy (not a literal model) for the spiritual renovation of humans through the Gospel. Gantenbein notes that Paracelsus draws a sharp line between metallic alchemy (chrysopoeia) and spiritual transformation: only Christ's grace can produce the New Man or New Adam who achieves immortal life. The <em>Astronomia Magna</em> was first published in Frankfurt in 1571 by Michael Toxites and later included in Johannes Huser's Basel collected edition (1589–1591). Dane Thor Daniel's 2003 doctoral dissertation demonstrated the work's importance for understanding Paracelsus's synthetic vision of Bible-based science and the religious roots of the Scientific Revolution.",
+      "scholarly_grounding": "Urs Leo Gantenbein analyzed the Astronomia Magna as Paracelsus's synthetic summation of natural-philosophical, theological, and magical ideas, and its use of alchemical imagery in his theology, in 'Cross and Crucible: Alchemy in the Theology of Paracelsus' in Ambix vol. 67 no. 1 (2020) pp.1-12.",
+      "persons_involved": ["paracelsus"],
+      "texts_involved": ["astronomia-magna-paracelsus"],
+      "concepts_involved": ["paracelsian-alchemy", "tria-prima", "macrocosm-microcosm", "magia-naturalis"],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH"
+    },
+    {
+      "title": "Johannes Huser Publishes First Complete Edition of Paracelsus's Works",
+      "date_label": "1589–1591 CE",
+      "date_sort": 1589,
+      "location_slug": "basle",
+      "description": "Between 1589 and 1591, Johannes Huser (ca. 1545–1600/1601), a physician and editor, published the <em>Bücher und Schrifften des Paracelsus</em> in ten volumes at Basel by the printer Conrad Waldkirch — the first comprehensive collected edition of Paracelsus's medical and natural-philosophical writings and the edition that set the textual canon for three centuries of Paracelsus scholarship. Urs Leo Gantenbein, in <em>Ambix</em> (2020), identifies the Huser edition as the foundational text event for all subsequent Paracelsus reception: before it, Paracelsus's works had circulated in scattered, frequently corrupted printings; after it, scholars had access to a systematically organized corpus. The surgical writings were separately edited by Huser and published in Strasbourg by Lazarus Zetzner (1605). Crucially, Huser deliberately excluded Paracelsus's extensive theological writings from the edition, because 'in the age of hardening religious positions they contained explosive heretical doctrines that would have led to serious problems for any denomination.' This editorial decision ensured that for more than two centuries, Paracelsus was known primarily as a medical and natural-philosophical reformer, with his radical theological dimension — his Eucharistic doctrine, his engagement with the Radical Reformation, and his eschatological framework — remaining largely invisible to mainstream readers. The first selection of Paracelsian theological works only appeared in print with Johannes Staricius's 1618 edition of the <em>Philosophia De Limbo Aeterno</em>. The Huser edition was the text known to alchemists, physicians, and natural philosophers from Francis Bacon to Robert Boyle, and was cited throughout the early modern period as the authoritative Paracelsus.",
+      "scholarly_grounding": "Urs Leo Gantenbein identified Johannes Huser's 1589-1591 Basel edition as the foundational text event in Paracelsus reception and analyzed its selective exclusion of the theological writings, in 'Cross and Crucible: Alchemy in the Theology of Paracelsus' in Ambix vol. 67 no. 1 (2020) pp.1-12.",
+      "persons_involved": ["paracelsus"],
+      "texts_involved": ["huser-paracelsus-edition"],
+      "concepts_involved": ["paracelsian-alchemy", "spagyrics", "tria-prima"],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH"
+    },
+    {
+      "title": "Staricius Publishes First Paracelsian Theological Work in Print",
+      "date_label": "1618 CE",
+      "date_sort": 1618,
+      "location_slug": "wittenberg",
+      "description": "In 1618, the poet, composer, and Rosicrucian sympathizer Johannes Staricius (fl. ca. 1580–after 1623) published the first selection of Paracelsus's theological writings in print: the <em>Philosophia De Limbo Aeterno</em> (Philosophy of the Eternal Limbus), part of Paracelsus's cycle of writings on the Last Supper, at Magdeburg. Urs Leo Gantenbein, in <em>Ambix</em> (2020), identifies this publication as the first moment when Paracelsus's theological dimension became accessible in print: in the decades since Johannes Huser's collected medical edition (1589–1591), Paracelsus's extensive theological oeuvre had remained unpublished, since every printer feared the 'explosive heretical doctrines' it contained. Staricius's 1618 edition broke this silence. The <em>Philosophia De Limbo Aeterno</em> is a central text for understanding Paracelsus's doctrine of the Last Supper and his theory of the New Adam: it describes the mortal human 'descended from Adam' as needing to be brought to a 'new birth through baptism with the Holy Spirit,' in language that closely parallels the alchemical concept of the transformation of prima materia into ultima materia — although Paracelsus is careful to distinguish the two processes and explicitly states that alchemical renovation does not apply to humans, who cannot be 'reduced to the three principles and recomposed' as metals can. Gantenbein notes that Staricius was a Rosicrucian follower, linking the 1618 publication to the period of the Rosicrucian manifestoes (Fama Fraternitatis 1614; Confessio Fraternitatis 1615) and their enthusiasm for Paracelsian natural philosophy. The Paracelsian theological writings would not receive a complete critical edition until Gantenbein's own New Paracelsus Edition, begun in 2008.",
+      "scholarly_grounding": "Urs Leo Gantenbein identified Staricius's 1618 Magdeburg publication of the Philosophia De Limbo Aeterno as the first printing of Paracelsian theological writings, in 'Cross and Crucible: Alchemy in the Theology of Paracelsus' in Ambix vol. 67 no. 1 (2020) pp.1-12.",
+      "persons_involved": ["paracelsus"],
+      "texts_involved": [],
+      "concepts_involved": ["paracelsian-alchemy", "tria-prima", "hermeticism"],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH"
+    },
+    {
+      "title": "Trimarchi Publishes Disputationes Defending Alchemy within Aristotelian Natural Philosophy",
+      "date_label": "1637 CE",
+      "date_sort": 1637,
+      "location_slug": "padua",
+      "description": "In 1637, the Franciscan Girolamo Trimarchi published his <em>Disputationes in libros Aristotelis Meteororum</em> at Genoa (Calenzanus & Farronus), devoting the final section primarily to a defence of alchemy — or what he called <em>ars chemica</em> or <em>archimia</em> — within an Aristotelian natural-philosophical framework. Craig Martin, in <em>Ambix</em> (2004), identifies Trimarchi's work as following the organizational model of the University of Coimbra's Jesuit commentary on Aristotle, but supplementing it with a genuinely substantive discussion of the status of alchemy in scholarly writings. Starting from the Aristotelian axiom that 'art imitates nature,' Trimarchi affirms the possibility of the artificial creation and transmutation of metals; he goes further than most commentators in claiming that the powers of craft are not limited to producing gold, but extend to generating animate beings such as bees, crabs, and scorpions. Trimarchi's 1637 work represents a striking defense of alchemy within the Jesuit-influenced Aristotelian tradition at a moment when many Paduan Aristotelians — including Cesare Cremonini (1550–1631), who had denied that art could reproduce what nature alone accomplishes — had rejected transmutation. Martin argues that Trimarchi's work, along with Niccolo Cabeo's somewhat earlier commentary using alchemical experiments to guide his Aristotle interpretation, demonstrates that by the beginning of the seventeenth century the tradition of commentary on Aristotle's Meteorologica had become deeply intertwined with alchemy and with the emerging experimental natural philosophy.",
+      "scholarly_grounding": "Craig Martin analyzed Trimarchi's 1637 Disputationes as the most substantive defense of alchemy within the Renaissance Meteorologica commentary tradition, in 'Alchemy and the Renaissance Commentary Tradition on Meteorologica IV' in Ambix vol. 51 no. 3 (2004) pp.245-262.",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": ["transmutation", "practical-alchemy", "chymistry"],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "REVIEWED",
+      "confidence": "HIGH"
+    }
+  ]
+}
