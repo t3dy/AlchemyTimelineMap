@@ -5,7 +5,7 @@
     "mapped_events": 679,
     "unmapped_events": 0,
     "validation_passed": true,
-    "generated": "2026-06-29T20:49:27.074414"
+    "generated": "2026-06-29T20:53:42.157761"
   },
   "persons": [
     {
@@ -1709,6 +1709,19 @@
       "review_status": "DRAFT",
       "confidence": "HIGH",
       "created_at": "2026-06-30 03:49:22",
+      "concept_tags": []
+    },
+    {
+      "id": 192,
+      "slug": "james-iv-scotland",
+      "name": "James IV of Scotland",
+      "role_primary": "PATRON",
+      "era": "EARLY_MODERN",
+      "bio_html": "<p>James IV of Scotland (17 March 1473 – 9 September 1513) was one of the most intellectually active of the Renaissance monarchs of northern Europe: fluent in several languages, an enthusiastic patron of arts and learning, and deeply interested in medicine, surgery, and practical natural philosophy. His interests extended to the alchemical arts, which he pursued with unusual personal engagement — performing operations himself alongside the professional alchemists he patronised. John Read, in 'Alchemy Under James IV of Scotland' (<em>Ambix</em> 2:2, 1938), analysed the contemporary Accounts of the Lord High Treasurer of Scotland (<em>Compota Thesaurariorum Regum Scotorum</em>, vols. i–iv, Edinburgh, 1877–1916), which document in detail the materials, apparatus, and wages expended on alchemical researches at Stirling Castle from 1501 until James's death at the Battle of Flodden.</p><p>James's principal alchemical associate was <a href=\"../persons/john-damian.html\">John Damian</a>, a French or Italian physician and adept who arrived at the Scottish court in the late 1490s. Under James's patronage Damian established an alchemical laboratory at Stirling Castle, equipped with furnaces and apparatus; the Treasurer's accounts record purchases of gold (in the form of coins sent 'to the leich for to multiply'), silver, quicksilver, sulphur, vitriol, and large quantities of <em>aqua vitae</em> (possibly whisky), used in attempts to prepare the <em>quinta essencia</em> or Philosopher's Stone. In 1504 James transmuted his alchemist into an abbot, appointing Damian to the abbacy of Tungland in Galloway — an ecclesiastical endowment intended to provide the leisure and income required for continued alchemical research. The Treasurer's accounts record that John Damian was a persistent drain on the royal treasury. James's patronage of Damian thus represents an unusually well-documented case of Renaissance alchemical court culture, in which the monarch's active scientific curiosity combined with the alchemist's professional exploitation of royal credulity.</p><p>James IV's alchemical interest was motivated at least in part by a belief in the medicinal and rejuvenating properties of the Philosopher's Stone and the Elixir of Life — a convergence of alchemy and medicine characteristic of the Galeno-Paracelsian era. He was also genuinely experimentally inclined: the same Treasurer's accounts that record payments for alchemical materials also record payments to patients willing to undergo James's own practice of surgery and dentistry. James was killed at the Battle of Flodden Field on 9 September 1513.</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "created_at": "2026-06-30 03:51:30",
       "concept_tags": []
     }
   ],
@@ -3776,6 +3789,32 @@
       "review_status": "DRAFT",
       "confidence": "MEDIUM",
       "created_at": "2026-06-30 03:49:22"
+    },
+    {
+      "id": 87,
+      "slug": "green-lion",
+      "label": "Green Lion (Viridis Leo)",
+      "category_type": "ANALYST_TERM",
+      "definition_short": null,
+      "definition_long": "<p>The Green Lion (<em>viridis leo</em>, or <em>leo viridis</em>) is one of the most widespread and visually striking Decknamen (cover names) in Western alchemical writing and iconography, appearing from the late medieval period through the seventeenth century. In alchemical imagery, the Green Lion is typically shown attacking or devouring the sun — a scene interpreted by scholars as representing the dissolution or digestion of gold or other noble metals by a corrosive agent. The precise substance denoted by 'Green Lion' varied across traditions, periods, and practitioners.</p><p>In the iconographic tradition associated with Ripley's <a href=\"../concepts/practical-exegesis.html\">practical exegesis</a>, the Green Lion is related to the metallic chain of lead (<em>adrop</em>) and its products. Jennifer M. Rampling, in 'Transmuting Sericon' (<em>Osiris</em> 29:1, 2014), documents that in George Ripley's <em>Compound of Alchymy</em> (1471), 'Venus' (the standard Deckname for copper) is identified with the Green Lion, as noted by the Elizabethan annotator Thomas Potter in the 1570s–80s. In the 'sericonian' tradition descending from Ripley, the 'blood of the Green Lion' — the product of dissolving <a href=\"../concepts/sericon.html\">sericon</a> (red lead/minium) in vinegar — was identified as the key reagent for preparing the vegetable stone.</p><p>In the broader early modern tradition, and especially in the German and central European alchemical manuscripts of the sixteenth and seventeenth centuries, the Green Lion is frequently identified with vitriol — either iron vitriol (green vitriol, ferrous sulphate, FeSO₄·7H₂O, distinguished by its characteristic green color) or a generic strong mineral acid. This identification underlies the Paracelsian and later usage, where the Green Lion swallowing the sun represents oil of vitriol (sulphuric acid) or aqua regia dissolving gold. Lawrence M. Principe and William R. Newman, in their studies of George Starkey (Eirenaeus Philalethes), document how the Green Lion in Starkey's <em>Ripley Reviv'd</em> represents the sophic mercury or a specific antimony-based preparation, distinct from Ripley's original lead-based practice. The symbol's persistence across these conflicting identifications is precisely what made it valuable as a Deckname: its iconographic power conveyed a general principle (a corrosive agent attacking a noble body) that practitioners could apply to their own specific materials and methods.</p><p>In the visual tradition, the most celebrated depictions of the Green Lion appear in the English <em>Ripley Scrolls</em> (late 15th–early 16th century), a series of large vellum rolls associated with the Ripleian alchemical tradition, and in the emblem books of Michael Maier (<em>Atalanta Fugiens</em>, 1617, Emblem XXIV: 'Feed the Green Lion'). Maier's commentary identifies the lion with the philosophical sulphur or the universal agent of dissolution. The Rosicrucian and Hermetic alchemists of the seventeenth century inherited and elaborated the Green Lion as one of the primary symbols of the prima materia or the philosophical mercury.</p>",
+      "operation_type": null,
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "MEDIUM",
+      "created_at": "2026-06-30 03:53:34"
+    },
+    {
+      "id": 88,
+      "slug": "sericon",
+      "label": "Sericon (Blood of the Green Lion)",
+      "category_type": "ANALYST_TERM",
+      "definition_short": null,
+      "definition_long": "<p>Sericon is an alchemical Deckname denoting the red calx or ash of lead (<em>adrop</em>), most commonly identified with minium (red lead, Pb₃O₄), an orange-red powder produced by calcining lead oxide (litharge). Jennifer M. Rampling, in 'Transmuting Sericon: Alchemy as Practical Exegesis in Early Modern England' (<em>Osiris</em> 29:1, 2014), provides the most detailed modern analysis of the term's chemical identity and evolving interpretation from the fifteenth to the seventeenth century.</p><p>The term 'sericon' appears in the <em>Turba philosophorum</em>, an early thirteenth-century Latin translation of an Arabic text (composed ca. 900 CE), where the philosopher 'Mundus' mentions it as a substance associated with the conversion of lead to black. Its early etymology is obscure; Isidore of Seville used <em>Syricum</em> to denote a red pigment used for manuscript rubrication, and the alchemical usage likely derives from this tradition. By the fifteenth century in England, sericon was understood as 'burned adrop' — the calcined residue of lead — and was explicitly identified with minium in Martin Ruland Jr.'s <em>Lexicon alchemiae</em> (Frankfurt, 1612): 'Sericon, id est, minium.'</p><p>The chemical significance of sericon derives from <a href=\"../persons/george-ripley.html\">George Ripley</a>'s use of it as the starting material for the <a href=\"../concepts/vegetable-stone.html\">Vegetable Stone</a> in his <em>Medulla philosophiae chemicae</em> (ca. 1470–1476). In Ripley's process, sericon (red lead) dissolved in distilled wine vinegar produces lead acetate ('sugar of lead'), which when further distilled yields a volatile liquid — the 'stinking menstruum' (<em>menstruum foetens</em>) — used to prepare the vegetable elixir. Ripley identified sericon as the 'Blood of the Green Lion' (<a href=\"../concepts/green-lion.html\">Green Lion</a>) or simply as the key reagent in the 'sericonian' method, a term used by Rampling to describe the entire tradition of lead-vinegar alchemy descending from Ripley's <em>Medulla</em>.</p><p>Over the course of the sixteenth century, the identity of sericon became unstable. Elizabethan practitioners attempting to replicate Ripley's procedures proposed alternative identifications: the merchant and alchemist Clement Draper (imprisoned in King's Bench) glossed sericon as 'ceruse of lead' or as verdigris (copper acetate); the annotator Thomas Potter left the metal ambiguous ('copper, &c.'); and the French diplomat Blaise de Vigenère (1523–1596) preferred litharge (lead oxide) over minium as more easily dissolved in vinegar. Most significantly, by the seventeenth century the dominant reinterpretation had shifted to antimony: practitioners read 'sericon' as stibnite (natural antimony sulphide, Sb₂S₃), a radical departure that effectively decoupled the 'sericonian' tradition from its original lead-based chemistry. Rampling argues that this interpretative drift illustrates 'practical exegesis' — the systematic reinterpretation of alchemical sources by practitioners whose own experimental findings and material constraints led them to diverge from the original procedure while retaining the authoritative vocabulary of the tradition.</p>",
+      "operation_type": null,
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "MEDIUM",
+      "created_at": "2026-06-30 03:53:34"
     }
   ],
   "locations": [

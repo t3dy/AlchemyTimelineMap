@@ -1,0 +1,23 @@
+{
+  "batch_name": "James IV of Scotland: Alchemical Patron",
+  "created": "2026-06-29",
+  "description": "Person entry for James IV of Scotland (1473-1513), the Renaissance monarch who sponsored alchemical research at Stirling Castle and appointed John Damian as Abbot of Tungland to support his experiments. Primary source: John Read, 'Alchemy Under James IV of Scotland,' Ambix 2:2 (1938) pp.60-67.",
+  "persons": [
+    {
+      "slug": "james-iv-scotland",
+      "name": "James IV of Scotland",
+      "birth_year": 1473,
+      "death_year": 1513,
+      "era": "Early Modern",
+      "nationality": "Scottish",
+      "role": "Patron",
+      "bio_html": "<p>James IV of Scotland (17 March 1473 – 9 September 1513) was one of the most intellectually active of the Renaissance monarchs of northern Europe: fluent in several languages, an enthusiastic patron of arts and learning, and deeply interested in medicine, surgery, and practical natural philosophy. His interests extended to the alchemical arts, which he pursued with unusual personal engagement — performing operations himself alongside the professional alchemists he patronised. John Read, in 'Alchemy Under James IV of Scotland' (<em>Ambix</em> 2:2, 1938), analysed the contemporary Accounts of the Lord High Treasurer of Scotland (<em>Compota Thesaurariorum Regum Scotorum</em>, vols. i–iv, Edinburgh, 1877–1916), which document in detail the materials, apparatus, and wages expended on alchemical researches at Stirling Castle from 1501 until James's death at the Battle of Flodden.</p><p>James's principal alchemical associate was <a href=\"../persons/john-damian.html\">John Damian</a>, a French or Italian physician and adept who arrived at the Scottish court in the late 1490s. Under James's patronage Damian established an alchemical laboratory at Stirling Castle, equipped with furnaces and apparatus; the Treasurer's accounts record purchases of gold (in the form of coins sent 'to the leich for to multiply'), silver, quicksilver, sulphur, vitriol, and large quantities of <em>aqua vitae</em> (possibly whisky), used in attempts to prepare the <em>quinta essencia</em> or Philosopher's Stone. In 1504 James transmuted his alchemist into an abbot, appointing Damian to the abbacy of Tungland in Galloway — an ecclesiastical endowment intended to provide the leisure and income required for continued alchemical research. The Treasurer's accounts record that John Damian was a persistent drain on the royal treasury. James's patronage of Damian thus represents an unusually well-documented case of Renaissance alchemical court culture, in which the monarch's active scientific curiosity combined with the alchemist's professional exploitation of royal credulity.</p><p>James IV's alchemical interest was motivated at least in part by a belief in the medicinal and rejuvenating properties of the Philosopher's Stone and the Elixir of Life — a convergence of alchemy and medicine characteristic of the Galeno-Paracelsian era. He was also genuinely experimentally inclined: the same Treasurer's accounts that record payments for alchemical materials also record payments to patients willing to undergo James's own practice of surgery and dentistry. James was killed at the Battle of Flodden Field on 9 September 1513.</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH"
+    }
+  ],
+  "texts": [],
+  "concepts": [],
+  "events": []
+}
