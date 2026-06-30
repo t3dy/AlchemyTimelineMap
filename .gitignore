@@ -1,0 +1,7 @@
+sources_new/
+staging/pdfs_to_markdown/
+staging/pdf_working_notes/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store

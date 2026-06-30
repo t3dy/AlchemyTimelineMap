@@ -1,11 +1,11 @@
 {
   "meta": {
-    "total_events": 673,
+    "total_events": 676,
     "total_locations": 67,
-    "mapped_events": 673,
+    "mapped_events": 676,
     "unmapped_events": 0,
     "validation_passed": true,
-    "generated": "2026-06-29T20:25:01.168219"
+    "generated": "2026-06-29T20:41:54.835963"
   },
   "persons": [
     {
@@ -1618,6 +1618,58 @@
       "review_status": "DRAFT",
       "confidence": "HIGH",
       "created_at": "2026-06-30 03:24:33",
+      "concept_tags": []
+    },
+    {
+      "id": 183,
+      "slug": "andreas-libavius",
+      "name": "Andreas Libavius",
+      "role_primary": "CHEMIST",
+      "era": "EARLY_MODERN",
+      "bio_html": "<p>Andreas Libavius (ca. 1555–25 July 1616) was a German physician, chemist, and schoolmaster whose <em>Alchemia</em> (Frankfurt, 1597) is widely regarded as the first systematic chemistry textbook in the European tradition. Born in Halle, Saxony, Libavius studied at Wittenberg and Jena, subsequently taking appointments as a schoolmaster and district physician before serving from 1607 until his death as rector of the Gymnasium Casimirianum in Coburg. Lawrence M. Principe and William R. Newman have emphasised his significance as a chymist who sought to systematise chemical practice as a craft discipline, separating it from the more speculative and mystical currents of Paracelsian medicine and alchemical philosophy, while nonetheless engaging critically with both.</p><p>The <em>Alchemia</em> organised chemical practice into two principal branches — <em>encheria</em> (operations performed by hand, covering laboratory techniques, apparatus, and manipulations) and <em>chymia</em> (the theoretical and practical preparation of medicines, metals, and stones) — providing what Bruce T. Moran describes as 'the most comprehensive survey of practical chemical knowledge available at the close of the sixteenth century.' Libavius was also a prolific polemicist: he attacked Paracelsian medicine in his <em>Rerum chymicarum epistola</em> (1595), criticised the Rosicrucian manifestos as dangerous enthusiasm, and engaged the anti-alchemical arguments of Thomas Erastus (1524–1583). His commentary on George Ripley's <em>Liber duodecim portarum</em>, the 'Analysis duodecim portarum', written as a systematic explication of the Twelve Gates, drew on the Latin editions of Bernard Penot (1595) and Nicolas Barnaud (1599). Jennifer M. Rampling, in 'Transmission and Transmutation' (<em>Early Science and Medicine</em> 17, 2012), notes that Libavius was unaware of Ripley's prologue and 'Admonition' sections — which had been excised by Penot and Barnaud — and his Analysis accordingly reflects this incomplete textual tradition.</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "created_at": "2026-06-30 03:41:51",
+      "concept_tags": []
+    },
+    {
+      "id": 184,
+      "slug": "thomas-erastus",
+      "name": "Thomas Erastus",
+      "role_primary": "PHYSICIAN",
+      "era": "EARLY_MODERN",
+      "bio_html": "<p>Thomas Erastus (7 September 1524 – 31 December 1583), born Thomas Lieber or Liebler in Baden, Switzerland, was a Swiss physician, theologian, and professor of medicine at Heidelberg (1558–1580) and later Basel, whose four-part <em>Disputationum de medicina nova Philippi Paracelsi</em> (Basel, 1571–1573) mounted one of the most systematic early attacks on both Paracelsian medicine and alchemical transmutation. His argument against chrysopoeia — the making of gold — and argyropoeia — the making of silver — was grounded in Aristotelian natural philosophy: metallic species, he contended, were defined by their substantial forms, which art could not reproduce or transmute. The <em>Explicatio quaestionis</em> (in <em>Disputationum</em>, part I, 1571) directly denied the possibility of transmutation, arguing that even if alchemists could produce a substance indistinguishable from gold in its sensible properties, it would not be 'true and natural gold.'</p><p>Erastus's attack provoked a substantial apologetic literature from defenders of alchemy, most notably the response of Gaston DuClo (Claveus) in the <em>Apologia argyropoeiae et chrysopoeiae adversus Thomam Erastum</em> (Nevers, 1590), re-edited by Bernard Penot in 1598. The controversy helped define the intellectual terms of debate over the legitimacy of alchemy for several decades. Jennifer M. Rampling, in 'Transmission and Transmutation' (<em>Early Science and Medicine</em> 17, 2012), notes that continental editors of English alchemical texts such as George Ripley implicitly positioned their compilations as witnesses to the truth of alchemy against Erastus's critique, mobilising the accumulated authority of international adepts for apologetic ends. William R. Newman discusses the Erastus controversy in <em>Atoms and Alchemy</em> (Chicago, 2006) as a key episode in the epistemology of early modern chemistry. Erastus's name later became associated with political doctrines of ecclesiastical subordination to civil authority ('Erastianism'), a legacy of his disputes with Calvinist church discipline at Heidelberg.</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "created_at": "2026-06-30 03:41:51",
+      "concept_tags": []
+    },
+    {
+      "id": 185,
+      "slug": "nicolas-barnaud",
+      "name": "Nicolas Barnaud",
+      "role_primary": "ALCHEMIST",
+      "era": "EARLY_MODERN",
+      "bio_html": "<p>Nicolas Barnaud (ca. 1539 – ca. 1604) was a French physician, religious radical, and alchemical editor whose <em>Quadriga aurifera</em> (Leiden, 1599) published the first substantial Latin text of George Ripley's <em>Liber duodecim portarum</em> (Book of the Twelve Gates) as the second of four alchemical texts in the compilation. Barnaud had met Bernard Penot in Prague, and Barnaud's edition is closely related to Penot's earlier partial edition of 1595, drawing on the same underlying manuscript tradition; both editions excise Ripley's polemical sections on fraudulent alchemists and the 'Admonition' describing his own failed experiments. Jennifer M. Rampling, in 'Transmission and Transmutation' (<em>Early Science and Medicine</em> 17, 2012), demonstrates that Barnaud's text derives not from Ralph Rabbards' 1591 English print edition but from a Latin manuscript that had been in Barnaud's possession for some years.</p><p>Barnaud was also a religious dissenter with anti-trinitarian sympathies; Didier Kahn's study ('Between Alchemy and Antitrinitarianism: Nicolas Barnaud,' 2005) documents his position in the intersection of radical religious movements and alchemical practice in late sixteenth-century Europe. His dedication of the <em>Quadriga</em> edition of Ripley to the English courtier and poet Sir Edward Dyer (1543–1607) reflects his Prague connections: both Barnaud and Dyer had dealings with the alchemical milieu of Rudolf II's court, and Dyer had visited Prague repeatedly in 1588–1590 in attempts to secure the knowledge of Edward Kelley. Barnaud's explicitly trans-national preface — claiming personal acquaintance with philosophers in France, England, Germany, Italy, Poland, Bohemia, Prussia, Sweden, and the Dutch Confederacy — exemplifies the rhetorical appeal to the universality of alchemical knowledge that characterises the genre of pan-European alchemical compendia in this period.</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "MEDIUM",
+      "created_at": "2026-06-30 03:41:51",
+      "concept_tags": []
+    },
+    {
+      "id": 186,
+      "slug": "bernard-penot",
+      "name": "Bernard Georges Penot",
+      "role_primary": "PHYSICIAN",
+      "era": "EARLY_MODERN",
+      "bio_html": "<p>Bernard Georges Penot (du Port, ca. 1519–1617), also styled Bernardus Georgius Penotus a Portu Sanctae Mariae Aquitanus, was a French Paracelsian physician and alchemical editor who published the first Latin version of George Ripley's work: an abbreviated prose translation of the <em>Compound of Alchymy</em>, titled <em>Axiomata philosophica</em> or 'Epitome of the Twelve Gates,' in a Frankfurt collection of 1595. Penot was also the editor of Gaston DuClo's <em>Apologia chrysopoieae et argyropoeiae adversus Thomam Erastum</em> (Geneva, 1598), a key defence of alchemical transmutation against the criticism of Thomas Erastus. His circle overlapped with Nicolas Barnaud, whom he had met in Prague; Barnaud's later and more complete edition of the Ripley Latin text (1599) was explicitly positioned as a supplement to Penot's 1595 extract.</p><p>Eugène Olivier's biographical study (edited and revised by Didier Kahn, <em>Chrysopoeia</em> 5, 1992–1996) establishes Penot as a remarkable figure who combined active medical practice, alchemical compilation, and polemic across a publishing career spanning several decades. His 1595 Frankfurt collection — in which Ripley's axioms are placed alongside the <em>Dialogus</em> of Ægidius de Vadis, axioms of Albertus Magnus, a work by Pseudo-Trithemius, and a fragment of Isaac Hollandus — is a deliberate construction of international alchemical authority, mustered to defend the truth of the art against its critics. Jennifer M. Rampling, in 'Transmission and Transmutation' (<em>Early Science and Medicine</em> 17, 2012), demonstrates that Penot's compilation was reprinted in the <em>Theatrum chemicum</em> (1602) immediately preceding a reprint of DuClo's <em>Apologia</em>, making Ripley's axioms part of an explicit apologetic sequence against Erastus's critique.</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "created_at": "2026-06-30 03:41:51",
       "concept_tags": []
     }
   ],
@@ -16614,6 +16666,27 @@
       "summary": "c. 1580, Prague: The courtly culture of Rudolf II made Prague a meeting place for artisans, physicians, instrument makers, miners, and natural philosophers interested in laboratory practice. Pamela Sm"
     },
     {
+      "id": 679,
+      "slug": "erastus-publishes-explicatio-quaestionis-attacking",
+      "date_label": "1571",
+      "date_start_year": 1571,
+      "date_end_year": null,
+      "location_slug": "basle",
+      "description": "1571, Basel: The Swiss physician and theologian Thomas Erastus (1524–1583) publishes the first part of his Disputationum de medicina nova Philippi Paracelsi (Basel, 1571), including the Explicatio qua",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "created_at": "2026-06-30 03:41:51",
+      "scholarly_grounding": "",
+      "place_name": "Basle (Basel)",
+      "region": "Switzerland",
+      "era": "EARLY_MODERN",
+      "summary": "1571, Basel: The Swiss physician and theologian Thomas Erastus (1524–1583) publishes the first part of his Disputationum de medicina nova Philippi Paracelsi (Basel, 1571), including the Explicatio qua"
+    },
+    {
       "id": 313,
       "slug": "event_renaissance_low_countries_022",
       "date_label": "c. 1576 CE",
@@ -17620,6 +17693,27 @@
       "summary": "c. 1596 CE, Madrid: Spanish alchemists and chemists publish treatises asserting the legitimacy of Operational Chemistry as natural philosophy, directly challenging scholastic objections to alchemy's s"
     },
     {
+      "id": 680,
+      "slug": "penot-publishes-first-latin-edition-of-ripleys-axi",
+      "date_label": "1595",
+      "date_start_year": 1595,
+      "date_end_year": null,
+      "location_slug": "frankfurt",
+      "description": "1595, Frankfurt: The French Paracelsian physician Bernard Penot (ca. 1519–1617) publishes a Frankfurt collection of alchemical tracts (Egidii de Vadis Dialogus …) containing the first Latin version of",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "created_at": "2026-06-30 03:41:51",
+      "scholarly_grounding": "",
+      "place_name": "Frankfurt",
+      "region": "Germany",
+      "era": "EARLY_MODERN",
+      "summary": "1595, Frankfurt: The French Paracelsian physician Bernard Penot (ca. 1519–1617) publishes a Frankfurt collection of alchemical tracts (Egidii de Vadis Dialogus …) containing the first Latin version of"
+    },
+    {
       "id": 29,
       "slug": "event_bruno_rome_001",
       "date_label": "c. 1600",
@@ -17774,6 +17868,27 @@
       "region": "Low Countries",
       "era": "EARLY_MODERN",
       "summary": "In 1599, the Belgian Jesuit Martin Del Rio (1551–1608) published his Disquisitionum Magicarum Libri Sex (Six Books of Investigations into Magic) at Louvain, dedicating the work to a broad Counter-Refo"
+    },
+    {
+      "id": 681,
+      "slug": "barnaud-publishes-quadriga-aurifera-with-ripley-li",
+      "date_label": "1599",
+      "date_start_year": 1599,
+      "date_end_year": null,
+      "location_slug": "leiden",
+      "description": "1599, Leiden: The French physician and editor Nicolas Barnaud (ca. 1539–ca. 1604) publishes the Quadriga aurifera (Four-wheeled golden chariot), a compendium of four alchemical texts: the first is an",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "created_at": "2026-06-30 03:41:51",
+      "scholarly_grounding": "",
+      "place_name": "Leiden",
+      "region": "Netherlands",
+      "era": "EARLY_MODERN",
+      "summary": "1599, Leiden: The French physician and editor Nicolas Barnaud (ca. 1539–ca. 1604) publishes the Quadriga aurifera (Four-wheeled golden chariot), a compendium of four alchemical texts: the first is an"
     },
     {
       "id": 343,
