@@ -1,0 +1,57 @@
+{
+  "batch_name": "Ludwig Combach and Nicolas Guibert: Ripley's Editor and His Antagonist",
+  "created": "2026-06-29",
+  "description": "Two figures in the mid-seventeenth-century debate over alchemy's legitimacy: Ludwig Combach (1590-1657), physician to the Landgraf of Hesse-Kassel and editor of the first collected edition of George Ripley's works; and Nicolas Guibert (ca. 1547-ca. 1620), Lotharingian physician whose 1603 denunciation of alchemy provoked decades of response from Libavius, Penot, von Hoghelande, and ultimately Combach. Primary source: Jennifer M. Rampling, 'Transmission and Transmutation: George Ripley and the Place of English Alchemy in Early Modern Europe,' Early Science and Medicine 17:5 (2012) pp.477-499.",
+  "persons": [
+    {
+      "slug": "ludwig-combach",
+      "name": "Ludwig Combach",
+      "birth_year": 1590,
+      "death_year": 1657,
+      "era": "Early Modern",
+      "nationality": "German",
+      "role": "Physician",
+      "bio_html": "<p>Ludwig Combach (1590–1657) was a German physician and alchemical editor who served as ordinary physician to Moritz, Landgraf of Hesse-Kassel (1572–1632), and his successors Wilhelm V and Wilhelm VI. His editions of alchemical texts represent the culmination of a manuscript tradition rooted in the alchemical court culture of Rudolf II's Prague: the primary exemplar for his edition of George Ripley's works was Kassel Landesbibliothek 4º MS chem. 67, a codex that had been annotated by the Prague alchemist Nicolaus Mai (who received it through the circle of <a href=\"../persons/edward-kelley.html\">Edward Kelley</a>) and contained recipe fragments attributed to Kelley himself.</p><p>Combach's two major editorial projects were the <em>Tractatus aliquot chemici singulares</em> (Geismar, 1647), a compilation of works attributed to English, Dutch, French, German, and Italian alchemists including John Dastin, John Belye, and Kelley; and the <em>Opera omnia chemica</em> (Kassel, 1649), the first attempt to assemble the complete works attributed to <a href=\"../persons/george-ripley.html\">George Ripley</a> (d. ca. 1490). The preface to the <em>Opera</em> is a careful exercise in editorial and apologetic strategy: Combach opens with a denunciation of fraudulent practitioners, enumerates the chief alchemists by nation (following Michael Maier's model in the <em>Symbola aureae mensae</em>), defends Pseudo-Raymond Lull against the attacks of the Lotharingian physician Nicolas Guibert, and closes with a measured endorsement of Ripley's clarity and his close relationship to pseudo-Lullian sources. Jennifer M. Rampling, in 'Transmission and Transmutation' (<em>Early Science and Medicine</em> 17, 2012), analyses the editorial strategy of the <em>Opera</em> and the relationship between Combach's textual tradition and the Kelley-Mai manuscript network. Portions of Combach's preface were translated by Elias Ashmole and incorporated into the <em>Theatrum Chemicum Britannicum</em> (London, 1652).</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH"
+    },
+    {
+      "slug": "nicolas-guibert",
+      "name": "Nicolas Guibert",
+      "birth_year": 1547,
+      "death_year": 1620,
+      "era": "Early Modern",
+      "nationality": "French",
+      "role": "Physician",
+      "bio_html": "<p>Nicolas Guibert (ca. 1547–ca. 1620) was a physician from Lorraine whose <em>Alchymia ratione et experientia ita demum viriliter impugnata</em> (Strasbourg, 1603) constituted one of the most sustained anti-alchemical treatises of the early seventeenth century. Writing after forty years of unsuccessful alchemical practice, Guibert attacked alchemy on both philosophical and textual grounds: he challenged the legitimacy of the foundational alchemical authors (arguing that Hermes Trismegistus and Aristotle had not written the texts attributed to them, that the works of Albertus Magnus and Thomas Aquinas were spurious, and that Raymond Lull had been deluded by demons); he denied the practical possibility of metallic transmutation; and he sought to unmask the entire tradition as a compound of fraud, delusion, and false attribution.</p><p>Guibert's attack prompted immediate and extensive rebuttal: Andreas Libavius responded in 1604 and again in 1615; the Dutch alchemist Ewald von Hoghelande published a defence in 1604; and Bernard Penot responded in 1608. As late as 1649, Ludwig Combach's preface to the first collected edition of Ripley's works was in part a belated response to Guibert — partly because Guibert's criticisms had been revived by Guerner Rolfinck (1641) and Hermann Conring (1648). Jennifer M. Rampling, in 'Transmission and Transmutation' (<em>Early Science and Medicine</em> 17, 2012, pp.493-495), traces this apologetic thread through the continental Ripley tradition, showing how editors and defenders of alchemy repeatedly assembled the authority of 'international adepts' to counter Guibert's accusation that the alchemical tradition was built on false attribution. Bruce T. Moran discusses the Libavius–Guibert exchange at length in <em>Andreas Libavius and the Transformation of Alchemy</em> (Sagamore Beach, MA, 2007), and William R. Newman analyses Guibert's arguments in <em>Atoms and Alchemy</em> (Chicago, 2006).</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH"
+    }
+  ],
+  "texts": [],
+  "concepts": [],
+  "events": [
+    {
+      "title": "Guibert publishes Alchymia impugnata attacking the entire alchemical tradition",
+      "date_label": "1603",
+      "date_sort": 1603,
+      "description": "1603, Strasbourg: The Lotharingian physician Nicolas Guibert (ca. 1547–ca. 1620) publishes <em>Alchymia ratione et experientia ita demum viriliter impugnata</em> (Alchemy manfully attacked by reason and experience, Strasbourg, 1603), a comprehensive denunciation of alchemy that targets both the authenticity of its foundational texts and the physical possibility of metallic transmutation. Drawing on forty years of his own failed alchemical practice, Guibert challenges the alchemical attributions of Hermes Trismegistus, Aristotle, Albertus Magnus, Thomas Aquinas, and Raymond Lull (the last he claims was deluded by demons), and denies that the substantial forms of metals can be reproduced or transmuted by art. The work provokes a series of published rebuttals: Andreas Libavius responds in 1604 and 1615; Ewald von Hoghelande replies in 1604; Bernard Penot publishes a counter in 1608. Guibert's arguments were subsequently revived by Guerner Rolfinck in <em>Chimia in artis formam redacta</em> (1641) and Hermann Conring in <em>De Hermetica Aegyptiorum vetere</em> (1648), making Guibert's critique a persistent touchstone for the anti-alchemical tradition well into the mid-seventeenth century. Jennifer M. Rampling, in 'Transmission and Transmutation' (<em>Early Science and Medicine</em> 17, 2012, pp.493-495), analyses the enduring influence of the Guibert controversy on the editorial strategy of continental alchemical publishers.",
+      "location_slug": "strasbourg",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH"
+    },
+    {
+      "title": "Combach publishes Ripley Opera omnia chemica in Kassel",
+      "date_label": "1649",
+      "date_sort": 1649,
+      "description": "1649, Kassel: The physician Ludwig Combach (1590–1657), ordinary physician to the Landgraves of Hesse-Kassel, publishes <em>Opera omnia chemica, cum praefatione a Ludovico Combachio</em> (Kassel, 1649), the first collected edition of works attributed to <a href=\"../persons/george-ripley.html\">George Ripley</a> (d. ca. 1490) and the culmination of a century of European manuscript transmission rooted in the alchemical circle of <a href=\"../persons/edward-kelley.html\">Edward Kelley</a>. The <em>Opera</em> comprises twelve texts, including the <em>Liber duodecim portarum</em> (Book of the Twelve Gates), the <em>Medulla philosophiae chemicae</em>, the <em>Clavis aurea portae</em>, the <em>Pupilla alchemiae</em>, the <em>Terra terrae philosophicae</em>, the <em>Viaticum seu varia practica</em>, and the <em>Cantilena</em>. Combach's primary manuscript exemplar was Kassel Landesbibliothek 4° MS chem. 67, annotated by the Prague alchemist Nicolaus Mai and containing recipe fragments attributed to Kelley; Combach accordingly attributes to Kelley the Latin translation of the <em>Liber duodecim portarum</em> and two other works — an attribution Jennifer M. Rampling, in 'Transmission and Transmutation' (<em>Early Science and Medicine</em> 17, 2012), identifies as historically spurious but understandable given the manuscript's provenance. Combach's preface, partly translated by Elias Ashmole for the <em>Theatrum Chemicum Britannicum</em> (London, 1652), defends Ripley as clear and reliable and mounts a belated response to Nicolas Guibert's 1603 attack on the alchemical tradition.",
+      "location_slug": "kassel",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH"
+    }
+  ]
+}
