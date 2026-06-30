@@ -1,0 +1,51 @@
+{
+  "batch_name": "Johannes Banfi Hunyades and Arthur Dee",
+  "created": "2026-06-29",
+  "description": "Two early modern alchemists from the Digby/Gresham circle: Johannes Banfi Hunyades (1576-1650), Hungarian alchemist-mathematician associated with Gresham College, London; and Arthur Dee (1579-1651), son of John Dee, physician and alchemist at the courts of England and Russia. Primary sources: Betty Jo Dobbs, 'Studies in the Natural Philosophy of Sir Kenelm Digby: Part II,' Ambix 20:3 (1973); F. Sherwood Taylor and C. H. Josten, 'Johannes Banfi Hunyades 1576-1650,' Ambix 5 (1953) pp.44-52.",
+  "persons": [
+    {
+      "slug": "johannes-banfi-hunyades",
+      "name": "Johannes Banfi Hunyades",
+      "birth_year": 1576,
+      "death_year": 1650,
+      "era": "Early Modern",
+      "nationality": "Hungarian",
+      "role": "Alchemist",
+      "bio_html": "<p>Johannes Banfi Hunyades (Hu: Bánfihunyadi János; ca. 1576–1646/1650) was a Hungarian alchemist and mathematician who lived and worked in England from 1632 until his death, where he became a prominent figure in the network of gentlemen alchemists and natural philosophers centred on Gresham College, London. His name derives from the town of Bánffyhunyad (now Huedin, Romania) in Transylvania. F. Sherwood Taylor and C. H. Josten, in 'Johannes Banfi Hunyades 1576-1650' (<em>Ambix</em> 5, 1953, pp.44–52), reconstructed the main outlines of his career from scattered documentary evidence.</p><p>Hunyades arrived in England in 1632 and quickly attracted the interest of aristocratic patrons and fellow practitioners. Among his students or associates were Sir Kenelm Digby (who employed him as an 'operator', conducting chemical experiments), John Webster (who studied with Hunyades in 1632–3 and later wrote the <em>Metallographia</em>, 1671, which argued for the reality of metallic transmutation), and Arthur Dee (1579–1651), the son of <a href=\"../persons/john-dee.html\">John Dee</a>. The astrologer William Lilly dedicated his <em>Anglicus, Peace, or no Peace</em> (London, 1645) to Hunyades. A portrait inscription describes him as 'Johannes Banfi Huniades Rivuliensis Ungarus, olim apud Anglos in Illu: Coll: Londino-Greskamensi Hermeticae Disciplinae Sectator et philomathematicus' — suggesting some association with Gresham College, London, as a practitioner of 'Hermetic discipline' and mathematics. Betty Jo Dobbs, in 'Studies in the Natural Philosophy of Sir Kenelm Digby: Part II' (<em>Ambix</em> 20:3, 1973), discusses Hunyades's role in Digby's alchemical practice at Gresham in the 1630s as a paid 'operator' — a skilled practitioner who conducted the actual laboratory work for gentlemen-patrons who lacked the technical training to do it themselves. This arrangement was typical of early modern alchemical patronage: the operator had hands-on knowledge of materials and processes, while the patron provided resources, social legitimacy, and intellectual direction.</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH"
+    },
+    {
+      "slug": "arthur-dee",
+      "name": "Arthur Dee",
+      "birth_year": 1579,
+      "death_year": 1651,
+      "era": "Early Modern",
+      "nationality": "English",
+      "role": "Physician",
+      "bio_html": "<p>Arthur Dee (13 July 1579–1651) was an English physician and alchemist, the eldest son of <a href=\"../persons/john-dee.html\">John Dee</a> and Jane Fromonds, who spent a significant portion of his career in Russia at the courts of Tsar Mikhail Fyodorovich and later in England. His biography has been reconstructed from scattered documentation, most extensively by N. A. Figurovski, in 'The Alchemist and Physician Arthur Dee (Artemii Ivanovich Dii)' (<em>Ambix</em> 13, 1965, pp.35–51).</p><p>Arthur grew up in a household immersed in alchemical, mathematical, and occult inquiry: he was present during his father's famous sessions with Edward Kelley at Prague and elsewhere in the 1580s–90s, and was reportedly present when 'an ounce and a quarter of common quicksilver' was transmuted in the presence of Emperor Rudolf II. He studied medicine and practised briefly in England, before departing for Russia ca. 1621 to serve as court physician to Tsar Mikhail Fyodorovich in Moscow, a post he held until 1633. He then returned to England, where he continued his medical and alchemical work. He later attempted to employ Johannes Banfi Hunyades for alchemical operations, and maintained connections with the English alchemical community. His sole published work was the <em>Fasciculus Chemicus</em> (London, 1650), a compilation of alchemical extracts — the name 'Arthur Dee' itself serving as a signal of transmission of the Dee family's interest in the hermetic arts into the next generation. Betty Jo Dobbs, in 'Studies in the Natural Philosophy of Sir Kenelm Digby: Part II' (<em>Ambix</em> 20:3, 1973), briefly notes that Arthur Dee attempted to employ Hunyades for alchemical work, placing him in the network of mid-seventeenth-century English alchemical practitioners.</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH"
+    }
+  ],
+  "texts": [
+    {
+      "slug": "fasciculus-chemicus",
+      "title": "Fasciculus Chemicus",
+      "author_slug": "arthur-dee",
+      "date_written": "1650",
+      "date_written_year": 1650,
+      "language": "Latin/English",
+      "format": "Edited anthology",
+      "description_short": "A compilation of alchemical extracts assembled by Arthur Dee, published London 1650, transmitting the Dee family's alchemical interests into the mid-seventeenth century.",
+      "description_long": "<p>The <em>Fasciculus Chemicus, or Chymical Collections</em> (London, 1650) is an alchemical anthology compiled by <a href=\"../persons/arthur-dee.html\">Arthur Dee</a>, the son of <a href=\"../persons/john-dee.html\">John Dee</a>, and published in London in 1650, the year before Arthur's death. The work consists of extracts from various alchemical authorities assembled into a single volume, representing Arthur's lifelong engagement with the alchemical tradition he had inherited from his father's household. It was translated into English by Elias Ashmole (1617–1692), who published it as <em>Fasciculus Chemicus: or Chymical Collections Expressing the Ingress, Progress, and Egress of the Secret Hermetick Science</em> (London, 1650; translated version 1652). Ashmole's involvement connected the <em>Fasciculus</em> to his broader project of preserving and transmitting English alchemical manuscripts and published texts, later represented in the <em>Theatrum Chemicum Britannicum</em> (1652). N. A. Figurovski discusses Arthur Dee's alchemical career and the <em>Fasciculus</em> in 'The Alchemist and Physician Arthur Dee' (<em>Ambix</em> 13, 1965, pp.35–51).</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH"
+    }
+  ],
+  "concepts": [],
+  "events": []
+}

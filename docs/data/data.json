@@ -5,7 +5,7 @@
     "mapped_events": 679,
     "unmapped_events": 0,
     "validation_passed": true,
-    "generated": "2026-06-29T20:53:42.157761"
+    "generated": "2026-06-29T21:00:17.667722"
   },
   "persons": [
     {
@@ -1723,6 +1723,58 @@
       "confidence": "HIGH",
       "created_at": "2026-06-30 03:51:30",
       "concept_tags": []
+    },
+    {
+      "id": 193,
+      "slug": "johannes-banfi-hunyades",
+      "name": "Johannes Banfi Hunyades",
+      "role_primary": "ALCHEMIST",
+      "era": "EARLY_MODERN",
+      "bio_html": "<p>Johannes Banfi Hunyades (Hu: Bánfihunyadi János; ca. 1576–1646/1650) was a Hungarian alchemist and mathematician who lived and worked in England from 1632 until his death, where he became a prominent figure in the network of gentlemen alchemists and natural philosophers centred on Gresham College, London. His name derives from the town of Bánffyhunyad (now Huedin, Romania) in Transylvania. F. Sherwood Taylor and C. H. Josten, in 'Johannes Banfi Hunyades 1576-1650' (<em>Ambix</em> 5, 1953, pp.44–52), reconstructed the main outlines of his career from scattered documentary evidence.</p><p>Hunyades arrived in England in 1632 and quickly attracted the interest of aristocratic patrons and fellow practitioners. Among his students or associates were Sir Kenelm Digby (who employed him as an 'operator', conducting chemical experiments), John Webster (who studied with Hunyades in 1632–3 and later wrote the <em>Metallographia</em>, 1671, which argued for the reality of metallic transmutation), and Arthur Dee (1579–1651), the son of <a href=\"../persons/john-dee.html\">John Dee</a>. The astrologer William Lilly dedicated his <em>Anglicus, Peace, or no Peace</em> (London, 1645) to Hunyades. A portrait inscription describes him as 'Johannes Banfi Huniades Rivuliensis Ungarus, olim apud Anglos in Illu: Coll: Londino-Greskamensi Hermeticae Disciplinae Sectator et philomathematicus' — suggesting some association with Gresham College, London, as a practitioner of 'Hermetic discipline' and mathematics. Betty Jo Dobbs, in 'Studies in the Natural Philosophy of Sir Kenelm Digby: Part II' (<em>Ambix</em> 20:3, 1973), discusses Hunyades's role in Digby's alchemical practice at Gresham in the 1630s as a paid 'operator' — a skilled practitioner who conducted the actual laboratory work for gentlemen-patrons who lacked the technical training to do it themselves. This arrangement was typical of early modern alchemical patronage: the operator had hands-on knowledge of materials and processes, while the patron provided resources, social legitimacy, and intellectual direction.</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "created_at": "2026-06-30 03:56:40",
+      "concept_tags": []
+    },
+    {
+      "id": 194,
+      "slug": "arthur-dee",
+      "name": "Arthur Dee",
+      "role_primary": "PHYSICIAN",
+      "era": "EARLY_MODERN",
+      "bio_html": "<p>Arthur Dee (13 July 1579–1651) was an English physician and alchemist, the eldest son of <a href=\"../persons/john-dee.html\">John Dee</a> and Jane Fromonds, who spent a significant portion of his career in Russia at the courts of Tsar Mikhail Fyodorovich and later in England. His biography has been reconstructed from scattered documentation, most extensively by N. A. Figurovski, in 'The Alchemist and Physician Arthur Dee (Artemii Ivanovich Dii)' (<em>Ambix</em> 13, 1965, pp.35–51).</p><p>Arthur grew up in a household immersed in alchemical, mathematical, and occult inquiry: he was present during his father's famous sessions with Edward Kelley at Prague and elsewhere in the 1580s–90s, and was reportedly present when 'an ounce and a quarter of common quicksilver' was transmuted in the presence of Emperor Rudolf II. He studied medicine and practised briefly in England, before departing for Russia ca. 1621 to serve as court physician to Tsar Mikhail Fyodorovich in Moscow, a post he held until 1633. He then returned to England, where he continued his medical and alchemical work. He later attempted to employ Johannes Banfi Hunyades for alchemical operations, and maintained connections with the English alchemical community. His sole published work was the <em>Fasciculus Chemicus</em> (London, 1650), a compilation of alchemical extracts — the name 'Arthur Dee' itself serving as a signal of transmission of the Dee family's interest in the hermetic arts into the next generation. Betty Jo Dobbs, in 'Studies in the Natural Philosophy of Sir Kenelm Digby: Part II' (<em>Ambix</em> 20:3, 1973), briefly notes that Arthur Dee attempted to employ Hunyades for alchemical work, placing him in the network of mid-seventeenth-century English alchemical practitioners.</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "created_at": "2026-06-30 03:56:40",
+      "concept_tags": []
+    },
+    {
+      "id": 195,
+      "slug": "gaspar-schott",
+      "name": "Gaspar Schott SJ",
+      "role_primary": "SCHOLAR",
+      "era": "EARLY_MODERN",
+      "bio_html": "<p>Gaspar Schott (baptized 5 February 1608, Königshofen im Grabfeld, Bishopric of Würzburg – 22 May 1666, Würzburg) was a German Jesuit mathematician, natural philosopher, and prolific encyclopedist, known for his multi-volume works on natural magic, hydraulics, and experimental science. He is one of the principal intermediaries through whom the experimental and alchemical investigations of <a href=\"../persons/athanasius-kircher.html\">Athanasius Kircher</a> were disseminated in mid-seventeenth-century Catholic Europe.</p><p>Schott entered the Society of Jesus and was forced to flee Germany during the Thirty Years' War when the political and confessional upheavals in his native Bishopric of Würzburg made life impossible for the Jesuit community. He spent nearly twenty years as a professor of mathematics and natural philosophy at the Jesuit college in Palermo, Sicily, before being transferred to Rome in 1652, where he lived at the Collegio Romano for three years and became a lifelong friend and devoted disciple of Kircher. He was initiated into Kircher's alchemical and natural-philosophical projects at the Collegio Romano, where he also met Francesco Lana Terzi. In 1655 he returned to Germany and settled at Würzburg, where he spent the remaining eleven years of his life in prolific publication.</p><p>Schott's published output was immense and encyclopedic. His major works include the <em>Magia Universalis Naturae et Artis</em> (4 vols., Würzburg, 1657–59), an exhaustive compendium of natural magic covering optics, acoustics, mathematics, and physics; the <em>Mechanica Hydraulico-Pneumatica</em> (Würzburg, 1657); the <em>Thaumaturgus Physicus</em> (1654), which devoted a chapter to pyrotechnic magic and the inextinguishable fires and fulminating gold of the alchemists; and the <em>Cursus Mathematicus</em> (1661). He also edited several of Kircher's works, including the <em>Iter Exstaticum Coeleste</em> (1660). Martha Baldwin, in 'Alchemy and the Society of Jesus in the Seventeenth Century' (<em>Ambix</em> 40:2, 1993), documents Schott's engagement with alchemy: he equivocated on the question of metallic transmutation, but was a firm believer in and experimenter on 'palingenesis' — the resurrection of plants from their calcined ashes — following recipes derived from Kircher and others. He also corresponded extensively with Leibniz, Otto von Guericke, and other leading natural philosophers of his day.</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "created_at": "2026-06-30 03:59:54",
+      "concept_tags": []
+    },
+    {
+      "id": 196,
+      "slug": "francesco-lana-terzi",
+      "name": "Francesco Lana Terzi SJ",
+      "role_primary": "SCHOLAR",
+      "era": "EARLY_MODERN",
+      "bio_html": "<p>Francesco Lana Terzi (1631, Brescia – 22 February 1687, Brescia) was an Italian Jesuit natural philosopher and encyclopedist, celebrated for his speculative designs for a lighter-than-air flying ship (an airship supported by evacuated copper spheres, described in his <em>Prodromo</em> of 1670) and for his ambitious attempt to compile an encyclopedic synthesis of natural philosophy and experiment in the <em>Magisterium Artis et Naturae</em> (2 vols., Brescia, 1684–86, with a third volume published posthumously).</p><p>Lana Terzi studied with <a href=\"../persons/athanasius-kircher.html\">Athanasius Kircher</a> at the Collegio Romano in Rome from 1652 to 1654, where he was introduced to Kircher's laboratory-based natural philosophy and alchemical experiments. After teaching rhetoric and grammar at Jesuit gymnasia in Terni and Parma, he returned to his native Brescia in 1665, where he remained for the rest of his life pursuing physical, optical, and alchemical experiments. He taught mathematics at the University of Ferrara and the Jesuit college there before returning permanently to Brescia. He founded a local scientific society, the <em>Accademia dei Filesotici</em>, modelled on the Royal Society of London, and oversaw the publication of its journal, the <em>Actae novae academiae philexeticorum naturae et artis</em>, though both society and journal survived only briefly beyond his death in 1687. He corresponded with Leibniz, who published his letters in the <em>Acta Eruditorum Lipsiae</em>, and with the <em>Philosophical Transactions</em> of the Royal Society.</p><p>Martha Baldwin, in 'Alchemy and the Society of Jesus in the Seventeenth Century' (<em>Ambix</em> 40:2, 1993), documents Lana Terzi's sustained alchemical interests. He distinguished between alchemy and chemistry while accepting the three Hermetic principles of salt, sulphur, and mercury alongside the four Aristotelian elements. His <em>Prodromo</em> and <em>Magisterium</em> included recipes for chemical and medical preparations, and alchemical projects — including plant palingenesis experiments — engaged him throughout his career. His eclectic, Baconian approach to natural philosophy, combining Aristotelian, Hermetic, corpuscular, and magnetic concepts, typifies the intellectual syncretism of seventeenth-century Jesuit natural science.</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "created_at": "2026-06-30 03:59:54",
+      "concept_tags": []
     }
   ],
   "texts": [
@@ -3084,6 +3136,22 @@
       "review_status": "DRAFT",
       "confidence": "HIGH",
       "created_at": "2026-06-30 03:24:33",
+      "concept_tags": []
+    },
+    {
+      "id": 112,
+      "slug": "fasciculus-chemicus",
+      "title": "Fasciculus Chemicus",
+      "text_type": "TREATISE",
+      "original_language": null,
+      "composition_date": "",
+      "composition_year_start": null,
+      "composition_year_end": null,
+      "analysis_html": "",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "created_at": "2026-06-30 03:56:40",
       "concept_tags": []
     }
   ],
