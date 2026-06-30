@@ -1,11 +1,11 @@
 {
   "meta": {
-    "total_events": 679,
+    "total_events": 680,
     "total_locations": 68,
-    "mapped_events": 679,
+    "mapped_events": 680,
     "unmapped_events": 0,
     "validation_passed": true,
-    "generated": "2026-06-29T21:00:17.667722"
+    "generated": "2026-06-29T21:04:21.763154"
   },
   "persons": [
     {
@@ -1775,6 +1775,71 @@
       "confidence": "HIGH",
       "created_at": "2026-06-30 03:59:54",
       "concept_tags": []
+    },
+    {
+      "id": 197,
+      "slug": "agostino-nifo",
+      "name": "Agostino Nifo",
+      "role_primary": "SCHOLAR",
+      "era": "EARLY_MODERN",
+      "bio_html": "<p>Agostino Nifo (ca. 1469, Sessa Aurunca or Nifo near Salerno – after 1538) was an Italian Aristotelian philosopher and prolific commentator at the University of Naples, Pisa, Rome, and Salerno. He is one of the most important Renaissance commentators on Aristotle's natural philosophical corpus, producing extensive commentaries on the <em>Physics</em>, <em>De anima</em>, <em>Meteorologica</em>, and other works. His <em>In libris Aristotelis Meteorologicis commentaria</em> (Venice, 1560 [composed ca. 1503–1520]) addresses the alchemical implications of the fourth book of the <em>Meteorologica</em>, which dealt with the generation and transformation of minerals and metals.</p><p>Craig Martin, in 'Alchemy and the Renaissance Commentary Tradition on <em>Meteorologica</em> IV' (<em>Ambix</em> 51:3, 2004), documents that Nifo was among the most hostile of the Renaissance commentators toward the claims of practical alchemy. He denied outright the possibility of artificial transmutation of base metals into gold, on the Aristotelian grounds that art is weaker than nature and cannot alter the specific forms ('substantialforms') of metals. Nifo also objected even to the name 'alchimia', regarding it as a barbarous and unclassical term. His negative attitude reflected both his conservative Aristotelianism and his humanist preference for classical Latin terminology. Despite his rejection of metallic transmutation, Nifo acknowledged the possibility of chemical change (<em>alteratio</em>) within species — for example, the coagulation of mercury — but not transmutation across species boundaries. His views on alchemy influenced the Florentine humanist Benedetto Varchi, who cited Nifo's commentary in his disputation on alchemy of 1544.</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "created_at": "2026-06-30 04:03:36",
+      "concept_tags": []
+    },
+    {
+      "id": 198,
+      "slug": "lodovico-boccadiferro",
+      "name": "Lodovico Boccadiferro",
+      "role_primary": "SCHOLAR",
+      "era": "EARLY_MODERN",
+      "bio_html": "<p>Lodovico Boccadiferro (1482–1545) was a prominent Italian Aristotelian philosopher and professor of natural philosophy at the University of Bologna, known for his lectures on Aristotle's <em>Meteorologica</em>, which were published posthumously as <em>Lectiones in librum IV Meteororum</em> (Venice: F. De Franceschi, 1563). He was one of the leading Aristotelian commentators in northern Italy in the early sixteenth century.</p><p>Craig Martin, in 'Alchemy and the Renaissance Commentary Tradition on <em>Meteorologica</em> IV' (<em>Ambix</em> 51:3, 2004), documents Boccadiferro's sharply sceptical attitude toward alchemy. In his lectures on the fourth book of the <em>Meteorologica</em>, he explicitly rejected the claims of alchemists ('io non credo istis chymicis') on Aristotelian grounds, arguing that mercury cannot be coagulated as alchemists claimed, and that those who sought the philosopher's stone wasted their patrimonies in pursuit of something they could never achieve. His rejection was more emphatic and less nuanced than that of Agostino Nifo, whom Martin compares him to, and his views were influential on Benedetto Varchi, who cited both Nifo and Boccadiferro in his <em>Questione sull'alchimia</em> (1544).</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "created_at": "2026-06-30 04:03:36",
+      "concept_tags": []
+    },
+    {
+      "id": 199,
+      "slug": "benedetto-varchi",
+      "name": "Benedetto Varchi",
+      "role_primary": "SCHOLAR",
+      "era": "EARLY_MODERN",
+      "bio_html": "<p>Benedetto Varchi (1503, Florence – 18 December 1565, Florence) was a Florentine humanist, historian, poet, and amateur natural philosopher, known for his <em>Storia Fiorentina</em> (history of Florence), his activities in the Accademia degli Umidi (later the Accademia Fiorentina), and his wide-ranging literary and philosophical production. He spent many years in Padua under the patronage of Cardinal Alessandro Farnese (later Paul III), where he encountered the Aristotelian natural philosophy of the northern Italian universities.</p><p>In 1544 Varchi delivered a disputation at the Accademia Fiorentina on the question of alchemy, later published as the <em>Questione sull'alchimia</em> (circulating in manuscript; first printed Florence: Magheri, 1827). Craig Martin, in 'Alchemy and the Renaissance Commentary Tradition on <em>Meteorologica</em> IV' (<em>Ambix</em> 51:3, 2004), identifies this as a significant case study: Varchi, drawing heavily on the Aristotelian Meteorologica commentary tradition and particularly on the arguments of Agostino Nifo and Lodovico Boccadiferro, presented the philosophical arguments against metallic transmutation to a Florentine court audience, translating the technical debates of university philosophy into the vernacular humanist context. The <em>Questione</em> reflects Varchi's characteristic approach: the careful marshalling of classical authorities, the presentation of opposing arguments, and the final suspension of judgment. The disputation was delivered in Florence in an intellectual environment shaped by Cosimo de' Medici's court and represents one of the clearest examples of how Aristotelian anti-alchemical arguments circulated beyond the university into humanist literary culture.</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "created_at": "2026-06-30 04:03:36",
+      "concept_tags": []
+    },
+    {
+      "id": 200,
+      "slug": "cesare-cremonini",
+      "name": "Cesare Cremonini",
+      "role_primary": "SCHOLAR",
+      "era": "EARLY_MODERN",
+      "bio_html": "<p>Cesare Cremonini (1550, Cento – 19 July 1631, Padua) was an Italian Aristotelian philosopher and professor of natural philosophy at the University of Ferrara (from 1578) and then at the University of Padua (from 1591 until his death), where he was a colleague and adversary of Galileo Galilei. He is renowned as one of the last and most consistent champions of strict Aristotelianism in the Italian universities, maintaining the Aristotelian framework against both Galileo's mathematical natural philosophy and the new Baconian empiricism.</p><p>Cremonini is perhaps the most famous anecdote-figure in early modern philosophy: he allegedly refused to look through Galileo's telescope on the grounds that it could not be trusted as a philosophical instrument, though modern historians have qualified this story. His <em>In quartum librum Aristotelis Meteorologicorum</em> (manuscript, Padua, Biblioteca Universitaria), discussed by Craig Martin in 'Alchemy and the Renaissance Commentary Tradition on <em>Meteorologica</em> IV' (<em>Ambix</em> 51:3, 2004), reveals his position on alchemy: he was sceptical of transmutation on Aristotelian grounds, arguing that just as offspring can only be created by parents of the same species, so metals can only generate metals of their own kind. His rejection of chrysopoeia was thus based on Aristotelian reproductive biology rather than on chemical observation. Cremonini faced repeated accusations of impiety and heterodoxy before the Inquisition throughout his career, but the Venetian Republic protected him from prosecution as a valuable teacher.</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "created_at": "2026-06-30 04:03:36",
+      "concept_tags": []
+    },
+    {
+      "id": 201,
+      "slug": "johannes-huser",
+      "name": "Johannes Huser",
+      "role_primary": "PHYSICIAN",
+      "era": "EARLY_MODERN",
+      "bio_html": "<p>Johannes Huser (ca. 1545–1600/1601) was a German physician and editor, known primarily as the compiler and publisher of the first complete critical edition of the works of <a href=\"../persons/paracelsus.html\">Paracelsus</a>. Urs Leo Gantenbein, in 'Cross and Crucible: Alchemy in the Theology of Paracelsus' (<em>Ambix</em> 67:1, 2020), identifies Huser's editorial project as the foundational act that shaped all subsequent reception of Paracelsus: by gathering, transcribing, and ordering Paracelsus's scattered and hitherto mostly manuscript writings into a coherent corpus, Huser effectively created the Paracelsus whom later centuries would read and debate.</p><p>Huser's <em>Bücher und Schrifften des edlen, hochgelehrten und bewehrten Philosophi und Medici Philippi Theophrasti Bombast von Hohenheim, Paracelsi genannt</em> was published in ten volumes at Basel by Conrad Waldkirch between 1589 and 1591, followed by the <em>Chirurgische Bücher und Schrifften</em> (Strasbourg: Lazarus Zetzner, 1605). Together these volumes — conventionally cited as H1–H10 — constitute the standard text of Paracelsus's medical and natural philosophical writings used by all subsequent scholars until the twentieth-century critical edition by Karl Sudhoff. Huser's editorial methodology was meticulous for its time: he sought out manuscripts, compared readings, and attempted to identify authentic Paracelsian texts against the considerable body of spurious works circulating under Paracelsus's name. The 1589–1591 Huser edition fixed the canon of Paracelsus's works and made his ideas available to the broad reading public of learned Europe — its publication in Basel was a landmark event in the history of Paracelsian medicine and alchemy.</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "created_at": "2026-06-30 04:03:36",
+      "concept_tags": []
     }
   ],
   "texts": [
@@ -2883,38 +2948,6 @@
       "concept_tags": []
     },
     {
-      "id": 95,
-      "slug": "astronomia-magna-paracelsus",
-      "title": "Astronomia Magna (Paracelsus)",
-      "text_type": "PRIMARY_SOURCE",
-      "original_language": null,
-      "composition_date": "1537–1538 CE",
-      "composition_year_start": null,
-      "composition_year_end": null,
-      "analysis_html": "<p><em>Astronomia Magna</em>, also known as <em>Philosophia Sagax</em>, is a major philosophical synthesis composed by Paracelsus (Theophrastus Bombastus von Hohenheim, 1493–1541) in 1537–1538, described by Urs Leo Gantenbein, in <em>Ambix</em> (2020), as the work in which Paracelsus 'finally summed up his most important natural-philosophical, theological and magical ideas, leading to a tremendous synthesis that could have served as a scientific model for the sixteenth century.' The work integrates Paracelsus's characteristic four pillars of medicine (philosophia, astronomia, alchimia, virtus) with his distinctive theology of the Radical Reformation, his doctrine of the two lights (the light of nature and the light of the Holy Spirit), and his theories of the macrocosm-microcosm relationship and the <em>tria prima</em> (mercury, sulphur, salt as the three principles of all matter). Gantenbein identifies the <em>Astronomia Magna</em> as incorporating Paracelsus's most explicit engagement with the relationship between his alchemical cosmology and his eschatological theology, particularly his doctrine of the New Man or New Adam who achieves a second birth through the Gospel's grace — a doctrine that parallels the alchemical concept of the <em>ultima materia</em>, the purified end-state of any prima materia. The work was first published in Frankfurt am Main in 1571 by Michael Toxites (Schütz), based on one of Paracelsus's own manuscripts, and was later reprinted in Johannes Huser's collected edition (Basel, 1589–1591).</p>",
-      "source_method": "SCHOLARSHIP_BASED",
-      "review_status": "DRAFT",
-      "confidence": "HIGH",
-      "created_at": "2026-06-29 19:57:18",
-      "concept_tags": []
-    },
-    {
-      "id": 96,
-      "slug": "huser-paracelsus-edition",
-      "title": "Bücher und Schrifften des Paracelsus (Huser Edition)",
-      "text_type": "COMPILATION",
-      "original_language": null,
-      "composition_date": "1589–1591 CE",
-      "composition_year_start": null,
-      "composition_year_end": null,
-      "analysis_html": "<p>The <em>Bücher und Schrifften des Paracelsus</em> (Books and Writings of Paracelsus), edited by Johannes Huser (ca. 1545–1600/1601), published in 10 volumes at Basel by Conrad Waldkirch (1589–1591), with a surgical supplement edited by Huser in Strasbourg by Lazarus Zetzner (1605), constitutes the most important early collected edition of Paracelsus's medical and natural-philosophical writings and set the textual canon for more than three centuries. Urs Leo Gantenbein, in <em>Ambix</em> (2020), identifies the Huser edition as the foundational text event in Paracelsus scholarship: before the Huser edition, Paracelsus's works had circulated in scattered and frequently corrupted early printings; Huser's ten-volume collection, based on manuscript consultation and editorial judgment, gave readers their first systematically organized access to the Paracelsian corpus. The edition was sufficiently authoritative that readers encountering it 'would hardly have expected Paracelsus to have left behind an at least equally extensive theological oeuvre,' since Huser deliberately excluded the theological writings as too controversial in the post-Reformation era of hardening confessional boundaries. This selective editorial decision meant that Paracelsus's theology remained largely unknown until partial editions in the seventeenth century (beginning with Johannes Staricius in 1618) and systematic modern editions in the twentieth century (Karl Sudhoff's critical edition, 1922–1933, followed by Gantenbein's New Paracelsus Edition of the theological works, 2008).</p>",
-      "source_method": "SCHOLARSHIP_BASED",
-      "review_status": "DRAFT",
-      "confidence": "HIGH",
-      "created_at": "2026-06-29 19:57:18",
-      "concept_tags": []
-    },
-    {
       "id": 97,
       "slug": "semita-recta-pseudo-albertus",
       "title": "Semita Recta (Pseudo-Albertus Magnus)",
@@ -3152,6 +3185,54 @@
       "review_status": "DRAFT",
       "confidence": "HIGH",
       "created_at": "2026-06-30 03:56:40",
+      "concept_tags": []
+    },
+    {
+      "id": 113,
+      "slug": "astronomia-magna-paracelsus",
+      "title": "Astronomia Magna (Paracelsus)",
+      "text_type": "PRIMARY_SOURCE",
+      "original_language": null,
+      "composition_date": "1537–1538 CE",
+      "composition_year_start": null,
+      "composition_year_end": null,
+      "analysis_html": "<p><em>Astronomia Magna</em>, also known as <em>Philosophia Sagax</em>, is a major philosophical synthesis composed by Paracelsus (Theophrastus Bombastus von Hohenheim, 1493–1541) in 1537–1538, described by Urs Leo Gantenbein, in <em>Ambix</em> (2020), as the work in which Paracelsus 'finally summed up his most important natural-philosophical, theological and magical ideas, leading to a tremendous synthesis that could have served as a scientific model for the sixteenth century.' The work integrates Paracelsus's characteristic four pillars of medicine (philosophia, astronomia, alchimia, virtus) with his distinctive theology of the Radical Reformation, his doctrine of the two lights (the light of nature and the light of the Holy Spirit), and his theories of the macrocosm-microcosm relationship and the <em>tria prima</em> (mercury, sulphur, salt as the three principles of all matter). Gantenbein identifies the <em>Astronomia Magna</em> as incorporating Paracelsus's most explicit engagement with the relationship between his alchemical cosmology and his eschatological theology, particularly his doctrine of the New Man or New Adam who achieves a second birth through the Gospel's grace — a doctrine that parallels the alchemical concept of the <em>ultima materia</em>, the purified end-state of any prima materia. The work was first published in Frankfurt am Main in 1571 by Michael Toxites (Schütz), based on one of Paracelsus's own manuscripts, and was later reprinted in Johannes Huser's collected edition (Basel, 1589–1591).</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "created_at": "2026-06-30 04:01:10",
+      "concept_tags": []
+    },
+    {
+      "id": 114,
+      "slug": "huser-paracelsus-edition",
+      "title": "Bücher und Schrifften des Paracelsus (Huser Edition)",
+      "text_type": "COMPILATION",
+      "original_language": null,
+      "composition_date": "1589–1591 CE",
+      "composition_year_start": null,
+      "composition_year_end": null,
+      "analysis_html": "<p>The <em>Bücher und Schrifften des Paracelsus</em> (Books and Writings of Paracelsus), edited by Johannes Huser (ca. 1545–1600/1601), published in 10 volumes at Basel by Conrad Waldkirch (1589–1591), with a surgical supplement edited by Huser in Strasbourg by Lazarus Zetzner (1605), constitutes the most important early collected edition of Paracelsus's medical and natural-philosophical writings and set the textual canon for more than three centuries. Urs Leo Gantenbein, in <em>Ambix</em> (2020), identifies the Huser edition as the foundational text event in Paracelsus scholarship: before the Huser edition, Paracelsus's works had circulated in scattered and frequently corrupted early printings; Huser's ten-volume collection, based on manuscript consultation and editorial judgment, gave readers their first systematically organized access to the Paracelsian corpus. The edition was sufficiently authoritative that readers encountering it 'would hardly have expected Paracelsus to have left behind an at least equally extensive theological oeuvre,' since Huser deliberately excluded the theological writings as too controversial in the post-Reformation era of hardening confessional boundaries. This selective editorial decision meant that Paracelsus's theology remained largely unknown until partial editions in the seventeenth century (beginning with Johannes Staricius in 1618) and systematic modern editions in the twentieth century (Karl Sudhoff's critical edition, 1922–1933, followed by Gantenbein's New Paracelsus Edition of the theological works, 2008).</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "created_at": "2026-06-30 04:01:10",
+      "concept_tags": []
+    },
+    {
+      "id": 115,
+      "slug": "varchi-questione-alchimia",
+      "title": "Questione sull'alchimia (Varchi)",
+      "text_type": "TREATISE",
+      "original_language": null,
+      "composition_date": "",
+      "composition_year_start": null,
+      "composition_year_end": null,
+      "analysis_html": "",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "created_at": "2026-06-30 04:03:36",
       "concept_tags": []
     }
   ],
@@ -16031,6 +16112,27 @@
       "region": "Italy",
       "era": "EARLY_MODERN",
       "summary": "c. 1548, Venice: The Venetian apothecaries establish an independent scientific society dedicated to the systematic study of distillation, crystallization, and other Operational Chemistry techniques, m"
+    },
+    {
+      "id": 685,
+      "slug": "benedetto-varchi-delivers-questione-sullalchimia-a",
+      "date_label": "1544",
+      "date_start_year": 1544,
+      "date_end_year": null,
+      "location_slug": "florence",
+      "description": "1544, Florence: Benedetto Varchi (1503–1565), Florentine humanist and member of the Accademia Fiorentina, delivers a disputation on the philosophical question of alchemy at the Accademia Fiorentina. D",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "created_at": "2026-06-30 04:03:36",
+      "scholarly_grounding": "",
+      "place_name": "Florence",
+      "region": "Italy",
+      "era": "EARLY_MODERN",
+      "summary": "1544, Florence: Benedetto Varchi (1503–1565), Florentine humanist and member of the Accademia Fiorentina, delivers a disputation on the philosophical question of alchemy at the Accademia Fiorentina. D"
     },
     {
       "id": 334,
