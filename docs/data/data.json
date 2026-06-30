@@ -5,7 +5,7 @@
     "mapped_events": 680,
     "unmapped_events": 0,
     "validation_passed": true,
-    "generated": "2026-06-29T21:04:21.763154"
+    "generated": "2026-06-29T21:10:35.682327"
   },
   "persons": [
     {
@@ -3964,6 +3964,19 @@
       "review_status": "DRAFT",
       "confidence": "MEDIUM",
       "created_at": "2026-06-30 03:53:34"
+    },
+    {
+      "id": 89,
+      "slug": "spiritual-alchemy",
+      "label": "Spiritual Alchemy",
+      "category_type": "ANALYST_TERM",
+      "definition_short": null,
+      "definition_long": "<p>Spiritual alchemy is a modern interpretive framework that reads alchemical texts — especially their obscure symbolic language — as covert descriptions of spiritual or psychological transformation rather than chemical operations. The framework has two principal origins: the nineteenth-century European occult revival, and the twentieth-century psychological interpretation of C. G. Jung.</p><p>The nineteenth-century background is traced by Daniel Merkur in 'The Study of Spiritual Alchemy: Mysticism, Gold-Making, and Esoteric Hermeneutics' (<em>Ambix</em> 37:1, 1990). The German natural philosopher Karl von Reichenbach (1788–1869) attempted to give scientific credibility to the view that alchemical gold was 'odic fluid', a subtle energy; his failure to win scientific approval meant that this tradition passed into the occult underground. Mary Anne Atwood (née South, 1817–1910), in her anonymous <em>Suggestive Inquiry into the Hermetic Mystery</em> (1850), argued that both the Eleusinian Mysteries and alchemy were secretly about the quintessence or ether composing the human soul, with all apparent references to gold-making being allegorical. Atwood's work was taken up by the Hermetic Order of the Golden Dawn in the 1880s and became foundational for modern Western esotericism's appropriation of alchemy.</p><p>The most academically influential version of the spiritual alchemy thesis was developed by the Swiss psychologist C. G. Jung (1875–1961), who devoted much of his late career to the interpretation of alchemical texts as projections of unconscious psychological processes. In works including <em>Psychologie und Alchemie</em> (1944; English tr. <em>Psychology and Alchemy</em>, 1953) and <em>Mysterium Coniunctionis</em> (1955–56), Jung argued that alchemical language encoded the individuation process — the psychological journey from unconscious fragmentation toward integrated selfhood — and that alchemists were unconsciously carrying out psychological work in their laboratories. He identified the key alchemical operations (solve et coagula, putrefaction, sublimation, multiplication, projection) with stages of psychological transformation, and the <em>coniunctio</em> (union of opposites) with the reconciliation of anima/animus pairs in the unconscious.</p><p>The spiritual alchemy framework was taken seriously by some academic historians: F. Sherwood Taylor (1897–1956) wrote in 'A Survey of Greek Alchemy' (<em>Journal of Hellenic Studies</em> 50, 1930) that 'alchemy seems never to have been purely practical,' and the Jungian approach influenced scholars working at the intersection of intellectual history and the history of religion. However, the framework has been fundamentally challenged since the 1990s by historians of science, particularly by Lawrence M. Principe and William R. Newman, in 'Some Problems with the Historiography of Alchemy' (in <em>Secrets of Nature: Astrology and Alchemy in Early Modern Europe</em>, ed. Newman and Grafton, MIT Press, 2001, pp.385–431). Principe and Newman demonstrate that the vast majority of historical alchemists were engaged in genuine practical chemistry, that their symbolic language served as laboratory shorthand and anti-plagiarism protection rather than as spiritual allegory, and that the modern 'spiritual alchemy' reading systematically misrepresents the historical record. Principe's practical experiments replicating historical alchemical procedures (including those of George Starkey/Eirenaeus Philalethes) have further confirmed that the operations described in alchemical texts can produce exactly the material results claimed, with no recourse to a spiritual reading.</p><p>The debate between the 'spiritual alchemy' and the 'chymistry' interpretations remains a live methodological question in the field, though the scholarly consensus has shifted strongly toward the practical-chemistry reading over the past three decades. The spiritual alchemy tradition remains influential in esotericism, New Age practice, and popular culture, but is no longer regarded as an accurate account of what historical alchemists actually believed or did.</p>",
+      "operation_type": null,
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "MEDIUM",
+      "created_at": "2026-06-30 04:09:01"
     }
   ],
   "locations": [

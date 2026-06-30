@@ -1,7 +1,7 @@
 # ALCHEMYTIMELINEMAP Phase Status
 
-**Updated:** 2026-06-29 (Continued Ambix ingestion: Guido de Montanor, Scala philosophorum, Ouroboros concept, Vegetable Stone, Practical Exegesis, Decknamen — 6 new entries from Rampling 2008, Sheppard 1962, Rampling 2014)
-**Current Phase:** PHASE 3A (✅ IN PROGRESS) — 121 PERSONS, 81 TEXTS, 48 CONCEPTS, 671 EVENTS
+**Updated:** 2026-06-29 (Continued Ambix ingestion: processed 30+ papers; added 20+ persons, 5 texts, 9 concepts from Dobbs 1973, Baldwin 1993, Martin 2004, Gantenbein 2020, Rampling 2014, Brann 1985, Read 1938, and others)
+**Current Phase:** PHASE 3A (✅ IN PROGRESS) — 139 PERSONS, 87 TEXTS, 57 CONCEPTS, 680 EVENTS
 
 ---
 
