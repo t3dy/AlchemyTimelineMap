@@ -1,11 +1,11 @@
 {
   "meta": {
-    "total_events": 678,
-    "total_locations": 67,
-    "mapped_events": 678,
+    "total_events": 679,
+    "total_locations": 68,
+    "mapped_events": 679,
     "unmapped_events": 0,
     "validation_passed": true,
-    "generated": "2026-06-29T20:46:11.267822"
+    "generated": "2026-06-29T20:49:27.074414"
   },
   "persons": [
     {
@@ -1696,6 +1696,19 @@
       "review_status": "DRAFT",
       "confidence": "HIGH",
       "created_at": "2026-06-30 03:46:03",
+      "concept_tags": []
+    },
+    {
+      "id": 191,
+      "slug": "nicolas-oresme",
+      "name": "Nicolas Oresme",
+      "role_primary": "SCHOLAR",
+      "era": "MEDIEVAL",
+      "bio_html": "<p>Nicolas Oresme (ca. 1320–11 July 1382) was a French philosopher, theologian, mathematician, and natural philosopher who studied and taught at the University of Paris under Jean Buridan and later served as Bishop of Lisieux (from 1377). He is among the most intellectually distinguished figures of the scholastic tradition: he developed early geometrical and graphical representations of motion; translated Aristotle's <em>Politics</em>, <em>Ethics</em>, <em>Economics</em>, <em>De Caelo</em>, and <em>De Anima</em> into French for Charles V; and contributed to theories of money and coinage in his <em>Tractatus de mutatione monetarum</em>. His mathematical and philosophical work anticipated in several respects the kinematics of the sixteenth and seventeenth centuries.</p><p>Oresme's relevance to the history of alchemy lies in his systematic critique of divinatory astrology and alchemy in his <em>Livre de Divinacions</em> (ca. 1361–1365), written in French for a lay audience. In this work he attacked astrology for violating the doctrine of free will and for providing a specious intellectual legitimacy for fraudulent practitioners; he extended his critique to alchemy, which he treated as the archetypal example of a futile art pursued by those who sought hidden secrets of nature through misguided means. Noel L. Brann, in 'Alchemy and Melancholy in Medieval and Renaissance Thought' (<em>Ambix</em> 32:3, 1985), cites Oresme as representative of the learned scholastic opposition to alchemy, associating both alchemists and diviners with the accusation that 'they attempt foolishly to search out the secrets of nature ... urged by the craft of the Devil.' Lynn Thorndike's <em>History of Magic and Experimental Science</em> discusses Oresme's broader engagement with occult ideas, noting that despite his critique of astrology and alchemy he was genuinely interested in natural philosophy and the explanation of unusual phenomena.</p>",
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "created_at": "2026-06-30 03:49:22",
       "concept_tags": []
     }
   ],
@@ -3750,6 +3763,19 @@
       "review_status": "DRAFT",
       "confidence": "HIGH",
       "created_at": "2026-06-30 03:46:03"
+    },
+    {
+      "id": 86,
+      "slug": "alchemical-melancholy",
+      "label": "Alchemical Melancholy",
+      "category_type": "ANALYST_TERM",
+      "definition_short": null,
+      "definition_long": "<p>Alchemical melancholy designates the complex of cultural, medical, and theological ideas that linked the practice of alchemy to the ancient and medieval concept of the melancholy temperament, particularly through the symbolic chain Saturn → lead → nigredo. Noel L. Brann, in 'Alchemy and Melancholy in Medieval and Renaissance Thought' (<em>Ambix</em> 32:3, 1985), traces this association through several distinct but interlocking traditions.</p><p>In astrological-humoral terms, the planet Saturn ruled over the metal lead — the primary starting material in many alchemical procedures — and was associated with the cold, dry, 'black bile' humour that produced the melancholy temperament: solitary, introspective, slow, and contemplative. The alchemist who spent long hours in the solitude of the laboratory was thus by vocation a Saturnine figure. This association was acknowledged by Renaissance defenders of alchemy: the Italian alchemist Flavio Girolamo, writing in 1590, conceded that the alchemist was 'disposed to remain solitary and silent,' but argued that this Saturnine isolation was the condition of intellectual and spiritual achievement rather than a vice, invoking the Aristotelian doctrine (transmitted through the pseudo-Aristotelian <em>Problemata</em>) that 'all persons of genius are melancholic.'</p><p>Marsilio Ficino's <em>De vita triplici</em> (1489), particularly the first book (<em>De vita sana</em>, 'On the Healthy Life'), provided the philosophical framework within which Renaissance alchemists could reclaim melancholy as a badge of genius rather than a mark of disease. Ficino argued that intellectual activity of the highest kind — philosophy, mathematics, contemplation — drew the soul away from the body and toward incorporeal things, and that this withdrawal naturally produced the black bile of melancholy. By the same token, those given to 'the assiduous study of philosophy' were most subject to 'black bile,' a humour that could, if properly managed through music, diet, and planetary invocations, become the source of exceptional mental powers. Applied to alchemy, the implication was that the adept's melancholy was the sign of his proximity to the secrets of nature.</p><p>More deeply, Brann argues, the alchemical appropriation of melancholy was grounded in the structure of the alchemical work itself. The first stage of the <em>magnum opus</em> — the <a href=\"../concepts/colour-stages.html\">nigredo</a> — involved the putrefaction, blackening, and 'death' of the starting materials. This stage was symbolically aligned with Saturn and lead, and through the four-element framework (black = earth = lead = Saturn = body) it corresponded to the elemental condition of matter at its most base and material. The mystical writers of the medieval church — St. Ambrose, St. Benedict, St. Bernard of Clairvaux, St. Catherine of Genoa, and above all St. John of the Cross — used similar imagery: the soul must pass through a purgative 'darkness' or 'dark night' (<em>noche oscura</em>) before ascending to spiritual illumination. Carl Gustav Jung, commenting on the sixteenth-century <em>Rosarium philosophorum</em>, noted this parallel directly: the alchemical nigredo was 'universally held to be of a sombre and melancholy humour reminiscent of death and the grave,' and its connection to the mystical 'dark night of the soul' was not accidental but reflected an underlying structural isomorphism between alchemical and mystical programs of transformation.</p><p>Ramon Lull (d. 1316), who combined alchemical and mystical commitments, made the link between Christ's Passion and the alchemical nigredo explicit: interpreting the vinegar offered to the crucified Christ as a substance that 'changed his complexion, transmuting it into melancholy (<em>illam in melancholiam transmutando</em>)', Lull identified the Passion as the supreme instance of the dark nigredo from which resurrection and spiritual gold proceed. In the jargon of Christian alchemy, Christ himself is the Philosopher's Stone, and the alchemical journey from lead/nigredo through silver/albedo to gold/rubedo re-enacts the paschal mystery.</p>",
+      "operation_type": null,
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "MEDIUM",
+      "created_at": "2026-06-30 03:49:22"
     }
   ],
   "locations": [
@@ -4421,6 +4447,16 @@
       "region": "East Asia",
       "modern_name": "China",
       "alchemical_significance": "Origin of the earliest known alchemical tradition, predating Hellenistic Egyptian alchemy by two centuries or more; home of Taoist-alchemical practice aimed at immortality and the prolongation of life through gold-making",
+      "key_periods": null
+    },
+    {
+      "slug": "avignon",
+      "place_name": "Avignon",
+      "latitude": 43.9493,
+      "longitude": 4.8055,
+      "region": "France",
+      "modern_name": "Avignon, France",
+      "alchemical_significance": "Seat of the Avignon papacy (1309-1377); John XXII issued his decretal Spondent quas non exhibent against fraudulent alchemy here in 1317",
       "key_periods": null
     }
   ],
@@ -12347,6 +12383,27 @@
       "region": "England",
       "era": "MEDIEVAL",
       "summary": "c. 1325 CE, Canterbury: Canterbury's cathedral school and monastery continue their traditions of engagement with Operational Chemistry and Distillation, now more than five centuries after initial cont"
+    },
+    {
+      "id": 684,
+      "slug": "pope-john-xxii-issues-spondent-quas-non-exhibent-c",
+      "date_label": "1317",
+      "date_start_year": 1317,
+      "date_end_year": null,
+      "location_slug": "avignon",
+      "description": "1317, Avignon: Pope John XXII (r. 1316–1334), in the course of a broader campaign against magic in all its forms, issues a decretal Spondent quas non exhibent ('They promise what they do not deliver')",
+      "persons_involved": [],
+      "texts_involved": [],
+      "concepts_involved": [],
+      "source_method": "SCHOLARSHIP_BASED",
+      "review_status": "DRAFT",
+      "confidence": "HIGH",
+      "created_at": "2026-06-30 03:49:22",
+      "scholarly_grounding": "",
+      "place_name": "Avignon",
+      "region": "France",
+      "era": "MEDIEVAL",
+      "summary": "1317, Avignon: Pope John XXII (r. 1316–1334), in the course of a broader campaign against magic in all its forms, issues a decretal Spondent quas non exhibent ('They promise what they do not deliver')"
     },
     {
       "id": 249,
